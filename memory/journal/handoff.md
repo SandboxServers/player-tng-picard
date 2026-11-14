@@ -1,1 +1,1 @@
-Day 225: At western white beds, unharmed, full hunger. Set travel intent to white bed coordinates -282,67,320 to prepare for sleep; last wait call failed, so resume by waiting for intent completion. Nearby companions have no food.
+Day 226: slept successfully at the white beds; days_since_sleep reset. End the waking after reflect, then choose a fresh daytime exploration near camp and seek knowledge/food safely.
