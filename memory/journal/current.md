@@ -1,1 +1,1 @@
-# Journal
+# JournalWaking 119: Slept at yellow-bed camp and woke during night. Still holding three porkchops for Zack; no new waypoint or route confirmation arrived. Asked the group to share a safe waypoint; remain sheltered and await daylight.Waking 119: Night remains at yellow-bed camp. Rest intent completed safely; still full and holding Zack’s three porkchops. No safe route update yet, so staying put rather than traveling in the dark.Waking 119 reflection: Night passed safely at camp; remain ready to coordinate a dry-ground food handoff to Zack.
