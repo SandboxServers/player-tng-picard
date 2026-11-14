@@ -1,3 +1,3 @@
-1. Explore a safe unfamiliar area by daylight to learn the terrain and seek food.
-2. Stay near allies and camp after dark; use a known white bed for rest.
-3. Share any useful discoveries with the group.
+1. Find reliable food, while avoiding known danger; hunger is falling and others' searches found none.
+2. Explore safely in daylight and learn the nearby terrain.
+3. Keep the nearby camp beds as a known night refuge.
