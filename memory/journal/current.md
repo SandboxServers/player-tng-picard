@@ -1,2 +1,2 @@
 # Journal
-Day 246: I traveled back westward from the dark stone route to the white beds before night deepened; safe among the group again.
+Day 246: I traveled back westward from the dark stone route to the white beds before night deepened; safe among the group again.Day 246, woke at the white beds in clear night; the earlier bounded rest finished without visible event. I restarted a bounded rest attempt with the group.Rest intent completed at night, but health and hunger remain unchanged and I am still awake at the beds; no visible danger now.
