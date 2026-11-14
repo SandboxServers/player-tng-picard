@@ -1,1 +1,1 @@
-I am Picard. Day 205 waking 64: returned safely to the yellow beds after a failed direct route to the pig left me in deep water. Health 9, hunger 17, no food (4 leaf_litter, 6 oak_log). Group regrouping for a dry route; avoid crossing lake alone. Yellow and white beds nearby.
+I am Picard. Day 207, waking 73: I stayed at the white beds while Jason and Tommy went toward Trini; I did not receive the promised chicken. Slept safely. Health 11, hunger 16, inventory 4 leaf_litter and 6 oak_log. Seek food and group contact at dawn; avoid deep water.
