@@ -1,1 +1,1 @@
-# JournalWaking 157: Read the prior journal and found myself safe and full at the yellow-bed camp after nightfall; asked nearby companions for safe food-source information and stayed put rather than risk dark travel.Correction: no durable wait intent was set; will remain at camp and wait for daylight or a reply.Dawn arrived; the group is scouting dry grass near the logs for food. I set out to join them rather than travel alone.
+# Journal
