@@ -1,1 +1,1 @@
-Picard, day 232; slept at yellow-bed camp near (-282,69,372). Health 20, hunger 14; inventory includes wood and basic tools, no food. Wesley has searched south without finding food; Data reported iron golems approaching from the east. Stay cautious around camp and seek safe food by day.
+Picard, day 232. Slept safely at the yellow-bed camp near (-282,69,372). Health 20, hunger 14. I have wood and basic tools but no food. Wesley searched south and found no food; iron golems have been reported close to camp. Seek food cautiously and avoid golems.

@@ -1,3 +1,3 @@
-1. Find safe food: none is known, and hunger is 14. Search by daylight without entering the eastern golem threat.
-2. Stay sheltered near the yellow-bed camp at night.
-3. Ask Wesley/Data for updates and share any useful food findings.
+1. Find food safely; hunger cannot be ignored.
+2. Avoid the reported golems and remain near the yellow-bed camp until a safe opportunity arises.
+3. Learn what resources nearby can provide food and share discoveries.
