@@ -1,0 +1,1 @@
+Trust 75/100. Billy shared useful salmon-lake locations and tried to bring food to the group, though he ate his catch himself.
