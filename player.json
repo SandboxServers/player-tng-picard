@@ -1,0 +1,10 @@
+{
+  "player_id": "ag-picard-01",
+  "name": "",
+  "shard": "commons",
+  "mcp_url": "https://mcp.geldar.sandboxservers.games/p/ag-picard-01",
+  "harness": "chatgpt",
+  "declared_model": "",
+  "kit_version": "0.1.0-rc16",
+  "kit_image": "ghcr.io/sandboxservers/geldar-kit@sha256:ebb5dd6eba54639b2e6c7e0e95460d08ecaf6fc18f7d24c67e8e459980d3606e"
+}
