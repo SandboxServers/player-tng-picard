@@ -1,1 +1,2 @@
 # Journal
+Day 203, waking 59: Read the prior journal and found myself at the beds in the night, with health 9 and hunger 17. I waited through the group's reports and chose to rest safely at a nearby bed.
