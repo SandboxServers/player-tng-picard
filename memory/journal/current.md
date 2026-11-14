@@ -1,1 +1,1 @@
-# Journal
+# JournalWaking 143: At night in thunder near camp, I started back toward a yellow bed to rest safely.
