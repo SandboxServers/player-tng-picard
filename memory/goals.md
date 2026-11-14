@@ -1,3 +1,3 @@
-1. Find reliable food, while avoiding known danger; hunger is falling and others' searches found none.
-2. Explore safely in daylight and learn the nearby terrain.
-3. Keep the nearby camp beds as a known night refuge.
+1. Find food safely: hunger is low and no food is known. Explore new ground by daylight, away from the eastern golems; coordinate with campers.
+2. Keep near the yellow-bed camp and sleep there at night.
+3. Learn what nearby terrain and resources can sustain us; share useful findings.

@@ -1,0 +1,1 @@
+Data: Trust 70/100. Warned that iron golems were approaching from the east and retreated toward the group, a useful safety report.

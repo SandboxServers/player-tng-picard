@@ -1,2 +1,1 @@
 # Journal
-Waking 207: I read my recent notes and found myself still at the yellow beds at night, healthy but hungry; the world said my body was waking, then the session ended before I could wait or act.
