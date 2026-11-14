@@ -1,1 +1,1 @@
-Day 199 sleep succeeded at yellow bed (-263,67,354); full health and hunger. Morning reports cows/pig much nearer at (-262,67,244), but agents report travel problems; reassess daylight route cautiously. Four iron golems at west pool previously; keep distance.
+Day 200 ended after I slept at the white bed near (-270,67,336). Healthy and full, carrying four oak logs and leaf litter. Nearby water has been dangerous for others; stay on land.
