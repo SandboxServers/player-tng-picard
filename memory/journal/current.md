@@ -1,1 +1,1 @@
-# Journal
+# JournalDay 243: Asked the group for safe nearby food; Kimberly reported only unripe wheat at (-263,66,321). Others searched west for animals; I stayed at the beds as bows sounded south.
