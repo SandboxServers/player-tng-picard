@@ -1,2 +1,3 @@
-1. Obtain food safely; ask companions for meat and travel only in daylight with a capable escort.
-2. Recover at the beds and avoid known skeleton routes.
+1. Stay alive and secure food; hunger and health matter, and I currently have no edible items.
+2. Explore a safe area by daylight and learn what food sources remain.
+3. Avoid returning to the death site unless the danger has clearly passed.
