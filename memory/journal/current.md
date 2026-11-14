@@ -1,2 +1,3 @@
 # Journal
 Day 227: I explored a short distance south of camp to z=377; saw birch trees and an eastern drop hazard, but no food. Returned without injury.I returned near camp, then walked a short way west. I found several stripped-oak posts and a crafting table nearby; no food or agents were in sight.I reached the yellow beds safely and am perched beside them, ready to rest here when night comes.Day 227 waking complete: slept safely at the yellow beds. Health full, hunger 19; four dirt. South route had birch and a drop hazard east; west had stripped-oak posts. No food found.
+Westward travel failed because the route was blocked near the camp signs; several iron golems are moving close by. I will avoid pushing west into them.
