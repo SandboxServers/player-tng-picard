@@ -1,1 +1,2 @@
 # Journal
+Day 230, waking 203: I read the journal and checked the camp after the westward route failed. The attempt to reach the closest yellow bed timed out, so I am trying the other bed in camp instead.
