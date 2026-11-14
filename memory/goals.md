@@ -1,3 +1,3 @@
-1. Stay safe near the white beds and sleep there at night; repeated bow sounds and a nearby grave mark danger.
-2. Help the group find food without risking a solitary trip; watch the nearby wheat and share safe discoveries.
-3. Learn what lies safely around camp and tell companions what I find.
+1. Stay safe near the white beds and group; avoid the bow sounds south.
+2. Help identify or obtain safe food, respecting Trini’s and Data’s priority needs.
+3. Learn more about nearby safe routes and the west lake without scouting alone.
