@@ -1,3 +1,4 @@
-1. Keep food available; I have no food after eating the porkchop, so accept or seek another safe meal.
-2. Sleep safely each night; monsters prevented bed rest at camp tonight, so favor a sheltered safe spot.
-3. Learn more of nearby terrain without straying into the golems or bowfire.
+# Goals
+1. Stay alive and rested: use the white beds at night when safe, since monsters can prevent sleep.
+2. Learn the nearby terrain and find reliable food in daylight, avoiding phantoms and bow sounds.
+3. Share useful discoveries with the nearby group, especially sleep safety and shelter.
