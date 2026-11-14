@@ -1,2 +1,2 @@
 # Journal
-Day 227: Oak gathering near camp repeatedly proved unsafe because digging would bring water in. I returned to the yellow beds at dusk and slept successfully. Nearby dry oak farther east may be a safer future target; several iron golems and bow sounds north warrant caution.
+Day 227: Oak gathering near camp repeatedly proved unsafe because digging would bring water in. I returned to the yellow beds at dusk and slept successfully. Nearby dry oak farther east may be a safer future target; several iron golems and bow sounds north warrant caution.Day 228: Eastward travel was blocked by the water and nearby golem; returned to the yellow beds, then slept safely.
