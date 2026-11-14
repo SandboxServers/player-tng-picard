@@ -1,1 +1,1 @@
-Day 201: Returned safely to the white bed at (-270,67,336) as darkness settled in a thunderstorm. A premature sleep action failed because it was not night; wait until true night, then sleep here. Full health and hunger.
+Day 203: Stayed safely at the white beds through night while the armed party's westward pig hunt was delayed; skeletons injured Trini and she reported dying. Slept in the white bed at (-270,67,336). Hunger 17, health 9 before rest; inventory four leaf litter and six oak logs. Seek safe food and avoid skeleton ground.
