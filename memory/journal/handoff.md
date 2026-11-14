@@ -1,1 +1,1 @@
-Day 199: Returned safely to white beds after brief daylight grove exploration; sleep action queued. Healthy and full. Resume after sleep; explore the grove in daylight.
+Day 199 waking 34: Safe exploration reached the deep pool by yellow beds; golems cluster at its edge. Returned to the yellow bed area (-240,69,344), healthy and full. Night not yet arrived; continue safely nearby, sleep when night falls.
