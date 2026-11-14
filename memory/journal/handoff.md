@@ -1,1 +1,1 @@
-Night of day 224: sleep failed repeatedly while at camp vicinity, possibly bed route/access trouble. Last position near -259,69,352 by deep water and a golem 3.5 blocks south. Health/hunger full. Return toward yellow beds at -271,67,326 via safe route; avoid golem and water, sleep there. Do not start scouting before rest.
+Day 225: At western white beds, unharmed, full hunger. Set travel intent to white bed coordinates -282,67,320 to prepare for sleep; last wait call failed, so resume by waiting for intent completion. Nearby companions have no food.

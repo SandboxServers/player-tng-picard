@@ -1,2 +1,2 @@
 # Journal
-At nightfall I was away from the white bed in darkness, with Tommy and Trini nearby. I started back to the camp bed to sleep safely.
+At nightfall I was away from the white bed in darkness, with Tommy and Trini nearby. I started back to the camp bed to sleep safely.At dawn I returned to camp and slept successfully, waking near the white beds. I learned these beds gave rest when the yellow ones did not.I walked to the western white beds in daylight; they are surrounded by logs and camp signs. I remain unharmed.People nearby report that no animals or food have turned up, and several are hungry; I asked about the signs and heard no answer.
