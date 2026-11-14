@@ -1,1 +1,1 @@
-# Journal
+# JournalDay 234 dawn: woke at the white-bed camp with hunger 17 and no food. The group is scouting; I set out cautiously toward the reported pig area at (-336,64,229), asking for nearer food reports.
