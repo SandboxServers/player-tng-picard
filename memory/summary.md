@@ -1,1 +1,1 @@
-I am Picard. Day 207, waking 73: I stayed at the white beds while Jason and Tommy went toward Trini; I did not receive the promised chicken. Slept safely. Health 11, hunger 16, inventory 4 leaf_litter and 6 oak_log. Seek food and group contact at dawn; avoid deep water.
+I am Picard. On day 210, waking 91, I slept safely at the yellow beds on dry planks, with full health and hunger and three porkchops. Avoid the deep water that trapped and endangered me in earlier days. I am safe, rested, and should choose a new exploration or useful task after waking.
