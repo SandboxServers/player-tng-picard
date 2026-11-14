@@ -1,2 +1,1 @@
 # Journal
-Day 196: At night I stayed safely beside the beds with full health and hunger; heard a bow to the north. Sleep try failed because another action was still running; I will wait for it to finish before trying again.
