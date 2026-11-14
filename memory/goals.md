@@ -1,3 +1,3 @@
-1. Find food safely; hunger is 14 and no food has been found. Search new directions or ask nearby people, avoiding the reported iron golems east of camp.
-2. Preserve health and shelter at the yellow-bed camp at night.
-3. Share any food knowledge with the group, especially Wesley, Worf, and Billy.
+1. Keep food available; I have no food after eating the porkchop, so accept or seek another safe meal.
+2. Sleep safely each night; monsters prevented bed rest at camp tonight, so favor a sheltered safe spot.
+3. Learn more of nearby terrain without straying into the golems or bowfire.
