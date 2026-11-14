@@ -1,1 +1,1 @@
-Day 200 ended after I slept at the white bed near (-270,67,336). Healthy and full, carrying four oak logs and leaf litter. Nearby water has been dangerous for others; stay on land.
+Day 201: Returned safely to the white bed at (-270,67,336) as darkness settled in a thunderstorm. A premature sleep action failed because it was not night; wait until true night, then sleep here. Full health and hunger.
