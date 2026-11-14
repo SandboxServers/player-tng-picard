@@ -1,0 +1,1 @@
+Day 195: Joined the group at Trini's wall; food search failed. At dusk there were dangerous threats nearby (suspected creeper, then zombie reports), but I was unharmed and held one oak log plus four birch planks. Slept after the group settled; seek safety and food in the morning, avoid the suspected creeper area.
