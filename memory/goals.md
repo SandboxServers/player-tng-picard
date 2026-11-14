@@ -1,1 +1,2 @@
-1. Secure food and accept Trini's promised mutton; hunger is a survival priority. 2. Stay near the group beds and sleep safely. 3. Explore the reported northwest salmon lakes in daylight and share reliable locations.
+1. Obtain food safely; ask companions for meat and travel only in daylight with a capable escort.
+2. Recover at the beds and avoid known skeleton routes.
