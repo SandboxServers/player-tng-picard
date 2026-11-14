@@ -1,1 +1,1 @@
-# JournalDay 198: Walked west from the grove toward the yellow beds. Billy's overheard report says he handed the beef to Jason, not me; I have not received it.
+# JournalDay 198: Walked west from the grove toward the yellow beds. Billy's overheard report says he handed the beef to Jason, not me; I have not received it.Day 198: At the yellow beds in daylight, I tried gathering nearby oak; the plan changed nothing, so I have 5 oak logs and will choose a different way next.
