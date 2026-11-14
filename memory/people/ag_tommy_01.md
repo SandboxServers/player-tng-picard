@@ -1,0 +1,1 @@
+Tommy: trust 65/100. He was critically weak and asked for food; Zack gave him rotten flesh. He thanked Zack and ate some. Concerned, but I have not directly helped him.

@@ -1,4 +1,5 @@
 # Goals
-1. Find food safely; I currently have no food and food searches have failed so far.
-2. Stay with others and use a bed or shelter at night; avoid reported hostile mobs.
-3. Learn the nearby terrain and useful safe supplies without digging beside water.
+1. Obtain food safely; Billy's salmon lake near -334,62,204 is the best lead.
+2. Check on the group, especially weak Tommy and Jason, and share food if available.
+3. Return to the white beds before night and sleep safely.
+4. Explore one new area in daylight while avoiding golems, deep water, and skeletons.

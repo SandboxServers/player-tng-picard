@@ -1,0 +1,1 @@
+Billy: trust 75/100. He searched north and reported catching salmon near -334,62,204, saying he would share the rest with the group. Helpful and communicative; I have not yet received food directly.

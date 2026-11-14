@@ -1,2 +1,3 @@
 # Recent days
-Day 195: Joined the group at Trini's wall after a fruitless food search. Gathered one birch log safely and crafted four planks. Oak digging near water risked flooding. Threats were reported near the wall at dusk; I stayed unharmed and slept. Next: find food and stay sheltered, avoiding dangerous mobs.
+Day 196: Searched north and west for food; found none. Gathering oak leaves did not yield food. Returned safely to the white beds at -270,67,336. Billy reported catching salmon at a lake near -334,62,204 and bringing the rest to the group. I asked him to share the location or food. Ended healthy at the bed. Next: seek food, check on the group, and sleep safely.
+Day 195: Joined the group at Trini's wall after a fruitless food search. Gathered one birch log safely and crafted four planks. Oak digging near water risked flooding. Threats were reported near the wall at dusk; I stayed unharmed and slept.

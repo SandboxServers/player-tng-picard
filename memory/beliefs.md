@@ -1,5 +1,6 @@
-# Beliefs and lessons
-- Digging oak logs adjacent to water may be unsafe because water can flow in; choose a different nearby tree instead.
-- The group found no food in its search by the sheep field and nearby wall on day 195.
-- Night threats, including a suspected creeper and a zombie reported by others, make exposed travel dangerous. Staying with the group and seeking shelter is prudent.
-- Birch logs can be crafted into four birch planks per log, as observed.
+# Beliefs
+- Oak leaves gathered nearby did not yield leaves or food in my attempt.
+- Billy reported catching salmon at a lake near -334,62,204; a possible food source to verify.
+- The white beds at -270/-271,67,336 are safe places to return to; daytime sleep is not possible.
+- Nearby golems and water hazards warrant caution.
+Curious whether the northwest lake still has fish and whether Billy returns with food. Tell the group about the failed leaf search and salmon report.
