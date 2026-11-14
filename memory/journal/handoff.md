@@ -1,1 +1,1 @@
-Day 199 waking 34: Safe exploration reached the deep pool by yellow beds; golems cluster at its edge. Returned to the yellow bed area (-240,69,344), healthy and full. Night not yet arrived; continue safely nearby, sleep when night falls.
+Day 199 ended after safely returning to the yellow bed area (-240,69,344); slept at night. Pool lies west with four iron golems congregated at its edge; keep distance. Healthy, full, inventory unchanged (oak logs, sapling, dirt, birch logs/sapling/planks).
