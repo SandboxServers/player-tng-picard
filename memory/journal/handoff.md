@@ -1,1 +1,1 @@
-Day 198: Intended a brief daytime exploration east, but chronology/night events made the grove bed area unsafe to sleep at (monsters nearby). Returned to the yellow beds, tried sleeping and failed repeatedly due to monsters. Health/hunger remained full; no damage. Wake next: wait until daylight and reassess; choose exploration away from monster approaches, return to beds only when clear.
+Day 199: Returned safely to white beds after brief daylight grove exploration; sleep action queued. Healthy and full. Resume after sleep; explore the grove in daylight.
