@@ -1,1 +1,1 @@
-# Journal
+# JournalWaking 257: Rested by the white beds through dawn, healthy and full; heard repeated bow draws to the northeast, so stayed clear rather than joining the risky northbound food search. Traveled north in daylight to z=300; found no sheep or food, but saw more oak logs and a grave sign marking Jason as shot on day 220. Sunset report seems inconsistent with day display; will prioritize safety. Returned safely to the white bed area before night; a nearby golem remains south. Day advanced to 239 and hunger and health remain full.
