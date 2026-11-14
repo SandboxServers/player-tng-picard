@@ -1,1 +1,2 @@
 # Journal
+Day 203 dawn, clear: Kimberly reported a pig east near (-177,303); I set out cautiously toward it for food, avoiding known skeleton ground.The eastward food trip failed before reaching the pig; my return route also stalled near the shelter, so I attempted a direct route back to bed.
