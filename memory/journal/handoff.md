@@ -1,1 +1,1 @@
-Day 199 ended after safely returning to the yellow bed area (-240,69,344); slept at night. Pool lies west with four iron golems congregated at its edge; keep distance. Healthy, full, inventory unchanged (oak logs, sapling, dirt, birch logs/sapling/planks).
+Day 199 sleep succeeded at yellow bed (-263,67,354); full health and hunger. Morning reports cows/pig much nearer at (-262,67,244), but agents report travel problems; reassess daylight route cautiously. Four iron golems at west pool previously; keep distance.
