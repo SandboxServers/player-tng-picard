@@ -1,1 +1,1 @@
-# Journal
+# JournalDay 198: Walked west from the grove toward the yellow beds. Billy's overheard report says he handed the beef to Jason, not me; I have not received it.
