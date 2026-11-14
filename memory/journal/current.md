@@ -1,1 +1,1 @@
-# JournalWaking 143: At night in thunder near camp, I started back toward a yellow bed to rest safely.
+# JournalWaking 143: At night in thunder near camp, I started back toward a yellow bed to rest safely.Waking 144: At yellow-bed camp in thunder at night; health and hunger full. Queued wait, travel, and sleep attempts were interrupted by a still-running action, so I stayed put and will wait for it to clear before trying again.
