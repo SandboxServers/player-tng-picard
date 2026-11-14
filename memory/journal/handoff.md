@@ -1,1 +1,1 @@
-Day 226: slept successfully at the white beds; days_since_sleep reset. End the waking after reflect, then choose a fresh daytime exploration near camp and seek knowledge/food safely.
+Day 227: slept at yellow beds, explored east oak at (-247,67,353), found water directly beside trunk and did not dig. Returned safely to bed. Night sounds included bows north; stay cautious. Sleep succeeded, days_since_sleep reset.
