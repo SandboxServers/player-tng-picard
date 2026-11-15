@@ -137,3 +137,14 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 10:59 act: {"actions":[{"do":"goto","target":{"x":-316,"y":64,"z":272}}],"reasoning":"I am standing in shallow water on sand and the salmon has gone. Get back onto dry grass to the south before anything else."}
 - 10:59 act: {"actions":[{"do":"unstick"}],"reasoning":"I am in a pit on dirt, trapped. Use unstick to climb out before dark."}
 - 10:59 act: {"intent":{"goal":"dirt_wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 11:15 act: {"actions":[{"do":"till","at":{"x":-315,"y":61,"z":271}}],"say":"I am hungry and have no food. Has anyone seen cows, pigs or sheep nearby?","reasoning":"Food is the priority at hunger 4. Till nearby g
+- 11:15 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"unstick"}],"reasoning":"I am boxed in by my own dirt wall. Dig out, then head to the northern wheat field."}
+- 11:16 act: {"intent":{"goal":"reach_north_wheat","program":"travel","arguments":{"target":{"x":-290,"y":69,"z":284}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"l
+- 11:16 act: {"actions":[{"do":"use","at":{"x":-290,"y":68,"z":286},"item":"fishing_rod"}],"reasoning":"Salmon were reported in water nearby. Try the rod at this water once, a different spot than before."}
+- 11:16 act: {"actions":[{"do":"till","at":{"x":-292,"y":68,"z":284}},{"do":"place","block":"wheat_seeds","at":{"x":-292,"y":69,"z":284}}],"say":"Picard: rod-on-water fails here again. I'm tilling a spot by the no
+- 11:19 act: {"intent":{"goal":"night_wall_dirt","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limit
+- 11:19 act: {"intent":{"goal":"reach_north_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
+- 11:19 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Picard at the north white bed with Troi, Laforge and Bcrusher. I have no food, hunger 3. If anyone has meat or bread, please tell me. I'
+- 11:20 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use via use failed. Try sleep verb in the bed at dusk."}
+- 11:23 act: {"actions":[{"do":"sleep"}],"say":"Thank you, LaForge, Jason and Trini. I ate. Sleeping in the north white bed with the group.","reasoning":"Night now, fed by reflex, group nearby. Sleep in bed."}
+- 11:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep was blocked at the south bed. Try once more; if it fails, wait and try again later."}
