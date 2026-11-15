@@ -1,1 +1,1 @@
-Trust 80/100. Trini found animal meat and said she was bringing three mutton back to me at the beds; helpful and considerate.
+Trust 80/100. Trini found animal meat and said she was bringing three mutton back to me at the beds; helpful and considerate.Trini entrusted one wheat to me for bread pool, confirmed inventory waking370. Last seen yellow bed (-263,67,353), health8 hunger11 reported. Trust85: cooperative and transfer verified.

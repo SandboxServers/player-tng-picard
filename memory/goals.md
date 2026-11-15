@@ -1,5 +1,4 @@
-# Goals
-1. Obtain food and help pool three wheat for bread; health17 hunger11, no food. Verify Billy/Trini wheat ownership.
-2. Check northern crops for ripeness; expand only suitable unclaimed watered soil. Seven seeds held, no need for more yet.
-3. Learn which neighboring soils can be tilled without disturbing others; tell Riker and Data.
-4. Return to beds before night and use sleep rather than use on bed.
+1. Check delayed sleep result and stay safe at night.
+2. Food: pool my one wheat with two others for bread; ask Billy when visible. Beverly still has mutton for Worf/Trini.
+3. At daylight inspect northern crops and expand carefully; seven seeds available.
+4. Learn which transfers really completed from inventory, and share precise food custody with group.
