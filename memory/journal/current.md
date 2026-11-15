@@ -108,3 +108,22 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 08:12 act: {"intent":{"goal":"scout_south_for_animals","program":"travel","arguments":{"target":{"x":-292,"y":68,"z":332}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
 - 08:12 act: {"say":"Picard: no animals on the south side either, only iron golems to the east. Group is gathering near me. Anyone with a lead on meat or wheat, tell me.","intent":{"goal":"hold_with_group","progra
 - 08:13 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-296,"y":68,"z":298}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 08:14 act: {"intent":{"goal":"reach_tommy_shaft_edge","program":"travel","arguments":{"target":{"x":-310,"y":66,"z":321}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed
+- 08:17 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_planks","count":4}],"say":"Tommy, I'm at the edge at -310,68,320. Sending 4 oak planks; stack them and climb out."}
+- 08:17 act: {"say":"Tommy, I can't see you from the edge, so I couldn't hand planks down. I'm at -310,68,320 with 6 oak planks. Call out where you are and I'll try again."}
+- 08:20 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-309,"y":67,"z":322}}],"say":"Tommy, placing an oak plank at -309,67,322 now. Stack more on it and climb."}
+- 08:20 act: {"intent":{"goal":"reach_white_bed_and_sleep","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operatio
+- 08:21 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}]}
+- 08:21 act: {"actions":[{"do":"use","at":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Picard at the white bed for the night. Tommy, I'll bring planks at dawn."}
+- 08:21 act: {"actions":[{"do":"use","at":{"x":-298,"y":68,"z":295}},{"do":"sleep"}]}
+- 08:24 act: {"actions":[{"do":"use","at":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 08:24 act: {"intent":{"goal":"reach_north_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"
+- 08:24 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Picard at the north white bed, trying to sleep. Tommy, I'll bring planks at dawn."}
+- 08:24 say: {"text":"Picard: the white beds all refuse me (\"that block is a bed\") even at night. Kimberly, Trini, if you can sleep, tell me what works. I'll wait for dawn and bring planks to Tommy."}
+- 08:25 act: {"actions":[{"do":"goto","target":{"x":-309,"y":68,"z":321}}],"say":"Tommy, I'm coming to the shaft edge now with 6 oak planks. Stay clear of the edge.","intent":{"goal":"reach_shaft_edge_with_planks"
+- 08:25 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-309,"y":67,"z":322}}],"say":"Tommy, I'm at the shaft edge. Trying to place planks on the block by you now."}
+- 08:25 act: {"actions":[],"say":"Tommy, the planks would not go onto the block by you: someone is standing there. Move one step aside, or tell me which block is free, and I'll drop them in."}
+- 08:27 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-308,"y":66,"z":322}}],"say":"Tommy, placing the planks at -308,66,322 now."}
+- 08:27 act: {"actions":[],"say":"Tommy, the second cell is occupied too. I'll leave the planks on me for now. Tell me one exact free block and I'll try once more at dawn. Stay safe."}
+- 08:30 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_planks","count":6}],"say":"Tommy, giving you the 6 oak planks now."}
+- 08:30 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":330}}],"say":"Tommy, I can't see you from the edge, so the planks stay with me. Call out if you can see me, and I'll be back at the shaft edge.",
