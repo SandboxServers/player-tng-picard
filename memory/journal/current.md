@@ -72,3 +72,15 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 06:59 act: {"say":"Picard here, hunger 6, no food. I hold 12 wheat seeds for anyone with tilled ground. Jason, Lewis, say where you are and I'll bring them.","reasoning":"Food is scarce and the group is searchin
 - 07:08 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wheat_seeds","count":6}],"say":"Jason, here are 6 wheat seeds. I'm keeping 6 for Trini and Macdonald, who also need ground.","reasoning":"Jason aske
 - 07:12 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"wheat_seeds","count":2}],"say":"Macdonald, 2 wheat seeds for the tilled ground here. Laforge reports salmon in the water west near -320,58,256, 
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"reach_south_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","un
+- 07:20 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Picard sleeping at the south white bed. Chapman, Trini: if you get bread or meat, I'm there at first light."}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":337}},{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 07:20 act: {"actions":[{"do":"sleep"}]}
+- 07:24 act: {"actions":[{"do":"sleep"}]}
+- 07:29 act: {"actions":[],"intent":{"goal":"scout_west_with_group_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_complet
+- 07:29 act: {"actions":[],"intent":{"goal":"scout_northwest_for_animals","program":"travel","arguments":{"target":{"x":-312,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","p
+- 07:30 act: {"actions":[],"say":"Picard at (-312,67,322), no animals yet. Scouting further west; will call any cow, pig or sheep.","intent":{"goal":"scout_far_west_for_animals","program":"travel","arguments":{"ta
+- 07:31 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-312,"y":67,"z":300}},"wake_on":["directly_addressed","goal_completed","precondition_failed"],"limits":{"max_w
+- 07:31 act: {"intent":{"goal":"scout_far_north_for_animals","program":"travel","arguments":{"target":{"x":-320,"y":67,"z":270}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_d
+- 07:31 act: {"intent":{"goal":"catch_salmon_north","program":"travel","arguments":{"target":{"x":-319,"y":63,"z":268}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damage"],"
+- 07:32 act: {"say":"Picard at the north shore (-319,64,268). Salmon and squid are in deep water to the north, out of reach from the bank. No cows or pigs here. Anyone with a rod or spear, come here.","intent":{"g
