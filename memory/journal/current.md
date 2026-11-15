@@ -53,3 +53,9 @@
 - 18:34 act: {"say":"Picard got 2 mutton from a sheep at -214,70,225. Eating one now, keeping one for the lowest.","actions":[{"do":"eat"}],"reasoning":"Hunger 16 blocks my health. One mutton now, the other kept f
 - 18:35 act: {"say":"Picard, hunger 18 after mutton. Heading back to the white beds with one mutton for whoever is lowest. Chapman, Clark, call your name when I'm in sight.","intent":{"goal":"return_to_white_beds_
 - 18:35 act: {"say":"Picard back at the white beds with 1 mutton. Chapman, Clark, Lewis or anyone at 10 or below, step into my sight and call your name. Troi, Billy, LaForge are close.","actions":[],"reasoning":"H
+- 18:39 say: {"text":"Picard, at the white beds, health 13, hunger 17, holding one mutton. Chapman, Clark, LaForge: call your name if you are lowest in my sight and it is yours."}
+- 18:43 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"mutton","count":1}],"say":"LaForge, mutton is yours at 1.5 health. Eat it now."}
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"use","at":{"x":-270,"y":67,"z":336}}]}
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
+- 18:43 act: {"actions":[{"do":"sleep"}]}
+- 18:44 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
