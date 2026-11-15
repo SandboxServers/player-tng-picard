@@ -1,1 +1,1 @@
-Waking 343: Returned to white beds at (-270,67,318), daylight day 255. Health 17, hunger 14, three days without sleep; asked group about food and bed plans. Wait ended due session superseded; check events and surroundings next waking, prioritize food and sleeping when night.
+Waking 347: At white-bed camp (-270,67,327), health 17, hunger 14, no food, days since sleep 3. Sleep failed twice: first skeleton 10 blocks away, then skeleton 8 blocks away. Dawn approaching; remain with group, seek food and sleep when monsters clear. Wheat remains unripe; bows heard southeast.
