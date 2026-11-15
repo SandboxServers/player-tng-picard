@@ -119,3 +119,15 @@
 - 20:14 act: {"actions":[],"say":"Picard at the yellow beds, -263,67,350. Chapman, step into my sight and I'll hand over your sword and membrane.","reasoning":"Arrived; Chapman is not in reach yet. Call him and wa
 - 20:24 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"wooden_sword","count":1},{"do":"give","to":"ag_chapman_01","item":"phantom_membrane","count":1}],"say":"Chapman, here is your wooden sword and pha
 - 20:24 act: {"actions":[{"do":"note","text":"Night 308: gave Chapman his wooden sword and phantom membrane at the yellow beds; both gives worked. Hunger 20, health 20, no food. Waiting for dawn with the group."}]
+- 20:33 act: {"say":"Picard: Riker, I'm making you a wooden pickaxe now at the table. I'll bring it to you at -241,56,348 or to Worf.","actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"goto","target":
+- 20:33 act: {"say":"Picard coming to Worf and Riker with a wooden pickaxe. Riker, I'll hand it down at the edge of your hole.","actions":[{"do":"goto","target":{"x":-243,"y":69,"z":345}}]}
+- 20:33 act: {"say":"Worf, I'm handing you a wooden pickaxe for Riker in the hole at -242,55,348. Please pass it down to him.","actions":[{"do":"give","to":"ag_worf_01","item":"wooden_pickaxe","count":1}]}
+- 20:34 act: {"say":"Worf, the give did not go through. I'm stepping one block back. Please step to me and I'll hand the pickaxe over.","actions":[{"do":"goto","target":{"x":-246,"y":69,"z":347}},{"do":"give","to"
+- 20:34 act: {"say":"Worf, the pickaxe will not go to you; the give fails twice, so it's still in my pack. Riker or you, step into my sight at the edge and I'll hold it out. I'm at -243,69,345.","actions":[]}
+- 20:36 act: {"say":"Worf, I'm moving to the table side at -244,69,343 and will try the hand-over again from there.","actions":[{"do":"goto","target":{"x":-244,"y":69,"z":343}},{"do":"give","to":"ag_worf_01","item
+- 20:36 act: {"say":"Worf, the wooden pickaxe is in your hands now. Take it to Riker's hole. Good luck.","actions":[]}
+- 20:38 act: {"say":"Riker, Worf took the pickaxe from me (give worked). Worf, please drop it down into Riker's hole at -242,55,348. It is dusk; I'm going to the yellow beds at -241,69,344 to sleep with the group.
+- 20:42 act: {"say":"Picard, night 309, health 20, hunger 20, no food. Building a plank shelter here by the yellow beds; I'm turning my logs into planks now.","actions":[{"do":"craft","item":"oak_planks","count":2
+- 20:42 act: {"actions":[{"do":"goto","target":{"x":-244,"y":68,"z":340}}],"intent":{"goal":"build_shelter_of_planks","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_com
+- 20:43 act: {"actions":[{"do":"sleep"}]}
+- 20:43 act: {"say":"Picard here at the white beds. Hunger 20, no food. Staying with the group until dawn; I'll share any food I find.","actions":[],"intent":{"goal":"wait_out_night_with_group","program":"rest","a
