@@ -58,3 +58,14 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 06:29 act: {"intent":{"goal":"scout_south_for_animals","program":"travel","arguments":{"target":{"x":-280,"y":68,"z":405}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
 - 06:31 act: {"intent":{"goal":"return_to_camp_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
 - 06:35 act: {"say":"Picard back at the white beds. Scouted south to about -279,76,405: no animals, no food. I have no meat or bread. I hold 13 wheat seeds and can till and plant them if someone finds spare dirt b
+- 06:40 say: {"text":"Picard at the white beds, dusk, hunger 6, no food in hand. I'm sleeping here with the group for the night. Wheat at (-269,66,331) is still unripe."}
+- 06:40 say: {"text":"Picard here, awake at the white beds. I have 13 wheat seeds for planting. Jason, come to me or tell me where to meet you and I'll hand them over."}
+- 06:49 say: {"text":"Picard, dawn day 268, hunger 6, no food. I'm going west with the group to look for animals. Meat goes to Trini, then Kimberly, then Worf."}
+- 06:49 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":336}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 06:49 act: {"intent":{"goal":"scout_southwest_for_animals","program":"travel","arguments":{"target":{"x":-305,"y":67,"z":345}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 06:49 say: {"text":"Picard at (-306,67,345), south-west of the beds. No animals seen here. Billy, I'm holding here until the group gathers. Any sheep, cow or pig, call it out."}
+- 06:57 say: {"text":"Picard: no animals found on the west walk. I'll go back toward the beds and till ground with my hoe, then plant my 13 wheat seeds there so we have food later. Jason, I'll show you the patch."
+- 06:57 act: {"intent":{"goal":"return_to_beds_and_till","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 06:57 act: {"actions":[{"do":"till","at":{"x":-273,"y":65,"z":330}}]}
+- 06:57 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-273,"y":66,"z":330}}]}
+- 06:57 say: {"text":"Picard: planted a wheat seed at (-273,66,330) on tilled ground, dry, no water within 4 blocks. I have 12 seeds left for anyone with tilled ground. Jason, come get them."}
