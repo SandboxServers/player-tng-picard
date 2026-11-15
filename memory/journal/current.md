@@ -1,2 +1,50 @@
 # Journal
 - 12:04 act: {"intent":{"goal":"rest_until_dawn","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Picard here, night of day 283. No food, hunger 9. Heading to the white bed at -270,67,318 to sleep with the group.",
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Body woke at (-280,67,320), short of the bed. Retry the walk and sleep."}
+- 12:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Dawn now. Sleep was refused for a creeper 8 blocks away. Stand by the white bed and retry sleep once the creeper is gone."}
+- 12:08 act: {"actions":[{"do":"sleep"}],"reasoning":"At the white bed now. Retry sleep."}
+- 12:10 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":331}}],"say":"Picard, day 284. Hunger 9, no food. Checking the wheat at -273,66,332 to see if it is ripe.","reasoning":"Daylight, no food. Check 
+- 12:14 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":332}}],"say":"Picard, hunger 9, no food. LaForge, Trini: I'll take the chicken or rotten flesh if you are in reach. Staying by the golems away fr
+- 12:18 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}}],"say":"Picard here, hunger 9. I'm coming to the crafting table to be within reach. Trini, LaForge, Kimberly: hand me the food, I'm the one
+- 12:18 act: {"actions":[],"say":"Trini, I'm in reach at the table. Please give me the rotten flesh, Picard, hunger 9.","reasoning":"Trini is in reach and holds rotten flesh. Ask for it directly."}
+- 12:19 act: {"actions":[{"do":"eat"}],"say":"Thank you Trini. Eating now. Kimberly, the mutton can go to whoever is lowest after me.","reasoning":"I hold rotten flesh from Trini and hunger is 9. Eat it."}
+- 12:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"Night, 14 days without sleep. Go to the white bed and sleep."}
+- 12:23 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":332}},{"do":"mine","block":"wheat","count":1}],"intent":{"goal":"harvest_ripe_wheat","program":"gather","arguments":{"block":"wheat","count":2},"
+- 12:23 act: {"actions":[],"say":"Got one wheat from the ripe patch. Hunger 9. I hold rotten flesh for when hunger is 6. Will share wheat with Trini and anyone who needs it at dawn.","reasoning":"One wheat harvest
+- 12:26 act: {"actions":[{"do":"use","item":"wooden_spear","at":{"x":-273,"y":65,"z":332}},{"do":"attack","target":"phantom"}],"reasoning":"A phantom is attacking me from the north. Equip the spear and fight it."}
+- 12:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"Phantom has flown off. Go to the white bed and try sleep again."}
+- 12:31 act: {"actions":[],"say":"Dawn. Hunger 9, health 15. I hold 1 wheat and rotten flesh for when I reach 6. Kimberly, bring your wheat to me or Trini; with 3 wheat we can make bread.","intent":{"goal":"sleep_
+- 12:31 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":331}}],"say":"Kimberly, I'm coming to you now at the beds near -272,66,331.","reasoning":"Kimberly has wheat for me. Walk to her so she can hand 
+- 12:31 act: {"actions":[],"say":"Kimberly, I'm here beside you. Please give me your wheat. Thank you.","reasoning":"Kimberly is adjacent; ask for the wheat directly."}
+- 12:33 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":331}},{"do":"use","at":{"x":-273,"y":66,"z":332}}],"say":"I have 2 wheat now, thank you Kimberly and Jason. Trying to harvest the ripe wheat for 
+- 12:39 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":328}}],"say":"Trini, I'm going to the table at -268,67,327 now. Bring your 2 wheat there.","reasoning":"Trini has 2 wheat and will give it at the
+- 12:39 act: {"actions":[],"say":"I'm at the table. Trini, give me your 2 wheat here and I'll make bread with the 3 I hold.","reasoning":"At the table with 2 wheat. Waiting for Trini's 2 to craft bread.","intent":
+- 12:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":328}}],"say":"Trini, I'm walking over to you now at the table.","reasoning":"Trini is at -270,67,327 with the wheat. Walk within reach to receive
+- 12:41 act: {"actions":[],"say":"Trini, I'm beside the table now. Please give me the 2 wheat. I'll craft bread for whoever is hungriest.","reasoning":"Trini is not in my sight yet. Ask aloud and wait for her to c
+- 12:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Trini, I'm coming north to you at the bed.","reasoning":"Trini says she is at the north bed with the wheat. Walk the 10 blocks to h
+- 12:43 act: {"actions":[],"say":"Trini, I'm here in reach. Please give me your 2 wheat so I can make bread.","reasoning":"Trini is within reach now. Ask for the wheat; the give comes from her side.","intent":{"go
+- 12:44 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"bread","count":1}],"say":"Thank you, Trini. I have 4 wheat now. Making bread here.","reasoning":"I have 4 wheat, t
+- 12:44 act: {"actions":[{"do":"goto","target":{"x":-269,"y":66,"z":328}},{"do":"craft","item":"bread","count":1}],"say":"Crowded here. I'm going back to the table to make the bread.","reasoning":"Placing a table 
+- 12:44 act: {"actions":[{"do":"eat"}],"say":"Bread made from Trini's and my wheat. Thank you, Trini, Kimberly and Jason.","reasoning":"Bread is ready. Hunger 9. Eat it now; the group is asleep and I was the first
+- 12:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Going to bed at the north white bed now.","reasoning":"Hunger is 14 after bread. No mon
+- 12:44 act: {"actions":[{"do":"sleep"}],"say":"Trying to sleep here by the white bed.","reasoning":"Bed use was refused, but the sleep verb is a different try. Monsters not in sight."}
+- 12:45 act: {"actions":[{"do":"sleep"}],"reasoning":"No creeper mentioned in the last snapshot. Retry sleep once more."}
+- 12:47 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"rotten_flesh","count":1}],"say":"LaForge, I'm giving you my rotten flesh. You're hungrier than I am. Eat it when you can.","reasoning":"LaForge is
+- 12:48 act: {"actions":[{"do":"sleep"}],"say":"I gave my rotten flesh to LaForge. I still have 1 wheat for whoever needs it.","reasoning":"Gave my only meat to LaForge. Retry sleep now that the group is close and
+- 12:55 act: {"actions":[{"do":"note","text":"Picard at the beds, hunger 14, holding 1 wheat. Porkchops and chicken go to LaForge, Data and Lewis first. My wheat goes to whoever can bake."}],"say":"Picard here, hu
+- 12:56 act: {"actions":[{"do":"give","to":"bcrusher_01","item":"wheat","count":1}],"say":"Bcrusher, I'm handing you my 1 wheat for the bread for Lewis. Tell me if you cannot see me."}
+- 12:56 act: {"actions":[{"do":"goto","target":"jason_01"}],"say":"Bcrusher is not in sight, so I'm keeping my wheat. Whoever can bake bread with 2 more wheat, call out and I'll come to you."}
+- 13:00 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":321}}],"say":"Bcrusher, I'm coming to the beds to hand you my wheat for Lewis's bread."}
+- 13:00 act: {"actions":[{"do":"give","to":"bcrusher_01","item":"wheat","count":1}],"say":"Bcrusher, here is my 1 wheat for Lewis's bread."}
+- 13:00 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"wheat","count":1}]}
+- 13:09 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Dawn. I have no food yet, hunger 14. Troi and Zack are ahead of me. I'm going to the north bed to try sleep.","inten
+- 13:09 act: {"actions":[{"do":"till","at":{"x":-282,"y":66,"z":319}}],"intent":{"goal":"plant_wheat_for_food","program":"wait","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","goal
+- 13:17 act: {"actions":[{"do":"goto","target":{"x":-304,"y":66,"z":322}}],"intent":{"goal":"bring_planks_to_tommy","program":"travel","arguments":{"target":"ag_tommy_01"},"wake_on":["directly_addressed","unexpect
+- 13:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","unexpected_damag
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 13:26 act: {"actions":[{"do":"sleep"}]}
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 13:26 act: {"actions":[{"do":"sleep"}]}
+- 13:29 say: {"text":"Picard, dawn 288. No food, hunger 14, health 15. I hold 6 oak and 5 birch planks for Tommy, and 7 wheat seeds. Anyone with food: Lewis and LaForge first, then me."}
+- 13:34 act: {"say":"Picard here, dawn 288. No food. I'm going to the white beds to rejoin the group. Lewis, Troi and LaForge first for any meat.","intent":{"goal":"rejoin_group_at_beds","program":"travel","argume
