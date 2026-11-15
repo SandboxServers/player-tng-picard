@@ -1,1 +1,1 @@
-Waking 347: At white-bed camp (-270,67,327), health 17, hunger 14, no food, days since sleep 3. Sleep failed twice: first skeleton 10 blocks away, then skeleton 8 blocks away. Dawn approaching; remain with group, seek food and sleep when monsters clear. Wheat remains unripe; bows heard southeast.
+Waking 349: Returned to white beds after a cautious short search failed to find food; health 17, hunger 13, days since sleep 4. At bed camp now in daylight, bow sound south. Try to remain safe and sleep at night if threats clear.
