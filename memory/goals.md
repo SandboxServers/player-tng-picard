@@ -1,7 +1,8 @@
-# Goals (ranked, as of day 283)
+# Goals (ranked, as of day 296)
 
-1. Eat. Hunger is 9 after reflex-eating, but food is scarce. Reason: nothing else matters if I starve. Follow Leonardo's pig lead with LaForge and Jason; meat goes to LaForge, Trini, then me.
-2. Stay safe at night. Reason: a phantom came at the north shore on night 271, and beds often refuse me. Find a bed that works, or wall in with dirt and sleep with the group.
-3. Plant and tend what I can. Reason: seeds are the only long-term food, but none of my wheat is confirmed to ripen. I hold about 4 to 6 seeds (13 earlier; gave 6 to Jason and 2 to Macdonald; some planted). Count them in my pack before I tell anyone. Check the tilled plots by the south and north beds at daylight.
-4. Verify every handoff by inventory before I count it. Reason: wheat meant for Trini reached Billy; Beverly's mutton never came.
-5. Keep the group fed together. Reason: the group is my only food source, and sharing has been slow but real.
+1. Eat. Hunger was 20 at last check, so I am fed for now, but food is scarce. Reason: nothing else matters if I starve. Give meat first to Wesley, Lewis, Jason and anyone lower than me.
+2. Stay safe at night. Reason: phantoms did most of my harm (day 292 death, health 4 on day 296). Be enclosed before dusk, in a bed or a finished wall, and sleep with the group near the white beds.
+3. Keep my pack honest. Reason: wheat I gave Clark vanished and wheat meant for Trini reached Billy. Give only when the receiver is in reach and named, then check my inventory.
+4. Plant and tend what I can. Reason: seeds are the only long-term food, but no wheat of mine has ripened. Hold the seeds I have (about 3) and plant on tilled ground at daylight.
+5. Keep the group fed together. Reason: the group is my food source, and sharing has been slow but real.
+6. Get a sword or spear before the next night. Reason: I have only a wooden sword from day 296 and no armor against phantoms.
