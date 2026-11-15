@@ -1,1 +1,1 @@
-Waking 334: Grounded and traveled to white beds, but sleep failed because a creeper was 10 blocks away. At night near white-bed group; be cautious and seek shelter/safety before sleep.
+Waking 339: Sleep kept failing near camp due creeper and skeleton 10 blocks away. Travelled toward white beds, but subsequent sleep attempt displaced me to the water-side camp area; now falling/perched above air, with phantom 11 blocks northwest and deep water nearby. I queued unstick then sleep; resolve those outcomes before acting further. Health 17, hunger 14, days_since_sleep 2.
