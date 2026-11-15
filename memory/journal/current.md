@@ -113,3 +113,6 @@
 - 15:13 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
 - 15:15 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"reasoning":"I have 16 planks and 8 logs. Craft more planks to reach 32 for a full shelter."}
 - 15:15 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 15:21 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 15:29 act: {"intent":{"goal":"join_pig_hunt","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":
+- 15:30 say: {"text":"Picard at -213,69,353. No animals in sight. I have no food and am health 20. Calling out any pig, cow or sheep. Meat goes to the weakest first."}
