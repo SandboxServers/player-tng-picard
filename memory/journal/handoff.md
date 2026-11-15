@@ -1,1 +1,1 @@
-Day 247 dusk at white beds, healthy and hunger 19. Sleeping failed because it is not night yet; rest intent is pending. Stay sheltered at group beds and wait for night/precondition result, then reflect after sleep.
+Day 249 night: Picard fled attacking phantoms to the white-bed camp after yellow-bed sleep was blocked by a skeleton. White-bed sleep then failed due to creeper 10 blocks away. Waited with group; hunger 17, health 17, no food; continue cautiously after waking/session resumes.
