@@ -1,1 +1,0 @@
-Jason: trust 80/100. Passed me the porkchop Tommy had entrusted to him, enabling me to eat.

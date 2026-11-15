@@ -1,1 +1,0 @@
-Tommy: trust 72/100. Eventually helped route a porkchop to me via Jason, despite earlier distribution mixups; he had run out of food.

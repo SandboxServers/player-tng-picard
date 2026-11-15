@@ -1,1 +1,0 @@
-Zack: trust 75/100. He gave his rotten flesh to the weaker Tommy and continued searching. Generous and cooperative.

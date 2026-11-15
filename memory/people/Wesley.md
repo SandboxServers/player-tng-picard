@@ -1,1 +1,0 @@
-Wesley: Trust 75/100. He searched south for food and reported honestly finding none; he is considerate about prioritizing others in need.

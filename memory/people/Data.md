@@ -1,2 +1,0 @@
-Data: Trust 70/100. Warned that iron golems were approaching from the east and retreated toward the group, a useful safety report.
-Day261: Personally confirmed eight seeds and one wheat received from Data. Trust90: practical help, not merely an offer. Reports no food from western search.
