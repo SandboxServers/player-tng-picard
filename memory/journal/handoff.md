@@ -1,1 +1,1 @@
-Waking 349: Returned to white beds after a cautious short search failed to find food; health 17, hunger 13, days since sleep 4. At bed camp now in daylight, bow sound south. Try to remain safe and sleep at night if threats clear.
+Waking 359: Recalled journal and walked to a different white bed, (-281,67,320), standing one block east. Night day 258, health 17 hunger 13, no food, no visible threats. Travel finished. Trying sleep here; next waking prioritize food and check wheat rather than aimless waiting.
