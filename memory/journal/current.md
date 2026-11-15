@@ -148,3 +148,20 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 11:20 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use via use failed. Try sleep verb in the bed at dusk."}
 - 11:23 act: {"actions":[{"do":"sleep"}],"say":"Thank you, LaForge, Jason and Trini. I ate. Sleeping in the north white bed with the group.","reasoning":"Night now, fed by reflex, group nearby. Sleep in bed."}
 - 11:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep was blocked at the south bed. Try once more; if it fails, wait and try again later."}
+- 11:28 act: {"actions":[{"do":"note","text":"Night day 281, hunger 5, no food in pack. Waiting by north white bed for rotten flesh/chicken; Trini has priority at hunger 6."}],"say":"Picard, hunger 5, no food in m
+- 11:28 act: {"intent":{"goal":"scout_far_east_for_animals","program":"travel","arguments":{"target":{"x":-200,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":325}}],"say":"Picard walking east toward the grass to look for animals. Meat to Trini first."}
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Picard back to the north beds for the night. No animals found east. Any 
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-289,"y":68,"z":287}},{"do":"use","at":{"x":-290,"y":68,"z":286},"item":"fishing_rod"}],"say":"Picard going to the north-west water with my fishing rod to try fo
+- 11:29 act: {"actions":[{"do":"note","text":"Day 282 dawn. Hunger 5. Fishing rod use on water failed here (cannot be used that way). Going back to group near the north beds."}],"say":"Picard: my rod does not cast
+- 11:33 act: {"actions":[{"do":"note","text":"Day 282 midday. Hunger 5, no food. Riker reports the north sheep field is empty. Waiting at the beds for food news from the group."}]}
+- 11:41 act: {"intent":{"goal":"reach_north_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":316}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 11:41 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Picard here at the north beds, day 282 night. Hunger 5, no food."}
+- 11:41 act: {"actions":[{"do":"note","text":"Day 282 night. Bed use at (-270,67,318) failed again: that block is a bed. Staying with group; no sleep yet. Hunger 5."}]}
+- 11:45 act: {"actions":[{"do":"note","text":"Night 282. Reflex-ate (hunger now 9) from Jason's rotten flesh. Thanks to Jason. Waiting with the group until dawn."}],"say":"Picard: thank you Jason, I ate the flesh;
+- 11:49 act: {"actions":[{"do":"note","text":"Dawn day 283. Hunger 9. Group has a pig lead (Leonardo). Joining the hunt; meat goes LaForge, Trini, then me."}],"say":"Picard at dawn, day 283. No food on me. I'll jo
+- 11:49 act: {"actions":[{"do":"note","text":"Asked Leonardo for the pig lead location. Waiting for his answer."}],"say":"Leonardo, where is the pig? I'll come along with you."}
+- 11:54 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":325}},{"do":"give","to":"LaForge","item":"chicken","count":1}],"say":"Picard: I'm bringing the chicken to LaForge at the crafting tables first, a
+- 11:54 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, here is the raw chicken for your health."}
+- 11:54 act: {"actions":[{"do":"note","text":"Gave chicken attempt to LaForge at tables; the give failed as someone else picked the items up. Chicken no longer in my hand. Hunger 9, no food. Joining the group."}]}
+- 11:58 act: {"actions":[{"do":"note","text":"The chicken went to LaForge by way of Lewis, not through me. I have no food. Staying with the group for the pig hunt."}]}
