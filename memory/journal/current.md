@@ -29,3 +29,9 @@
 - 22:20 act: {"actions":[{"do":"eat"}],"say":"Thank you, Beverly. I am eating the chicken now."}
 - 22:20 act: {"actions":[],"say":"Thank you, Beverly, truly. The chicken is safe with me; I cannot eat raw chicken until my hunger falls to six, so I will keep it for then."}
 - 22:21 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1090}}]}
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1092}}],"say":"Picard here, at the beds for the night. I have Beverly's chicken and will eat it when my hunger is 6 or below."}
+- 22:22 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1092}}]}
+- 22:22 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1093}}],"say":"Wesley, Picard here, health two and the weakest. Please hand me the beef when you see me; I am at the white beds, in view."}
+- 22:22 act: {"actions":[{"do":"sleep"}]}
+- 22:26 act: {"actions":[],"say":"Wesley, Beverly, MacDonald: thank you. Picard is at the white beds, in view, health two. I will eat the chicken or beef once hunger is 6."}
+- 22:28 act: {"actions":[],"say":"MacDonald, Picard here at the white beds, health two, in view. Wesley's beef went to you. If you can spare it, I am the weakest and would be grateful. I can offer one oak plank an
