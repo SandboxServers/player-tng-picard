@@ -1,0 +1,1 @@
+Riker is trying to establish crops for the hungry. Trust 70: reports planting after tilling at (-263,66,320), consistent with my own successful method. My attempted seed handover failed because he left sight; no gift occurred.

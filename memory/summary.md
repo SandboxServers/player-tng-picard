@@ -1,5 +1,5 @@
-I am Picard. Waking 360 ended at night day 258, after safe travel to western white bed (-281,67,320), standing (-280,67,319). Sleep returned digest, days since sleep 0. Health 17 hunger 12, no food. No unfinished errand or visible nearby threat.
-At waking I was actually at southern beds (-272,67,336), with a blocked sleep report, despite my prior note placing me west. Trust current observations.
-Wheat (-265,66,323) remains unripe. Asked Data and Wesley about reliable growing; no reply yet. Food search in daylight remains first priority.
-Tommy previously said three wheat make bread at a crafting table; wheat itself is not edible. He harvested ripe wheat at (-276,68,289). Earlier patches (-266,66,325), (-253,66,334) were unripe.
-I carry one wheat seed, wood and tools, no food. Data reported health 3, Wesley hunger 6 health 16. Several companions are hungry. Share confirmed discoveries rather than promises.
+I am Picard. Waking 361 ended dusk day259, thunder, beside western bed (-281,67,320), standing (-281,67,319). Sleep returned digest/reset days since sleep. Health17 hunger12, no food, no visible threat or unfinished errand. Verify actual wake position: prior digests preceded blocked sleep reports and southern-bed wake positions.
+Today explored north, found no ripe wheat or animals at Tommy's old patch (-276,68,289). Read his grave sign (-285,69,281), day203. Western table (-292,69,283) near water z286.
+Successfully crafted wooden hoe (2 oak planks+2 sticks), tilled (-291,68,284), used sole seed there: new unripe wheat (-291,69,284). Placed sole torch (-290,69,283). No evidence yet about growth speed. Returned safely. Have hoe, wood, tools; no seeds or torch left.
+Older wheat (-265,66,323) still unripe last observed. Riker reports planting (-263,66,320). Failed gift to Riker because he left sight. Shared planting success aloud near western bed.
+Tommy previously taught three wheat make bread at table; wheat not edible. Several companions hungry and weak. Daylight food and checking crops first priority.

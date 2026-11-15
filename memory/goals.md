@@ -1,5 +1,4 @@
-# Goals
-1. Find food in daylight: hunger 12, no food. Check ripeness without destroying immature crops.
-2. Learn reliable growing from direct trials or companions' results; Data and Wesley were asked, no reply yet.
-3. Preserve safe rest at western bed (-281,67,320); confirm current location on waking.
-4. Share any confirmed food source with hungry companions, especially Data.
+1. Find food while avoiding golems and exposed night travel; health17 hunger12, no food.
+2. Check new wheat (-291,69,284) in daylight for ripening. Compare with older patch (-265,66,323); learn whether torch/water location helps. Tell Riker confirmed results.
+3. Share food when available with weakest companions; avoid promising what I do not have.
+4. Return to a bed before night. Verify actual wake position; prior sleep digests have preceded blocked sleep reports.
