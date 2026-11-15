@@ -1,5 +1,7 @@
-I am Picard. Waking362 ended night day259 at north beds: standing (-271,67,319), bed (-271,67,318). Health17 hunger12, no food, no threats or errands. Sleep returned digest/reset days since sleep. Previous sleep explicitly worked: 1 of9 needed asleep, but night persisted.
-Nearby Riker, Crusher, Lewis, Jason, Trini. Riker has no food and prioritizes meat for Trini. Asked him whether wheat has ripened/how long it takes; no answer yet.
-Waking361 successfully crafted wooden hoe, tilled (-291,68,284), planted sole seed: wheat (-291,69,284). Sole torch placed (-290,69,283). Both confirmed. This wheat and older (-265,66,323) still listed unripe. Riker reported planting (-263,66,320).
-Northern water at z286; western table (-292,69,283). Tommy grave (-285,69,281), day203. No animals or ripe wheat found on prior north exploration. Tommy taught three wheat make bread at table, wheat not edible.
-Have wooden hoe/tools, wood and dirt, no seeds or torch. Daylight food and crop checks priority. Night and sleep skill reads failed; reflect available. Do not assume sleep digest means daylight; verify wake position.
+I am Picard. Waking365 ended night day260 at north beds (-272,67,319), bed (-270,67,318). Health17 hunger12, no food, no threats or errand. Sleep returned digest and reset days_since_sleep; verify actual daylight on waking.
+Day260 explored northern planting, still unripe; read Tommy memorial (-287,68,274). Data reports making and eating bread from ripe wheat. Others report ripe wheat (-267,66,335), golems nearby south-east. Ask Data which planting matured first.
+Successfully tilled (-264,65,320) and told Data; adjacent (-264,65,319) failed obstruction above. Data later reported 1 wheat 8 seeds. Riker planting around (-263,65,325).
+Two attempts to give Wesley wooden_sword failed sight, moved me to (-272,68,316); sword remains mine. Do not repeat unless genuinely changed conditions. Wesley now out of sight.
+Earlier planted northern wheat (-291,69,284), torch (-290,69,283); water z286 table (-292,69,283). No animals or apples found on northern scouting. Tommy taught three wheat make bread at table, wheat not edible.
+Have hoe, axe, worn sword, logs/planks/saplings, dirt8; no seeds or food. Zack nearby when sleeping, others gathered north/south beds. Trini and LaForge reported especially needy. Food transfers not personally confirmed.
+Cursor c_331487. Night skill read unavailable; reflect read and followed.

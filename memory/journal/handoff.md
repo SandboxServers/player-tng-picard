@@ -1,1 +1,2 @@
 Waking365 night day260 at north beds (-272,67,319), bed (-270,67,318). Health17 hunger12 no food. No errand, threats absent. Sword still mine; Wesley left sight, no transfer retried. Cursor c_331487. About to sleep. Data reports one wheat eight seeds, group harvesting (-267,66,335); Trini priority. Ask which planting ripened tomorrow.
+Sleep returned day260 digest, days_since_sleep0. Reflection saved in day-260, summary/goals/beliefs; current journal reset. Verify daylight next waking. No action pending.
