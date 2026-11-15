@@ -48,3 +48,68 @@
 - 13:26 act: {"actions":[{"do":"sleep"}]}
 - 13:29 say: {"text":"Picard, dawn 288. No food, hunger 14, health 15. I hold 6 oak and 5 birch planks for Tommy, and 7 wheat seeds. Anyone with food: Lewis and LaForge first, then me."}
 - 13:34 act: {"say":"Picard here, dawn 288. No food. I'm going to the white beds to rejoin the group. Lewis, Troi and LaForge first for any meat.","intent":{"goal":"rejoin_group_at_beds","program":"travel","argume
+- 13:43 act: {"intent":{"goal":"reach_group_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":334}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"li
+- 13:43 act: {"actions":[{"do":"sleep"}],"say":"Picard at the white beds with the group, hunger 14, no food yet. Trying to sleep."}
+- 13:44 act: {"intent":{"goal":"wait_for_dawn_then_plant","program":"wait","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_bl
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":-272,"y":66,"z":331}}],"say":"Picard, dawn 289. No food, hunger 14. Going to the tilled patch to plant my 7 wheat seeds. Beef goes to Lewis and LaForge first."}
+- 13:52 act: {"actions":[{"do":"till","at":{"x":-272,"y":65,"z":331}},{"do":"place","block":"wheat_seeds","at":{"x":-272,"y":65,"z":331}}],"say":"Picard, midday 289, tilling a patch beside the wheat to plant my se
+- 13:52 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-272,"y":66,"z":331}}]}
+- 13:54 act: {"actions":[{"do":"note","text":"Picard midday 289 at -271,66,331. Planted 1 wheat at -272,66,331 on farmland. Holding 6 wheat seeds. Hunger 14, no food. Water is 26 blocks south-east at -257,66,353."
+- 13:58 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":321}}],"say":"Zack, Picard here, hunger 14, no food. Trini and Troi have eaten and Lewis has none. I'm coming to the beds to take the mutton if n
+- 13:58 act: {"actions":[],"say":"Zack, Picard here at the beds, hunger 14. Leonardo says the mutton comes to me first. Give it to me when you are in reach and I'll eat it."}
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Picard, dusk 289, going to the white bed at -271,67,318 with the group. Hunger 14, no food. Leonardo and Troi take t
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 14:01 act: {"actions":[{"do":"sleep"}]}
+- 14:02 act: {"actions":[{"do":"eat"},{"do":"sleep"}],"say":"Picard, night 289, hunger 14. Eating the rotten flesh I found. Lewis is dead to a spider; I'm staying with the group at the south white bed."}
+- 14:11 act: {"say":"Picard, dawn 290, hunger 14. I hold 13 wheat seeds and a raw chicken for when I am lowest. Macdonald, where is the tilled ground you want the seeds on?"}
+- 14:13 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":333}},{"do":"place","block":"wheat_seeds","at":{"x":-273,"y":66,"z":332}}],"say":"Thank you Jason, I have 19 seeds now. Planting at the tilled pa
+- 14:13 act: {"say":"Seeds need farmland below, so the spot at -273,66,332 is not tilled. Macdonald or Jason, which exact block is farmland? The wheat at -274,66,332 sits on tilled ground, so I'll try beside it."}
+- 14:14 act: {"actions":[{"do":"till","at":{"x":-274,"y":65,"z":333}}],"say":"Thanks Macdonald. The wheat sits on the farmland, so I'll till a new patch here and plant it."}
+- 14:14 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-274,"y":66,"z":333}}]}
+- 14:22 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}]}
+- 14:22 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 14:22 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"Going to try the bed at the south row. Stay close if you can.","reasoning":"Bed at -271
+- 14:23 act: {"actions":[],"intent":{"goal":"hold_near_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations"
+- 14:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"Group has moved to the south beds. Try sleeping near -271,67,336 again."}
+- 14:28 act: {"actions":[],"intent":{"goal":"reach_pig_area_east","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":
+- 14:28 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"reasoning":"No bed in reach and dusk again. Craft planks from my oak logs to make a shelter here, since I have only 6 planks."}
+- 14:28 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_address
+- 14:29 act: {"actions":[],"say":"Dawn. I'm at the east shelter frame with Clark and Riker. Any pig or cow seen, call out and I'll come.","reasoning":"Shelter is 20 of 25, partly built; walls blocked by people sta
+- 14:41 act: {"intent":{"goal":"reach_white_beds_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":334}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 14:41 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}],"say":"Night. Trying the white bed now."}
+- 14:41 act: {"actions":[{"do":"sleep"}]}
+- 14:42 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-242,"y":69,"z":344}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 14:42 act: {"actions":[{"do":"use","at":{"x":-241,"y":69,"z":344}}]}
+- 14:42 act: {"actions":[{"do":"sleep"}]}
+- 14:51 act: {"intent":{"goal":"check_wheat_west","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":332}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 14:51 act: {"intent":{"goal":"join_pig_hunt_east","program":"travel","arguments":{"target":{"x":-214,"y":69,"z":350}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 14:51 act: {"say":"Picard at the east pig area, hunger 14, no meat yet. Calling out any pig or cow.","intent":{"goal":"scout_for_animals","program":"travel","arguments":{"target":{"x":-200,"y":69,"z":350}},"wake
+- 14:51 act: {"say":"Something unseen hit me out here, health 9. Going back to the group at -215,69,350. Still no pigs in sight.","intent":{"goal":"return_to_group","program":"travel","arguments":{"target":{"x":-2
+- 14:52 act: {"say":"Phantom to my north-west, 5 blocks. Riker, Troi, I am with you. I will strike it if it comes close.","actions":[{"do":"attack","target":"phantom"}]}
+- 14:52 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 14:52 act: {"say":"Health 7, hunger 14. Staying with Riker, Troi and Data here. If you see a pig or cow, call out.","intent":{"goal":"stay_with_group_watch_for_animals","program":"follow","arguments":{"target":"
+- 14:52 act: {"say":"Riker, I'm coming to the pig. Health 7. Whoever gets the meat, Zack and Leonardo first, then me.","intent":{"goal":"reach_pig_southeast","program":"travel","arguments":{"target":{"x":-209,"y":
+- 14:52 act: {"say":"Riker, you have the porkchop. Zack and Leonardo first if they are near. I am at health 7 and will take a share after them."}
+- 14:56 act: {"say":"Thank you Riker. I hold 2 porkchop, 1 beef, 1 chicken. Leonardo, if you are near, say so and I will hand you one of the porkchops.","actions":[{"do":"note","text":"Day 292 midday: have 2 porkc
+- 14:56 act: {"intent":{"goal":"go_to_partial_shelter","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 14:57 act: {"intent":{"goal":"finish_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 14:57 act: {"intent":{"goal":"finish_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 14:59 act: {"intent":{"goal":"finish_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 14:59 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"porkchop","count":1}],"say":"The shelter wall is still blocked, so I'm sharing first. Leonardo, here is a porkchop. Macdonald, I'll bring the oth
+- 15:02 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me. Fighting it.","reasoning":"Phantom adjacent east, health 5, night. Must fight it first, then get enclosed."}
+- 15:02 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-214,"y":69,"z":349}},{"do":"place","block":"oak_planks","at":{"x":-212,"y":69,"z":349}},{"do":"place","block":"oak_planks","at":{"x":-213,"y":
+- 15:02 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":-214,"y":69,"z":349}},{"do":"place","block":"birch_planks","at":{"x":-212,"y":69,"z":349}},{"do":"place","block":"birch_planks","at":{"x":-21
+- 15:02 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom hitting me from above/east. Health 5.6. Fight it while I still can, then finish the walls."}
+- 15:02 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-213,"y":70,"z":349}},{"do":"place","block":"dirt","at":{"x":-214,"y":69,"z":350}},{"do":"place","block":"dirt","at":{"x":-212,"y":69,"z":350}},{"do"
+- 15:02 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"unstick"}],"reasoning":"Phantoms keep hitting, health 6.9, walls not holding. Swing at the nearest phantom and get free of blocks if stuck."}
+- 15:03 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom attacking nearby. Swing at it while health holds at 6.9."}
+- 15:03 act: {"actions":[{"do":"eat"}],"reasoning":"Health 0.87 and falling, phantoms nearby, no safe wall. Eat what I hold to help survive; then close in.","say":"Health is very low. Clark, if you can, keep Macdo
+- 15:07 act: {"actions":[{"do":"note","text":"Respawned with nothing at the white beds. Waiting for dawn with the group; my drops lie at -213,69,349."}],"say":"Picard here, respawned with nothing. At first light I
+- 15:12 act: {"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":349}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 15:12 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 15:13 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"reasoning":"I have 8 oak logs. Planks are the base for a shelter and for tools. Craft 16 planks now.","say":"I have 8 oak logs now and am tu
+- 15:13 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 15:15 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"reasoning":"I have 16 planks and 8 logs. Craft more planks to reach 32 for a full shelter."}
+- 15:15 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
