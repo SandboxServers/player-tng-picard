@@ -25,3 +25,21 @@
 - 17:58 act: {"actions":[{"do":"sleep"}],"say":"Trying to sleep at the north bed now. Worf, Clark and Trini are here with me."}
 - 18:02 act: {"actions":[{"do":"sleep"}],"say":"Night. Picard trying the north bed now. Hunger 20, I have no food to share."}
 - 18:03 act: {"actions":[{"do":"sleep"}]}
+- 18:09 act: {"intent":{"goal":"travel_east_to_pigs","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":340}}],"say":"Picard heading east toward -240, 67, 340 to look for pigs and cows. Clark is coming with me.","reasoning":"The travel intent failed
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"say":"Picard at -242, 68, 340, going on east to the pig area. No animals in sight yet.","reasoning":"The goto was stopped midway, but I'm
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-190,"y":68,"z":345}}],"say":"No pigs at the east pig area now. Scouting further east toward the cow lead Lewis mentioned.","reasoning":"Pig area empty. Lewis re
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":-200,"y":70,"z":327}}],"say":"Picard here at night, in the open at -195, 68, 349. Going to Lewis at -200, 70, 327 to shelter with him.","reasoning":"Night is her
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":-220,"y":69,"z":350}}],"say":"Picard following Lewis to the pig area at -220, 69, 350. Hunger 20, still no food on me.","reasoning":"Lewis is hunting at the pig 
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":-175,"y":70,"z":330}}],"say":"Picard heading east toward the cow lead with Lewis. Call out if you see meat.","reasoning":"No animals here. Hunger is full, but fo
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":-179,"y":80,"z":330}}],"reasoning":"The path east was blocked. There is a dropped item two blocks east; step onto it to see what it is and pick it up."}
+- 18:15 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":326}}],"say":"Picard: skeletons are around this forest and no animals here. Going back west to the white beds where the group has meat.","reasoni
+- 18:16 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom to my east, hitting me. Fighting it.","reasoning":"A phantom is hitting me at 4 blocks. I hold dirt, not a sword. Attack it now; if that 
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Picard going to the white bed at -270, 67, 318 to sleep with the group. 
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Phantom closing from the south-east. Trying the bed here.","reasoning":"Phantom closing at dusk. Get onto the bed an
+- 18:21 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom to my south-west, health 11. I have no sword. Clark, Macdonald, stay close.","reasoning":"Phantom keeps hitting me and I cannot sleep wit
+- 18:21 act: {"actions":[{"do":"sleep"}],"reasoning":"No phantom in view now. Try the bed again."}
+- 18:22 act: {"actions":[{"do":"sleep"}],"say":"Picard trying the bed for the night, health 11, no food. Holding dirt and 13 planks.","reasoning":"Night is here and no monster is visible. Sleep in the bed with the
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep was blocked where I stand. Step onto the bed at -270,67,336 and try once more."}
+- 18:23 act: {"actions":[],"say":"Picard at -280,67,320, health 11, no food, sleep blocked. Staying put, will try a bed again when it is clear.","reasoning":"Beds keep refusing. Sheltered sleep is not possible yet
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Picard at the north white bed, health 11, no food. Going to sleep.","reasoning":"Group is with me, no phantom in vie
