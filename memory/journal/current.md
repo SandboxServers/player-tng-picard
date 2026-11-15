@@ -59,3 +59,39 @@
 - 18:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
 - 18:43 act: {"actions":[{"do":"sleep"}]}
 - 18:44 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 18:47 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Picard at the yellow bed, night, health 13, hunger 17. Trying to sleep. Iron golems are 9 and 16 blocks west."}
+- 18:48 say: {"text":"Picard: I have no food left. Chapman, Lewis and Data are with me at the yellow bed. I'll look for food at first light."}
+- 18:52 act: {"intent":{"goal":"join_east_cow_hunt","program":"travel","arguments":{"target":{"x":-200,"y":67,"z":335}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"
+- 18:52 act: {"actions":[{"do":"unstick"}]}
+- 18:53 act: {"actions":[{"do":"goto","target":{"x":-190,"y":67,"z":335}}]}
+- 18:53 act: {"intent":{"goal":"reach_laforge_cow_hunt","program":"travel","arguments":{"target":{"x":-217,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"use","at":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"Picard going to the yellow bed at -241,69,344 for the night, near Chapma
+- 19:10 act: {"intent":{"goal":"scout_east_pigs_for_food","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 19:14 act: {"intent":{"goal":"scout_cow_west_food","program":"travel","arguments":{"target":{"x":-152,"y":67,"z":327}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],
+- 19:15 act: {"actions":[{"do":"attack","target":"skeleton"}],"reasoning":"Skeleton is close and attacking; close the distance and strike."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-142,"y":70,"z":325}},{"do":"attack","target":"skeleton"}],"reasoning":"Health 8, skeleton will keep shooting. Close and strike, it is alone."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-152,"y":68,"z":327}}],"reasoning":"Health 4. Get out of the skeleton's line of fire to the west."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-152,"y":68,"z":327}}],"reasoning":"Keep moving out of the skeleton's sight west. It has stopped closing."}
+- 19:15 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-144,"y":69,"z":326}},{"do":"place","block":"oak_planks","at":{"x":-144,"y":70,"z":326}},{"do":"place","block":"dirt","at":{"x":-145,"y":69,"z":326}}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":332}}],"reasoning":"Unarmed, skeleton 2 blocks away. Retreat west to the white beds, away from its line of fire."}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-152,"y":69,"z":326}}],"reasoning":"Health 11 and falling. Skeleton is east; get west out of its line."}
+- 19:16 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-144,"y":73,"z":323}},{"do":"goto","target":{"x":-152,"y":69,"z":326}}],"reasoning":"Last dirt as cover on the skeleton's side, then try to leave aga
+- 19:16 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-160,"y":68,"z":322}}],"reasoning":"Health 6. Unstick first, then head northwest away from the skeleton."}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-165,"y":68,"z":320}}],"reasoning":"Health 2, no food. Last attempt: run northwest out of the skeletons' range."}
+- 19:17 act: {"actions":[],"say":"Troi, I lost everything to skeletons and have no food. Could you spare that rotten flesh if you can?"}
+- 19:17 act: {"intent":{"goal":"retreat_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":332}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-170,"y":84,"z":323}}],"reasoning":"Still shot at from the northeast. Short step west, out of its view."}
+- 19:17 act: {"actions":[],"say":"Picard here. I lost my gear to skeletons twice. Staying put in this pit until it is safer to find food."}
+- 19:19 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":332}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 19:20 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"rest_at_white_bed_tonight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Bed use was refused at the first block. Try the other bed from the
+- 19:26 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"chicken","count":2}],"reasoning":"Chapman was at health 3 earlier and is the lowest-health person in reach. Give him my two chickens.","say":"Chap
+- 19:30 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 19:30 act: {"intent":{"goal":"scout_northwest_animals","program":"travel","arguments":{"target":{"x":-318,"y":67,"z":305}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 19:31 act: {"intent":{"goal":"return_to_white_beds_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":332}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 19:31 act: {"intent":{"goal":"join_wcrusher_at_chicken_drop","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition
+- 19:31 act: {"intent":{"goal":"gather_oak_logs_for_shelter","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 19:33 act: {"actions":[{"do":"craft","item":"oak_planks","count":28}],"reasoning":"I have 8 oak logs and a crafting table is near. Turn the logs into planks for a shelter."}
+- 19:33 act: {"intent":{"goal":"build_sealed_shelter_planks","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precond
+- 19:37 say: {"text":"Picard here, no food, health 20. I am at the shelter site by the crafting table. Holding 14 planks; I will wall in before full dark."}
+- 19:37 act: {"intent":{"goal":"wall_in_planks_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
