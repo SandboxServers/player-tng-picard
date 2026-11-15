@@ -50,3 +50,7 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 06:16 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-310,"y":67,"z":370}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
 - 06:16 act: {"actions":[{"do":"unstick"}]}
 - 06:16 act: {"intent":{"goal":"return_to_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 06:18 act: {"say":"Picard here at the yellow beds, awake, hunger 7 and no food. Zack, Data: has anyone seen sheep, cows or pigs? I'll scout east for animals.","intent":{"goal":"scout_east_far_for_animals","progr
+- 06:18 act: {"intent":{"goal":"scout_northeast_for_animals","program":"travel","arguments":{"target":{"x":-235,"y":67,"z":335}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 06:18 act: {"intent":{"goal":"return_to_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 06:18 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"say":"Picard back at the yellow bed. Still no food; I'll rest here until dark.","reasoning":"Back at the bed; daylight still. Wait for dusk to
