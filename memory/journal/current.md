@@ -40,3 +40,7 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 06:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":326}},"wake_on":["goal_completed","direc
 - 06:06 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}}],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":
 - 06:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 06:09 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-245,"y":67,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 06:09 act: {"intent":{"goal":"scout_further_east","program":"travel","arguments":{"target":{"x":-222,"y":67,"z":326}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 06:09 act: {"intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"target":{"x":-210,"y":67,"z":310}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
+- 06:10 act: {"intent":{"goal":"return_to_group_at_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":332}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
