@@ -43,3 +43,13 @@
 - 18:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep was blocked where I stand. Step onto the bed at -270,67,336 and try once more."}
 - 18:23 act: {"actions":[],"say":"Picard at -280,67,320, health 11, no food, sleep blocked. Staying put, will try a bed again when it is clear.","reasoning":"Beds keep refusing. Sheltered sleep is not possible yet
 - 18:26 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Picard at the north white bed, health 11, no food. Going to sleep.","reasoning":"Group is with me, no phantom in vie
+- 18:29 act: {"say":"Picard here, health 11, hunger 16, no food. Anyone with meat or wheat, I'm next to the beds.","actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}}],"reasoning":"Food is the limit. Trying the
+- 18:29 act: {"say":"Picard, hunger 16, no food. Kimberly, keep the beef for the lowest; I'll ask again when I drop. I'm scouting north-west for animals now.","intent":{"goal":"scout_northwest_for_animals","progra
+- 18:29 act: {"say":"Picard, in your sight now, hunger 16, health 11. Trini, I'll take the food when I reach 10. Thank you.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":332}}],"reasoning":"Trini and Kimb
+- 18:34 act: {"say":"Picard, hunger 16, no food. I'm scouting north-east, away from the west group. Call out any cow or pig.","intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"target
+- 18:34 act: {"say":"Picard at -250,68,300, no animals here. Going further north-east.","intent":{"goal":"scout_further_northeast","program":"travel","arguments":{"target":{"x":-225,"y":67,"z":275}},"wake_on":["di
+- 18:34 act: {"say":"Picard at -225,68,275, still no animals. Pushing north.","intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-230,"y":67,"z":240}},"wake_on":["directly_add
+- 18:34 act: {"say":"Picard found a sheep at -217,69,225 and I'm going for it. Hunger 16. Call out if you're near, I'll share the meat with the lowest.","actions":[{"do":"goto","target":{"x":-219,"y":69,"z":227}},
+- 18:34 act: {"say":"Picard got 2 mutton from a sheep at -214,70,225. Eating one now, keeping one for the lowest.","actions":[{"do":"eat"}],"reasoning":"Hunger 16 blocks my health. One mutton now, the other kept f
+- 18:35 act: {"say":"Picard, hunger 18 after mutton. Heading back to the white beds with one mutton for whoever is lowest. Chapman, Clark, call your name when I'm in sight.","intent":{"goal":"return_to_white_beds_
+- 18:35 act: {"say":"Picard back at the white beds with 1 mutton. Chapman, Clark, Lewis or anyone at 10 or below, step into my sight and call your name. Troi, Billy, LaForge are close.","actions":[],"reasoning":"H
