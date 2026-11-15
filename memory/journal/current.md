@@ -1,1 +1,1 @@
-# Journal
+# JournalDay 248: I read my recent summary and checked the white-bed camp. The group remains here and food is still scarce; I am safe among them, with no food in my pack.
