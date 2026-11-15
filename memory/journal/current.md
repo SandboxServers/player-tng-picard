@@ -122,3 +122,11 @@
 - 15:43 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"intent":{"goal":"finish_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addres
 - 15:43 act: {"actions":[{"do":"sleep"}]}
 - 15:47 say: {"text":"Picard here, sealed in planks at -201,69,350. I cannot reach you. Clark, do not go out into the dark alone; wall yourself in."}
+- 15:52 act: {"say":"Picard, dawn. My hunger is full, but I need a bed and word of animals. Heading to the white beds with Troi.","intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-
+- 15:54 act: {"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":332}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_o
+- 15:54 say: {"text":"Picard at the white beds. Any meat or animal sighting? I have none, no bed use has worked for me. Trini, Jason, Chapman, Troi: where is the last food?"}
+- 16:03 act: {"actions":[{"do":"sleep"}]}
+- 16:03 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":1200,"max_block_op
+- 16:03 act: {"actions":[{"do":"sleep"}]}
+- 16:12 act: {"say":"Picard, dawn 296, no food, hunger 20. Scouting north of the beds for pigs, cows or sheep. Will call out what I find.","intent":{"goal":"scout_north_for_animals","program":"travel","arguments":
+- 16:12 say: {"text":"Picard at -270,67,290, scouted north: no animals, only forest and old signs. Heading back toward the beds."}
