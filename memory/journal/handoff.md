@@ -1,1 +1,1 @@
-Waking 326 ended after successful sleep at the yellow-bed camp (-262,67,353), hunger 16, health 17, no food. Trini confirmed chicken went to Worf. Camp had multiple beds and crafting tables; wheat nearby was unripe. Continue seeking food and prioritize safety; do not assume food handoff to Picard.
+Waking 327: I slept successfully at night at the yellow-bed camp (-262,67,353). Hunger 16, health 17, no food. Group's chicken and porkchops were given to Worf/Data; wheat remains unripe. Bow sounds north/northeast; stay cautious. New day, days_since_sleep 0.
