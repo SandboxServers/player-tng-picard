@@ -134,3 +134,36 @@
 - 16:13 say: {"text":"Picard back at the white beds. Scouted north: no animals. Still looking for food with anyone who has seen any."}
 - 16:22 act: {"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":800,"max_block_ope
 - 16:22 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}]}
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"reasoning":"Night, phantom nearby, need shelter. Bed is 3 blocks north. Walk there and try to
+- 16:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Previous summary says sleep worked even when use failed. Try sleep here beside the bed."}
+- 16:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Sleep result not reported; I drifted to -281,70,309. Walk back to the bed and sleep again."}
+- 16:24 act: {"actions":[],"intent":{"goal":"hold_at_beds_until_dawn","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ti
+- 16:29 act: {"say":"Picard: health 20, hunger 20. Anyone with food near Clark or Wesley, call out. I have none.","intent":{"goal":"hold_near_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_
+- 16:29 act: {"say":"Picard heading north-west to look for animals. Shout if you see any.","intent":{"goal":"scout_northwest_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":70,"z":295}},"wake_o
+- 16:29 act: {"say":"Picard at -300,69,295, no animals seen yet. Trini, I'm north-west of the beds if you find any west.","intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-33
+- 16:29 act: {"actions":[{"do":"goto","target":{"x":-325,"y":64,"z":277}},{"do":"mine","block":"wheat","count":1}],"intent":{"goal":"harvest_ripe_wheat","program":"gather","arguments":{"block":"wheat","count":4},"
+- 16:30 act: {"say":"Picard found wheat and salmon north-west across the water. Going for the salmon.","intent":{"goal":"hunt_salmon_northwest","program":"gather","arguments":{"block":"salmon","count":2},"wake_on"
+- 16:30 act: {"say":"Picard: got 1 wheat and seeds at the north-west pond. Salmon are in deep water, I could not reach them. A phantom is south-east of here. Heading back to the beds with the wheat for Clark.","in
+- 16:30 act: {"say":"Picard back at the beds. I have 1 wheat and 3 seeds. Who is hungriest? Clark or Wesley, tell me and I'll hand it to you."}
+- 16:36 act: {"say":"Picard holding 1 wheat. Clark or Zack, step into my reach and say so, and it's yours."}
+- 16:40 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":325}},{"do":"give","to":"ag_clark_01","item":"wheat","count":1}]}
+- 16:40 act: {"say":"Clark, I'm at -273,67,325 with 1 wheat, but I can't see you. Step into my reach and I'll give it."}
+- 16:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}]}
+- 16:43 act: {"actions":[],"say":"Picard at the north beds, health 20, hunger 20. I hold 1 wheat for Clark or Wesley, whoever comes into reach first.","intent":{"goal":"hold_for_group","program":"rest","arguments"
+- 16:47 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"wheat","count":1}],"say":"Clark, Picard here at -276,67,320 with 1 wheat for you. Step close and I'll hand it over."}
+- 16:52 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"wheat","count":1}],"say":"Clark, here is the wheat. Pigs are reported east at -213,69,351. Good luck."}
+- 16:52 act: {"actions":[],"say":"Clark, the wheat is gone from my pack. It seems to have dropped and been picked up. Check the ground by my feet at -276,67,319 if you see wheat there."}
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 17:05 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 17:05 act: {"actions":[{"do":"goto","target":{"x":-276,"y":67,"z":322}}]}
+- 17:05 act: {"actions":[{"do":"goto","target":{"x":-275,"y":66,"z":325}},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 17:07 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-275,"y":68,"z":325}},{"do":"attack","target":"phantom"}]}
+- 17:08 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me. Fighting it with the sword.","reasoning":"A phantom is attacking from 2.8 blocks away. Attack it with the sword, then watch health
+- 17:09 act: {"actions":[{"do":"goto","target":{"x":-276,"y":67,"z":322}}],"say":"Health 4. Going toward the iron golem and the others by the beds.","reasoning":"Phantoms keep hitting me and health is 4. Move to t
+- 17:09 act: {"actions":[],"say":"Picard here, health 4 and no food. Anyone with meat or bread, please give it to me. I'm staying by the golems.","reasoning":"I'm very low on health and have no food. Ask for help 
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":-276,"y":67,"z":322}}],"say":"Going back to my drop spot in daylight to get my sword and things.","reasoning":"It is day now and my things lie at the drop spot. 
+- 17:12 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"Macdonald, I'm coming to you for the porkchop. Thank you.","reasoning":"My drops are gone from the ground here. Macdonald has a porkchop an
+- 17:12 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"I'm at the white beds, hungry. Clark, Macdonald, any meat please, I'll stand here.","reasoning":"Macdonald is out of sight. Clark i
+- 17:12 act: {"actions":[],"say":"I'm at the beds with Troi and Macdonald, hunger full for now. Give the meat to Wesley, he needs it more. Thank you all.","reasoning":"My hunger is 20 now, so I am not the weakest.
+- 17:19 act: {"actions":[],"say":"Picard is full, hunger 20. Keep the food for Lewis, Jason and Wesley. I have no weapon; Billy, if you have a spare sword I'd be grateful.","reasoning":"My hunger is full, so I sho
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Night. Going to the white bed to sleep. Food goes to whoever is weakest.","reasoning":"It is night and a phantom is 
