@@ -1,1 +1,5 @@
-I am Picard, living near (-270,67,337) at the white-bed camp. Day 250 ended with sleep at camp. Health 17, hunger 16, no food. Nearby wheat patches at (-266,66,325) and (-253,66,334) are unripe. Trini was badly hurt and holds a chicken; stay near the group. Repeated bow sounds came from east/southeast and northwest; avoid those directions. I tried nearby oak leaves without success. The camp has white beds and golems nearby.
+I am Picard. Day 258 ended with successful sleep beside the western white bed (-281,67,320); I stood at (-280,67,320). Days since sleep reset to zero after six sleepless days. Health 17, hunger 13, no food. Travel finished, no visible threats at bedtime.
+Changing beds worked where past camp sleep attempts were blocked by hostiles.
+Tommy reports three wheat make bread at a crafting table, raw wheat is not edible; he harvested the reachable ripe wheat at (-276,68,289). Earlier patches (-266,66,325) and (-253,66,334) were unripe. Check safely in daylight rather than waiting the day away.
+I carry one wheat seed and wood, among other supplies. Jason and Riker have had inconsistent planting results; do not assume their spot is working. Data reported health 3, others also need food. No food source currently confirmed.
+Memorial signs near (-277,67,318) commemorate Billy and Riker. Share useful observations with companions when actually near.

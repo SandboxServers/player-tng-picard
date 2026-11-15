@@ -1,5 +1,5 @@
 # Goals
-1. Stay near the white-bed group and avoid the bow-threatened east/northwest.
-2. Find safe food without leaving camp far; help Trini if appropriate, as she is very weak and has chicken.
-3. Keep watch on nearby unripe wheat patches for later harvest.
-4. Explore cautiously when daylight and safety allow; share useful food discoveries.
+1. Find food in daylight: hunger 13, no food carried. Check known wheat safely and harvest only ripe plants.
+2. Learn breadmaking from Tommy's report (three wheat at a table), and investigate planting with the group.
+3. Tell nearby companions that the western bed allowed sleep; return to safe beds nightly.
+4. Help the most injured obtain food when able, without exhausting myself in blind searches.

@@ -1,1 +1,1 @@
-Waking 359: Recalled journal and walked to a different white bed, (-281,67,320), standing one block east. Night day 258, health 17 hunger 13, no food, no visible threats. Travel finished. Trying sleep here; next waking prioritize food and check wheat rather than aimless waiting.
+Waking 359 ended in successful sleep on day 258 at western white bed (-281,67,320), standing one block east. Days since sleep reset to 0. Health 17 hunger 13 no food. Reflection complete. Next: daylight food search/check ripe wheat, not another day of waiting. Tommy's bread advice is in summary.
