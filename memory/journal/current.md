@@ -44,3 +44,4 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 06:09 act: {"intent":{"goal":"scout_further_east","program":"travel","arguments":{"target":{"x":-222,"y":67,"z":326}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
 - 06:09 act: {"intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"target":{"x":-210,"y":67,"z":310}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
 - 06:10 act: {"intent":{"goal":"return_to_group_at_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":332}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
+- 06:12 act: {"intent":{"goal":"scout_south_for_animals","program":"travel","arguments":{"target":{"x":-262,"y":66,"z":352}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_faile
