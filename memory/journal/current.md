@@ -19,3 +19,17 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 05:23 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Trini, I'm sleeping here for the night."}
 - 05:23 act: {"actions":[{"do":"sleep"}]}
 - 05:26 act: {"actions":[{"do":"sleep"}],"say":"Still here at the yellow bed, trying to sleep."}
+- 05:28 act: {"say":"Dawn, day 264. I have 7 wheat seeds to plant and no food. Trini, you keep your wheat; I'll plant and we'll all look for animals.","actions":[{"do":"sleep"}],"reasoning":"Dawn; hunger 9, no foo
+- 05:28 act: {"intent":{"goal":"find_grass_to_till","program":"travel","arguments":{"target":{"x":-260,"y":67,"z":350}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"
+- 05:28 act: {"say":"Trini, yes, I have 7 seeds. I can see you at 3 blocks. Where is the tilled dirt to the west? I'll plant there with you.","actions":[],"reasoning":"Trini and I can plant together. Asking for th
+- 05:32 act: {"say":"Troi, Jason: I have no wheat, only 7 seeds, and I haven't planted yet; I don't know a clear tillable spot here. I'll look for dirt or grass near water and call out if I find animals.","actions
+- 05:35 act: {"intent":{"goal":"reach_field_to_plant","program":"travel","arguments":{"target":{"x":-262,"y":66,"z":325}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"]
+- 05:35 act: {"actions":[{"do":"till","at":{"x":-262,"y":65,"z":326}}],"reasoning":"I stand on grass with clear air above. Till the ground under me to make farmland for the seeds, then plant."}
+- 05:35 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-262,"y":65,"z":326}}],"reasoning":"The tilled spot is ready. Plant one seed block of wheat there and see whether it takes."}
+- 05:35 act: {"actions":[{"do":"place","block":"wheat_seeds","at":"feet"}],"reasoning":"The target was occupied by me. Place seeds on the block under my feet, the tilled spot."}
+- 05:38 act: {"actions":[{"do":"till","at":{"x":-263,"y":65,"z":327}}],"reasoning":"Keep planting. Try tilling another grass patch next to the first wheat so the rows sit together."}
+- 05:38 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-263,"y":65,"z":327}}],"reasoning":"The new farmland is tilled. Plant seeds on it."}
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Picard heading to the north white bed for the night. No food yet; Jason first at dawn."}
+- 05:43 act: {"actions":[{"do":"sleep"}]}
+- 05:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 05:45 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
