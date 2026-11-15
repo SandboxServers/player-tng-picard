@@ -33,3 +33,4 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 05:43 act: {"actions":[{"do":"sleep"}]}
 - 05:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 05:45 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 05:49 say: {"text":"Picard here, dawn of day 265. Health 17, hunger 9, no food on me. I'll check the wheat by the south bed and look for animals with the group."}
