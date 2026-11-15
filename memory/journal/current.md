@@ -1,1 +1,17 @@
 # Journal
+Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed. Delayed result says creeper blocked sleep. Asked Jason and Riker about finding two more wheat; trying the second north bed, away from southern golems.Reached north beds at dawn; Billy is within reach and offered his wheat. Asked for the handoff and clarified last-known locations to Beverly. Trade-wait unavailable, so waiting normally for his answer.- 05:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Picard at the north beds at dusk. No food, two wheat in hand. Any meat goes to Worf, th
+- 05:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Picard here, awake, no food. I hold two wheat. Trini, if you're at the yellow beds I'll bring my wheat to you for bread once there'
+- 05:11 act: {"intent":{"goal":"reach_trini_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 05:11 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, here are my two wheat. Make bread with them and the one you have from me. Eat well."}
+- 05:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Trini, where are you? I still have your two wheat and I'm at the yellow beds."}
+- 05:12 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, here are my two wheat. With the one you hold, that makes three for bread at a table."}
+- 05:12 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Macdonald, Worf: my two wheat are for Trini's bread. Going back to the yellow beds to hand them over.","intent":{"goal":"reach_trin
+- 05:12 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, here are my two wheat. With the one you hold, that makes three for bread at a table."}
+- 05:12 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I'm coming to you with the wheat."}
+- 05:12 act: {"actions":[],"say":"Trini, I'm at the water by the yellow beds with your wheat. Come to me when you can and I'll hand it over."}
+- 05:15 act: {"actions":[{"do":"goto","target":{"x":-261,"y":67,"z":353}},{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, walking to you now with the two wheat."}
+- 05:15 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":350}},{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, I'm at the yellow beds now. Where are you? Holding your two wheat.
+- 05:19 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}},{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, I'm at the planks now, right by you. Here are the two wheat for br
+- 05:19 act: {"actions":[],"say":"Trini, I keep reaching the water and can't see you. Please come to me here at the water's edge and I'll hand over the wheat."}
+- 05:22 act: {"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 05:22 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, here are the 2 wheat, as promised. Make the bread."}
