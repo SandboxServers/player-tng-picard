@@ -34,3 +34,9 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 05:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 05:45 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 05:49 say: {"text":"Picard here, dawn of day 265. Health 17, hunger 9, no food on me. I'll check the wheat by the south bed and look for animals with the group."}
+- 05:56 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":300}}],"say":"Picard here. I'm hungry with no food. I'm heading northwest toward the sheep to help find meat.","intent":{"goal":"reach_sheep_area
+- 05:58 act: {"actions":[{"do":"till","at":{"x":-276,"y":66,"z":300}},{"do":"place","block":"wheat_seeds","at":{"x":-276,"y":67,"z":300}}]}
+- 06:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Picard: going to the white bed at -271,67,336 for the night. No food; meat goes to Jason first.","intent":{"goal":"reach_white_bed"
+- 06:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":326}},"wake_on":["goal_completed","direc
+- 06:06 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":326}}],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
