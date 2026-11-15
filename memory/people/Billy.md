@@ -1,2 +1,3 @@
 
-Day261: Trust80, volunteers food for Worf. My wheat intended for Trini reached Billy according to result; asked him to preserve bread pool. Ownership uncertain after Trini's report.
+Impression: volunteers food for Worf; willing to help.
+Trust: 65 (was 80). Why: the result says my wheat for Trini reached him, and he has one wheat. Ownership is still uncertain after Trini's report. I have not seen his wheat or bread myself.

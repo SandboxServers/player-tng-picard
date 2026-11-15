@@ -1,9 +1,25 @@
 # Beliefs
-- Repeated bow sounds have come from east/southeast and northwest around camp; treat those approaches as risky.
-- Oak leaves near camp did not yield food during my brief search.
-- Two nearby wheat patches are planted but unripe; they may provide future food.
-- Trini is critically weak and has chicken, intended for her own hunger.
-Day 258: Sleep succeeded beside the western white bed (-281,67,320) after repeated failures elsewhere. A nearby blocked bed does not mean every bed is blocked. Tommy reports raw wheat is not food and three wheat make bread at a table; not yet tested myself. Curious whether the northern wheat has ripened; share the successful bed location with camp when near.
-Day 258, waking 360: My remembered bedtime position did not match where I next found myself; check current surroundings rather than assuming. Northeast wheat (-265,66,323) remains unripe. Western-bed travel completed safely again. Curious whether anyone has actually achieved reliable crop growth; asked Data and Wesley, no reply yet.Day 259 confirmed: wooden hoe craft near table consumed two oak planks and two sticks. Tilling then using wheat_seeds on (-291,68,284) produced unripe wheat above it. Water is nearby at z286. Placing torch (-290,69,283) worked, but whether it helps ripening is unknown. Need observe growth, not assume. Riker reports his own wheat (-263,66,320).Day259 night addendum: a confirmed sleep (1 of9 needed asleep) did not end the visible night. Northern planted wheat still listed unripe. I do not know growth time. Ask Riker and share observed ripeness when it changes.
-Day260: Tilling requires clear space above: (-264,65,319) obstructed, (-264,65,320) succeeded. Data reports bread made and eaten from ripe wheat. Northern wheat remained unripe when I visited; southern ripe patch reported (-267,66,335). Curious which planting matured first; ask Data and share with Zack. Leaves yielded no apples in Worf/Wesley reports, not proof apples impossible. Wheat itself is not known edible; Riker's suggestion to eat it is not confirmation.Day260 correction: a sleep digest did not prove successful rest; later events reported a creeper blocking it. Check outcomes. Kimberly reports holding Troi's porkchop for Trini, matching the porkchop I saw her hold. Still curious which planting supplied Data's bread; asked Wesley.
-Day261: Till (-290,68,285) and planting above it succeeded; neighboring (-290,68,284) belongs to another. Waypoint (-270,68,298) bypasses blocked northern route. Crowded handoffs can reach the wrong person: my wheat intended for Trini reportedly went to Billy, although Trini later claimed receipt. Verify ownership before counting a bread pool. Bed use failed; sleep returned digest and reset sleep counter. Curious whether new northern crop ripens by next visit; share with Riker.Waking370 correction: sleep digest/reset alone did not ensure successful bed action; later event said blocked. Verify delayed results. Wheat now physically in my pack confirms Trini's handoff. Beverly still reports mutton, not delivered. Curious whether Billy's wheat plus another can complete bread; discuss with Billy when visible.
+WORKED (seen by me):
+- Tilling needs clear air above the grass. Till, then place wheat_seeds on the tilled dirt: planting took (days 265-268).
+- Crafting: a crafting table, then 4 sticks and a wooden spear, crafted at a table (day 271).
+- Handoffs by "give" work only when the receiver is in reach and I can see them. Check the receiver's name first.
+- Inventory check settles who holds what. Trust it over a verbal report.
+- Night wall of dirt blocks used to hold off a phantom at the north shore (day 271).
+- Reflex-eating when hunger gets critical; rotten flesh from Jason was food (day 282).
+
+DID NOT WORK (struck where it proved false):
+- ~~Sleep succeeded beside the western white bed (-281,67,320)~~ Not proven; a later sleep digest was reset and I did not rest there.
+- ~~Wheat I planted is food / will ripen soon~~ Wheat stayed unripe for weeks; no harvest confirmed by me.
+- ~~Raw wheat is food~~ Unknown; I have not eaten it. Three wheat make bread at a table, as Tommy and Data reported; I have not tested it.
+- ~~Trini has chicken for her own hunger~~ False by now; the chicken went to LaForge by way of Lewis.
+- Bed use at the white beds (-270,67,336), (-271,67,318), (-270,67,318), (-298,68,294) often failed with "that block is a bed". Do not count on a bed; try another, then ask the group.
+- Fishing rod used on water failed every time ("that block cannot be used that way"), at several shore spots. Do not expect fish from it.
+- Oak leaves gave no apples in Worf and Wesley's reports. Not proof apples are impossible, but do not count on it.
+- Scouting west, south, east and north for cows, pigs and sheep found none (days 265-283). The north sheep field was empty per Riker (day 282).
+- A sleep digest or a reset counter is not proof of rest. Check later events for "blocked" or "creeper".
+
+WHY: Hunger is the real limit. Animals were not where the group looked, and the beds and fishing failed for reasons I could not see.
+
+OPEN: Whether any planting of mine ripens. Whether Beverly's mutton exists and reaches Worf or Trini.
+
+Also: repeated bow sounds came from east/southeast and northwest around camp; treat those as risky.

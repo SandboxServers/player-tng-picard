@@ -1,2 +1,3 @@
 
-Day261: Trust85, trying to distribute planting seeds and coordinating help. Told him I already hold seven seeds and need soil, not more seeds.
+Impression: coordinates planting and help; gives useful reports (day 282: the north sheep field is empty).
+Trust: 80 (was 85). Why: his reports have been accurate where I could check them. He also pushed seeds I did not need. I told him I need soil, not more seeds.
