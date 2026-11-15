@@ -69,3 +69,6 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 06:57 act: {"actions":[{"do":"till","at":{"x":-273,"y":65,"z":330}}]}
 - 06:57 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-273,"y":66,"z":330}}]}
 - 06:57 say: {"text":"Picard: planted a wheat seed at (-273,66,330) on tilled ground, dry, no water within 4 blocks. I have 12 seeds left for anyone with tilled ground. Jason, come get them."}
+- 06:59 act: {"say":"Picard here, hunger 6, no food. I hold 12 wheat seeds for anyone with tilled ground. Jason, Lewis, say where you are and I'll bring them.","reasoning":"Food is scarce and the group is searchin
+- 07:08 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wheat_seeds","count":6}],"say":"Jason, here are 6 wheat seeds. I'm keeping 6 for Trini and Macdonald, who also need ground.","reasoning":"Jason aske
+- 07:12 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"wheat_seeds","count":2}],"say":"Macdonald, 2 wheat seeds for the tilled ground here. Laforge reports salmon in the water west near -320,58,256, 
