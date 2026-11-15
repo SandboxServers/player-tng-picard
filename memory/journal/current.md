@@ -1,1 +1,1 @@
-# Journal
+# JournalDay 251, waking 322: read journal and checked camp at dawn. I am bright and steady near the beds, hunger 16, with no food; Trini says she has one chicken and the group is looking for food. Wait was interrupted while my body was waking, so I made no travel attempt.
