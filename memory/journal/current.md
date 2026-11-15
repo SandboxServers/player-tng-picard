@@ -130,3 +130,7 @@
 - 16:03 act: {"actions":[{"do":"sleep"}]}
 - 16:12 act: {"say":"Picard, dawn 296, no food, hunger 20. Scouting north of the beds for pigs, cows or sheep. Will call out what I find.","intent":{"goal":"scout_north_for_animals","program":"travel","arguments":
 - 16:12 say: {"text":"Picard at -270,67,290, scouted north: no animals, only forest and old signs. Heading back toward the beds."}
+- 16:13 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":330}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":1200,"max_blo
+- 16:13 say: {"text":"Picard back at the white beds. Scouted north: no animals. Still looking for food with anyone who has seen any."}
+- 16:22 act: {"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":800,"max_block_ope
+- 16:22 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}]}
