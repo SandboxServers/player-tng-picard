@@ -1,1 +1,31 @@
 # Journal
+- 21:44 act: {"say":"Good evening, Riker. I am Jean-Luc Picard. Night has fallen and I have no bed yet. Have you found shelter nearby?","intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":[
+- 21:44 act: {"say":"Worf, Riker: Picard here, awake. I see the pickaxe request. I will come to the hole edge if the way is clear.","intent":{"goal":"reach_hole_edge","program":"travel","arguments":{"target":{"x":
+- 21:45 act: {"actions":[{"do":"attack","target":"skeleton"}],"say":"A skeleton is shooting at me. I am closing in on it."}
+- 21:45 act: {"actions":[{"do":"goto","target":{"x":347,"y":88,"z":-1076}}],"say":"I am taking cover behind the logs to break the arrows."}
+- 21:45 act: {"actions":[{"do":"goto","target":{"x":344,"y":88,"z":-1082}}],"say":"Skeleton to the south-east. I am moving west behind the logs to get out of its line."}
+- 21:45 act: {"actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1090}}],"say":"I am heading back to the white beds to the north-east, away from the skeleton."}
+- 21:45 act: {"actions":[{"do":"attack","target":"skeleton"}],"say":"I am at five health. I am going at the skeleton directly; it is four blocks south-west."}
+- 21:45 act: {"actions":[{"do":"goto","target":{"x":386,"y":107,"z":-1090}}],"say":"Picard at five health, a skeleton is hunting me in the dark. Heading for the white beds in the north-east. Anyone near the beds, 
+- 21:46 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1092}}],"say":"I am at the beds with two health. I am trying to lie down in the bed."}
+- 21:46 act: {"say":"Leonardo, Wesley: Picard here, health two, hunger seventeen, no food. A skeleton hunted me. Could you watch me while I try the bed? I will stand on the planks beside it and click."}
+- 21:47 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"}],"say":"Beverly, I am Picard at two health and hungry. I am coming to you for the chicken."}
+- 21:52 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"}],"say":"Morning, Beverly and Kimberly. Picard, health two, hungry. I am walking to you for the chicken; please hold it for me."}
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1090}}],"say":"Picard here, health two and hungry. Whoever has a spare chicken or bread, please bring it to the crafting table; I will wait ther
+- 21:54 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"}],"say":"Bcrusher, I am coming to you for the chicken. Health two."}
+- 21:54 act: {"actions":[{"do":"goto","target":{"x":383,"y":107,"z":-1088}}],"say":"Bcrusher, I am walking west toward the sign-post. Please stay where you can see me."}
+- 21:54 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Chapman, Picard here, health two and hungry. Do you have any food, or know where Bcrusher's chicken is? I am coming to you."}
+- 21:54 act: {"actions":[{"do":"note","text":"Health 2, hunger 17. No food in reach. Chapman has logs only. Waiting here for Bcrusher or Kimberly to call out with a chicken."}],"say":"Chapman, I have no food. If a
+- 21:58 act: {"actions":[{"do":"goto","target":{"x":376,"y":108,"z":-1076}}]}
+- 21:58 act: {"actions":[{"do":"goto","target":{"x":375,"y":108,"z":-1076}},{"do":"goto","target":{"x":376,"y":108,"z":-1076}}]}
+- 21:58 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1090}}],"say":"Picard: those items were only saplings. Dusk is coming, so I am going back to the beds to rest with the others."}
+- 22:03 act: {"actions":[{"do":"note","text":"Night at the beds, health 2, hunger 17. Asked Beverly (bcrusher) and Wesley (wcrusher) for the chicken or beef; waiting by the beds."}],"say":"Picard, at the beds, hea
+- 22:03 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"}],"say":"Morning. Picard here, health two. Beverly, I am coming to you for the chicken now."}
+- 22:05 act: {"actions":[],"say":"Beverly, I am at the beds, at the white beds by the chest. I cannot see you yet. Please come into view and hand me the chicken. Thank you."}
+- 22:09 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"}],"say":"Dawn. Beverly, I am here at the beds. Where are you? The chicken, please."}
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1068}}],"say":"Beverly, I am walking to you now, toward 388,107,-1068. Please keep the chicken ready."}
+- 22:13 act: {"actions":[],"say":"Beverly, I am here at 388,107,-1069, in view. Please hand me the chicken. Thank you."}
+- 22:17 act: {"actions":[],"say":"Wesley, Picard here, health two, the weakest. I have one oak plank and three saplings. Could you give me the beef? I am at 388,107,-1069, in view."}
+- 22:20 act: {"actions":[{"do":"eat"}],"say":"Thank you, Beverly. I am eating the chicken now."}
+- 22:20 act: {"actions":[],"say":"Thank you, Beverly, truly. The chicken is safe with me; I cannot eat raw chicken until my hunger falls to six, so I will keep it for then."}
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1090}}]}
