@@ -15,3 +15,7 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 05:19 act: {"actions":[],"say":"Trini, I keep reaching the water and can't see you. Please come to me here at the water's edge and I'll hand over the wheat."}
 - 05:22 act: {"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
 - 05:22 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":2}],"say":"Trini, here are the 2 wheat, as promised. Make the bread."}
+- 05:23 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_tic
+- 05:23 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Trini, I'm sleeping here for the night."}
+- 05:23 act: {"actions":[{"do":"sleep"}]}
+- 05:26 act: {"actions":[{"do":"sleep"}],"say":"Still here at the yellow bed, trying to sleep."}
