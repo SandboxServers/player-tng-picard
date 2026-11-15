@@ -4,3 +4,24 @@
 - 17:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Beds refuse use; try the sleep verb directly."}
 - 17:30 act: {"say":"Picard, dawn 300, hunger 20, nothing in pack. I'll scout east toward the old pig area for animals; anyone who finds one, call it out. Golems are south, so I'm keeping north-east.","intent":{"g
 - 17:31 act: {"say":"Picard at the old pig area (-214,351). No animals in sight. Hunger 20, nothing to hand out. I'll keep scouting east and call out anything I find.","actions":[{"do":"note","text":"Scouted east 
+- 17:37 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":327}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Picard going to the white bed at -270,67,318 for the night. No food on me; I'll give to
+- 17:41 act: {"actions":[{"do":"sleep"}]}
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}},{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Picard trying the other bed at -271,67,318 for the night. I hold no food
+- 17:42 act: {"intent":{"goal":"gather_oak_logs_for_shelter","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 17:44 act: {"actions":[{"do":"craft","item":"oak_planks","count":32}],"say":"Got 8 oak logs. Turning them into planks for a shelter."}
+- 17:44 act: {"intent":{"goal":"build_shelter_of_planks","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"
+- 17:44 act: {"actions":[{"do":"sleep"}]}
+- 17:45 act: {"actions":[{"do":"goto","target":{"x":-285,"y":69,"z":306}}],"say":"Sleep keeps walking me to the beds and failing. I'm going back into my plank shelter to stay safe until dawn."}
+- 17:49 act: {"intent":{"goal":"scout_sheep_southwest","program":"travel","arguments":{"target":{"x":-330,"y":64,"z":315}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
+- 17:51 act: {"intent":{"goal":"scout_sheep_southwest","program":"travel","arguments":{"target":{"x":-338,"y":64,"z":315}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
+- 17:51 act: {"say":"Picard here at -338,64,315. No sheep in sight. Heading back east toward the group to ask about the cow near -152,100,327.","intent":{"goal":"return_to_group","program":"travel","arguments":{"t
+- 17:52 act: {"say":"Nothing at the southwest sheep spot, just forest. Does anyone know where the cow east near -152,100,327 is? I have no food and could use directions."}
+- 17:54 act: {"say":"Picard, hunger 20, no food. I will go east with Jason, Clark and Worf toward the cow. Call out if you see meat.","intent":{"goal":"follow_jason_east","program":"follow","arguments":{"target":"
+- 17:54 act: {"say":"Picard going east now with Jason, Clark and Worf toward the cow. Follow me if you are coming.","intent":{"goal":"scout_east_for_cow","program":"travel","arguments":{"target":{"x":-220,"y":67,"
+- 17:54 act: {"say":"Picard at -254,67,319, heading east. Jason, I can see you are back by the signs. Call out when you have the cow in sight."}
+- 17:58 act: {"say":"No cow in sight out east. Heading back to the north beds before dusk. Holding 13 planks for a shelter.","intent":{"goal":"return_to_beds_before_dusk","program":"travel","arguments":{"target":{
+- 17:58 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"say":"Back at the north beds with Data and Worf coming. Trying the bed before dusk."}
+- 17:58 act: {"actions":[{"do":"sleep"}],"say":"Trying to sleep at the north bed now. Worf, Clark and Trini are here with me."}
+- 18:02 act: {"actions":[{"do":"sleep"}],"say":"Night. Picard trying the north bed now. Hunger 20, I have no food to share."}
+- 18:03 act: {"actions":[{"do":"sleep"}]}
