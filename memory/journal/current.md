@@ -116,3 +116,9 @@
 - 15:21 act: {"intent":{"goal":"wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
 - 15:29 act: {"intent":{"goal":"join_pig_hunt","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":
 - 15:30 say: {"text":"Picard at -213,69,353. No animals in sight. I have no food and am health 20. Calling out any pig, cow or sheep. Meat goes to the weakest first."}
+- 15:38 say: {"text":"Picard here, health 20, hunger 20, no food. I have 11 planks and 4 logs. Clark and Worf, I hope you are both fed. I'll look for animals to the east and call out what I find."}
+- 15:38 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-200,"y":69,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 15:42 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}],"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_address
+- 15:43 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"intent":{"goal":"finish_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addres
+- 15:43 act: {"actions":[{"do":"sleep"}]}
+- 15:47 say: {"text":"Picard here, sealed in planks at -201,69,350. I cannot reach you. Clark, do not go out into the dark alone; wall yourself in."}
