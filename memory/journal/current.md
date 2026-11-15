@@ -1,1 +1,2 @@
 # Journal
+Day 260, still night, on the plank path at (-271,67,327). Learned that last sleep failed due to a nearby creeper, contrary to my earlier assumption. Told Kimberly where I see Trini; returning cautiously to north bed.Reached north bed (-270,67,318); no creatures visible. Asked Wesley which planting ripens first, a question still unanswered. Health17 hunger12, no food. Will retry rest after moving away from previous blocked position.
