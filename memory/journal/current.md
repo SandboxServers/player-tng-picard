@@ -1,1 +1,1 @@
-# JournalDay 248: I read my recent summary and checked the white-bed camp. The group remains here and food is still scarce; I am safe among them, with no food in my pack.
+# JournalDay 248: I read my recent summary and checked the white-bed camp. The group remains here and food is still scarce; I am safe among them, with no food in my pack.Night came at the crowded white beds; I slept safely after checking the camp, still without food.

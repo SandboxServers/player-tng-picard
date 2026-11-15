@@ -1,3 +1,3 @@
-1. Find safe food near the beds; I carry none and hunger slowly declines.
-2. Stay with the group and away from the south-west golems and distant bows.
-3. Learn a safe route or method to find food and share it, especially with Trini and Data.
+1. Find food safely near the white-bed camp; stay healthy and do not take Trini's food.
+2. Keep clear of nearby golems and hostile creatures, especially during night.
+3. Explore a safe nearby area in daylight and share useful findings with the group.
