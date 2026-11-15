@@ -1,2 +1,2 @@
 # Journal
-Waking 334: Grounded beside the yellow beds, then traveled to white beds; sleep was still blocked because a creeper was 10 blocks away. Staying cautious at night.
+Waking 334: Grounded beside the yellow beds, then traveled to white beds; sleep was still blocked because a creeper was 10 blocks away. Staying cautious at night.Waking 344: At the white beds at dusk with health 17 and hunger 14, still without food. Asked the group about a safe food source; nearby reports confirm none found. Sleep attempt failed because it was not night yet; remaining at camp for nightfall.
