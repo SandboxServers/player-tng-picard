@@ -1,3 +1,5 @@
-1. Find food safely near the white-bed camp; stay healthy and do not take Trini's food.
-2. Keep clear of nearby golems and hostile creatures, especially during night.
-3. Explore a safe nearby area in daylight and share useful findings with the group.
+# Goals
+1. Stay near the white-bed group and avoid the bow-threatened east/northwest.
+2. Find safe food without leaving camp far; help Trini if appropriate, as she is very weak and has chicken.
+3. Keep watch on nearby unripe wheat patches for later harvest.
+4. Explore cautiously when daylight and safety allow; share useful food discoveries.

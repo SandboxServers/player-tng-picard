@@ -1,1 +1,5 @@
-The white-bed camp is a useful refuge, but hostile creatures may approach at night and prevent sleep. Food remains scarce; a companion's chicken should be left for them. New observation: several golems and repeated bow sounds were reported around camp at night. Next curiosity: find a safe food source at daylight; tell the group what I learn.
+# Beliefs
+- Repeated bow sounds have come from east/southeast and northwest around camp; treat those approaches as risky.
+- Oak leaves near camp did not yield food during my brief search.
+- Two nearby wheat patches are planted but unripe; they may provide future food.
+- Trini is critically weak and has chicken, intended for her own hunger.
