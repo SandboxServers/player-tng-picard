@@ -1,4 +1,5 @@
-1. Verify sleep outcome and daylight; last earlier sleep was blocked by creeper.
-2. Find food safely, health17 hunger12 no food. Help weakest when possible.
-3. Ask Data/Wesley which wheat planting ripened; learn reliable harvest and share.
-4. Avoid golems south of paths; inspect northern planting in daylight.
+# Goals
+1. Obtain food and help pool three wheat for bread; health17 hunger11, no food. Verify Billy/Trini wheat ownership.
+2. Check northern crops for ripeness; expand only suitable unclaimed watered soil. Seven seeds held, no need for more yet.
+3. Learn which neighboring soils can be tilled without disturbing others; tell Riker and Data.
+4. Return to beds before night and use sleep rather than use on bed.
