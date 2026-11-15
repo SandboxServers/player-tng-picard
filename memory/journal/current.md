@@ -45,3 +45,8 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 06:09 act: {"intent":{"goal":"scout_north_east_for_animals","program":"travel","arguments":{"target":{"x":-210,"y":67,"z":310}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
 - 06:10 act: {"intent":{"goal":"return_to_group_at_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":332}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
 - 06:12 act: {"intent":{"goal":"scout_south_for_animals","program":"travel","arguments":{"target":{"x":-262,"y":66,"z":352}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_faile
+- 06:15 act: {"intent":{"goal":"scout_southwest_for_animals","program":"travel","arguments":{"target":{"x":-285,"y":66,"z":372}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 06:15 act: {"actions":[{"do":"unstick"}],"say":"Picard at the south-west ground, no animals in sight yet. Zack, Trini: I'll call out any meat or sheep I find."}
+- 06:16 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-310,"y":67,"z":370}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 06:16 act: {"actions":[{"do":"unstick"}]}
+- 06:16 act: {"intent":{"goal":"return_to_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
