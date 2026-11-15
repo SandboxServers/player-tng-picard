@@ -1,4 +1,5 @@
-1. Find food while avoiding golems and exposed night travel; health17 hunger12, no food.
-2. Check new wheat (-291,69,284) in daylight for ripening. Compare with older patch (-265,66,323); learn whether torch/water location helps. Tell Riker confirmed results.
-3. Share food when available with weakest companions; avoid promising what I do not have.
-4. Return to a bed before night. Verify actual wake position; prior sleep digests have preceded blocked sleep reports.
+# Goals
+1. Sleep safely at north bed while night lasts; no food and hunger12.
+2. In daylight inspect wheat at (-291,69,284) and (-265,66,323); learn ripeness before harvesting.
+3. Find food and share; Riker prioritizes Trini. Three wheat make bread at table according to Tommy.
+4. Learn growth time from observation or Riker, share findings with nearby companions.

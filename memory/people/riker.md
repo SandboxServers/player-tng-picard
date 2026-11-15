@@ -1,0 +1,1 @@
+Riker continues prioritizing food for Trini and came to the north bed tonight. Trust 80/100: consistent concern for the vulnerable, candid that he has no food. Asked him about wheat ripening; awaiting answer.

@@ -1,2 +1,1 @@
 # Journal
-Day 259, night: I stand at the north beds (-271,67,319), health17 hunger12. Prior sleep confirmed, but night remains. Riker has no food and prioritizes Trini. Asked whether he has seen wheat ripen; choosing nearby bed rather than night travel.
