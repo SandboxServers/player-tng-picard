@@ -109,3 +109,13 @@
 - 19:47 act: {"say":"Picard here at the white beds, respawned with nothing. Hunger 20, health 20, no sword. I'll stay with the group tonight.","intent":{"goal":"reach_white_bed","program":"travel","arguments":{"ta
 - 19:48 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 19:52 act: {"say":"Picard, dawn 307, health 20, hunger 20, no food, no tools. I'll hunt with the group in sight. Any meat goes to Chapman, Clark or Troi first."}
+- 20:01 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Picard at the white beds, dusk 307, health 20, hunger 20, no food. Trying the bed for the night.","reasoning":"Night is c
+- 20:03 act: {"actions":[],"say":"Picard, night 307, health 20, hunger 20, no food and no tools. The bed refused me again. Staying with the group. Clark is at 0.2 health; I have nothing to give.","reasoning":"Bed 
+- 20:07 act: {"actions":[{"do":"goto","target":{"x":-280,"y":66,"z":337}}],"say":"Morning 307. Picard going west to the dropped items at -280,66,337 to see if any is food. Will share with Chapman and Clark first."
+- 20:08 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":338}},{"do":"goto","target":{"x":-282,"y":66,"z":333}}],"say":"Picard picked up a wooden sword and a phantom membrane at the west items. Checking
+- 20:08 act: {"actions":[{"do":"goto","target":"ag_clark_01"},{"do":"give","to":"ag_clark_01","item":"chicken","count":3}],"say":"Clark, I have 3 chicken and I'm coming to you. Eat one now; the rest are yours if y
+- 20:12 act: {"actions":[],"say":"Picard, morning 308, health 20, hunger 20. Chapman: I hold your wooden sword and phantom membrane. Step into my sight and I'll hand them over. Riker: I'll walk to your pit with Ki
+- 20:13 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":351}}],"say":"Picard walking to the yellow beds with Chapman's sword and membrane. Chapman, say when you are in my reach.","intent":{"goal":"brin
+- 20:14 act: {"actions":[],"say":"Picard at the yellow beds, -263,67,350. Chapman, step into my sight and I'll hand over your sword and membrane.","reasoning":"Arrived; Chapman is not in reach yet. Call him and wa
+- 20:24 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"wooden_sword","count":1},{"do":"give","to":"ag_chapman_01","item":"phantom_membrane","count":1}],"say":"Chapman, here is your wooden sword and pha
+- 20:24 act: {"actions":[{"do":"note","text":"Night 308: gave Chapman his wooden sword and phantom membrane at the yellow beds; both gives worked. Hunger 20, health 20, no food. Waiting for dawn with the group."}]
