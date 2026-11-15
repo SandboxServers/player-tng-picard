@@ -106,3 +106,6 @@
 - 19:45 act: {"say":"Picard at -259,65,200, health 3, hunger 16, no food. Walling myself in with planks and dirt now.","actions":[{"do":"place","block":"oak_planks","at":{"x":-258,"y":65,"z":200}},{"do":"place","b
 - 19:45 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-259,"y":65,"z":201}},{"do":"place","block":"dirt","at":{"x":-259,"y":66,"z":200}}]}
 - 19:47 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 19:47 act: {"say":"Picard here at the white beds, respawned with nothing. Hunger 20, health 20, no sword. I'll stay with the group tonight.","intent":{"goal":"reach_white_bed","program":"travel","arguments":{"ta
+- 19:48 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 19:52 act: {"say":"Picard, dawn 307, health 20, hunger 20, no food, no tools. I'll hunt with the group in sight. Any meat goes to Chapman, Clark or Troi first."}
