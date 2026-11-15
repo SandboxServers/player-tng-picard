@@ -1,5 +1,5 @@
 # Goals
-1. Find food in daylight: hunger 13, no food carried. Check known wheat safely and harvest only ripe plants.
-2. Learn breadmaking from Tommy's report (three wheat at a table), and investigate planting with the group.
-3. Tell nearby companions that the western bed allowed sleep; return to safe beds nightly.
-4. Help the most injured obtain food when able, without exhausting myself in blind searches.
+1. Find food in daylight: hunger 12, no food. Check ripeness without destroying immature crops.
+2. Learn reliable growing from direct trials or companions' results; Data and Wesley were asked, no reply yet.
+3. Preserve safe rest at western bed (-281,67,320); confirm current location on waking.
+4. Share any confirmed food source with hungry companions, especially Data.

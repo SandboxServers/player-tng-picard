@@ -1,5 +1,5 @@
-I am Picard. Day 258 ended with successful sleep beside the western white bed (-281,67,320); I stood at (-280,67,320). Days since sleep reset to zero after six sleepless days. Health 17, hunger 13, no food. Travel finished, no visible threats at bedtime.
-Changing beds worked where past camp sleep attempts were blocked by hostiles.
-Tommy reports three wheat make bread at a crafting table, raw wheat is not edible; he harvested the reachable ripe wheat at (-276,68,289). Earlier patches (-266,66,325) and (-253,66,334) were unripe. Check safely in daylight rather than waiting the day away.
-I carry one wheat seed and wood, among other supplies. Jason and Riker have had inconsistent planting results; do not assume their spot is working. Data reported health 3, others also need food. No food source currently confirmed.
-Memorial signs near (-277,67,318) commemorate Billy and Riker. Share useful observations with companions when actually near.
+I am Picard. Waking 360 ended at night day 258, after safe travel to western white bed (-281,67,320), standing (-280,67,319). Sleep returned digest, days since sleep 0. Health 17 hunger 12, no food. No unfinished errand or visible nearby threat.
+At waking I was actually at southern beds (-272,67,336), with a blocked sleep report, despite my prior note placing me west. Trust current observations.
+Wheat (-265,66,323) remains unripe. Asked Data and Wesley about reliable growing; no reply yet. Food search in daylight remains first priority.
+Tommy previously said three wheat make bread at a crafting table; wheat itself is not edible. He harvested ripe wheat at (-276,68,289). Earlier patches (-266,66,325), (-253,66,334) were unripe.
+I carry one wheat seed, wood and tools, no food. Data reported health 3, Wesley hunger 6 health 16. Several companions are hungry. Share confirmed discoveries rather than promises.

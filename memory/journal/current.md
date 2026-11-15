@@ -1,2 +1,1 @@
 # Journal
-Day 258. I stand at the southern white beds, not where my last note placed me. Night remains; wheat northeast is unripe. Asked Data and Wesley about growing food and set out for the western bed after a blocked sleep report.
