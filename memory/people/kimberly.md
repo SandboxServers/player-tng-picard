@@ -1,0 +1,1 @@
+Day260: trust 80/100, reports holding porkchop for Trini and I saw it in her hand. Told her Trini's visible direction. Transfer not confirmed; considerate intent.
