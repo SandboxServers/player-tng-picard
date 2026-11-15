@@ -95,3 +95,14 @@
 - 19:33 act: {"intent":{"goal":"build_sealed_shelter_planks","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precond
 - 19:37 say: {"text":"Picard here, no food, health 20. I am at the shelter site by the crafting table. Holding 14 planks; I will wall in before full dark."}
 - 19:37 act: {"intent":{"goal":"wall_in_planks_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 19:39 act: {"say":"Picard awake, day 306, health 20, hunger 20, no food. I'll scout north-east toward the sheep at -217,69,225 and call out any meat.","intent":{"goal":"scout_northeast_sheep_for_food","program":
+- 19:42 act: {"say":"Picard at -218,69,227, night now. No sheep in sight, no food. Building a dirt wall for cover till dawn.","intent":{"goal":"night_wall_of_dirt","program":"build","arguments":{"blueprint":"wall"
+- 19:42 act: {"say":"Picard: wall built on the dirt side, still open. Trying to sleep here, no food, health 20.","actions":[{"do":"sleep"}]}
+- 19:42 act: {"say":"Picard at the sheep spot -218,69,227. No bed here, so I'll stay put through the night and watch for phantoms. No food; I'll go back to the white beds at first light.","intent":{"goal":"hold_th
+- 19:44 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 19:44 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 19:45 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"wooden_sword","count":1}]}
+- 19:45 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 19:45 act: {"say":"Picard at -259,65,200, health 3, hunger 16, no food. Walling myself in with planks and dirt now.","actions":[{"do":"place","block":"oak_planks","at":{"x":-258,"y":65,"z":200}},{"do":"place","b
+- 19:45 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-259,"y":65,"z":201}},{"do":"place","block":"dirt","at":{"x":-259,"y":66,"z":200}}]}
+- 19:47 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
