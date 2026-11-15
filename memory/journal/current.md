@@ -127,3 +127,13 @@ Day 261, waking371: I stand by the southern table (-270,67,327), not at the bed.
 - 08:27 act: {"actions":[],"say":"Tommy, the second cell is occupied too. I'll leave the planks on me for now. Tell me one exact free block and I'll try once more at dawn. Stay safe."}
 - 08:30 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_planks","count":6}],"say":"Tommy, giving you the 6 oak planks now."}
 - 08:30 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":330}}],"say":"Tommy, I can't see you from the edge, so the planks stay with me. Call out if you can see me, and I'll be back at the shaft edge.",
+- 10:53 act: {"say":"Hello Leonardo. I am very hungry and have no food. Do you have any bread, wheat or meat to spare?","reasoning":"Hunger is 4 with no edible food. Leonardo is in reach. Asking for food is the ne
+- 10:55 act: {"say":"Anyone with bread, wheat, fish or meat to spare? I have hunger 4 and no food. I can trade oak logs, birch planks or seeds.","reasoning":"No reply yet to Leonardo. Hunger is the pressing need; 
+- 10:55 act: {"intent":{"goal":"fish_north_shore","program":"travel","arguments":{"target":{"x":-319,"y":64,"z":268}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"li
+- 10:55 act: {"actions":[{"do":"use","at":{"x":-319,"y":62,"z":265},"item":"fishing_rod"}],"reasoning":"At the shore, water three blocks north. Cast the rod toward the water to try for salmon."}
+- 10:55 act: {"actions":[{"do":"use","at":{"x":-319,"y":64,"z":267},"item":"fishing_rod"}],"reasoning":"Using the water block directly failed. Try using the rod toward the grass beside the water, facing the lake."
+- 10:55 act: {"say":"Picard: fishing rod use at the water failed twice (\"that block cannot be used that way\"). If anyone has fished here successfully, tell me how. I still need food, hunger 4.","reasoning":"Two 
+- 10:58 act: {"actions":[{"do":"goto","target":{"x":-333,"y":64,"z":266}},{"do":"attack","target":"salmon"}],"reasoning":"Salmon are visible 18 blocks west in the water. Walk along the shore toward them and try to
+- 10:59 act: {"actions":[{"do":"goto","target":{"x":-316,"y":64,"z":272}}],"reasoning":"I am standing in shallow water on sand and the salmon has gone. Get back onto dry grass to the south before anything else."}
+- 10:59 act: {"actions":[{"do":"unstick"}],"reasoning":"I am in a pit on dirt, trapped. Use unstick to climb out before dark."}
+- 10:59 act: {"intent":{"goal":"dirt_wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
