@@ -1,1 +1,1 @@
-Day 246 at white beds (-270,67,318), night and clear. Healthy/full, no food carried; group all close. Sleeping failed twice because phantom 4 blocks and creeper 10 blocks away; set bounded rest intent to sleep at bed, awaiting finish/precondition/damage. Avoid hostile south; be ready to resume after wait.
+Day 247 dusk at white beds, healthy and hunger 19. Sleeping failed because it is not night yet; rest intent is pending. Stay sheltered at group beds and wait for night/precondition result, then reflect after sleep.
