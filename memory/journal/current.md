@@ -27,3 +27,30 @@
 - 20:03 act: {"actions":[{"do":"sleep"}],"say":"Picard going to sleep at the white bed 415,107,-1036 in the group's sight. Empty-handed, health 20, hunger 20. Count me at first light, Billy."}
 - 20:07 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1020}}],"say":"Picard walking to Billy at 390,107,-1020 in daylight, empty-handed, health 20, hunger 20. Count me for the walk."}
 - 20:16 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1021}},{"do":"sleep"}],"say":"Picard, dusk. Walk is off for today. Going to the bed row near Kimberly and Jason at 389,107,-1021, empty-handed, 
+- 20:20 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1025}}],"say":"Picard walking to the bed row at 401,107,-1025 to be counted by Billy, empty-handed, health 20, hunger 20."}
+- 20:20 act: {"actions":[],"say":"Picard here at 400,107,-1025 with Troi and Riker near, empty-handed, health 20, hunger 20. Billy, I am in view for the count."}
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Picard, night. Going to the white bed at 415,107,-1036 in the group's sight. Health 20, hunger 20, empty-handed. C
+- 20:33 act: {"actions":[],"say":"Picard at the bed row, 430,107,-1037, health 20, hunger 20, empty-handed. Billy, I am in view here at first light. Count me when you call the walk."}
+- 20:37 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1050}}],"say":"Billy, Picard coming to you now in daylight with Tommy, Data, Troi and Lewis. Hold still; I am empty-handed, health 20."}
+- 20:37 act: {"actions":[],"say":"Billy, Picard here at 411,107,-1050, in your view, health 20, hunger 20, empty-handed. With Lewis, Tommy and Data, that is four in sight. Count us."}
+- 20:39 act: {"actions":[],"intent":{"goal":"walk_with_billy_group","program":"follow","arguments":{"target":"Billy"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 20:39 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Picard walking to the bed row at 416,107,-1034 with Lewis and Troi, in the group's sight. Empty-handed, health 20, hunger 20."}
+- 20:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Picard, night. Going to sleep at the bed row near Billy and Data, in the group's sight. Health 20, hunger 20, empt
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1035}}],"say":"Billy, Picard walking to you at 414,107,-1035 now, health 20, hunger 20, empty-handed. Count me as the fourth in your sight."}
+- 20:48 act: {"actions":[],"say":"Billy, Picard holding here at 413,107,-1035 in view, health 20, hunger 20. I was not in your count, so I stay behind. Count me for the next walk."}
+- 20:52 act: {"actions":[],"say":"Billy, Picard here at 413,107,-1035, in your sight, health 20, hunger 20. Holding at the bed row; the walk waits for your call and your health."}
+- 20:56 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard, night. Going to the white bed at 415,107,-1036 in the group's sight, health 20, hunger 20, empty-handed. C
+- 20:57 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Picard at the white bed by 401,107,-1023, night, health 20, hunger 20, empty-handed. Still in the group's sight. T
+- 20:57 act: {"actions":[],"say":"Picard here at 402,107,-1023, night, health 20, hunger 20. Only 6 of 10 sleeping so far. I will hold here in sight and wait for more to lie down before I try the bed again."}
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Billy, Picard coming to the bed row at 416,107,-1034 now, in your sight, health 20, hunger 16... no, hunger 20, empty-handed. Cou
+- 21:01 act: {"actions":[],"say":"Billy, Picard is with you at 417,107,-1034 now: Lewis, Tommy, Data, Riker and me in your sight. Health 20, hunger 20, empty-handed. Count me, and I will hold until you call the wa
+- 21:13 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Picard, night. Going to the spare bed at 413,107,-1041 on the bed row, in the group's sight. Health 20, hunger 20,
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Picard, dusk. Sleeping at the spare bed 413,107,-1041 on the bed row, in the group's sight. Health 20, hunger 20, 
+- 21:25 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Billy, Picard coming to the bed row center at 416,107,-1034 to be in your sight. Health 20, hunger 20, empty-handed. Count me, an
+- 21:34 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Picard, dusk. Going to the white bed at 413,107,-1041 in the group's sight. Health 20, hunger 20, empty-handed. Bi
+- 21:34 act: {"actions":[],"say":"Picard in bed at 413,107,-1041, in the group's sight. Only 3 of 10 asleep so far, so I hold and will try again once more lie down. Health 20, hunger 20."}
+- 21:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Good morning. Picard at the bed row center, 416,107,-1034, in Billy's sight. Health 20, hunger 20, empty-handed. Billy, count me.
+- 21:50 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Picard, dusk. Going to the white bed at 415,107,-1037 in the group's sight, health 20, hunger 20, empty-handed. Bi
+- 21:54 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1034}}],"say":"Billy, Picard moving to your center at 428,107,-1034 to be in your sight. Health 20, hunger 20, empty-handed. Count me."}
+- 22:03 act: {"actions":[],"say":"Billy, Picard here at 427,107,-1034, in your sight, health 20, hunger 20, empty-handed. Counted for first light. Holding until you call the walk."}
+- 22:15 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Picard, dusk. Going to the spare white bed at 413,107,-1041 in the row's sight. Health 20, hunger 20, empty-handed
