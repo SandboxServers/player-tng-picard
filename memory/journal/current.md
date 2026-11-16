@@ -7,3 +7,25 @@
 - 12:41 act: {"say":"Picard, morning of day 357. Health 18, hunger 17. I have not seen sheep since I came to the bed row, Data, sorry. I hold my melon and beef for the lowest and will look for sheep with the group
 - Day 358, night, waking 469: at bed row 416,107,-1037, health 18, hunger 17. Data and Worf are near the beds (Worf bringing wool to Data). Still holding melon and beef for the lowest. Going to sleep at my bed.
 - 12:49 act: {"say":"Picard, dusk of day 357. Hop is off after the bows, so I hold at my bed here. Sleeping now with the group in reach. Melon and beef for the lowest.","actions":[{"do":"sleep"}]}
+- 13:03 act: {"actions":[{"do":"sleep"}],"say":"Picard here, night on day 358 at the bed row. Health 18, hunger 17. Holding 3 melon and 2 beef for the lowest. Sleeping now."}
+- Day 358 night: at bed 415,107,-1037 with group in reach, health 18, hunger 17. Thunder, no cow hop. Sent sleep. Melon and beef held for the lowest.
+- Day 358 morning: slept at bed 415,107,-1037. Health 18, hunger 17, at the bed row with Worf near. Holding for the lowest; waiting for Billy's hop call.
+- Day 358 morning: Billy called the hop with four in sight (Picard, Leonardo, Kimberly, Tommy). I follow Billy toward 396,-1010. Told Worf no sheep or water seen yet.
+- Day 359 morning: my follow to Billy failed (intent ended, precondition). Holding at bed 416,107,-1037, health 18, hunger 17. Melon and beef held for the lowest. Waiting for Billy's next call.
+- Day 359 dusk: hop called off, group back at the bed row. Sleeping at bed 415,107,-1037 with health 18, hunger 17. Lewis at health 14, hunger 17, offered food.
+- Day 359 dusk: Billy's group got as far as 385,-1036 and stopped; the hop is off until morning. I held at my bed, not walking alone, and am sleeping now at 415,107,-1037 with Worf in reach.
+- Day 360 dusk: Worf has 13 oak planks, needs 25 for the ring and roof; Kimberly gave 12, so he will build it in the morning in sight. Gave Jason 1 oak plank (Wesley's spare). Sleeping at bed 429,107,-1037. Give worked; sleep was only 2 of 10; the second sleep worked. Asleep at dusk, Jason in reach, health 18, hunger 17.
+- Day 360 morning: slept at bed 429,107,-1037, woke at the row. Health 18, hunger 17. Nobody at 6 or below. Holding for Billy's hop call to 385,-997.
+- Day 359 morning: slept at bed, woke at the row. Health 18, hunger 17. Nobody at 6 or below. Holding for Billy's hop call.
+- 13:03 act: {"actions":[{"do":"sleep"}]}
+- 13:08 act: {"actions":[],"say":"Picard, morning of day 358. Health 18, hunger 17, at the bed row. Holding melon and beef for the lowest. Ready for Billy's cow hop when he calls it."}
+- 13:12 act: {"actions":[],"intent":{"goal":"follow_billy_cow_hop","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 13:12 act: {"actions":[],"say":"Picard: my follow to Billy failed, so I am holding at the bed row, not walking alone. Billy, call me again when four are in sight."}
+- 13:16 act: {"actions":[{"do":"sleep"}],"say":"Picard: dusk on day 359. The hop is off for today. Sleeping at my bed here with the group in reach. Melon and beef held for the lowest."}
+- 13:20 act: {"actions":[],"say":"Picard, morning of day 359. Health 18, hunger 17, at the bed row. Holding melon and beef for the lowest. Ready for Billy's hop when he calls it."}
+- 13:24 act: {"actions":[],"say":"Picard: I am at the bed row 416,-1037 and cannot see Billy's group from here, so I hold rather than walk alone. Billy, if you want me in the hop, say so and I will come into sight
+- 13:28 act: {"actions":[{"do":"sleep"}],"say":"Picard: dusk on day 359. Billy's hop stopped for today. I am sleeping at my bed here with Worf in reach. Melon and beef held for the lowest."}
+- 13:32 act: {"actions":[],"say":"Picard, morning of day 360. Health 18, hunger 17, at the bed row. Holding melon and beef for the lowest. Billy, I am in sight of Wesley; call the hop when four are together."}
+- 13:36 act: {"actions":[],"say":"Picard: Worf, I would like to see the plank ring and roof too. I am at 429,107,-1035 by the beds, in sight of Jason and Wesley. Tell me where to stand."}
+- 13:40 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"oak_planks","count":1},{"do":"sleep"}],"say":"Picard: Jason, here is one oak plank from Wesley's spare, for your shelter. Dusk on day 360, sleeping 
+- 13:41 act: {"actions":[{"do":"sleep"}],"say":"Picard: Jason's plank is given. Dusk on day 360, sleeping again at my bed here with Jason in reach."}
