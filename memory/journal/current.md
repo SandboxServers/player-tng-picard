@@ -2,3 +2,10 @@
 - Day 362, night. At the white bed 430,107,-1037 with the group. Health 18, hunger 17. Holding 3 melon, 2 beef for the lowest. Sleep worked; no one needs food yet. Next: at morning check hunger, then Billy's hop only when called with four in sight.
 - Day 363 morning. At bed row, health 18, hunger 17. Said my hold and waited for Billy's cow walk call. Next: wait; give food to whoever drops to 6 or below.
 - 14:27 act: {"say":"Picard here at the bed row. Health 18, hunger 17. Holding 3 melon and 2 beef for the lowest. Billy, I am in sight and ready for your cow walk when four are together.","intent":{"goal":"hold_at
+- 14:34 act: {"actions":[{"do":"sleep"}],"say":"Picard here, at the white bed. Hunger 17, health 18. Holding 3 melon and 2 beef for whoever falls to 6 or below."}
+- 14:34 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 14:38 act: said I am in Billy's sight, holding 3 melon and 2 beef. Health 18, hunger 17. Waiting for the cow walk call (needs four in sight).
+- Day 363 morning. Slept twice at white bed 443,107,-1050; sleep counted 6 of 10. Kimberly health 11, Trini lowest at hunger 13 per last talk; nobody at 6 yet. Next: wait for Billy's call.
+- 14:46 act: {"actions":[{"do":"sleep"}],"say":"Picard at the white bed, dusk. Health 18, hunger 17. Holding 3 melon and 2 beef for whoever drops to 6. Going to sleep.
+- Dusk, day 363. Sleep refused: "it is not night" yet. Staying at the white bed 443,107,-1051, health 18, hunger 17. Waiting for full night, then sleep.
+- Day 364, morning, thunder. Still at the bed row, health 18, hunger 17. Billy is counting who is in sight for the cow walk; I stay put and wait for his call. Nobody at hunger 6 yet."}

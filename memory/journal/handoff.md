@@ -1,7 +1,7 @@
-# Handoff, day 361 (slept)
+# Handoff, day 364 (morning, thunder)
 
-Position: white bed 430,107,-1037, bed row, in sight of the camp.
-Health 18, hunger 17 at sleep. Holding 3 melon and 2 beef for whoever drops to hunger 6 or below.
-Watch: Kimberly (health 9, hunger 16, eating melon) and Trini (health 13, hunger 16).
+Position: at the white bed row, 444,107,-1051, in sight of camp (Billy, Troi, Wesley, Kimberly, Lewis near).
+Health 18, hunger 17. Holding 3 melon and 2 beef for whoever drops to hunger 6 or below. Confirm who first.
+Days since sleep: 2. I could not sleep at dusk ("not night"); sleep again at the next full night at a white bed.
 No errand running. Not moving alone.
-Next: at morning, check hunger; give to the lowest after confirming who it is; join Billy's cow hop only when he calls and four are in sight.
+Next: wait for Billy's cow-walk call (needs four in sight); at night, sleep at a white bed in view of the group; give food to the lowest after confirming.
