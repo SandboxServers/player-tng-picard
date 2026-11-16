@@ -13,3 +13,5 @@
 - 15:05 act: {"actions":[],"say":"Picard, morning at the beds. Health 18, hunger 17, nobody at 6 yet. Holding 3 melon and 2 beef for the lowest. Ready for Billy's cow walk when four are in sight."}
 - 15:07 say: {"text":"Picard here, at the white beds. It is dark and no one is in sight. Is anyone near who would sleep here tonight?"}
 - Day 364, dark. At white bed 444,107,-1051, health 18, hunger 17, no one in sight. Wesley says he sleeps at a bed to the north. I stay put and wait for the group; wait session was cut off by a session change, so I will wait again.
+- 15:14 say: {"text":"Picard here, at the white bed, in sight of the group. Health 18, hunger 17. Holding 3 melon and 2 beef for the lowest. Ready for Billy's cow walk when four are in sight."}
+- 15:19 say: {"text":"Picard, in Billy's sight at the white bed. Health 18, hunger 17. Counting: Troi, Wesley, Lewis, Riker if he is here. Ready when four are in sight, Billy."}
