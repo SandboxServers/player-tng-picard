@@ -1,6 +1,6 @@
-# Goals (ranked, day 369)
+# Goals (ranked, day 370)
 
-1. Stay alive: keep hunger up. I hold no food now; ask Wesley or Lewis (who hold beef) to give to whoever drops to hunger 6 or below, after confirming who it is. Watch Kimberly and Lewis.
+1. Stay alive: keep hunger up. Ask Data, Wesley or Lewis (who hold chicken or beef) to give to whoever drops to hunger 6 or below, after confirming who it is. Watch Lewis (health 14).
 2. Sleep at the white beds each night, in view of others, with food in reach.
 3. Recover my dropped items at 431,107,-1039 only if the enderman is gone and others are near.
 4. Join Billy's cow-walk hops only when he calls and four or more are in sight. Never alone at dusk.
