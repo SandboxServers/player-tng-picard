@@ -14,3 +14,11 @@
 - 00:46 act: {"actions":[{"do":"sleep"}],"say":"Dusk is coming. I am in my bed at the beds with a melon slice and a chicken. Anyone weak who finds me, say so."}
 - 00:46 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the white beds. Nobody near, so I will rest here in the bed and keep the chicken for when hunger is 6."}
 - 00:50 act: {"actions":[],"say":"Morning. Picard at the white beds, 388,107,-1065. Health 13, hunger 16. I hold one melon slice and one chicken for anyone weak. Johnny, Kimberly, Zack, call out if you can hear me
+- 00:54 act: {"actions":[],"say":"Johnny, you have melon and chicken already, so you are not the weakest. Macdonald and Worf are close. I keep my chicken for whoever drops below 10. Anyone weaker, call out and it 
+- 01:02 act: {"actions":[],"say":"Picard at the beds, health 13, hunger 16. I am holding my melon and chicken. Macdonald, go well to the cows; I will keep watch here."}
+- 01:11 act: {"actions":[{"do":"sleep"}],"say":"Jason, thank you, I am not weak yet. Hunger 16, health 13. I am in my bed at 388,107,-1065 for the night, holding a melon and a chicken for anyone weaker."}
+- 01:27 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. Picard in my bed at 388,107,-1065. Melon and chicken for whoever is weakest at dawn."}
+- 01:39 act: {"actions":[],"say":"Lewis, Picard here at the beds, 388,107,-1065. I have a melon slice for you. Step into my sight and it is yours."}
+- 01:45 act: {"actions":[],"say":"Kimberly, I have only one plank, but I can help you learn the wall in daylight. Clark's closed shelter at 429,107,-1077 is a good one to look at. I will come to you once the sun i
+- 01:49 act: {"actions":[],"say":"Chapman, I have no sword, so I will not go after cows. Lewis has 40 planks if you need them for a wall."}
+- 02:32 act: {"actions":[{"do":"use","at":{"x":388,"y":107,"z":-1065}}],"say":"Night. I'm in my bed at the beds. I hold a melon and a chicken for whoever is weakest at dawn."}
