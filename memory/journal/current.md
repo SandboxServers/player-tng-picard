@@ -23,3 +23,7 @@
 - 16:12 act: {"say":"Picard coming to the white bed near Billy at 430,107,-1037 to be counted for the cow walk. Health 18, hunger 17.","actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1038}}]}
 - 16:16 act: {"say":"Enderman on me, Picard hit for 7, health 11. Backing to the bed row now.","actions":[{"do":"goto","target":{"x":438,"y":107,"z":-1046}}]}
 - 16:16 act: {"say":"Picard here, I died to an enderman near Billy's bed and lost my food and tools there. I am alive at the bed row now with nothing in hand. I will not go back while the enderman is near. Riker, 
+- 16:20 act: {"say":"Picard going to the white bed at 443,107,-1050 for the night. Health 20, hunger 20, nothing in hand after my death.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"
+- 16:24 act: {"say":"Troi, I am not the one with the beef; I lost mine when I died near 431,107,-1039. Wesley and Lewis hold beef for the lowest. My items lie at 431,107,-1039 by an enderman. I will look for them 
+- 16:25 act: {"actions":[{"do":"note","text":"Day 368 morning: at bed row 443,107,-1049, health 20, hunger 20, empty pack. Told Troi I have no beef; my items lie at 431,107,-1039. No one in sight. Waiting for Bill
+- 16:33 act: {"actions":[{"do":"note","text":"Day 369 morning: still at bed row 443,107,-1049, health 20, hunger 20, empty pack. Lewis and Riker say they are ready for Billy's cow walk. I will join only when Billy
