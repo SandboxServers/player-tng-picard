@@ -62,3 +62,13 @@
 - 22:34 act: {"say":"Riker, Picard here, empty-handed. Leonardo, Trini and Jason are feeding you. Eat as soon as it reaches you."}
 - 22:45 act: {"say":"Picard here at the bed row, health 20, hunger 20, empty-handed. Holding for Billy's walk call. I will ask for food at hunger 6."}
 - 22:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 22:57 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1034}}],"say":"Picard at the row, health 20, hunger 20, empty-handed. Moving to Billy's centre to be counted. Holding for the walk call."}
+- 23:05 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Picard going to the bed at 429,107,-1036 in Billy's row, health 20, hunger 20. Count me at first light."}
+- 23:09 act: {"actions":[{"do":"goto","target":{"x":438,"y":107,"z":-1025}}],"say":"Picard, health 20, hunger 20, empty-handed, moving east to Billy's sight to be counted."}
+- 23:17 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Picard going to the bed at 415,107,-1050, in the row. Health 20, hunger 20. Kimberly, you are at 4.3 with a 
+- 23:18 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1034}}],"say":"Picard back to Billy's centre, health 20, hunger 20. Sleep was refused, it is not yet night here."}
+- 23:18 act: {"say":"Phantom seen 14 blocks south at 425,120,-1030. Everyone stay near the bed row, in the group's sight. I am at 427,107,-1035, health 20."}
+- 23:30 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Night. Picard going to the white bed at 429,107,-1037 in Billy's sight. Count me at first light."}
+- 23:30 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 23:30 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 23:30 act: {"actions":[{"do":"sleep"}]}
