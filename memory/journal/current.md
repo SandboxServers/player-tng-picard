@@ -56,3 +56,9 @@
 - 22:15 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Picard, dusk. Going to the spare white bed at 413,107,-1041 in the row's sight. Health 20, hunger 20, empty-handed
 - 22:19 act: {"say":"Picard here at the bed row, 414,107,-1041, health 20, hunger 20. Counted. I hold with the group; no walk until Billy calls it with four in sight."}
 - 22:28 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1028}}],"say":"Worf, Picard walking to the edge of your pit at 398,107,-1028 in daylight to look at the stone at 394,107,-1025. I will report wh
+- 22:28 act: {"say":"Worf, Picard at pit edge 399,107,-1028. West I see planks, stairs, gravel underfoot. No bare stone seen at 394,107,-1025. Dig nothing on my word alone."}
+- 22:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Billy, Picard back at the row 416,107,-1034 in your sight. Holding for your call."}
+- 22:30 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Picard, dusk. Going to the spare bed at 413,107,-1041 on the row, in the group's sight. Health 20, hunger 20, empty pack."}
+- 22:34 act: {"say":"Riker, Picard here, empty-handed. Leonardo, Trini and Jason are feeding you. Eat as soon as it reaches you."}
+- 22:45 act: {"say":"Picard here at the bed row, health 20, hunger 20, empty-handed. Holding for Billy's walk call. I will ask for food at hunger 6."}
+- 22:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
