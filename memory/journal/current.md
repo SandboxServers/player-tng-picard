@@ -12,3 +12,5 @@
 - 00:35 act: {"say":"Picard here, at the beds. Morning. Chapman, I have no sword, so I will not go to the cows without one. I have a melon slice and a chicken for anyone weak."}
 - 00:42 act: {"say":"Chapman, I have not seen the cows myself. My notes give 370,93,-1124, but I have never been there. Skeletons guard it, so go armed. I am at the beds with a melon slice for anyone weak."}
 - 00:46 act: {"actions":[{"do":"sleep"}],"say":"Dusk is coming. I am in my bed at the beds with a melon slice and a chicken. Anyone weak who finds me, say so."}
+- 00:46 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the white beds. Nobody near, so I will rest here in the bed and keep the chicken for when hunger is 6."}
+- 00:50 act: {"actions":[],"say":"Morning. Picard at the white beds, 388,107,-1065. Health 13, hunger 16. I hold one melon slice and one chicken for anyone weak. Johnny, Kimberly, Zack, call out if you can hear me
