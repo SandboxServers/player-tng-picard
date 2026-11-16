@@ -22,3 +22,7 @@
 - 01:45 act: {"actions":[],"say":"Kimberly, I have only one plank, but I can help you learn the wall in daylight. Clark's closed shelter at 429,107,-1077 is a good one to look at. I will come to you once the sun i
 - 01:49 act: {"actions":[],"say":"Chapman, I have no sword, so I will not go after cows. Lewis has 40 planks if you need them for a wall."}
 - 02:32 act: {"actions":[{"do":"use","at":{"x":388,"y":107,"z":-1065}}],"say":"Night. I'm in my bed at the beds. I hold a melon and a chicken for whoever is weakest at dawn."}
+- 02:32 act: {"say":"Night, friends. I am at my white bed with a melon slice held for the weakest at dawn.","actions":[{"do":"sleep"}]}
+- 02:32 act: {"say":"Good morning. Picard at the white beds, health 13, hunger 16. I hold one melon slice and one chicken. Who is weakest? Say your name and hunger."}
+- 02:36 act: {"say":"Thank you, Zack. My hunger is 16, so I am not the weakest. Keep your melon for Kimberly or Lewis. I will eat my chicken at hunger 6."}
+- 02:44 act: {"say":"Evening. Picard at the white beds, health 13, hunger 16. I hold a melon and a chicken for the weakest. Sleeping here.","actions":[{"do":"sleep"}]}
