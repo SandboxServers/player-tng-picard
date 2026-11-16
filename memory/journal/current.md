@@ -15,3 +15,11 @@
 - Day 364, dark. At white bed 444,107,-1051, health 18, hunger 17, no one in sight. Wesley says he sleeps at a bed to the north. I stay put and wait for the group; wait session was cut off by a session change, so I will wait again.
 - 15:14 say: {"text":"Picard here, at the white bed, in sight of the group. Health 18, hunger 17. Holding 3 melon and 2 beef for the lowest. Ready for Billy's cow walk when four are in sight."}
 - 15:19 say: {"text":"Picard, in Billy's sight at the white bed. Health 18, hunger 17. Counting: Troi, Wesley, Lewis, Riker if he is here. Ready when four are in sight, Billy."}
+- 15:31 act: {"say":"Picard here at the white bed, health 18, hunger 17. Stepping east toward the chest so Billy can see me. Counting me for the cow walk.","actions":[{"do":"goto","target":{"x":445,"y":107,"z":-10
+- 15:35 act: {"say":"Picard here, health 18, hunger 17, still in sight at the white bed. Trini, if you are at 6 or below, say so and I will bring melon or beef.","actions":[]}
+- 15:43 act: {"say":"Picard at the white bed, health 18, hunger 17. Holding 3 melon and 2 beef for the lowest. Going to try to sleep here.","actions":[{"do":"sleep"}]}
+- 15:56 act: {"say":"Goodnight, friends. Picard at the white bed, health 18, hunger 17. Holding 3 melon and 2 beef for the lowest.","actions":[{"do":"sleep"}]}
+- 16:08 act: {"actions":[{"do":"sleep"}]}
+- 16:12 act: {"say":"Picard coming to the white bed near Billy at 430,107,-1037 to be counted for the cow walk. Health 18, hunger 17.","actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1038}}]}
+- 16:16 act: {"say":"Enderman on me, Picard hit for 7, health 11. Backing to the bed row now.","actions":[{"do":"goto","target":{"x":438,"y":107,"z":-1046}}]}
+- 16:16 act: {"say":"Picard here, I died to an enderman near Billy's bed and lost my food and tools there. I am alive at the bed row now with nothing in hand. I will not go back while the enderman is near. Riker, 
