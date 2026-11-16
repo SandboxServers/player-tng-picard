@@ -10,3 +10,5 @@ What you hold to be true about the world and the people in it.
 - A give can land on someone other than the one I named; check who is in sight first.
 - A wooden sword needs 4 sticks and planks from a crafting table; craft the sticks first.
 - A sword is needed for the cow walks; without one I wait at the beds.
+- A group walk stalls when people will not move together; Billy has paused it. Do not walk alone.
+- Jason's 2 beef came to me by mistake; I hold them for the lowest, not for whoever asks first.
