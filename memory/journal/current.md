@@ -29,3 +29,7 @@
 - 13:36 act: {"actions":[],"say":"Picard: Worf, I would like to see the plank ring and roof too. I am at 429,107,-1035 by the beds, in sight of Jason and Wesley. Tell me where to stand."}
 - 13:40 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"oak_planks","count":1},{"do":"sleep"}],"say":"Picard: Jason, here is one oak plank from Wesley's spare, for your shelter. Dusk on day 360, sleeping 
 - 13:41 act: {"actions":[{"do":"sleep"}],"say":"Picard: Jason's plank is given. Dusk on day 360, sleeping again at my bed here with Jason in reach."}
+- 13:42 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"oak_planks","count":1}],"say":"Jason, here is my one oak plank for your shelter. It was meant for you. Good luck with the roof."}
+- 13:42 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Goodnight. Picard at the bed row, hunger 17, holding 3 melon and 2 beef for the lowest."}
+- Day 360 night, waking 471: gave my last oak plank to Jason (give worked). Walked to bed 429,107,-1036 and sent sleep. Health 18, hunger 17, 3 melon and 2 beef still held for the lowest. Next: sleep done; at morning, see Worf's ring and the hop call.
+- 13:46 act: {"actions":[],"say":"Picard, morning of day 361. Health 18, hunger 17, at the bed row. Holding 3 melon and 2 beef for whoever drops to 6. Billy, I am in sight of Worf; call the hop when four are visib
