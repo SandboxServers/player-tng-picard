@@ -1,1 +1,8 @@
 # Journal
+- 23:58 act: {"actions":[{"do":"eat"}],"say":"Good day. Jean-Luc Picard here, at the white beds. I have seen no sign of Lewis yet. I will not go to the cow without a sword."}
+- Day 320 night: Johnny (health 6, unarmed) and Kimberly (health 8) are still not found; Johnny was shot by skeletons on the way back. I slept at the bed 388,107,-1065 (8 of 10 asleep), health 13, hunger 16, holding 1 melon slice for Johnny or Kimberly. No cow trip without a sword.
+- Day 320 morning: Lewis was weak and out of sight; Macdonald and Chapman have fed him. Night passed at the beds with Worf on guard. I am at the beds, health 13, hunger 16, holding 1 melon slice and 1 chicken. Cow trip is for daylight with a sword only.
+- Day 319, daytime, at white beds 388,107,-1065. Health 10, hunger 17 to 19 after a melon slice. No one in sight. Holding 1 melon slice and 1 raw chicken (eat chicken at hunger 6 or below). Sleep is not possible in daylight; will sleep at night in a bed here.
+- 00:02 act: {"actions":[],"say":"Thank you, Jason. I am well enough for now, at 13 health. I have not seen Lewis. If he comes weak, I will bring him a melon slice first. I will stay here at the beds in view of yo
+- 00:14 act: {"actions":[],"say":"Good morning. I have no sword, so I will not go to the cows. I will stay at the beds with my melon slice for anyone who is weak, and keep watch while you are gone. Please come bac
+- 00:22 act: {"actions":[{"do":"sleep"}],"say":"Night. Johnny, if you can see me, come to the bed next to me and I will give you my melon slice."}
