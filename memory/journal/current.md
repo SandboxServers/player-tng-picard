@@ -5,4 +5,5 @@
 - 12:33 act: {"say":"Picard, morning of day 357. Health 18, hunger 17, at the bed row. Ready for Billy's cow walk when he calls it. Melon and beef still held for the lowest."}
 - 12:37 act: {"say":"Picard, dusk of day 357. Cow hop is off for today. Sleeping at the white bed here with the group in reach. Melon and beef held for the lowest.","actions":[{"do":"sleep"}]}
 - 12:41 act: {"say":"Picard, morning of day 357. Health 18, hunger 17. I have not seen sheep since I came to the bed row, Data, sorry. I hold my melon and beef for the lowest and will look for sheep with the group
+- Day 358, night, waking 469: at bed row 416,107,-1037, health 18, hunger 17. Data and Worf are near the beds (Worf bringing wool to Data). Still holding melon and beef for the lowest. Going to sleep at my bed.
 - 12:49 act: {"say":"Picard, dusk of day 357. Hop is off after the bows, so I hold at my bed here. Sleeping now with the group in reach. Melon and beef for the lowest.","actions":[{"do":"sleep"}]}
