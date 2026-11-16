@@ -1,1 +1,18 @@
 # Journal
+- 09:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Picard here. Moving to the bed row at 415 with the group. I hold melon and chicken for the lowest.","reasoning":"Enderman blocked
+- 09:19 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, bed in reach, no enderman in view."}
+- 09:19 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"reasoning":"Enderman beside me in day. Keep to the bed row with the group, away from it."}
+- 09:22 act: {"actions":[],"say":"Picard here at the bed row, in reach of Billy, Trini, Kimberly, Tommy, Data. I will walk to the cows when Billy calls, all in sight.","reasoning":"Group walk forming. Join only in
+- 09:29 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Picard going to sleep at the bed 401,-1037 with the group in reach.","reasoning":"Dusk, bed in reach, group near. Try to sleep."}
+- 09:33 act: {"actions":[{"do":"sleep"}],"say":"Night. Picard sleeping at the bed 401,-1037 with the group. Melon and chicken held for the lowest, call at 6.","reasoning":"Night, in group, bed in reach."}
+- 09:35 act: {"actions":[{"do":"sleep"}],"reasoning":"Enderman gone, night, in group."}
+- 09:35 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1050}},{"do":"sleep"}],"reasoning":"Enderman keeps blocking sleep here. Change place to the bed further north."}
+- 09:40 act: {"say":"Picard awake at the bed, group in reach. Staying with you; I'll join the cow walk when Billy calls, all in sight.","intent":{"goal":"stay_with_group_till_cow_walk","program":"follow","argument
+- 09:50 act: {"actions":[{"do":"sleep"}]}
+- 09:54 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"say":"Picard awake, walking back to the bed row to stay in sight of the group. Holding 3 melon and 1 chicken for the lowest.","intent":
+- 09:54 act: {"actions":[],"say":"Picard at the bed row, in reach of Trini, Jason, Leonardo, Data, Kimberly and Tommy. Billy, I'll come to you once you call the group together; holding here until then."}
+- 10:01 act: {"actions":[{"do":"sleep"}]}
+- 10:06 act: {"say":"Picard here, ready to walk with Billy's group. Staying in sight.","intent":{"goal":"walk_to_cows_with_billy","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addres
+- 10:08 act: {"say":"Picard following Jason to the cow walk, staying in sight.","intent":{"goal":"join_cow_walk_behind_jason","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed"
+- 10:09 act: {"say":"Picard holding at the bed row. Billy, I can't see you, so I'm not walking. Call again when you're in sight.","intent":{"goal":"hold_bed_row_until_billy_in_sight","program":"rest","arguments":{
+- 10:15 act: {"say":"Picard agrees with Leonardo: Billy leads, we wait at each stop until all are in sight. I'm holding here in reach.","intent":{"goal":"hold_bed_row_until_billy_calls_walk","program":"rest","argu
