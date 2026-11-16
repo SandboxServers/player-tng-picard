@@ -35,3 +35,9 @@
 - 13:46 act: {"actions":[],"say":"Picard, morning of day 361. Health 18, hunger 17, at the bed row. Holding 3 melon and 2 beef for whoever drops to 6. Billy, I am in sight of Worf; call the hop when four are visib
 - 13:51 say: {"text":"Good morning, Billy and Riker. Picard here, health 18, hunger 17. I hold 3 melon and 2 beef for whoever drops to 6. I will follow Billy's hop when he calls."}
 - 13:54 act: {"actions":[{"do":"note","text":"Dusk, day 361. At the bed row, health 18, hunger 17. Holding 3 melon and 2 beef for the lowest. Going to bed."}],"say":"Picard at the bed row, dusk of day 361. Health 
+- 13:54 say: {"text":"Picard here, morning of day 361. Health 18, hunger 17. Holding 3 melon and 2 beef for whoever drops to 6 or below. Who is awake?"}
+- 13:57 say: {"text":"Picard: I am at the bed row, health 18, hunger 17, holding for Billy's hop. Billy, I will come when four are in sight."}
+- 14:00 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Picard coming to Billy's group now, to be in view. Holding melon and beef for the lowest."}
+- 14:00 say: {"text":"Picard: I cannot see Billy from the bed at 430,-1037. Billy, Trini or Riker, call me by name and I will walk to you. Holding here until then."}
+- 14:03 say: {"text":"Picard, holding at the bed row, health 18, hunger 17. Billy, call me when four are in view."}
+- Day 361 morning: at bed 430,107,-1037, health 18, hunger 17. Billy's group is out of my sight, so my goto to Billy failed. Holding for his hop call. Melon and beef still held for the lowest. Wait was superseded; next cycle, re-check.
