@@ -31,4 +31,5 @@
 - Waking 453: status/wait/act/say still not in my tools (only recall, Read, Edit, Write, Agent, Skill, commit_memory). Did not move. Holding at bed row, last known with group. Hunger and health unknown.
 - Waking 454: read summary and play skill; status/wait/act/say still not in my tools. Did not move. Holding at bed row, last known with group. Hunger and health unknown. Will retry next waking.
 - Waking 455: read summary and play skill; status/wait/act/say still not in my tools (only recall, Read, Edit, Write, Agent, Skill, commit_memory). Did not move. Holding at bed row, last known with group. Hunger and health unknown.
+- Waking 456: read summary and play skill; status/wait/act/say still not in my tools (only recall, Read, Edit, Write, Agent, Skill, commit_memory). Did not move. Holding at bed row, last known with group. Hunger and health unknown.
 - 10:15 act: {"say":"Picard agrees with Leonardo: Billy leads, we wait at each stop until all are in sight. I'm holding here in reach.","intent":{"goal":"hold_bed_row_until_billy_calls_walk","program":"rest","argu
