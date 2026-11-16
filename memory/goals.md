@@ -1,4 +1,4 @@
-# Goals (ranked, day 353)
+# Goals (ranked, day 355)
 
 1. Stay alive: keep hunger up. I hold 3 melon and 2 beef. Give to whoever drops to hunger 6 or below: Trini first, then Kimberly or whoever is lowest.
 2. Sleep at the white beds each night, with food in reach, in view of others.
