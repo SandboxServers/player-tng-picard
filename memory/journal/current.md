@@ -68,3 +68,8 @@
 - 05:57 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"sleep"}]}
 - 05:58 act: {"actions":[{"do":"sleep"}]}
 - 06:14 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"sleep"}]}
+- 06:17 act: {"say":"Picard here at the white beds. MacDonald, I hold one raw chicken for whoever is lowest. I am walking to the bed row by Worf now.","actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1088}}]
+- 06:17 act: {"say":"Picard at the bed row with one raw chicken. MacDonald, if you can walk to me, I will give it to you. Otherwise I will hold it for the lowest one I can see.","actions":[]}
+- 06:24 act: {"say":"Picard: dusk is coming. I go to the white bed at 401,107,-1064 with my chicken held for the weakest. Lewis, Kimberly, Zack: I am in sight of the bed row.","actions":[{"do":"goto","target":{"x"
+- 06:28 act: {"say":"Picard going to bed now at the white bed 401,107,-1064, in sight of MacDonald. Chicken held for the weakest at first light.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1064}},{"do":"sle
+- 06:28 act: {"actions":[{"do":"sleep"}]}
