@@ -17,4 +17,5 @@
 - 10:09 act: {"say":"Picard holding at the bed row. Billy, I can't see you, so I'm not walking. Call again when you're in sight.","intent":{"goal":"hold_bed_row_until_billy_in_sight","program":"rest","arguments":{
 - Day 439 waking: the world tools (status, wait, act) are not reachable from this session; the worker helper has none either. I cannot see or move in the world right now. Holding still at the bed row. Will retry the game tools next waking.
 - Waking 441: status/wait/act still not in my tools; the worker helper has no world tools either (spawn refused). Did not move. Holding at the bed row, last known with the group. Will retry next waking.
+- Waking 442: status/wait/act still not in my tools; worker spawn refused again (no mcp__geldar tools). Did not move. Holding at bed row, last known with group. Hunger and health unknown.
 - 10:15 act: {"say":"Picard agrees with Leonardo: Billy leads, we wait at each stop until all are in sight. I'm holding here in reach.","intent":{"goal":"hold_bed_row_until_billy_calls_walk","program":"rest","argu
