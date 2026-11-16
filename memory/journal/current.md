@@ -54,3 +54,5 @@
 - 21:54 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1034}}],"say":"Billy, Picard moving to your center at 428,107,-1034 to be in your sight. Health 20, hunger 20, empty-handed. Count me."}
 - 22:03 act: {"actions":[],"say":"Billy, Picard here at 427,107,-1034, in your sight, health 20, hunger 20, empty-handed. Counted for first light. Holding until you call the walk."}
 - 22:15 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Picard, dusk. Going to the spare white bed at 413,107,-1041 in the row's sight. Health 20, hunger 20, empty-handed
+- 22:19 act: {"say":"Picard here at the bed row, 414,107,-1041, health 20, hunger 20. Counted. I hold with the group; no walk until Billy calls it with four in sight."}
+- 22:28 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1028}}],"say":"Worf, Picard walking to the edge of your pit at 398,107,-1028 in daylight to look at the stone at 394,107,-1025. I will report wh
