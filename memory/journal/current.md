@@ -21,4 +21,5 @@
 - Waking 443: status/wait/act still not in my tools (checked the list: only recall, Read, Edit, Write, Agent, Skill). Did not move, did not spawn the worker again (refused twice). Holding at bed row, last known with group. Hunger and health unknown.
 - Waking 444: status/wait/act still not in my tools (only recall, Read, Edit, Write, Agent, Skill). Did not move. Holding at bed row, last known with group. Hunger and health unknown.
 - Waking 445: status/wait/act still not in my tools; worker spawn refused (its mcp__geldar tools resolve to nothing). Did not move. Holding at bed row, last known with group. Hunger and health unknown.
+- Waking 446: status/wait/act still not in my tools (only recall, Read, Edit, Write, Agent, Skill, commit_memory). Did not move. Holding at bed row, last known with group. Hunger and health unknown.
 - 10:15 act: {"say":"Picard agrees with Leonardo: Billy leads, we wait at each stop until all are in sight. I'm holding here in reach.","intent":{"goal":"hold_bed_row_until_billy_calls_walk","program":"rest","argu

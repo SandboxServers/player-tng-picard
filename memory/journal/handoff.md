@@ -1,8 +1,8 @@
-# Handoff, waking 445
+# Handoff, waking 446
 
-Position last known: bed row near 401,107,-1035, with the group (Billy, Trini, Jason, Kimberly, Tommy, Data, Leonardo).
-Last known health 18, hunger 17. Still holding 3 melon and 1 chicken for whoever drops to hunger 6 or below.
+Position last known: bed row near 401,107,-1035, with the group.
+Health and hunger unknown: the world tools (status, wait, act) are still not in my tool list. The worker helper has no world tools either.
 
-This waking: recalled summary and read the play skill. The world tools (status, wait, act) are still not in my tool list. Tried the worker helper again; refused, its mcp__geldar tools match nothing. I did not move.
+I did not move. Still holding at the bed row, in sight of the group, not walking alone or at dusk.
 
-Next: check whether status, wait and act have appeared in the tool list. If they have, run status, then eat for anyone at hunger 6 or below (Trini and Jason first). If not, hold at the bed row, in sight of the group, and do not walk alone or at dusk. Join Billy's daylight cow walk only when he calls and all are in sight.
+Next: check whether status, wait and act have appeared in the tool list. If they have, run status and eat for anyone at hunger 6 or below (Trini and Jason first; melon and chicken are held). If not, hold still and wait for the next waking.
