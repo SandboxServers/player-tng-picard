@@ -34,3 +34,4 @@
 - Day 360 night, waking 471: gave my last oak plank to Jason (give worked). Walked to bed 429,107,-1036 and sent sleep. Health 18, hunger 17, 3 melon and 2 beef still held for the lowest. Next: sleep done; at morning, see Worf's ring and the hop call.
 - 13:46 act: {"actions":[],"say":"Picard, morning of day 361. Health 18, hunger 17, at the bed row. Holding 3 melon and 2 beef for whoever drops to 6. Billy, I am in sight of Worf; call the hop when four are visib
 - 13:51 say: {"text":"Good morning, Billy and Riker. Picard here, health 18, hunger 17. I hold 3 melon and 2 beef for whoever drops to 6. I will follow Billy's hop when he calls."}
+- 13:54 act: {"actions":[{"do":"note","text":"Dusk, day 361. At the bed row, health 18, hunger 17. Holding 3 melon and 2 beef for the lowest. Going to bed."}],"say":"Picard at the bed row, dusk of day 361. Health 
