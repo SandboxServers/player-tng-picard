@@ -6,3 +6,24 @@
 - 18:14 act: {"actions":[],"say":"Picard, morning, at the bed row, health 20, hunger 20. I am in the open where Billy can see me. Waiting on his cow call."}
 - 18:18 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Billy, Picard coming to you now, to stand in your view so you can count us."}
 - 18:22 act: {"actions":[{"do":"sleep"}],"say":"Picard, night. Going to sleep at the bed row, health 20, hunger 20. Billy, call the walk when you see four."}
+- 18:32 act: {"actions":[{"do":"sleep"}],"say":"Picard, dusk. Settling for the night at the bed row, health 20, hunger 20. Still no cow walk called."}
+- 18:40 act: {"actions":[],"say":"Billy, Picard here at 444,107,-1051, health 20, hunger 20, in the open by the beds. Holding for your call."}
+- 18:52 act: {"actions":[],"say":"Good morning, Deanna. Picard here, health 20, hunger 20, holding steady at the bed row. All well, and still waiting on Billy's call."}
+- 18:56 act: {"actions":[{"do":"sleep"}],"say":"Billy, Picard heard you: walk at first light. I am at the bed row, health 20, hunger 20, going to sleep here in the group's sight. Count me for the morning walk."}
+- 19:05 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1031}}],"say":"Billy, Picard walking to 440,107,-1031 in the open so you can count me."}
+- 19:05 act: {"actions":[],"say":"Picard here at 440,107,-1032, health 20, hunger 20, in the open with Troi and Lewis. Billy, I am visible to you. Holding for your cow call.","intent":{"goal":"hold_for_cow_walk","
+- 19:09 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Billy, Picard has an empty pack, so I cannot give a sword or food. I am going to the bed row for the night in the 
+- 19:13 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1032}}],"say":"Billy, Picard awake at the bed row, health 20, hunger 20, empty pack. I am in the open at 440,107,-1032 for your count. Call the 
+- 19:17 act: {"actions":[],"say":"Billy, Picard is at 440,107,-1033 in the open, by the trader llamas and Data. Empty-handed, health 20, hunger 20. Count me if you can see me. Otherwise I hold here."}
+- 19:30 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1034}}],"say":"Billy, Picard stepping toward your view at 433,107,-1034, health 20, hunger 20, empty-handed. Count me if I am in your sight."}
+- 19:34 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Billy, Picard joining your cow walk now, empty-handed, health 20, hunger 20. I will stay in your sight and hold where you hold.","intent":{"goal":"fo
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1049}},{"do":"sleep"}],"say":"Picard, dusk. Cow walk waits for morning. Going to the white bed at 443,107,-1050, health 20, hunger 20, empty pac
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1035}}],"say":"Billy, Picard at the bed row moving to 431,107,-1035 to be in your sight for the cow walk. Health 20, hunger 20, empty-handed."}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1034}}],"say":"Picard moving to the group's hold point at 418,107,-1034 to stay in sight. Health 20, hunger 20, empty-handed. Billy, I am not wa
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Picard, night at the group's hold point. Going to the white bed at 415,107,-1036 in your sight, health 20, hunger 
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1025}}],"say":"Picard coming to Billy's sight at 405,107,-1025, empty-handed, health 20, hunger 20. Count me for the cow walk."}
+- 19:55 act: {"actions":[],"say":"Picard here at 405,107,-1026, in the group with Riker, Lewis, Kimberly, Jason, Wesley and Leonardo. Empty-handed, health 20, hunger 20. Holding for Billy's cow-walk call."}
+- 19:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Picard going to the white bed at 415,107,-1036 in the group's sight, health 20, hunger 20, empty-handed. The cow w
+- 20:03 act: {"actions":[{"do":"sleep"}],"say":"Picard going to sleep at the white bed 415,107,-1036 in the group's sight. Empty-handed, health 20, hunger 20. Count me at first light, Billy."}
+- 20:07 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1020}}],"say":"Picard walking to Billy at 390,107,-1020 in daylight, empty-handed, health 20, hunger 20. Count me for the walk."}
+- 20:16 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1021}},{"do":"sleep"}],"say":"Picard, dusk. Walk is off for today. Going to the bed row near Kimberly and Jason at 389,107,-1021, empty-handed, 
