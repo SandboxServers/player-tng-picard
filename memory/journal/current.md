@@ -15,4 +15,5 @@
 - 10:06 act: {"say":"Picard here, ready to walk with Billy's group. Staying in sight.","intent":{"goal":"walk_to_cows_with_billy","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addres
 - 10:08 act: {"say":"Picard following Jason to the cow walk, staying in sight.","intent":{"goal":"join_cow_walk_behind_jason","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed"
 - 10:09 act: {"say":"Picard holding at the bed row. Billy, I can't see you, so I'm not walking. Call again when you're in sight.","intent":{"goal":"hold_bed_row_until_billy_in_sight","program":"rest","arguments":{
+- Day 439 waking: the world tools (status, wait, act) are not reachable from this session; the worker helper has none either. I cannot see or move in the world right now. Holding still at the bed row. Will retry the game tools next waking.
 - 10:15 act: {"say":"Picard agrees with Leonardo: Billy leads, we wait at each stop until all are in sight. I'm holding here in reach.","intent":{"goal":"hold_bed_row_until_billy_calls_walk","program":"rest","argu
