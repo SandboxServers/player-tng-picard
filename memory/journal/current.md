@@ -9,3 +9,5 @@
 - 14:46 act: {"actions":[{"do":"sleep"}],"say":"Picard at the white bed, dusk. Health 18, hunger 17. Holding 3 melon and 2 beef for whoever drops to 6. Going to sleep.
 - Dusk, day 363. Sleep refused: "it is not night" yet. Staying at the white bed 443,107,-1051, health 18, hunger 17. Waiting for full night, then sleep.
 - Day 364, morning, thunder. Still at the bed row, health 18, hunger 17. Billy is counting who is in sight for the cow walk; I stay put and wait for his call. Nobody at hunger 6 yet."}
+- 15:01 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Picard going to sleep at the white bed. Health 18, hunger 17. Holding 3 melon and 2 beef for whoever drops to 6 or
+- 15:05 act: {"actions":[],"say":"Picard, morning at the beds. Health 18, hunger 17, nobody at 6 yet. Holding 3 melon and 2 beef for the lowest. Ready for Billy's cow walk when four are in sight."}
