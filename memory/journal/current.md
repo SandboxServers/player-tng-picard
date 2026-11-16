@@ -9,3 +9,6 @@
 - 00:22 act: {"actions":[{"do":"sleep"}],"say":"Night. Johnny, if you can see me, come to the bed next to me and I will give you my melon slice."}
 - 00:26 act: {"actions":[],"say":"Johnny, Worf has given you melon, so I will keep mine for whoever is weaker than you. Kimberly, if you come into sight, say so and it is yours."}
 - 00:34 act: {"actions":[{"do":"sleep"}]}
+- 00:35 act: {"say":"Picard here, at the beds. Morning. Chapman, I have no sword, so I will not go to the cows without one. I have a melon slice and a chicken for anyone weak."}
+- 00:42 act: {"say":"Chapman, I have not seen the cows myself. My notes give 370,93,-1124, but I have never been there. Skeletons guard it, so go armed. I am at the beds with a melon slice for anyone weak."}
+- 00:46 act: {"actions":[{"do":"sleep"}],"say":"Dusk is coming. I am in my bed at the beds with a melon slice and a chicken. Anyone weak who finds me, say so."}
