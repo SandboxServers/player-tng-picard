@@ -3,3 +3,4 @@
 - 17:19 act: {"say":"Good morning. I am Jean-Luc Picard. I see you hold beef. What have you learned about this camp?","reasoning":"Morning, health and hunger full. A stranger is in reach. Introduce myself and ask 
 - 17:25 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"reasoning":"Night has come, health and hunger full, camp is in sight. Go to the white bed and sleep."}
 - 17:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep is only partly counted. Continue sleeping in the bed."}
+- 17:26 act: {"say":"Good night. I am at the white bed with Riker and Lewis nearby. Health 20, hunger 20.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
