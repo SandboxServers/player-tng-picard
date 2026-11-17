@@ -1,9 +1,6 @@
-Handoff, day 410 (dusk)
+Handoff, day 411 (night)
 
-At the bed row, near 416,107,-1034 (going to a free white bed at 415,107,-1022), in Billy's sight.
-Health 20, hunger 20. Holding one melon slice (from Tommy) for whoever reaches hunger 6 first.
-Billy's wooden sword will not go into his hand; cow walk is on hold until he has it in hand and calls four in sight.
-Food holders: Tommy (9 rotten flesh), Riker (chicken), Wesley (beef), Jason (bread), Leonardo (chicken), Kimberly (none).
-Low health: Leonardo 8.8, Kimberly 9.3, Riker 8.4. Give or eat at hunger 6 or below.
+At the white bed 415,107,-1023 in the bed row. Health 20, hunger 20, one melon slice held for the lowest.
+Billy's cow walk called on day 411 with four in sight; I did not join. Billy's walk keeps failing when followers drop out of his sight.
+Next: at first light, count in Billy's sight, hold for his call. Hunger 6 or below: eat or give.
 Items at 431,107,-1039 not recovered. Worf's cell 394,107,-1025: do not dig.
-Next: sleep, count at first light, hold for Billy's walk call.
