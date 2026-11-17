@@ -1,2 +1,14 @@
 # Journal
 - 00:48 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1036}}],"say":"Picard here, health 20, hunger 20. Going to the bed at 443,107,-1036 for the night. Count me at first light.","reasoning":"Night, at a
+- 00:48 say: {"text":"Picard here, at 444,107,-1037 in Billy's sight. Health 20, hunger 20. Counted, holding for Billy's walk call."}
+- 01:01 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"use","at":{"x":443,"y":107,"z":-1036}}],"say":"Picard going to the bed at 443,107,-1036 in Billy's row for the night. Health 20, h
+- 01:01 act: {"actions":[{"do":"sleep"}]}
+- 01:01 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1036}}],"intent":{"goal":"return_to_billy_row","program":"travel","arguments":{"target":{"x":441,"y":107,"z":-1036}},"wake_on":["directly_addres
+- 01:01 say: {"text":"Picard counted at 441,107,-1035, in Billy's row with Trini and Lewis. Health 20, hunger 20. Holding for Billy's walk call."}
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard going to the bed at 443,107,-1036 in Billy's row for the night. Health 20, hunger 20. Count me at first lig
+- 01:17 say: {"text":"Picard counted at the bed row, 443,107,-1021, in Billy's sight. Health 20, hunger 20. Holding for Billy's walk call."}
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1036}}]}
+- 01:26 act: {"say":"Holding at the bed row for the night. Count me at first light.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 01:30 act: {"say":"Morning. Picard awake at the bed row, health 20, hunger 20, no food. Counted, holding for Billy's walk call.","intent":{"goal":"hold_for_walk_call","program":"rest","arguments":{},"wake_on":["
+- 01:38 act: {"say":"Dusk. Picard going to the bed at 443,107,-1036 in Billy's row. Health 20, hunger 20, no food. Count me at first light.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sle
+- 01:42 act: {"say":"Morning. Picard awake at the bed row, health 20, hunger 20, no food. Counted, holding for Billy's walk call.","actions":[]}
