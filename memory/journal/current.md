@@ -32,3 +32,5 @@
 - 03:38 say: {"text":"Picard at 430,107,-1023 by the beds, health 20, hunger 20. Count me at first light, Billy."}
 - 03:42 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1040}}]}
 - 03:42 say: {"text":"Picard coming to Billy's bed row, 416,107,-1040, to be in your sight. Holding for the walk call."}
+- 03:53 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Picard here at the bed row, counted and in Billy's sight. Going to the white bed fo
+- 03:53 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Picard trying the other white bed at 413,107,-1042, in Billy's sight
