@@ -6,3 +6,5 @@
 - Day 392 day: Riker says water is northeast by the wheat field; no oak trees seen east. Billy has five in sight (Jason, Troi, Lewis, Trini and one more); walk not yet called. I am holding at the row, health 20, hunger 20.
 - 00:35 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Picard going to the bed at 429,107,-1037 in Billy's row. Health 20, hunger 20, no food. Count me at first light."
 - 00:35 act: {"actions":[{"do":"sleep"}]}
+- 00:36 act: {"say":"Morning. Picard here at 443,107,-1035, health 20, hunger 20, pack empty. Counted for Billy's walk. Holding until he calls it with four in sight.","intent":{"goal":"hold_for_billy_walk","progra
+- 00:36 act: {"intent":{"goal":"hold_for_billy_walk","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
