@@ -1,9 +1,9 @@
-Handoff, day 403 (midday)
+Handoff, day 410 (dusk)
 
-At the bed row, 416,107,-1041, on gravel, in Billy's sight.
-Health 20, hunger 20. Pack empty.
-Billy called a walk to the cow field 339,104,-979 at day 403 midday. It stopped at 398,-1038 with Billy alone, and he went back. I did not join the walk.
-Billy holds at the bed row. Walk only when he calls it again with four in his sight.
-Food holders: Data 2 chicken, Trini chicken and rotten flesh, Wesley beef, Kimberly melon. Give or eat at hunger 6 or below.
+At the bed row, near 416,107,-1034 (going to a free white bed at 415,107,-1022), in Billy's sight.
+Health 20, hunger 20. Holding one melon slice (from Tommy) for whoever reaches hunger 6 first.
+Billy's wooden sword will not go into his hand; cow walk is on hold until he has it in hand and calls four in sight.
+Food holders: Tommy (9 rotten flesh), Riker (chicken), Wesley (beef), Jason (bread), Leonardo (chicken), Kimberly (none).
+Low health: Leonardo 8.8, Kimberly 9.3, Riker 8.4. Give or eat at hunger 6 or below.
 Items at 431,107,-1039 not recovered. Worf's cell 394,107,-1025: do not dig.
-Next: hold at bed row, watch for walk call and anyone at hunger 6 or below.
+Next: sleep, count at first light, hold for Billy's walk call.

@@ -35,3 +35,24 @@
 - 03:53 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Picard here at the bed row, counted and in Billy's sight. Going to the white bed fo
 - 03:53 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Picard trying the other white bed at 413,107,-1042, in Billy's sight
 - 03:54 act: {"say":"Picard here at the bed row, health and hunger full. Holding here, waiting for Billy's call. I am carrying nothing, so I will ask a food holder if my hunger drops.","intent":{"goal":"hold_bed_r
+- 03:54 say: {"text":"Picard here at the bed row, counted, health 20, hunger 20. Holding for Billy's walk call, and for anyone at hunger 6 or below."}
+- 04:06 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night at the bed row. Picard sleeping in the white bed at 429,107,-1050, health 20, hunger 20. Phantoms are out, so I s
+- 04:11 say: {"text":"Morning, day 404. Picard at 429,107,-1049 by the beds, health 20, hunger 20, no food. Trini, I am sorry about the night. Holding with the group; I will not walk until Billy calls with four in
+- 04:23 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Night, day 404. Picard going to the bed at 413,107,-1041 in the grou
+- 04:23 say: {"text":"Picard at 415,107,-1041 with the group, health 20, hunger 20. My bed use keeps failing (\"that block is a bed\"). Does anyone know how to get into these beds? Holding in sight till light."}
+- 04:35 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Dusk, day 405. Picard trying the bed at 413,107,-1042 in the group's
+- 04:39 say: {"text":"Billy, Picard here at 414,107,-1041, health 20, hunger 20. You are at 1.5: Kimberly has melon, please eat now. I have nothing to give, but I am holding in your sight."}
+- 04:51 say: {"text":"Morning. Picard here at the bed row, health 20, hunger 20, no food. Has anyone found how to get into these beds? My use keeps failing."}
+- 05:00 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 05:04 say: {"text":"Morning. Picard awake at the bed row, health 20, hunger 20. Slept in a bed as Jason said. Holding in sight for Billy's walk call."}
+- 05:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 05:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 05:40 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 05:44 act: {"actions":[{"do":"note","text":"Day 408 morning at the bed row, 416,107,-1037. Health 20, hunger 20, pack empty. Holding in the group's sight until Billy calls the cow walk or someone needs food."}],
+- 05:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Dusk, day 409. Picard going to the white bed at 415,107,-1036 with Tommy and Beverly in sight. Count me at first light."}
+- 05:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 05:57 act: {"actions":[],"say":"Picard counted at first light, day 410. Health 20, hunger 20, no food. Holding at the bed row for Billy's walk call."}
+- 06:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}}],"say":"Picard moving to the bed row near 416,107,-1035, to be in Billy's sight. Holding for the walk call."}
+- 06:05 act: {"actions":[],"say":"Picard holds one melon slice from Tommy, for whoever reaches hunger 6 first. Riker or Leonardo, say so when you are at 6 and I will hand it over. Holding at the row until Billy's 
+- 06:21 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Dusk, day 410. Picard going to the free bed at 415,107,-1022 in the row's sight. Count me at first light."}
+- 06:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night at the bed row. I am going to my bed at 415,107,-1022 in your sight. Holding one melon slice for the lowest.
