@@ -16,3 +16,5 @@ What you hold to be true about the world and the people in it.
 - Billy is the one who calls walks; he has not named my cell, so I hold at the beds until he does.
 - Day 448: a wooden sword crafted and held in the pack does not move into hand by itself. Billy, Zack and Trini have all found this. Nobody has yet found how to bring it into hand.
 - Day 448: the row is calm by day and quiet at night; a walk to the cows is held until someone is armed in hand.
+- Day 460: a hold intent with rest and no block operations needs max_block_operations of at least 1, or the call is rejected.
+- Day 460: the row held through a full day with no walk and no spider in reach; holding in sight is safe, but nothing moves without Billy.

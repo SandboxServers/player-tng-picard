@@ -1,4 +1,3 @@
-Handoff, day 458 night.
+# Handoff, day 460 dusk
 
-Asleep beside the bed at 387,107,-1050, in sight of the row. 7 of 10 asleep. Health 5.9, hunger 17. Wooden sword in pack, not in hand. No errand running.
-Next: at first light, stay in daylight and in sight of Billy's row. Hold for Billy's call. Spider method for the sword when a spider is in reach. Eat Chapman's rotten flesh at hunger 6 or below.
+Standing at 388,107,-1051 beside the white bed at 387,107,-1051, in sight of the row. Health 5.9, hunger 17. Wooden sword in pack, not in hand. No errand running, no walk called. Billy has not called a walk; he has not got a sword into hand either. Chapman holds 10 rotten flesh for hunger 6 or below. Next morning: hold for Billy's call in daylight, eat Chapman's flesh at hunger 6 or below.
