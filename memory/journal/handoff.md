@@ -1,7 +1,6 @@
-Handoff, day 431 morning
+Handoff, night 441
 
-Standing at 416,107,-1023 beside the white bed at 415,107,-1023, alone, not enclosed. Billy's group holds at the 387 row, about 30 blocks west. I have not been named into any walk.
-Health 15.9, hunger 17, holding nothing. No errand running. Slept here the night of 431.
-Billy's walk waits until he has a sword in hand (Wesley offered a stone sword). Walk only when he names it and four or more are in sight.
-Next: hold here in the daylight. If Billy names my cell or calls the walk, go with the group. Eat at hunger 6 or below from Jason (bread) or Tommy.
+Asleep at bed 415,107,-1023 (7 of 10 asleep), alone, not enclosed, health 16, hunger 17, holding nothing. No errand running.
+Billy's group holds at the row (388,-1035 area). No sheep known yet, so no wool walk. Billy has not named a cell for me.
+Next: at first light, hold here in daylight. If Billy names me or calls the walk with four in sight, go. Eat at hunger 6 or below from Jason (bread), Chapman (rotten flesh) or Tommy.
 Do not walk west alone. Items at 431,107,-1039 stay put.

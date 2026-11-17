@@ -3,3 +3,30 @@
 - 13:02 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"m
 - 13:13 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"m
 - 13:15 act: {"actions":[{"do":"sleep"}]}
+- 13:27 act: goto bed 415,107,-1023 and sleep. Dusk, alone, hunger 17, no food held. Sleep worked (5 of 10 asleep); resting until morning, then eat from Jason or Tommy at hunger 6.
+- 13:27 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Picard at the white bed beside me, alone and not walking west. Hunger 17, so I sleep now and eat from Jason 
+- 14:40 day 434: still at bed 415, alone with Kimberly's leftover in reach earlier; health 16, hunger 17. Billy has not named me; Billy's group walked to the row. Holding in daylight, not walking west alone.
+- 14:20 night 433: slept at bed 415 (second try worked). Phantoms are hitting the group at the 413 beds; Trini died there. I am alone at 415, health 16, hunger 17, unharmed. Holding until morning; Kimberly is beside me.
+- 13:55 day 432 morning: slept at bed 415 through night (9 of 10 asleep), woke at bed, health 16, hunger 17. Billy's walk went to Trini's bed 413,-1041 with eight in sight; I was not named. Still holding alone at 415.
+- 13:40 day 432 morning: woke at bed 415,-1023, health 16, hunger 17. Holding here; Billy's group is at the row 30 west with about ten in sight. Waiting for his call.
+- 13:31 act: {"actions":[],"say":"Picard at the bed 415,-1023, awake, health 16, hunger 17, holding nothing. Billy, I hold here in daylight and will walk with the group when you name me and four are in sight.","re
+- 13:43 act: {"actions":[{"do":"sleep"}],"say":"Night. Picard sleeps at the bed 415,-1023, alone, hunger 17, holding nothing. I will walk at first light only if Billy names me.","reasoning":"Night, at my bed, not 
+- 13:55 act: {"actions":[{"do":"sleep"}],"say":"Night, day 433. Picard sleeps at my bed 415,-1023, alone, hunger 17, nothing in hand. I hold until Billy calls.","reasoning":"Night at my own bed. Sleep here, no wal
+- 13:56 act: {"actions":[{"do":"sleep"}],"reasoning":"Only 3 of 10 asleep; phantoms to the southeast. Try the bed again."}
+- 14:16 act: {"actions":[{"do":"sleep"}],"say":"Night, day 434. Picard sleeps at bed 415,-1023 alone, health 16, hunger 17. I hold here until Billy calls.","reasoning":"Night at my bed. Sleep here."}
+- dawn day 434: awake at bed 415,-1023, health 16, hunger 17. Billy named Zack, Trini and others; not me. Holding here in daylight; not walking west alone.
+- day 435-436: slept at bed 415 through night 435; woke at day 436 dawn-ish, still at bed, health 16, hunger 17. Billy has about fifteen at the row 388; no cell named for me. Holding here, not walking west alone.
+- day 437 dawn: slept at bed 415 through night 437, awake, health 16, hunger 17. Billy at the row with thirteen in sight; sheep walk pending his call; no cell named for me. Holding.
+- 14:37 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 435. Picard at my bed 415,-1023, alone, hunger 17, nothing in hand. I sleep here and walk only when Billy names me with four in sight."}
+- 14:37 act: {"actions":[{"do":"sleep"}]}
+- 14:57 act: {"actions":[{"do":"sleep"}],"say":"Night, day 436. Picard sleeps at bed 415,-1023 alone, hunger 17, nothing in hand. I walk at first light only when Billy names me with four in sight."}
+- 15:17 act: {"actions":[{"do":"sleep"}],"say":"Night, day 437. Picard sleeps at bed 415,-1023 alone, hunger 17, nothing in hand. Glad Billy has eaten. I hold for the sheep walk at first light only if named."}
+- 15:29 act: {"actions":[],"say":"Billy, Picard is at bed 415,-1023, alone, health 16, hunger 17, nothing in hand. I can walk to the row when you call four in sight."}
+- 15:38 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk, day 438. Picard at bed 415,-1023, alone, health 16, hunger 17, holding nothing. I sleep here and walk only w
+- 15:46 act: {"actions":[],"say":"Billy, Picard has not seen sheep here. I hold at bed 415,-1023 in daylight, alone, hunger 17. I will join your four-in-sight walk when you name me."}
+- 15:54 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 439. Picard sleeps at bed 415,-1023, alone, hunger 17, holding nothing. I walk at first light only when Billy names me with four in sight."}
+- 15:56 act: {"actions":[{"do":"sleep"}]}
+- 15:56 act: {"actions":[{"do":"sleep"}]}
+- 16:16 act: {"actions":[{"do":"sleep"}],"say":"Night, day 440. Picard sleeps at bed 415,-1023 alone, hunger 17, holding nothing. I walk at first light only when Billy names me with four in sight."}
+- 16:16 act: {"actions":[{"do":"sleep"}]}
+- 16:33 act: {"actions":[{"do":"sleep"}],"say":"Night, day 441. Picard sleeps at bed 415,-1023, alone, hunger 17, holding nothing. I walk at first light only when named with four in sight."}
