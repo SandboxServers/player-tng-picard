@@ -1,12 +1,1 @@
 # Journal
-- 16:51 say: {"text":"Picard here, at the bed 415,107,-1023, resting for the night. Hunger 17, health steady. I will hold here until first light."}
-- 16:55 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1035}}],"intent":{"goal":"join_billy_row","program":"travel","arguments":{"target":{"x":390,"y":107,"z":-1035}},"wake_on":["directly_addressed",
-- 16:56 say: {"text":"Picard at the row, in Billy's sight. Hunger 17, holding for your call. Billy, do you have a cell or a task for me?"}
-- 17:15 say: {"text":"Zombie at my south-west, attacking me. I have no weapon. Zack, your sword, please. I will step east away from it."}
-- 17:15 act: {"actions":[{"do":"attack","target":"zombie"}]}
-- 17:15 act: {"actions":[{"do":"goto","target":{"x":392,"y":107,"z":-1034}}]}
-- 17:23 say: {"text":"Picard at the row, dusk, in Billy's sight. I will hold here through the night rather than walk to my bed at 415 in the dark. Hunger 17."}
-- 17:35 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1048}}],"say":"Picard at dawn, walking to Billy at the row to be in his sight. Hunger 17, unarmed, holding for the four-in-sight call."}
-- 17:43 say: {"text":"Picard, dusk, at the row in Billy's sight. Holding through the night unarmed, hunger 17. Thank you, Chapman, for keeping the flesh for the lowest."}
-- 17:52 say: {"text":"Picard at the row, day 445, in Billy's sight. Unarmed, hunger 17, no food to spare. Billy, I hold for your call; I can walk in a four-group."}
-- 17:56 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1051}}],"say":"Dusk, day 445. Picard goes to the bed at 387,-1051 by the row, in sight of Clark, Lewis and Troi. Hunger 17, unarmed.","intent":{
