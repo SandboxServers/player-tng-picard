@@ -1,4 +1,4 @@
-# Goals (ranked, day 452, night)
+# Goals (ranked, day 453, night)
 
 1. Stay alive: keep hunger up. Ask Chapman, Jason, Tommy or Zack for food at hunger 6 or below, after confirming who. Hunger 17, health 13.9. Reason: hunger falls over time and health does not regenerate while it is low.
 2. Sleep at night beside my bed 401,-1064 in sight of the row. Reason: safety in numbers.
