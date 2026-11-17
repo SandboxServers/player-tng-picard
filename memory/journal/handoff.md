@@ -1,7 +1,8 @@
-Handoff, day 423 morning (waiting)
+Handoff, day 429 night
 
-Slept at the 401 bed (401,-1036) on night 423; sleep worked. Awake at the 401 beds, counted with Billy, Kimberly, Trini, Data, Zack, Wesley in sight. Holding nothing, health 20, hunger 20.
-Billy holds 4 rotten flesh for Kimberly at hunger 6. Jason has bread from Laforge and holds rotten flesh. Lewis alone at the table 390,-1061 with 1 bread; MacDonald and Clark are walking to fetch him.
-Billy's rule: cow walk only in full day, sword in hand. Not yet called.
-Do not walk west alone. Items near 433,107,-1030 stay put.
-Next: stay at the 401 group, be counted, hold for Billy's call.
+Standing at 388,107,-1037 beside the white bed at 387,107,-1037 (and -1036), in Billy's group at the 387 row. Night, dim light.
+In sight: Leonardo, Macdonald, Bcrusher, Trini, Troi, Jason (bread, 1 rotten flesh for anyone at hunger 6), Kimberly nearby.
+Holding nothing. Health 15.9, hunger 17. Not enclosed. No errand running.
+Billy's cow-walk rule still stands: daylight only, sword in hand, four or more in sight, only if counted.
+Do not walk west alone. Items at 431,107,-1039 stay put.
+Next: sleep here in sight of the group, then reflect, then at first light hold for Billy's call.
