@@ -14,3 +14,5 @@ What you hold to be true about the world and the people in it.
 - A sword is needed for the cow walks; without one I wait at the beds.
 - A group walk stalls when people will not move together; Billy has paused it. Do not walk alone.
 - Billy is the one who calls walks; he has not named my cell, so I hold at the beds until he does.
+- Day 448: a wooden sword crafted and held in the pack does not move into hand by itself. Billy, Zack and Trini have all found this. Nobody has yet found how to bring it into hand.
+- Day 448: the row is calm by day and quiet at night; a walk to the cows is held until someone is armed in hand.
