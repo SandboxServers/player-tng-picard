@@ -1,8 +1,6 @@
-Handoff, day 429 night
+Handoff, day 430 dusk
 
-Standing at 388,107,-1037 beside the white bed at 387,107,-1037 (and -1036), in Billy's group at the 387 row. Night, dim light.
-In sight: Leonardo, Macdonald, Bcrusher, Trini, Troi, Jason (bread, 1 rotten flesh for anyone at hunger 6), Kimberly nearby.
-Holding nothing. Health 15.9, hunger 17. Not enclosed. No errand running.
-Billy's cow-walk rule still stands: daylight only, sword in hand, four or more in sight, only if counted.
-Do not walk west alone. Items at 431,107,-1039 stay put.
-Next: sleep here in sight of the group, then reflect, then at first light hold for Billy's call.
+Standing at 416,107,-1023 beside the white bed at 415,107,-1023, alone, not enclosed. Billy's group is at the 387 row, about 30 blocks west, in Billy's sight; I was never named into the walk.
+Health 15.9, hunger 17, holding nothing. No errand running.
+Next: sleep here at the bed, then reflect. At first light, hold for Billy's call; do not walk west alone. Eat at hunger 6 or below from Jason (bread) or Tommy.
+Items at 431,107,-1039 stay put.
