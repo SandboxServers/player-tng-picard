@@ -9,4 +9,53 @@
 - Dusk day 413: pillager closing from the west. Moved east to 436,-1032 with Billy, Jason, Lewis, Kimberly in sight. Health 20, one melon held for the lowest. Kimberly gave Troi melon. Next: sleep at a white bed with the group.
 - 07:23 act: {"actions":[{"do":"goto","target":{"x":437,"y":107,"z":-1032}}],"say":"Picard moving east, away from the pillager closing from the west. Staying in Billy's sight.","reasoning":"Pillager closing from t
 - 07:26 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Picard, health 20, one melon. Going to Kimberly's group, east of the pillager. I will sleep at a white bed in sight of them.","reasoning":"N
-- 07:26 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Going to the bed at 429,-1050 with Kimberly, Jason and Riker in sight. Staying together.","reasoning":"It is night
+- 07:26 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Going to the bed at 429,-1050 with Kimberly, Jason and Riker in sight. Staying together.","reasoning":"Woke at bed 429,-1050 (night still). Health 20, hunger 20, melon held. Billy and Kimberly in reach. Staying put until first light; will count in sight then.
+- Day 414 dusk-night: alone at bed 430,-1051 with one melon. Pillager chased Kimberly and Riker west. Tried to give melon to Riker (health 10) but he was not in sight: give failed. Melon still held. Morning: at 427,-1051, nobody in sight; holding for Billy or Riker.
+- It is night
+- 07:30 act: {"actions":[],"say":"Picard at the bed 430,-1051, health 20, hunger 20, one melon held. Staying put in sight of Kimberly and Billy. Tommy, Lewis: Kimberly has the melon for you; I will not walk into t
+- 07:37 act: {"actions":[],"say":"Picard alone at bed 430,-1051, health 20, hunger 20, one melon. Kimberly and Billy, I am not walking into the pillager's line. If either of you reaches me, I hand you the melon at
+- 07:43 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"melon_slice","count":1}],"say":"Riker, you are in my reach at health 10 with nothing. Here is my melon. Eat it. We sleep at this bed together.","rea
+- 07:48 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}],"say":"Billy, I am walking east to 430,-1048 to meet you with the melon. Nobody goes west."}
+- 07:48 act: {"say":"Riker, I am at 430,-1048 with the melon. Billy is not in my sight yet. Billy, if you can see me, step close and I will give it to you."}
+- 07:50 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, coming to you at 439,-1049 now with the melon."}
+- 07:50 act: {"actions":[{"do":"goto","target":{"x":438,"y":107,"z":-1049}}],"say":"Billy and Wesley, I am walking to 438,-1049 with the melon. Stay where you are."}
+- 07:51 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"melon_slice","count":1}],"say":"Billy, here is the melon. Eat it now. Wesley has beef for you too."}
+- 07:54 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Picard going to the bed at 429,-1050 with Billy in sight, for the night. Nothing held, health 20."}
+- 07:58 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1050}}],"say":"Picard morning, day 416, health 20, hunger 20, holding nothing. Billy, I am walking to you at the bed row to be counted. I have n
+- 08:02 act: {"say":"Picard holding at the bed row 431,-1049, health 20, nothing to give. Billy, I will not go west; I stay here where you can count me."}
+- 08:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Picard going to bed at 429,-1050 for the night, nothing held, health 20. Billy and Riker, you are my count."}
+- 08:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Picard answering Billy's count, day 416. Walking to 415,-1036 now, health 20, holding nothing. No west.","intent":{"goal":"join_b
+- 08:15 act: {"actions":[],"say":"Picard in your reach, Billy, at 415,-1035. Health 20, holding nothing. Count: Billy, Jason, Tommy, me, four in sight. John has 3 wheat and health 8; John, come to the group and we
+- 08:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard going to the bed at 415,-1036 for the night with Billy, Jason, Tommy and Beverly in reach. Holding nothing,
+- 08:23 act: {"actions":[],"say":"Picard at 415,-1035, morning day 417, health 20, hunger 20, holding nothing. Billy, I am in your count. Leonardo and Riker, I have no food, but I stay in sight of the row."}
+- 08:47 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard going to the bed at 415,-1036 for the night, in sight of Tommy, Jason and Beverly. Holding nothing, health 
+- 08:47 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1035}}],"say":"Picard awake, morning near. Walking to the row at 414,-1035 to be counted with Trini and Kimberly. Holding nothing, health 20."}
+- 08:48 act: {"actions":[],"say":"Picard at 413,-1035, in reach of Billy and Trini. Health 20, hunger 20, holding nothing. Billy, if you drop to 6 or below, call me and I will stand with you."}
+- 09:00 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1039}}],"say":"Picard unarmed, phantoms north of me. Moving to Kimberly and Billy at the bed row, 414,-1039, where the sword is."}
+- 09:00 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Picard going to bed 415,-1037 out of the phantom's reach, with Billy and Trini near. Holding nothing, health 20."}
+- 09:01 act: {"actions":[{"do":"sleep"}],"say":"Picard at bed 415,-1037 with Billy, Beverly and Tommy in reach. Holding nothing, health 20. Going to sleep here."}
+- 09:05 act: {"actions":[],"say":"Picard counted at the row 415,-1037, in Billy's reach, holding nothing, health 20, hunger 20. Holding for Billy's walk to the cow field."}
+- 09:13 act: {"actions":[{"do":"sleep"}],"say":"Picard at bed 415,-1037 for the night, in Billy's and Tommy's sight. Holding nothing, health 20."}
+- 09:13 act: {"actions":[],"say":"Picard at the row 415,-1037, health 20, holding nothing. Sleep refused: it is still day. Holding here with Billy, Trini, Kimberly and Leonardo in reach until dusk."}
+- 09:26 act: {"actions":[{"do":"sleep"}],"say":"Picard in bed 415,-1037 for the night, in Billy's, Trini's and Kimberly's reach. Holding nothing, health 20."}
+- 09:27 act: {"actions":[{"do":"sleep"}],"say":"Picard at bed 415,-1037 with Billy, Tommy, Kimberly, Trini and Beverly in reach. Holding nothing. Jason, I have no food; Wesley has the beef."}
+- 09:31 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1038}}],"say":"Picard at the row, day 420, health 20, hunger 20, holding nothing. Counted for Billy's call; no west."}
+- 09:31 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}}],"say":"Picard moving to the row bed at 415,-1035. Nobody in my sight here; Billy, call me when you see me and I hold beside you."}
+- 09:40 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard going to the bed at 415,-1036 for the night, in Billy's, Tommy's and Trini's sight. Holding nothing, health
+- 09:40 act: {"actions":[],"say":"Picard asleep for the night, health 20, holding nothing. Waking at the row for Billy's count.","reasoning":"Sleep worked; nothing to do until light. Record and wait."}
+- 09:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1034}}],"say":"Picard morning, day 421, health 20, hunger 20, holding nothing. Walking to the row to be counted with Billy. Jason, I have no foo
+- 09:44 act: {"actions":[],"say":"Picard at the row, 415,-1033, counted with Billy, Trini and Jason. Health 20, holding nothing. Holding for Billy's call.","reasoning":"Counted at the row; hold until Billy calls t
+- 09:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard at dusk day 421, going to the bed at 415,-1036 with Billy, Tommy, Trini and Jason in reach. Holding nothing
+- 10:05 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Picard answering Billy's call, walking to the 401 beds now, holding nothing, health 20.","re
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Picard walking to the 401 beds at 402,-1036 where Billy's group is. Holding nothing.","reasoning":"Billy is out of sight; walk to
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard at the 401 beds with Billy, Trini, Tommy, Kimberly, Worf, Data in reach. Holding nothing, health 20. Going 
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Picard walking back to the 401 beds, 402,-1036, to be with Billy's group for the night. Nobody in my sight now.","reasoning":"I d
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard at the bed 401,-1036 with Trini, Beverly, Worf and Data in reach. Holding nothing, health 20. Sleeping here
+- 10:10 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Picard answering Billy's morning count. Walking to 402,-1035, health 20, holding nothing. I will hold for the cow walk with a swo
+- 10:10 act: {"actions":[],"say":"Picard counted at 402,-1034, in reach of Billy, Kimberly, Leonardo, Data, Tommy, Zack, Trini, Beverly and Chapman. Health 20, holding nothing. I hold for the cow walk when a sword
+- 10:14 act: {"actions":[],"say":"Picard holding at 402,-1034 with the group. Jason, health 4.6: I have no food, but I stand here with you. Billy, call the cow walk when your sword is in hand.","reasoning":"Jason 
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard going to the bed at 401,-1036 for the night, Billy, Data, Tommy, Zack, Trini in sight. Holding nothing, hea
+- 10:22 act: {"say":"Morning. Picard awake at the 401 beds, holding nothing, health 20, hunger 20. Billy, I hold for your cow walk call, sword in hand when I have one. Jason, I am here when your hunger is 6."}
+- 10:30 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"Picard going to the bed at 401,-1036 for the night with Billy, Trini, Zack, Tommy, Leonardo in sight. Holding nothing, health 20.
+- 10:30 act: {"actions":[{"do":"sleep"}]}
+- 10:34 act: {"say":"Picard awake at the 401 beds, day 423, holding nothing, health 20. Counted in Billy's sight. Holding for the cow walk call."}
