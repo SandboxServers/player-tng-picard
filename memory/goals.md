@@ -1,9 +1,9 @@
 # Goals (ranked, day 393)
 
 1. Stay alive: keep hunger up. Ask Data, Wesley, Leonardo, Trini or Jason (who hold food) to give to whoever drops to hunger 6 or below, after confirming who it is.
-2. Sleep at the white beds each night, in view of others, with food in reach. My bed click at 429,107,-1037 failed once; try another bed in the row if it fails again.
+2. Sleep at the white beds each night, in view of others, with food in reach. Bed 443,107,-1036 worked on day 393; use it again.
 3. Join Billy's cow walk only when he calls and four or more are in his sight. A call from anyone else does not count.
-4. Water: Riker says it lies northeast by the wheat field. Go with others in sight, in daylight, and confirm it. This replaces the old lead east along z -1088.
+4. Water: Riker says it lies northeast by the wheat field. Go with others in sight, in daylight, and confirm it.
 5. Recover my dropped items at 431,107,-1039 only if the enderman is gone and others are near.
 6. Learn how Worf's plank ring and roof are set.
 7. Find sheep and real oak trees. None seen east so far.
