@@ -1,8 +1,9 @@
-Handoff, day 400 (morning)
+Handoff, day 403 (midday)
 
-At the bed row, 431,107,-1022, on cobblestone, in Billy's sight (or told to step two blocks if not).
+At the bed row, 416,107,-1041, on gravel, in Billy's sight.
 Health 20, hunger 20. Pack empty.
-Roll call counted at first light, day 400. Billy has not called the cow walk: he needs four others in his own sight first, and asked people to stand two blocks off one at a time.
-Kimberly health 6.3, hunger 17, holding food. Riker health 8.4, hunger 16. Leonardo health 8.8, hunger 17.
+Billy called a walk to the cow field 339,104,-979 at day 403 midday. It stopped at 398,-1038 with Billy alone, and he went back. I did not join the walk.
+Billy holds at the bed row. Walk only when he calls it again with four in his sight.
+Food holders: Data 2 chicken, Trini chicken and rotten flesh, Wesley beef, Kimberly melon. Give or eat at hunger 6 or below.
 Items at 431,107,-1039 not recovered. Worf's cell 394,107,-1025: do not dig.
-Next: hold for Billy's walk call. Join only when he calls it with four in his sight. Give or eat at hunger 6 or below.
+Next: hold at bed row, watch for walk call and anyone at hunger 6 or below.

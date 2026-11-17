@@ -23,3 +23,12 @@
 - 02:48 act: {"actions":[],"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{"position":{"x":431,"y":107,"z":-1022}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_c
 - 02:52 act: {"actions":[],"say":"Picard counted at first light, at the bed row 431,107,-1022, in Billy's sight. Health 20, hunger 20, no food. Holding for the walk call."}
 - 02:56 act: {"actions":[],"say":"Billy, Picard at 431,107,-1022, on the cobblestone by the bed. Health 20, hunger 20. If you cannot see me, tell me and I will step two blocks toward you."}
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1024}}],"say":"Billy, Picard stepping two blocks toward you, to 433,107,-1024. Will sleep at the bed row in the group's sight."}
+- 03:01 act: {"actions":[{"do":"sleep"}],"say":"Picard at 433,107,-1025, in Billy's sight for the night. Health 20, hunger 20, no food."}
+- 03:02 act: {"actions":[],"say":"Picard counted, day 400, at 429,107,-1021 by the beds, health 20, hunger 20, no food. Holding for Billy's walk call."}
+- 03:14 act: {"actions":[{"do":"sleep"}],"say":"Picard at the bed row, 429,107,-1021, sleeping. Count me at first light, Billy. Health 20, hunger 20."}
+- 03:18 act: {"actions":[],"say":"Picard counted, day 401 morning, at 430,107,-1023 by the beds. Health 20, hunger 20, no food. Holding for Billy's walk call."}
+- 03:26 act: {"actions":[{"do":"sleep"}],"say":"Picard sleeping at 430,107,-1023 in the row. Count me at first light, Billy."}
+- 03:38 say: {"text":"Picard at 430,107,-1023 by the beds, health 20, hunger 20. Count me at first light, Billy."}
+- 03:42 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1040}}]}
+- 03:42 say: {"text":"Picard coming to Billy's bed row, 416,107,-1040, to be in your sight. Holding for the walk call."}
