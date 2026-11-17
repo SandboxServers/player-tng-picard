@@ -1,1 +1,12 @@
 # Journal
+- 07:13 act: {"say":"Picard here at the bed row, 416,107,-1023. Health 20, hunger 20, one melon slice held for whoever drops low. Counted and holding for Billy's call.","reasoning":"Morning, all healthy. Stay in t
+- Day 413 morning: counted at bed row with Billy's group (Riker, Data, Beverly, Tommy, Kimberly, Troi, Trini, Lewis); all healthy except Kimberly 9.3 (Tommy has flesh). Told Jason I have not seen Johnny. Holding for Billy's call.
+- 07:17 act: {"say":"Jason, I have not seen Johnny since I woke here. He is not in my sight. I am holding my melon for whoever is lowest; Kimberly, come to me if you drop under 10.","reasoning":"Answer Jason hones
+- Afternoon day 413: pillager shot from north at the row; Trini died and respawned at spawn. I moved to Billy at 425,107,-1027, out of its line. Group in sight: Billy, Riker, Beverly, Data, Kimberly, Tommy, Troi. Holding one melon.
+- 07:21 act: {"actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1027}}],"say":"Picard moving to Billy at 425,-1027, away from the pillager. Unarmed, one melon for the lowest.","reasoning":"A pillager is shoot
+- 07:23 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Picard hit by the pillager; moving to Billy, out of its line. Troi, I have a melon for you once you are in my reach.","reasoning":"A pillager i
+- 07:23 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Picard at Billy's side, health 20, hunger 20. Holding my melon for Troi or whoever is lowest in reach. Nobody walks west.","reasoning":"Dusk, p
+- Dusk day 413: pillager closing from the west. Moved east to 436,-1032 with Billy, Jason, Lewis, Kimberly in sight. Health 20, one melon held for the lowest. Kimberly gave Troi melon. Next: sleep at a white bed with the group.
+- 07:23 act: {"actions":[{"do":"goto","target":{"x":437,"y":107,"z":-1032}}],"say":"Picard moving east, away from the pillager closing from the west. Staying in Billy's sight.","reasoning":"Pillager closing from t
+- 07:26 act: {"actions":[{"do":"goto","target":"ag_kimberly_01"}],"say":"Picard, health 20, one melon. Going to Kimberly's group, east of the pillager. I will sleep at a white bed in sight of them.","reasoning":"N
+- 07:26 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Going to the bed at 429,-1050 with Kimberly, Jason and Riker in sight. Staying together.","reasoning":"It is night

@@ -1,6 +1,6 @@
-Handoff, day 411 (night)
+Handoff, day 413 (night)
 
-At the white bed 415,107,-1023 in the bed row. Health 20, hunger 20, one melon slice held for the lowest.
-Billy's cow walk called on day 411 with four in sight; I did not join. Billy's walk keeps failing when followers drop out of his sight.
-Next: at first light, count in Billy's sight, hold for his call. Hunger 6 or below: eat or give.
-Items at 431,107,-1039 not recovered. Worf's cell 394,107,-1025: do not dig.
+Asleep in the white bed at 429,107,-1050, with Kimberly, Jason and Riker near. Health 20, hunger 20, one melon slice held for the lowest.
+A pillager in the west (around 420-433,-1030) killed Billy and Lewis. Billy says he is alive at 422,-1031; Lewis is at spawn. Trini died earlier.
+Items from Billy's and Lewis's deaths lie near 433,107,-1030. Do not go west. Leave them.
+Next at first light: count in sight with whoever is near. Avoid the pillager's line. Hunger 6 or below: eat or give. Water and sheep plans wait until the pillager is gone.
