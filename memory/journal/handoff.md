@@ -1,6 +1,6 @@
-Handoff, night 441
+Handoff, day 447 night.
 
-Asleep at bed 415,107,-1023 (7 of 10 asleep), alone, not enclosed, health 16, hunger 17, holding nothing. No errand running.
-Billy's group holds at the row (388,-1035 area). No sheep known yet, so no wool walk. Billy has not named a cell for me.
-Next: at first light, hold here in daylight. If Billy names me or calls the walk with four in sight, go. Eat at hunger 6 or below from Jason (bread), Chapman (rotten flesh) or Tommy.
+At 402,107,-1036 by the white bed 401,107,-1036, in reach of Billy, Trini, Zack and Beverly. Not enclosed. Health 14, hunger 17, holding nothing. No errand running.
+Billy postponed the cow walk (too few armed). No walks in the dark. Everyone holds at the row until first light.
+Next: at first light, hold in daylight. Go only when Billy names me or calls the walk with four in sight. Eat at hunger 6 or below from Chapman, Jason or Tommy.
 Do not walk west alone. Items at 431,107,-1039 stay put.
