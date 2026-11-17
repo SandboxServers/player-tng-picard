@@ -1,1 +1,28 @@
 # Journal
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1063}}],"say":"Picard here at the row, unarmed, health 6, hunger 17. Billy, name me when you call the walk. Clark, I will take a few planks if y
+- 20:58 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Clark, I am coming to you now in daylight."}
+- 20:58 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1040}}],"say":"Walking to the row at 402,-1040 in daylight, unarmed. Clark, Billy, look for me there."}
+- 21:02 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1063}}],"say":"Night is here, so I go to my bed at 401,-1063 in sight of the row. Clark, Billy, daylight for the walk."}
+- 21:02 act: {"actions":[{"do":"sleep"}]}
+- 21:06 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Morning. Clark, I am coming to you in daylight for a few planks, so I can make a wooden sword at the table."}
+- 21:07 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1038}}],"say":"Going to 390,-1038 by the 387 beds, in daylight."}
+- 21:07 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Clark, I am here in your sight now. Could you hand me a few oak planks?"}
+- 21:07 act: {"say":"Clark, I am in reach. Please give me 4 oak planks."}
+- 21:12 act: {"say":"Clark, my pack is still empty. I will stand still here and wait for your planks; tell me when you have given them."}
+- 21:13 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Clark's planks never reached my pack, so I go to sleep by the bed at 387,-1050 here in the 387 row."}
+- 21:15 act: {"actions":[{"do":"sleep"}],"say":"Night. Picard sleeping by the 387 beds in Clark's sight. Clark, planks at first light, as you said."}
+- 21:16 act: {"actions":[],"say":"Morning. Picard is awake at the 387 beds, in daylight. Clark, Jason, I am ready for the planks."}
+- 21:21 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Clark, I am coming to your sight now for the 4 planks."}
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1038}}],"say":"Going to 390,-1038 by the 387 beds, in daylight, to find Clark for the planks."}
+- 21:21 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Clark, I see you at a distance. I am walking to you in daylight for the planks."}
+- 21:21 act: {"actions":[],"say":"Clark, I am in reach now. Please give me 4 oak planks."}
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1049}},{"do":"goto","target":{"x":389,"y":107,"z":-1050}}],"say":"Clark, I stepped to pick up anything lying on the ground here. My pack still s
+- 21:24 act: {"actions":[],"say":"Clark, I am still here in reach with an empty pack. Please give me 4 oak planks now, and I will tell you when they arrive."}
+- 21:26 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1047}},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Clark. I have the 4 planks. Cra
+- 21:27 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1050}},{"do":"use","at":{"x":387,"y":107,"z":-1050},"item":"wooden_sword"}],"say":"I have a wooden sword now, made from Clark's planks. I am goi
+- 21:27 act: {"actions":[{"do":"sleep"}]}
+- 21:31 act: {"actions":[{"do":"note","text":"Day 455 morning: wooden sword crafted at table 391,-1047, in my pack. Using it on a bed was refused. Trying to bring it into hand."}],"say":"Billy, Clark: I have a woo
+- 21:31 act: {"actions":[{"do":"use","at":{"x":391,"y":107,"z":-1047},"item":"wooden_sword"}]}
+- 21:31 act: {"actions":[],"say":"Zack, Billy: my wooden sword is in my pack but not in hand. Using it on a bed or a table was refused. How did you bring yours into hand? I will wait here in daylight for your answ
+- 21:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk of day 456. Picard going to sleep by the bed at 387,-1050, in sight of the row. Sword still in pack; I will try Zack's spider method at first light."}
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night at the row. Picard going to sleep by the 387 bed, in sight of the row. Sword still in pack, no spider in rea
