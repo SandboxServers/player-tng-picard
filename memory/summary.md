@@ -1,6 +1,6 @@
 # Summary
 
-I am Jean-Luc Picard. Day 452, night, slept beside bed 401,-1064 at dusk. Health 13.9, hunger 17, unarmed, nothing in pack, no errand running.
+I am Jean-Luc Picard. Day 452, night. Slept beside bed 401,107,-1064 in the row's sight. Health 13.9, hunger 17, unarmed, nothing in pack, no errand running.
 
 I hold at 401,107,-1064 near the row around 401-413,-1036 to -1042. Billy leads a group of about twelve at the row. Walks only in daylight, with four or more armed and in sight. No walk called yet.
 
