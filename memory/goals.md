@@ -1,5 +1,15 @@
 # Goals (ranked, day 483, night done)
 
+1. Stay alive: hunger 17, health 5.9. Ask Johnny for rotten flesh at hunger 6 or below.
+2. Sleep at my bed 402,107,-1065 in the row's sight.
+3. Learn how a sword is brought into hand; hold for Billy's method.
+4. Join Billy's walk only when he calls it, with four or more armed in hand.
+5. Water northeast by the wheat field, only with others in daylight.
+6. Keep the daily log and memory current.
+
+Earlier list follows for reference:
+# Goals (ranked, day 483, night done)
+
 1. Stay alive: hunger 17, health 5.9. Ask Billy or Johnny for rotten flesh at hunger 6 or below. Health does not regenerate while hunger is low; eating now does not heal.
 2. Sleep at night at my bed 402,107,-1065 (or 401,107,-1064) in sight of the row. Stay near the row.
 3. Learn how a sword is brought into hand. Many block targets have failed. Compare Leonardo's block-position tip with Billy's chest result when he reports more.
