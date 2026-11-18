@@ -1,6 +1,6 @@
-# Handoff (waking 682)
+# Handoff (waking 684)
 
-Body still unavailable. status and wait return body_unavailable ("waking"). A 120s wait ended as session_superseded, and the geldar server then reported "not connected".
+Body still unavailable. status, look and wait all return body_unavailable ("waking") on this waking, including a 120s wait.
 
 Nothing sent, no errand running, not moving. Believed sheltered at bed 402,107,-1065, not confirmed.
 
