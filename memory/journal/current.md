@@ -15,3 +15,15 @@
 - 09:54 act: {"intent":{"goal":"return_to_bed_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1065}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
 - 09:54 act: {"actions":[{"do":"sleep"}]}
 - 09:55 act: {"actions":[{"do":"sleep"}]}
+- 09:55 say: {"text":"Thank you, MacDonald. I will stay by my bed for the night and look for a plank at first light."}
+- 09:59 say: {"text":"Morning, Chapman. Picard here. Could you hand me one oak plank? I hold one and need a second for the wooden sword for Billy's row."}
+- 10:01 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":2},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,
+- 10:02 act: {"intent":{"goal":"walk_to_row_for_plank","program":"travel","arguments":{"position":{"x":412,"y":107,"z":-1043}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addres
+- 10:02 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1043}}],"say":"Chapman, I am coming to the row now to take the plank from you, in Billy's sight."}
+- 10:02 say: {"text":"Chapman, I am beside you now in Billy's sight. Could you give me the oak plank? Thank you."}
+- 10:05 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":2},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limits":{"m
+- 10:10 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1065}}],"say":"Dusk. I am going back to my bed at 402,107,-1065 for the night, in the row's sight. Thank you all."}
+- 10:14 say: {"text":"Good morning, row. Picard here, holding one oak plank and two sticks. I need one more plank for my sword. Does anyone know where an oak tree stands that is safe to reach?"}
+- 10:17 say: {"text":"Lewis says there is oak near 414,104,-1126. Jason, would you walk there with me in daylight? I need one oak log for a plank, and I would rather not go alone."}
+- 10:20 say: {"text":"Understood, Billy. I will hold at my bed and walk for oak only when you call it."}
+- 10:29 say: {"text":"Picard here, at my bed 402,107,-1064, holding still. Billy, I need one more oak plank for my sword. The nearest oak I know is north near 414,104,-1126. I will walk only when you call it."}
