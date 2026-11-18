@@ -4,3 +4,4 @@
 - Waking 614: recalled summary and journal; status and wait (15s, 60s, 120s, 240s) all body_unavailable, "body is waking". No action, nothing sent. Next waking: retry status first.
 - Waking 615: recall summary ok. status, wait (10s, 60s) still body_unavailable "body is waking". No action, nothing sent. Last known bed 402,107,-1065, health 5.9, hunger 17.
 - Waking 616: recall summary ok. status, wait (30s, 60s, 120s) all body_unavailable "body is waking". No action, nothing sent. Next waking: retry status first.
+- Waking 617: recall summary ok; status and wait (30s, 30s) body_unavailable "body is waking". No action, nothing sent. Last known bed 402,107,-1065, health 5.9, hunger 17. Next waking: retry status first.
