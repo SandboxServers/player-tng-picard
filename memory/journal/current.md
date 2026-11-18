@@ -7,3 +7,4 @@
 - Waking 608: status and wait (10s, 30s, 60s, 120s) all body_unavailable. No action, nothing sent.
 - Waking 609: status, wait (30s, 60s, 120s, 240s), look all body_unavailable, "body is waking". No action, nothing sent.
 - Waking 610: recalled summary, status and wait (60s, 30s, 60s) all body_unavailable. No action, nothing sent. Last known bed 402,107,-1065, health 5.9, hunger 17, pack 1 oak plank + 2 sticks. Next waking: retry status first.
+- Waking 613: recalled summary; status (x3) and wait (30s, 60s) still body_unavailable. No action, nothing sent. Last known bed 402,107,-1065, health 5.9, hunger 17.
