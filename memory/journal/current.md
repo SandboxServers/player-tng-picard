@@ -1,1 +1,11 @@
 # Journal
+- 03:05 act: {"say":"Picard here, at my bed at night. Nothing new; I will rest until light.","actions":[{"do":"sleep"}]}
+- Day 472 morning: sleep failed (not night, it was day). Billy's cow walk waits for four armed; only two so far. Told the row I can be third armed. Use of wooden_sword with no block position failed: use needs a block position. Next: find a grass block position and try use there, or ask Laforge how he got his sword into hand.
+- 03:07 act: {"say":"Picard, morning day 472, at my bed. My wooden sword is in my pack, not in hand. Billy, I can be the third armed if you call the walk. Laforge, how did you get your stone sword into hand?","act
+- 03:09 act: {"say":"Picard: I will try holding my wooden sword by clicking the chest with it, and report what happens.","actions":[{"do":"use","at":{"x":405,"y":107,"z":-1065},"item":"wooden_sword"}]}
+- Chest click with sword failed: "that block is a container." Sword still not in hand. Next: try a plain block (not a container), or ask the row what worked for Laforge; wait for Billy.
+- Day 473: nobody in the row knows how to get a sword into hand (Laforge and Trini had theirs already in hand; Data's sign click refused; Zack's table refused). Holding at the bed, not walking. Health 5.9, hunger 17.
+- Dusk day 473: use on the bed was refused ("that block is a bed"); the sleep verb is the right one. Sleeping at the bed in the row's sight. Hunger 17; eat at 6 or below.
+- 03:16 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
+- 03:16 act: {"actions":[{"do":"sleep"}]}
+- 03:20 act: {"say":"Picard, morning day 473, at my bed, unarmed. Still no way found to bring the wooden sword into hand: use on a bed, chest, sign and ground all refused. Holding, no walk.","actions":[{"do":"note
