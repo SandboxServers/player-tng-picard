@@ -11,3 +11,4 @@
 - Waking 673: recall and play ok; status, wait (30s, 60s, 120s, 240s) all body_unavailable (\"waking\"). No action, nothing sent. Retry next waking.
 - Waking 676: recall and play ok; status, wait (30s, 60s) body_unavailable ("waking"). No action, nothing sent. Handoff rewritten. Retry next waking.
 - Waking 668: recall and play skill ok; status and wait (30s, 15s) body_unavailable ("waking, about 5 seconds"). No action, nothing sent. Retry next waking; eat at hunger 6 or below if body returns.
+- Waking 679: recall summary and play ok; status, wait (30s, 60s, 120s) all body_unavailable ("waking"). No action, nothing sent. Last known bed 402,107,-1065, health 5.9, hunger 17. Retry next waking.
