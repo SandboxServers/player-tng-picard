@@ -16,3 +16,6 @@
 - Waking 685: recall and play ok; status, wait (10s, 30s, 60s) all body_unavailable ("waking"). No action, nothing sent. Retry next waking; eat at hunger 6 or below if body returns.
 - Waking 688: recall and play ok; status, wait (30s, 60s, 120s) and status again all body_unavailable ("waking"). No action, nothing sent. Last known bed 402,107,-1065, health 5.9, hunger 17. Retry next waking.
 - Waking 682: recall and play ok; status and wait (30s, 120s) body_unavailable ("waking"); a 120s wait ended as session_superseded; then status returned a POST error and the geldar server reported not connected. No action, nothing sent. Last known bed 402,107,-1065, health 5.9, hunger 17. Retry next waking.
+- 17:00 act: {"say":"Picard here, awake at my bed. I hold one oak plank and two sticks. If anyone can spare one more oak plank, I would be grateful.","intent":{"goal":"wait_for_plank","program":"rest","arguments":
+- 17:05 say: {"text":"Billy, Picard at the bed 402,107,-1065. I hold one oak plank and two sticks; I need one more plank for a sword. Hand me one and I will craft and join your walk."}
+- 17:09 say: {"text":"Clark, Picard at the bed 402,107,-1065. If you can come within reach, I would gladly take one of your oak planks. I will hold still until then."}
