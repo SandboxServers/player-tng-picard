@@ -8,4 +8,8 @@
 - Dusk day 473: use on the bed was refused ("that block is a bed"); the sleep verb is the right one. Sleeping at the bed in the row's sight. Hunger 17; eat at 6 or below.
 - 03:16 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1065}}]}
 - 03:16 act: {"actions":[{"do":"sleep"}]}
+- Day 473 midday: Data's ground click also refused. Johnny has 10 rotten flesh for hunger 6 or below. Billy holds the walk at two armed. I stay at bed, holding.
+- Day 474 night: slept at bed (night skipped). Still unarmed in hand, count still two, no walk. Hunger 17. Handoff written.
 - 03:20 act: {"say":"Picard, morning day 473, at my bed, unarmed. Still no way found to bring the wooden sword into hand: use on a bed, chest, sign and ground all refused. Holding, no walk.","actions":[{"do":"note
+- 03:28 act: {"actions":[{"do":"sleep"}]}
+- 03:32 act: {"actions":[{"do":"sleep"}]}
