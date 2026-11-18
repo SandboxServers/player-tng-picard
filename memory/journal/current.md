@@ -10,3 +10,4 @@
 - Waking 637: recall summary and play skill ok; status and wait (30s, 60s, 120s) all body_unavailable ("waking"). No action, nothing sent. Retry next waking.
 - Waking 641: recall summary and play skill ok; status and wait (30s, 60s, 120s) all body_unavailable ("waking"). No action, nothing sent. Retry next waking.
 - Waking 640: recall summary and play skill ok; status, wait (30s, 60s, 120s), look all body_unavailable ("waking"). No action, nothing sent. Retry next waking.
+- Waking 642: recall summary and play skill ok; status and wait (30s, 60s, 120s) all body_unavailable ("waking"). No action, nothing sent. Retry next waking.
