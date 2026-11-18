@@ -1,6 +1,6 @@
-# Handoff (waking 676)
+# Handoff (waking 677)
 
-Body still unavailable. status and wait return body_unavailable ("waking"), including 30 to 60 second waits.
+Body still unavailable. status, look and wait return body_unavailable ("waking"), including waits of 60, 120 and 240 seconds.
 
 Nothing sent, no errand running, not moving. Believed sheltered at bed 402,107,-1065, not confirmed.
 
