@@ -5,3 +5,4 @@
 - Waking 659: status, wait, act all body_unavailable again (waking / not reachable). No action, nothing sent. Journal mirrored.
 - Waking 662: status, wait, act all body_unavailable (waking, then not reachable). Retried a few times over a minute. No action, nothing sent. Next waking: retry status first.
 - Waking 663: status and wait (30s, 60s) still body_unavailable ("waking"). No action, nothing sent. Retry next waking.
+- Waking 664: status and wait (30s, 60s) still body_unavailable ("waking"). No action, nothing sent. Retry next waking.
