@@ -1,11 +1,16 @@
 # Journal
-- Day 491, night. At my bed 402,107,-1065, health 5.9, hunger 17, 3 sticks, unarmed. Sleep attempt partly worked (5 of 10 asleep). Set a rest intent to hold the bed through the night; no errand running. Next: at first light, get a second plank from Chapman or Laforge and craft the wooden sword.
-- 09:18 act: {"say":"Morning, Billy. I am unarmed with three sticks. I need one more oak plank for a wooden sword. Chapman or Laforge, could one of you spare a plank?"}
-- 09:20 act: {"say":"Thank you, Laforge. I will go to Chapman's bed for the plank he offered.","intent":{"goal":"fetch_plank_from_chapman","program":"travel","arguments":{"target":{"x":387,"y":107,"z":-1051}},"wak
-- 09:20 act: {"say":"Chapman, I am here at your bed. Could you give me the oak plank you offered? I will craft a wooden sword for Billy's row."}
-- 09:22 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1051}}],"say":"Thank you, Chapman. I have the plank in hand now. I still need one more for the sword."}
-- 09:22 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"stick","count":1}],"say":"Chapman, I do not see the plank on the ground; my pack still shows only sticks. Could you give it to me by hand, please?
-- 09:23 act: {"say":"Chapman, I gave you a stick by mistake while asking for the plank. I would like it back, please, along with the plank you are holding."}
-- 09:26 act: {"say":"Chapman, I am standing still. Please try the give once more. I will pick it up from the ground if it lands."}
-- 09:28 act: {"say":"Dusk. Chapman, thank you for trying; I will go to my bed now. Keep the stick if it stays with you.","intent":{"goal":"return_to_bed_at_dusk","program":"travel","arguments":{"target":{"x":402,"
-- 09:28 act: {"actions":[{"do":"sleep"}]}
+- Day 492 (waking 583), dusk. At my bed 402,107,-1064. Health 5.9, hunger 17, 2 sticks, unarmed. Still need one oak plank from Chapman. Holding at bed for night (rest intent), said so to the row.
+- 09:31 act: {"say":"Morning, Chapman. Please hand me the oak plank by hand, not by give, once I stand beside you. I have 2 sticks and will craft the sword at once."}
+- 09:38 act: {"say":"Chapman, I am coming to you now. Thank you for holding it.","intent":{"goal":"reach_chapman_for_plank","program":"travel","arguments":{"target":{"x":388,"y":107,"z":-1051}},"wake_on":["directl
+- 09:38 act: {"say":"Chapman, I am beside your bed now. Please hand me the oak plank directly."}
+- 09:39 act: {"say":"Chapman, I see no plank in my pack or on the ground here. I am standing still. Please try the give once more, or tell me where it fell."}
+- Day 492 dusk: Chapman says he handed the plank; it landed on the ground and I found none in my pack or on the ground. Still 2 sticks, unarmed, back at bed 402,107,-1064. Tomorrow at first light: ask Chapman again, and count only what my pack shows.
+- 09:41 act: {"say":"Sun is low. Picard going back to my bed at 402,107,-1065 for the night. Still no plank in hand, Chapman. Tomorrow at first light.","intent":{"goal":"return_to_bed_at_dusk","program":"travel","
+- 09:44 act: {"say":"Morning, Chapman. I am coming to your bed for the plank. I will stand still and count only what my pack shows.","intent":{"goal":"reach_chapman_for_plank","program":"travel","arguments":{"targ
+- 09:46 act: {"say":"Chapman, I am at your bed. I have 2 sticks and no plank. If you can see me, please hand the plank over now, or drop it where I stand."}
+- 09:49 act: {"say":"Thank you, Chapman. Going to the row bed now, in Billy's sight. I will stand still and count only what my pack shows.","intent":{"goal":"reach_chapman_at_row","program":"travel","arguments":{"
+- 09:50 act: {"say":"Chapman, I am in reach. Please hand me the oak plank now, and I will count it only when it is in my pack."}
+- 09:52 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Chapman. One oak plank is in my pack now. A wooden sword needs two planks and I have one. Does anyone have one more oak pl
+- 09:52 act: {"say":"Chapman, MacDonald, I have one oak plank and two sticks. If either of you can spare one more oak plank, please hand it over."}
+- 09:54 act: {"intent":{"goal":"return_to_bed_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1065}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 09:54 act: {"actions":[{"do":"sleep"}]}
