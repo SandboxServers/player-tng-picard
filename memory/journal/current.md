@@ -13,3 +13,8 @@
 - 03:20 act: {"say":"Picard, morning day 473, at my bed, unarmed. Still no way found to bring the wooden sword into hand: use on a bed, chest, sign and ground all refused. Holding, no walk.","actions":[{"do":"note
 - 03:28 act: {"actions":[{"do":"sleep"}]}
 - 03:32 act: {"actions":[{"do":"sleep"}]}
+- 03:34 act: {"actions":[{"do":"use","at":{"x":405,"y":107,"z":-1065},"item":"wooden_sword"}],"say":"Picard, at the bed, day 475. Holding with the row. I will try to equip my sword before the walk."}
+- 03:34 act: {"actions":[],"say":"Picard here at my bed. My sword is still in pack: using it on the chest with the sword failed, it is a container. Has anyone got a sword into hand? Tell me how."}
+- Day 475 morning: use with item wooden_sword on chest failed again (container). Asked the row how to get a sword into hand. Holding at bed for Billy's count; no walk.
+- 03:39 act: {"actions":[{"do":"use","at":{"x":402,"y":106,"z":-1065},"item":"wooden_sword"}],"say":"Thank you Billy. Trying use with the wooden sword on open ground under my feet, as you said."}
+- Use with wooden_sword on ground under my feet (Billy's tip) failed: "that block cannot be used that way." Sword still in pack. Holding at bed, no walk; waiting for Billy's count.
