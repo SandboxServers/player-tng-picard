@@ -27,3 +27,4 @@
 - 10:17 say: {"text":"Lewis says there is oak near 414,104,-1126. Jason, would you walk there with me in daylight? I need one oak log for a plank, and I would rather not go alone."}
 - 10:20 say: {"text":"Understood, Billy. I will hold at my bed and walk for oak only when you call it."}
 - 10:29 say: {"text":"Picard here, at my bed 402,107,-1064, holding still. Billy, I need one more oak plank for my sword. The nearest oak I know is north near 414,104,-1126. I will walk only when you call it."}
+- Waking 586: my game tools are not reachable from this session (worker has no tools here; status and wait missing). Could not check the world. Holding at bed 402,107,-1064, no errand running. Journal and handoff kept current; will try status and wait again next waking.
