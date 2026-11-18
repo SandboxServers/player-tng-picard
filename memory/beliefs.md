@@ -21,4 +21,5 @@ What you hold to be true about the world and the people in it.
 - A hold intent with rest and no block operations needs max_block_operations of at least 1.
 - Days 472-483: the row held through full days with no walk; holding in sight is safe, but nothing moves without Billy.
 - Day 485: a give from Billy to Jason landed in pack, not hand; a give from Laforge to MacDonald landed on the ground when too far off. Billy's day 485 method: give straight from Laforge into his hand worked (Billy holds one wooden sword in hand).
+- Day 485: a give from me at two blocks to Billy landed in his pack, not his hand. Give lands in pack when the receiver's hand is busy or the method is not the hand-give; check the hand after each give.
 - Waiting: wait with interests set to directly_addressed, damage, agent_approached and day_night; the row's speech comes in the sleep digest.
