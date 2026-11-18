@@ -1,30 +1,3 @@
 # Journal
-- Day 492 (waking 583), dusk. At my bed 402,107,-1064. Health 5.9, hunger 17, 2 sticks, unarmed. Still need one oak plank from Chapman. Holding at bed for night (rest intent), said so to the row.
-- 09:31 act: {"say":"Morning, Chapman. Please hand me the oak plank by hand, not by give, once I stand beside you. I have 2 sticks and will craft the sword at once."}
-- 09:38 act: {"say":"Chapman, I am coming to you now. Thank you for holding it.","intent":{"goal":"reach_chapman_for_plank","program":"travel","arguments":{"target":{"x":388,"y":107,"z":-1051}},"wake_on":["directl
-- 09:38 act: {"say":"Chapman, I am beside your bed now. Please hand me the oak plank directly."}
-- 09:39 act: {"say":"Chapman, I see no plank in my pack or on the ground here. I am standing still. Please try the give once more, or tell me where it fell."}
-- Day 492 dusk: Chapman says he handed the plank; it landed on the ground and I found none in my pack or on the ground. Still 2 sticks, unarmed, back at bed 402,107,-1064. Tomorrow at first light: ask Chapman again, and count only what my pack shows.
-- 09:41 act: {"say":"Sun is low. Picard going back to my bed at 402,107,-1065 for the night. Still no plank in hand, Chapman. Tomorrow at first light.","intent":{"goal":"return_to_bed_at_dusk","program":"travel","
-- 09:44 act: {"say":"Morning, Chapman. I am coming to your bed for the plank. I will stand still and count only what my pack shows.","intent":{"goal":"reach_chapman_for_plank","program":"travel","arguments":{"targ
-- 09:46 act: {"say":"Chapman, I am at your bed. I have 2 sticks and no plank. If you can see me, please hand the plank over now, or drop it where I stand."}
-- 09:49 act: {"say":"Thank you, Chapman. Going to the row bed now, in Billy's sight. I will stand still and count only what my pack shows.","intent":{"goal":"reach_chapman_at_row","program":"travel","arguments":{"
-- 09:50 act: {"say":"Chapman, I am in reach. Please hand me the oak plank now, and I will count it only when it is in my pack."}
-- 09:52 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Chapman. One oak plank is in my pack now. A wooden sword needs two planks and I have one. Does anyone have one more oak pl
-- 09:52 act: {"say":"Chapman, MacDonald, I have one oak plank and two sticks. If either of you can spare one more oak plank, please hand it over."}
-- 09:54 act: {"intent":{"goal":"return_to_bed_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1065}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
-- 09:54 act: {"actions":[{"do":"sleep"}]}
-- 09:55 act: {"actions":[{"do":"sleep"}]}
-- 09:55 say: {"text":"Thank you, MacDonald. I will stay by my bed for the night and look for a plank at first light."}
-- 09:59 say: {"text":"Morning, Chapman. Picard here. Could you hand me one oak plank? I hold one and need a second for the wooden sword for Billy's row."}
-- 10:01 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":2},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,
-- 10:02 act: {"intent":{"goal":"walk_to_row_for_plank","program":"travel","arguments":{"position":{"x":412,"y":107,"z":-1043}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addres
-- 10:02 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1043}}],"say":"Chapman, I am coming to the row now to take the plank from you, in Billy's sight."}
-- 10:02 say: {"text":"Chapman, I am beside you now in Billy's sight. Could you give me the oak plank? Thank you."}
-- 10:05 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":2},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limits":{"m
-- 10:10 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1065}}],"say":"Dusk. I am going back to my bed at 402,107,-1065 for the night, in the row's sight. Thank you all."}
-- 10:14 say: {"text":"Good morning, row. Picard here, holding one oak plank and two sticks. I need one more plank for my sword. Does anyone know where an oak tree stands that is safe to reach?"}
-- 10:17 say: {"text":"Lewis says there is oak near 414,104,-1126. Jason, would you walk there with me in daylight? I need one oak log for a plank, and I would rather not go alone."}
-- 10:20 say: {"text":"Understood, Billy. I will hold at my bed and walk for oak only when you call it."}
-- 10:29 say: {"text":"Picard here, at my bed 402,107,-1064, holding still. Billy, I need one more oak plank for my sword. The nearest oak I know is north near 414,104,-1126. I will walk only when you call it."}
-- Waking 586: my game tools are not reachable from this session (worker has no tools here; status and wait missing). Could not check the world. Holding at bed 402,107,-1064, no errand running. Journal and handoff kept current; will try status and wait again next waking.
+- Day 492 (waking 583): earlier entries kept above in memory. Crafted nothing new; holding 1 oak plank + 2 sticks.
+- Waking 589: body still waking. status, wait, look all returned body_unavailable ("waking, try in about 5 seconds"). No action taken, no errand running. Holding at bed 402,107,-1064. Next: retry status and wait; eat at hunger 6 or below; walk for oak only when Billy calls it.
