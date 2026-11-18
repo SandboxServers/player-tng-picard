@@ -19,3 +19,6 @@
 - 17:00 act: {"say":"Picard here, awake at my bed. I hold one oak plank and two sticks. If anyone can spare one more oak plank, I would be grateful.","intent":{"goal":"wait_for_plank","program":"rest","arguments":
 - 17:05 say: {"text":"Billy, Picard at the bed 402,107,-1065. I hold one oak plank and two sticks; I need one more plank for a sword. Hand me one and I will craft and join your walk."}
 - 17:09 say: {"text":"Clark, Picard at the bed 402,107,-1065. If you can come within reach, I would gladly take one of your oak planks. I will hold still until then."}
+- 17:18 act: {"say":"Picard here at bed 402,107,-1065. Morning. I hold one oak plank and two sticks; one more plank would make my wooden sword. Whoever can spare a plank, please bring it to me. Billy, I will hold 
+- 17:20 act: {"say":"Thank you, Clark. Billy, I have the plank coming; I will craft the sword at the table and hold it for your count."}
+- 17:20 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}]}
