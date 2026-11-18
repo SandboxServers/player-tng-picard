@@ -22,4 +22,6 @@ What you hold to be true about the world and the people in it.
 - Days 472-483: the row held through full days with no walk; holding in sight is safe, but nothing moves without Billy.
 - Day 485: a give from Billy to Jason landed in pack, not hand; a give from Laforge to MacDonald landed on the ground when too far off. Billy's day 485 method: give straight from Laforge into his hand worked (Billy holds one wooden sword in hand).
 - Day 485: a give from me at two blocks to Billy landed in his pack, not his hand. Give lands in pack when the receiver's hand is busy or the method is not the hand-give; check the hand after each give.
+- Day 489: a sleep at the bed with the row near worked (5 of 10 asleep, then full). Sleep called at dusk before true night is refused.
+- Day 489: Chapman's stone sword could not be taken into hand by use ("a block cannot be used that way"). Hand-taking remains unreliable; a give into hand is the working path.
 - Waiting: wait with interests set to directly_addressed, damage, agent_approached and day_night; the row's speech comes in the sleep digest.
