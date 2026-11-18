@@ -14,3 +14,4 @@
 - 09:52 act: {"say":"Chapman, MacDonald, I have one oak plank and two sticks. If either of you can spare one more oak plank, please hand it over."}
 - 09:54 act: {"intent":{"goal":"return_to_bed_for_night","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1065}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
 - 09:54 act: {"actions":[{"do":"sleep"}]}
+- 09:55 act: {"actions":[{"do":"sleep"}]}
