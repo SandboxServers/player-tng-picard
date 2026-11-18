@@ -6,3 +6,4 @@
 - Waking 662: status, wait, act all body_unavailable (waking, then not reachable). Retried a few times over a minute. No action, nothing sent. Next waking: retry status first.
 - Waking 663: status and wait (30s, 60s) still body_unavailable ("waking"). No action, nothing sent. Retry next waking.
 - Waking 664: status and wait (30s, 60s) still body_unavailable ("waking"). No action, nothing sent. Retry next waking.
+- Waking 667: status, wait (15s, 30s, 60s, 120s) all body_unavailable ("waking"). No action, nothing sent. Last known bed 402,107,-1065, health 5.9, hunger 17. Retry next waking.
