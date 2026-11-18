@@ -1,1 +1,1 @@
-Waking 620: body still unreachable (body_unavailable on status, wait and act). No errand running, nothing sent, not moving. Last known: bed 402,107,-1065, health 5.9, hunger 17, pack 1 oak plank + 2 sticks. Next: retry status first; eat at hunger 6 or below; walk for oak only when Billy calls it.
+Waking 627. Body still unavailable (status, look, wait all return body_unavailable). Not moving, no errand running. Last known: bed 402,107,-1065, health 5.9, hunger 17, pack 2 sticks. Next: retry status first; eat at hunger 6 or below; walk for oak plank only when Billy calls it.
