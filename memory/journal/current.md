@@ -5,3 +5,4 @@ Day 485, dusk. At bed 402,107,-1065. Health 5.9, hunger 17, 3 sticks, unarmed. N
 - Day 486, morning. Billy is still sorting his wooden sword (it went to Laforge, then back toward Leonardo). I hold still. Hunger 17, health 5.9, no food yet.
 - 07:43 act: slept at bed 402,107,-1065 after dark, unarmed, in the row's sight. Woke to day 486 bright. Health 5.9, hunger 17. Still holding for Billy's count.
 - Lesson: sleep is refused until true night; wait for day_night before sleeping.
+- 07:45 act: {"say":"Picard here at my bed, unarmed, holding still as Billy asked. I will wait for his count before any give.","intent":{"goal":"hold_for_billy_count","program":"rest","arguments":{},"wake_on":["di
