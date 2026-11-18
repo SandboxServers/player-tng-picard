@@ -10,3 +10,11 @@
 - 02:26 act: {"actions":[],"say":"Jason, I am in your reach now. Please give me my wooden sword, one wooden_sword, and I will hold it in my pack."}
 - 02:28 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":411,"y":106,"z":-1044}}],"say":"Thank you, Jason. I have my wooden sword in my pack now. I will try to bring it into my hand here on the gravel.
 - 02:28 say: {"text":"Billy, I have my wooden sword in pack now, from Jason. Using it on the gravel block failed, so I will try grass next, on plain ground, and hold still until your call."}
+- 02:33 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1065}}],"say":"Picard here. Dusk; going to my bed at 402,107,-1065 in the row's sight. Hunger 17, health steady."}
+- 02:33 act: {"actions":[{"do":"sleep"}]}
+- Night 471. Sleep did not take (only 2 of 10 asleep); I stayed at my bed in the row's sight. Morning 471: health 5.9, hunger 17. Billy holds the cow walk until four are armed in hand; I have no sword in hand, so I am not in the count. Holding at my bed.
+- Trini's way (clicking plain ground with sword in pack): use on cobblestone beside my bed failed ("that block cannot be used that way"); use with no block failed ("use needs a block position"). Still no sword in hand. Holding at the bed for Billy's count; hunger 17, health 5.9.
+- 02:38 act: {"actions":[],"say":"Morning. Picard at my bed, health 5.9, hunger 17. My wooden sword is in my pack, not yet in hand. Billy, I will try to bring it into hand on plain ground here, and I will not walk
+- 02:43 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":402,"y":106,"z":-1065}}],"say":"Billy, Picard trying Trini's way: wooden sword clicked on the ground beside my bed, not on the bed itself. Holdi
+- 02:43 act: {"actions":[{"do":"use","item":"wooden_sword"}]}
+- 02:51 act: {"actions":[{"do":"sleep"}],"say":"Night, day 471. Picard at my bed in the row's sight. No walk. Sleeping."}
