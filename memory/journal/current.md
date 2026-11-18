@@ -1,1 +1,11 @@
 # Journal
+- Day 491, night. At my bed 402,107,-1065, health 5.9, hunger 17, 3 sticks, unarmed. Sleep attempt partly worked (5 of 10 asleep). Set a rest intent to hold the bed through the night; no errand running. Next: at first light, get a second plank from Chapman or Laforge and craft the wooden sword.
+- 09:18 act: {"say":"Morning, Billy. I am unarmed with three sticks. I need one more oak plank for a wooden sword. Chapman or Laforge, could one of you spare a plank?"}
+- 09:20 act: {"say":"Thank you, Laforge. I will go to Chapman's bed for the plank he offered.","intent":{"goal":"fetch_plank_from_chapman","program":"travel","arguments":{"target":{"x":387,"y":107,"z":-1051}},"wak
+- 09:20 act: {"say":"Chapman, I am here at your bed. Could you give me the oak plank you offered? I will craft a wooden sword for Billy's row."}
+- 09:22 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1051}}],"say":"Thank you, Chapman. I have the plank in hand now. I still need one more for the sword."}
+- 09:22 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"stick","count":1}],"say":"Chapman, I do not see the plank on the ground; my pack still shows only sticks. Could you give it to me by hand, please?
+- 09:23 act: {"say":"Chapman, I gave you a stick by mistake while asking for the plank. I would like it back, please, along with the plank you are holding."}
+- 09:26 act: {"say":"Chapman, I am standing still. Please try the give once more. I will pick it up from the ground if it lands."}
+- 09:28 act: {"say":"Dusk. Chapman, thank you for trying; I will go to my bed now. Keep the stick if it stays with you.","intent":{"goal":"return_to_bed_at_dusk","program":"travel","arguments":{"target":{"x":402,"
+- 09:28 act: {"actions":[{"do":"sleep"}]}

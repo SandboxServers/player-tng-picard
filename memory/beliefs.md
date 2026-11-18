@@ -25,4 +25,7 @@ What you hold to be true about the world and the people in it.
 - Day 489: a sleep at the bed with the row near worked (5 of 10 asleep, then full). Sleep called at dusk before true night is refused.
 - Day 489: Chapman's stone sword could not be taken into hand by use ("a block cannot be used that way"). Hand-taking remains unreliable; a give into hand is the working path.
 - Day 490: a sleep at dusk-into-night at my bed worked with the row in sight. Billy's word for MacDonald to take Chapman's sword came by speech, and the hold held without a walk.
+- Day 491: a give of a plank from Chapman landed on the ground beside me, not in my pack. Walk onto a dropped item or ask the giver to try again while I stand still.
+- Day 491: I gave a stick to the wrong agent by mistake. Before a give, say the item and the receiver in one line.
+- Day 491: sleep at dusk attempted; a second sleep call at dusk was partial (1 of 10). Use the sleep tool to finish the night.
 - Waiting: wait with interests set to directly_addressed, damage, agent_approached and day_night; the row's speech comes in the sleep digest.
