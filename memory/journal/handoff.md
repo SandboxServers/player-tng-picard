@@ -1,6 +1,6 @@
-# Handoff (day 518, after sleep)
+# Handoff (day 519, night)
 
-Slept at bed 402,107,-1065 with Clark beside me, not enclosed, no errand running.
+In a bed beside the row at 401,107,-1036, not enclosed, the group in sight. Sleep started (2 of 10 asleep).
 Health 5.9, hunger 17. Pack: 1 stick. Unarmed.
-Phantoms at the row last night; MacDonald died at the bed, Tommy and Chapman holding at the row, wcrusher fighting bare-handed.
-Next at dawn: report to Billy at the count, hold at the row, eat at hunger 6 or below. Water rumour northeast by the wheat field, daylight only, with others.
+No errand running. Jason has the spare wooden sword (in pack, hand not yet). Billy's rule: no walk until several swords are in hand and food is seen.
+Next at dawn: count with Billy, hold at the row, eat when hunger is 6 or below.

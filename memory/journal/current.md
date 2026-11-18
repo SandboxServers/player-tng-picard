@@ -1,1 +1,18 @@
 # Journal
+- Day 518, dusk. At bed 401,107,-1037 beside the row. Health 5.9, hunger 17, unarmed. Billy, Zack, Worf, Lewis all holding at beds for the night. Going to sleep here in sight of the group.
+- 18:40 act: {"say":"Picard counted at dawn, day 519, at 401,107,-1037: health 5.9, hunger 17, unarmed, pack one stick. Holding at the row, no walk. Billy, I am in sight.","actions":[]}
+- 18:49 act: {"say":"Picard: Jason goes first for the spare, as Billy said. I hold at the row, unarmed, no walk.","actions":[]}
+- 18:53 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard: going to the bed beside the row for the night. Unarmed, hunger 17, in sight of the group."}
+- 18:57 act: {"say":"Picard counted at morning 520, at 402,107,-1037: health 5.9, hunger 17, unarmed, no food. Holding at the row in sight, no walk.","actions":[]}
+- 19:01 act: {"say":"Picard coming into Billy's sight in daylight, unarmed, no food. I take the sword only if it is offered and Tommy has no claim first.","actions":[{"do":"goto","target":"Billy"}]}
+- 19:05 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard: dusk, going to the bed beside the row. Holding for the night, unarmed, hunger 17."}
+- 19:09 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard: night 520, going to the bed beside the row. Unarmed, hunger 17, no walk, in sight of the group."}
+- 19:09 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Picard: sleep failed, monsters nearby. I'm staying beside Jason with the sword, unarmed, and will try the bed again when it clears."}
+- 19:10 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Picard: trying the bed at 413,107,-1042 near Jason and Billy. Unarmed, hunger 17, in sight."}
+- 19:10 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Picard: sleep failed again, enderman near. Holding tight beside Jason and Wesley, unarmed."}
+- 19:10 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Picard: trying the bed at 413,107,-1042 once more, in sight of Jason, Wesley and Billy."}
+- 19:14 act: {"actions":[],"say":"Picard counted, day 521 midday, at 413,107,-1043: health 5.9, hunger 17, unarmed, pack one stick, no food. Holding in Billy's sight. No walk."}
+- 19:19 act: {"actions":[],"say":"Picard here, unarmed, hand empty, in Billy's sight at 413,107,-1043. Wesley, give me the wooden sword when you can, and I'll take it into my hand."}
+- 19:21 act: {"actions":[],"say":"Picard: no sword has reached me; it went to Clark's pack. Dusk, holding in Billy's sight, unarmed. I'll sleep when it is night."}
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Picard: going to sleep at the bed 413,107,-1042, in Billy's sight. Unarmed, hunger 17, no sword landed yet."}
+- 19:25 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Picard: I have Wesley's wooden sword in my hand now. Thank you, Wesley. Sleep failed, enderman near; holding beside Jason and Billy till light.
