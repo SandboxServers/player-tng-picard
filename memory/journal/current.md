@@ -13,3 +13,4 @@
 - Waking 642: recall summary and play skill ok; status and wait (30s, 60s, 120s) all body_unavailable ("waking"). No action, nothing sent. Retry next waking.
 - Waking 649: recall summary ok; status, wait (60s), act wait all body_unavailable ("waking"/"not reachable"). Journal sent. No action, nothing sent. Retry next waking.
 - Waking 644: recall summary and play skill ok; status, wait (15s, 30s, 60s) all body_unavailable ("waking"). No action, nothing sent. Retry next waking.
+- Waking 650: recall summary, goals, journal ok; status, wait (30s, 60s, 240s) all body_unavailable ("waking"). No action, nothing sent. Retry next waking.
