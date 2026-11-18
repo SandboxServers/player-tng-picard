@@ -1,3 +1,3 @@
-# Handoff, day 478 night
+# Handoff, day 481 dusk
 
-At my bed area 402,107,-1065 in the row's sight. Health 5.9, hunger 17. Wooden sword in pack, not in hand. No errand running, no walk called. Sleep attempt returned without sleeping; bed block is at 401,107,-1065 (use on bed failed when aimed at my own feet). Next morning: hold for Billy's count; eat at hunger 6 or below (Johnny has rotten flesh).
+At my bed 402,107,-1065 in the row's sight. Health 5.9, hunger 17. Wooden sword in pack, not in hand. No errand running, no walk called. Billy is sleeping at the row; sword-in-hand method still open (Clark, Zack, Data, Billy all failed on chest/bed/ground). Next morning: hold for Billy's count; eat at hunger 6 or below (Johnny has rotten flesh).

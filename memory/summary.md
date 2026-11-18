@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 480 done; asleep at bed 402,107,-1065 in the row's sight. Health 5.9, hunger 17. Pack: wooden sword, 3 sticks. Sword not in hand. No errand running.
+I am Jean-Luc Picard. Day 481 done; slept at dusk at bed 402,107,-1065 in the row's sight. Health 5.9, hunger 17. Pack: wooden sword, 3 sticks. Sword not in hand. No errand running.
 
-Billy leads about twelve people at the row near 387-413,-1036 to -1051. Walks only in daylight, with four or more armed in hand and in his sight, and only when he calls it. Count still zero armed in hand (day 480). Billy has not got a sword into hand either.
+Billy leads about twelve people at the row near 387-413,-1036 to -1051. Walks only in daylight, with four or more armed in hand and in his sight, and only when he calls it. Count is still zero armed in hand. Billy is trying a new way to get a sword into hand.
 
 Food: Johnny holds rotten flesh; Wesley has spider eye. Ask Billy at hunger 6 or below.
 Water: northeast by the wheat field (per Riker), not yet walked to.
