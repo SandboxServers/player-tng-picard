@@ -1,5 +1,7 @@
-# Handoff, day 468 night
+# Handoff, day 470 midday
 
-At my bed 388,107,-1065, in the row's sight. Health 5.9, hunger 17. Wooden sword in pack, not in hand. No errand running, no walk called to me.
-Jason is counted for the sword: it is his when Billy calls the walk. Laforge asked for a spare sword; I said I would raise it with Billy first.
-Next: at first light, hold for Billy's call. Eat at hunger 6 or below (Chapman has rotten flesh, Wesley has spider eye). Sword test still needs grass or dirt in reach.
+At the row at 411,107,-1044, on gravel, in Billy's sight. Health 5.9, hunger 17. Wooden sword is in my pack (Jason gave it back). Not in hand.
+Sword into hand: use on gravel failed ("that block cannot be used that way"). Next: try the grass block nearby, on plain ground.
+No walk called. No errand running.
+Food: eat at hunger 6 or below. Chapman has rotten flesh; Laforge says ripe potatoes behind the oak fence near 463-465,107,-1068 to -1073.
+Next: wait for Billy's call; try grass for the sword; return to the bed at 402,107,-1065 at dusk.

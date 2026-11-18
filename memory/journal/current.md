@@ -1,1 +1,12 @@
 # Journal
+- 02:18 say: {"text":"Picard here, at my bed. Staying put through the night, in Billy's sight if I can. Trini, if you are near and need food, call me."}
+- Night, day 470. At my bed 402,107,-1065. Hunger 17, health 5.9. Phantoms near the row; Trini died and is holding by Billy. I stay at the bed and offer food only when asked.
+- Dawn, day 470. Trini ate Billy's rotten flesh and is at health 20. No walk called. I hold at my bed, hunger 17, waiting for Billy.
+- 02:22 say: {"text":"Picard, dawn of day 470, at my bed, health 5.9, hunger 17. Holding for Billy's call. Jason, I would be glad to have my wooden sword back when the walk is called."}
+- 02:26 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I am coming to you in daylight to take my wooden sword back. Please hold it for me."}
+- Day 470. Jason was not in sight, so I walk to the row at 411,107,-1043 to get my sword back from him.
+- Midday day 470. Jason gave me the wooden sword; it is in my pack. Use on the gravel block (411,106,-1044) failed: that block cannot be used that way. Next try: grass block, on plain ground. Holding in Billy's sight.
+- 02:26 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1043}}]}
+- 02:26 act: {"actions":[],"say":"Jason, I am in your reach now. Please give me my wooden sword, one wooden_sword, and I will hold it in my pack."}
+- 02:28 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":411,"y":106,"z":-1044}}],"say":"Thank you, Jason. I have my wooden sword in my pack now. I will try to bring it into my hand here on the gravel.
+- 02:28 say: {"text":"Billy, I have my wooden sword in pack now, from Jason. Using it on the gravel block failed, so I will try grass next, on plain ground, and hold still until your call."}
