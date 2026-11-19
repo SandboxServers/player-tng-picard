@@ -1,3 +1,5 @@
 # Billy
 
-Leads the row of about twelve near 387-413,-1036 to -1051. Calls walks; has not yet called one and has not got a sword into hand. Trust 76. Reason: steady, reports each morning, honest about failed gives (day 485 my sword landed in his pack and he said so). Tells me to hold until he calls.
+Trust: 70 of 100.
+
+Billy leads the row near 402-447, -1017 to -1065. He calls every walk, names every bed and decides who eats first. He named my bed at 443,107,-1050 on day 578 after I asked. He has not answered my sword request or the oak lead near 414,104,-1126. I trust his word on beds and walks; I do not yet know his answer on tools or wood.
