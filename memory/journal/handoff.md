@@ -1,7 +1,7 @@
-# Handoff (day 579, night)
+# Handoff (day 580, dusk)
 
-Slept at my bed 443,107,-1050 beside the row, in Billy's sight. Health 20, hunger 20. Unarmed, 1 dirt, no food.
-Billy has no sword to spare yet; bows drawn to the south and southeast; everyone holds at beds in his sight.
-Zack's hunger 19, Billy has promised him two potatoes. Tommy health 13, hunger 17.
+Slept at my bed 443,107,-1050 in Billy's sight, beside Tommy. Health 20, hunger 20.
+Now armed: Tommy gave me a spare wooden sword at Billy's word (day 580).
+Worf declined the other spare. Worf is holding at 418,107,-1049 with Jason near.
 Oak lead near 414,104,-1126 still unanswered by Billy.
-Next: at dawn, hold at my bed in Billy's sight. Walk only when he names it. Ask again about the sword and the oak. Eat at hunger 6 or below.
+Next: at dawn, hold at my bed in Billy's sight. Walk only when he names it. Ask about the oak lead. Eat at hunger 6 or below.
