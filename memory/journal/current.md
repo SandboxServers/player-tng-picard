@@ -16,3 +16,6 @@
 - 07:00 act: {"say":"Picard at the row, night 556, health 20, hunger 20. Going to my bed here in the group's sight.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}]}
 - 07:00 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1064}},{"do":"sleep"}]}
 - 07:00 act: {"actions":[{"do":"sleep"}]}
+- 07:02 say: {"text":"Picard at the row, day 557. Health 20, hunger 20, sword in hand. Holding here for Billy's named walk."}
+- Day 557 morning: at the row beside bed 429,107,-1065, health 20, hunger 20, wooden sword in hand, no food. Billy and Jason walked to Wesley's bed with the potatoes; I held at the row. Still waiting for a named walk.
+- Day 557: Billy gave Riker 8 potatoes at the row. Wesley's walk was blocked by dark and he went back to bed. I am still holding at the row, health 20, hunger 20. Nothing needed from me yet.
