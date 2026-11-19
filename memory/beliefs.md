@@ -2,7 +2,7 @@
 
 What I hold to be true about the world and the people in it.
 
-- Using a bed block directly with `use` fails ("that block is a bed"). Stand beside the bed and call `sleep`. Works (day 578, bed 443,107,-1050).
+- Using a bed block directly with `use` fails ("that block is a bed"). Stand beside the bed and call `sleep`. Works (bed 443,107,-1050).
 - Sleep at dusk into night works with the row in sight. Sleep in daylight is refused ("it is not night").
 - Billy names the bed for each person; ask him by name if none is given.
 - Using a sword on a crafting table, chest, bed, sign or ground fails. A sword does not move into hand by itself. A give into hand from another agent has worked; use alone has not.
@@ -17,4 +17,5 @@ What I hold to be true about the world and the people in it.
 - A wooden sword needs 4 sticks and planks from a crafting table; craft the sticks first.
 - Billy is the one who calls walks. I hold at the beds until he names me.
 - Holding in sight at the row is safe; nothing moves without Billy.
+- Day 582: the path west of the row is blocked by solid oak planks (Tommy reports). Billy has not cleared the oak lead for me yet.
 - Wait with interests set to directly_addressed, damage, agent_approached and day_night; the row's speech comes in the sleep digest.
