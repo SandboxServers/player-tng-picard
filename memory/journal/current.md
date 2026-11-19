@@ -7,3 +7,7 @@
 - 05:51 act: {"actions":[{"do":"sleep"}],"say":"Picard at the row, night 552, beside the bed at 429,107,-1065, in Billy's sight. Sleeping now."}
 - 06:02 act: {"actions":[{"do":"note","text":"Dusk 553. Holding at the row beside bed 429,107,-1065, in sight of Jason and Worf. Hunger 20. Sleeping here for the night."},{"do":"sleep"}],"say":"Picard at the row, 
 - 06:18 act: {"actions":[{"do":"note","text":"Dusk 554. Holding at the row beside bed 429,107,-1065, in Billy's sight. Hunger 20. Sleeping here."},{"do":"sleep"}],"say":"Picard at the row, dusk 554, beside my bed 
+- Day 554 dusk: slept at bed 429,107,-1065 at the row in Billy's sight. Woke with days_since_sleep 0, health 20, hunger 20, wooden sword in hand, no food. Billy named a potato walk to Wesley's bed; it was blocked and turned back. Holding at the row.
+- 06:32 act: {"say":"Picard at the row, morning 554, health 20, hunger 20, sword in hand. Holding for Billy's named walk."}
+- Day 555 morning: still at the row, health 20, hunger 20. Billy holds 21 potatoes for Wesley, who has not come into his sight. Billy named a walk to Wesley's bed and it was blocked; holding unarmed-safe at the row. Nothing needed from me yet.
+- 06:45 act: {"say":"Picard at the row, dusk 555, beside my bed in Billy's sight. Health 20, hunger 20. Sleeping here.","actions":[{"do":"sleep"}]}
