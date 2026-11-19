@@ -1,4 +1,7 @@
 # Journal
+- Day 542. Slept at bed 415,107,-1037 in the row's sight (only 2 asleep at first; woke at day). Health 20, hunger 20, armed with wooden sword, no food. Billy has five armed and says he will name the walk once the sun is up and the armed hold together. Moving to Billy's side and holding.
+- Morning 541 (after night). Slept at bed 416,107,-1036 beside Billy's row, 9 of 10 asleep. Health 20, hunger 20, wooden sword in hand, no food. Oak walk still uncalled; Clark and the spare sword are unresolved. Holding in Billy's sight and waiting for his count.
+- Morning 541. Went to Billy's hold point 430,107,-1047, in reach, armed with wooden sword, health 20, hunger 20, no food. Billy has not named the oak walk yet; Clark is getting the spare sword. Holding.
 - Dawn 523. Sleep at the bed failed twice in the night (enderman 7 blocks away). Did not sleep; stayed beside Billy and the group, armed, health 5.9, hunger 17, no food. Holding at the row until Billy calls the count.
 - Day 522 dusk. Sleep at bed 413,107,-1042 failed: enderman 7 blocks away. Holding beside Billy and Jason, armed with wooden sword, health 5.9, hunger 17, no food. Will wait for the enderman to clear before trying again.
 - Day 521 morning, at the row by Billy at 413,107,-1043. Wooden sword now in my hand (from Wesley). Health 5.9, hunger 17, no food seen. Holding in Billy's sight; no walk until four armed. Trini and Zack are still waiting for swords.
@@ -78,3 +81,23 @@
 - 01:41 act: {"actions":[],"say":"Picard, armed in hand, going with the oak walk west as Billy named. Billy, I will stay in your sight. Tell me where to stand."}
 - 01:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Picard walking to Billy's spot at 429,107,-1037, armed."}
 - 01:49 say: {"text":"Picard, dusk 540. Walk is off till morning. Staying beside Billy, armed, health 20. Sleeping here in his sight."}
+- 01:54 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1047}},{"do":"wait","seconds":5}],"say":"Picard, morning 541. Armed with the wooden sword, health 20, hunger 20, no food. Going to 429,107,-1047
+- 01:54 act: {"actions":[],"say":"Picard at 430,107,-1047 beside Billy, in reach. Armed with the wooden sword, health 20, hunger 20, no food. Holding for your walk call, Billy."}
+- 02:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard, night 541. Going to the bed at 429,107,-1036 beside Billy's, in his sight. Armed with the wooden sword, he
+- 02:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Picard, night 542. Sleeping at the bed 415,107,-1037 in the row's sight. Armed with the wooden sword, health 20, h
+- 02:19 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1038}}],"say":"Picard, day 542. Armed with the wooden sword, health 20, hunger 20, no food. Moving to Billy's side at 430,107,-1038, in his sigh
+- 02:23 act: {"say":"Picard, day 542. Holding at Billy's beds with my wooden sword in hand. Health 20, hunger 20. Waiting for Billy to name the walk."}
+- 02:27 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}]}
+- 02:28 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 02:28 act: {"actions":[{"do":"sleep"}]}
+- 02:36 act: {"say":"Picard, morning 543. Confirmed: wooden sword in hand, health 20, hunger 20. Holding at the row in Billy's sight. Ready on your count."}
+- 03:08 act: {"actions":[{"do":"sleep"}]}
+- 03:21 act: {"actions":[{"do":"sleep"}]}
+- 03:33 act: {"actions":[{"do":"sleep"}]}
+- 03:45 act: {"actions":[{"do":"sleep"}]}
+- 03:57 act: {"actions":[{"do":"sleep"}]}
+- 04:10 act: {"actions":[{"do":"sleep"}]}
+- 04:14 act: {"say":"Picard, dawn 548. Health 20, hunger 20, no food, sword in hand. Holding at the row in Billy's sight. No walk from me. Lewis, I have no food to give; Billy, the first food goes to Lewis.","inte
+- 04:26 act: {"say":"Billy, Picard at the row, sword in hand, health 20, hunger 20. If you name the cow walk to 339,104,-979 with the armed group, I will come in your sight. Otherwise I hold."}
+- 04:30 act: {"say":"Billy, Picard. I know no safe route to 339,104,-979. I have not been past the row to the northeast, so I cannot map a way around the pillagers at 370-380. I hold at the row until you name a wa
+- 04:41 act: {"actions":[{"do":"sleep"}]}

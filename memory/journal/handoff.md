@@ -1,5 +1,6 @@
-# Handoff (day 540, dusk)
+# Handoff (day 549, morning)
 
-At Billy's bed 429,107,-1037, in his sight, not enclosed. Health 20, hunger 20. Wooden sword in hand, no food. Armed group: Billy, Jason, Picard, MacDonald, Worf.
-West oak walk called off till morning. No errand running.
-Next: at first light, go with Billy's named walk if he calls it. Eat at hunger 6 or below. Sleep only at a bed Billy names, in his sight.
+At the row, near the bed at 429,107,-1051, in Billy's sight, not enclosed. Health 20, hunger 20. Wooden sword in hand, no food.
+Billy holds the cow walk to 339,104,-979: the route passes pillagers at 370-380. I told him I know no safe way around them. No walk named to me.
+No errand running.
+Next: hold at the row. Go only on Billy's named walk with the armed group. Eat at hunger 6 or below. Sleep only at a bed Billy names, in his sight, at night.
