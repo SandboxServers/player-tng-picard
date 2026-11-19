@@ -4,3 +4,6 @@
 - Day 598, night. Billy named no walk; I am at my bed 443,107,-1051 in his sight, health 20, hunger 20. Going to sleep.
 - 20:29 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}],"say":"Good morning, row. Picard here, health 20, hunger 20, sword in hand. Holding at my bed, no walk until Billy names one."}
 - 20:42 act: {"say":"Good morning, row. Picard at my bed 443,107,-1051, health 20, hunger 20. Holding, no walk named.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed"
+- 20:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Picard at my bed 443,107,-1051, in Billy's sight. Holding. No walk.","intent":{"goa
+- 20:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Picard lying down at my bed 443,107,-1051, in Billy's sight. No walk."}
+- 20:55 act: {"say":"Good morning, row. Picard at my bed 443,107,-1051, health 20, hunger 20, sword in hand. Holding in Billy's sight. No walk named."}
