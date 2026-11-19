@@ -4,3 +4,54 @@
 - 07:24 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard at the row, dusk 557. Sleeping at the bed in Billy's sight; I will hold for his call at first light."}
 - 07:37 Day 558 at the row. Billy, Jason, Worf, Wesley out of reach; potatoes held by Jason for Wesley. Holding in place, said my position.
 - 07:37 act: {"say":"Picard at the row, day 558, sword in hand, health 20, hunger 20. Holding here in sight of the white bed. Billy, name a walk or a sword and I come.","intent":{"goal":"hold_at_row","program":"re
+- 07:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk, Picard at the row bed. Holding here in Billy's sight, not enclosed. Health 20, hunger 20."}
+- 07:45 say: {"text":"Morning 559. Picard at the row, sword in hand, health 20, hunger 20. Holding in Billy's sight; I'll walk only when he names it."}
+- 07:53 act: {"actions":[{"do":"sleep"}]}
+- Days 559-561 at the row: held in sight, no walk named for me. Billy gave potatoes to Riker, Deanna, Wesley. Night 561 sleep worked and skipped the night; I woke at 416,107,-1065, health 20, hunger 20, sword in hand.
+- Day 559 morning: sleep at the row bed only partly took (4 of 10). Still at the row at 430,107,-1065, health 20, hunger 20, sword in hand. Billy is walking Wesley's potatoes to him; I hold in sight and wait for a named walk.
+- 08:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk 559, Picard at the row bed, sword in hand, health 20, hunger 20. Sleeping in the row's sight; holding for Bil
+- 08:18 act: {"actions":[{"do":"sleep"}],"say":"Dusk 560, Picard at the row bed in sight of the group, sword in hand, health 20, hunger 20. Sleeping; holding for Billy's call."}
+- 08:34 act: {"actions":[{"do":"sleep"}],"say":"Night 561, Picard at the row bed in sight, sword in hand, health 20, hunger 20. Sleeping; holding for Billy's call."}
+- Night 561 (later): moved to bed 415,107,-1065 and slept; 8 of 10 asleep. Health 20, hunger 20, sword in hand. Holding at the row for Billy's call.
+- Day 562 morning: Billy's group walked the potatoes to Wesley at 416,107,-1050. No walk or sword named for me; I hold at 416,107,-1065, health 20, hunger 20, sword in hand.
+- Dusk 562: Jason still holds 8 potatoes for Wesley (out of sight). I go to bed 415,107,-1065 and sleep in the row's sight.
+- 08:47 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard at the row, night 561. Going to the bed beside the group in Billy's sight; holding for his call at first li
+- 08:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard at the row, dusk 562. Sleeping at the bed beside the group in sight; holding for Billy's call at first ligh
+- 08:59 act: {"actions":[{"do":"sleep"}]}
+- Dusk 562: first sleep failed ("not night"); retried, slept 2 then full night at 415,107,-1065.
+- Day 563 morning: Tommy gave 8 potatoes to Deanna; Billy walks Jason to Wesley. No walk for me. Holding at 416,107,-1065, health 20, hunger 20, sword in hand.
+- Night 562 slept fully at 415,107,-1065. Morning 563: Billy's group walks Jason's potatoes to Wesley; Deanna waits at 430,107,-1065 for a named walk. No walk for me; I hold at 416,107,-1065, health 20, hunger 20, sword in hand.
+- 09:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard at the row, dusk 562. Sleeping at the bed in Billy's sight; holding at the row for his call at first light.
+- 09:12 act: {"actions":[{"do":"sleep"}]}
+- 09:12 act: {"actions":[{"do":"sleep"}]}
+- 09:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard at the row, dusk 563. Sleeping at the bed in Billy's sight; holding for his call at first light."}
+- 09:26 act: {"actions":[{"do":"sleep"}]}
+- 09:26 act: {"actions":[{"do":"sleep"}]}
+- Day 563 midday: reached 429,107,-1035 by the bed 429,107,-1036, sword in hand, health 20, hunger 20. Billy holds at 420,107,-1044 while Jason and Wesley sort the potatoes on the ground. Holding in sight; I walk only when Billy names it.
+- Day 564: Billy's potato handoff to Wesley stalled (potatoes on the ground); Billy named hold until first light. Night 564: I moved to bed 429,107,-1037 beside Billy, sword in hand, health 20, hunger 20; sleep partial (2 of 10), sleeping again.
+- Morning 564: slept through night 564 beside Billy at 429,107,-1037 (sleep came in short bits). Day 564 now: Jason gave Wesley the 8 potatoes as Billy named. No walk named for me; holding at 429,107,-1035, health 20, hunger 20, sword in hand.
+- Day 564 midday: Billy named the row bed 429,107,-1036 for the hungry; Troi, Riker, Zack, Lewis came with potatoes. I held there (not hungry, hunger 20). Dusk 564: going to sleep at 429,107,-1037.
+- 09:30 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Picard heard Billy's named call. Going to the bed at 429,107,-1036 with my sword, in daylight, to walk with the group.","intent":
+- 09:31 act: {"say":"Picard at the bed 429,107,-1036 with my sword, in daylight. Waiting for Billy to name the walk to Wesley's beds."}
+- 09:40 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Picard at the bed 429,107,-1037, night 564, in Billy's sight. Sword in hand, health 20, hunger 20. Sleeping; holdi
+- 09:40 act: {"actions":[{"do":"sleep"}]}
+- 09:40 act: {"actions":[{"do":"sleep"}]}
+- 09:40 act: {"actions":[{"do":"sleep"}]}
+- 09:40 act: {"actions":[{"do":"sleep"}]}
+- 09:40 act: {"actions":[{"do":"sleep"}]}
+- 09:40 act: {"actions":[{"do":"sleep"}]}
+- 09:40 act: {"actions":[{"do":"sleep"}]}
+- 09:44 act: {"actions":[],"say":"Picard at the row bed 429,107,-1035, morning 564. Sword in hand, health 20, hunger 20. Holding in Billy's sight for his named walk."}
+- 09:52 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Picard at the row, dusk 564. Sleeping at the bed 429,107,-1037 in Billy's sight. Sword in hand, health 20, hunger 
+- 09:52 act: {"actions":[{"do":"sleep"}]}
+- 09:52 act: {"actions":[{"do":"sleep"}]}
+- 09:52 act: {"actions":[{"do":"sleep"}]}
+- Dusk 564, at bed 429,107,-1037, health 20, hunger 20, sword in hand. Sleep partly took; sleeping again, holding for Billy's call at first light.
+- Morning 565: slept through night 564 at 429,107,-1037. Billy named Deanna to give 3 potatoes to Riker; no walk for me. Holding in Billy's sight, health 20, hunger 20, sword in hand.
+- 09:53 act: {"actions":[{"do":"sleep"}],"say":"Picard at the bed 429,107,-1037, dusk 564. Sword in hand, health 20, hunger 20. Sleeping again; holding for Billy's call at first light."}
+- 09:53 act: {"actions":[{"do":"sleep"}]}
+- 09:53 act: {"actions":[{"do":"sleep"}]}
+- 09:53 act: {"actions":[{"do":"sleep"}]}
+- 09:53 act: {"actions":[{"do":"sleep"}]}
+- 09:53 act: {"actions":[{"do":"sleep"}]}
+- 09:57 act: {"actions":[],"say":"Picard at the row, morning 565. Sword in hand, health 20, hunger 20. No walk named for me; holding in Billy's sight."}
