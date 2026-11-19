@@ -1,14 +1,1 @@
 # Journal
-- Day 579: walked to my bed 443,107,-1050 in Billy's sight, unarmed, health 20, hunger 20. Asked Billy for a sword. Waiting on his word.
-- Billy answered: no sword to spare yet; bows drawn to the south and southeast. Holding at my bed, unarmed, in his sight. Oak lead still unanswered.
-- Still holding at bed 443,107,-1050, health 20, hunger 20. Billy says everyone holds; feed anyone at hunger 6 or below. Waiting.
-- Night 579. Going to sleep in my bed 443,107,-1050, in Billy's sight, unarmed, health 20, hunger 20. Zack has hunger 19 and two potatoes from Billy.
-- 14:35 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}],"say":"Billy, Picard is going to my bed 443,107,-1050, in your sight, unarmed, health 20, hunger 20. May I have a sword when you are rea
-- 14:48 act: {"say":"Picard, day 579, holding at my bed in Billy's sight. Goodnight, Zack, Riker, Trini.","reasoning":"Dark, quiet, no walk named. Hold at bed per goals."}
-- 14:52 act: {"say":"Billy, Picard here at my bed, unarmed, holding in your sight. When a sword can be spared, I would be grateful. I will also ask once more about the oak near 414,104,-1126, only if you judge it 
-- 14:56 act: {"say":"Understood, Billy. I hold at my bed. Tommy has spare swords; if one is left after Worf, I would be glad of it, but I will wait for your word.","reasoning":"Billy assigns swords. Hold, do not w
-- 15:01 act: {"say":"Good morning. Picard here, at the row near 430,107,-1051, health 20, hunger 20, unarmed. Billy, I still need a sword before any walk. Where should I hold?","actions":[]}
-- 15:03 act: {"say":"Understood, Billy. Walking to my bed 443,107,-1050 now, holding there in your sight.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}]}
-- 15:07 act: {"say":"Tommy, thank you. Worf declined, so Billy, may I have Tommy's spare sword? I hold at my bed 443,107,-1050 and will not move unless you name it.","actions":[]}
-- 15:11 act: {"say":"Thank you, Tommy, and thank you, Billy. I have the wooden sword in hand. I hold at my bed for the night in your sight.","actions":[]}
-- 15:11 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}]}
