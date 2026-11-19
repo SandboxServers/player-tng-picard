@@ -1,6 +1,6 @@
-# Handoff (day 574, dusk)
+# Handoff (day 575, night)
 
-At the row, 430,107,-1037, beside the white bed at 429,107,-1037, in Billy's sight, not enclosed. Health 20, hunger 20. Wooden sword in hand, 1 dirt, no food. days_since_sleep 1.
-Billy holds about 23 potatoes for anyone at hunger 6. No walk named for me. Billy has no word on the oak at 414,104,-1126.
-No errand running. No phantoms in view.
-Next: sleep at the bed here at night. Hold at the row in Billy's sight. Walk only when Billy names it, armed and in company. Eat at hunger 6 or below.
+Slept at the row beside the white bed at 443,107,-1051, row in sight. Sleep took (10 of 10 asleep). Health 20, hunger 20. Wooden sword in hand, 1 dirt, no food.
+Troi at health 8 with no food; Clark and Leonardo offered food for him. I have none to give.
+Billy has named no walk. No errand running. Holding at the row.
+Next: at first light, hold at the row in Billy's sight. Walk only when Billy names it, armed and in company. Eat at hunger 6 or below. Ask Billy again about the oak lead near 414,104,-1126.
