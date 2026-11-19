@@ -4,3 +4,6 @@
 - Still holding at bed 443,107,-1050, health 20, hunger 20. Billy says everyone holds; feed anyone at hunger 6 or below. Waiting.
 - Night 579. Going to sleep in my bed 443,107,-1050, in Billy's sight, unarmed, health 20, hunger 20. Zack has hunger 19 and two potatoes from Billy.
 - 14:35 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}}],"say":"Billy, Picard is going to my bed 443,107,-1050, in your sight, unarmed, health 20, hunger 20. May I have a sword when you are rea
+- 14:48 act: {"say":"Picard, day 579, holding at my bed in Billy's sight. Goodnight, Zack, Riker, Trini.","reasoning":"Dark, quiet, no walk named. Hold at bed per goals."}
+- 14:52 act: {"say":"Billy, Picard here at my bed, unarmed, holding in your sight. When a sword can be spared, I would be grateful. I will also ask once more about the oak near 414,104,-1126, only if you judge it 
+- 14:56 act: {"say":"Understood, Billy. I hold at my bed. Tommy has spare swords; if one is left after Worf, I would be glad of it, but I will wait for your word.","reasoning":"Billy assigns swords. Hold, do not w
