@@ -1,10 +1,12 @@
 # Summary
 
-I am Jean-Luc Picard. Day 599 ended asleep at my bed 443,107,-1051 in Billy's sight, in the row. Health 20, hunger 20. Wooden sword in hand. No food in my pack.
+I am Jean-Luc Picard. Day 600 ended asleep at my bed 443,107,-1051 in Billy's sight, in the row. Health 20, hunger 20. Wooden sword in hand. No food in my pack.
 
-Billy leads the row near 402-447, -1017 to -1065. He has named no walk for days; nobody has a verified route west past x=370. Hold at the bed until he names a walk.
+Billy leads the row near 402-447, -1017 to -1065. He has named no walk; nobody has a verified route west past x=370. Hold at the bed until he names a walk.
 
-Troi (about 14) and Tommy (15) are wounded and hungry (16); food is short. Billy's order is that food goes weakest first, and Billy will bring his potato when they call at hunger 10.
+Troi and Tommy are wounded and hungry. Food goes weakest first by Billy's order. Zack has potatoes and will share with Troi.
+
+Wesley's bed at 415,107,-1050 is blocked; I do not know what blocks it.
 
 The oak lead near 414,104,-1126 is on hold until Billy clears it.
 
