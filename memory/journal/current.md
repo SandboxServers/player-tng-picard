@@ -55,3 +55,16 @@
 - 09:53 act: {"actions":[{"do":"sleep"}]}
 - 09:53 act: {"actions":[{"do":"sleep"}]}
 - 09:57 act: {"actions":[],"say":"Picard at the row, morning 565. Sword in hand, health 20, hunger 20. No walk named for me; holding in Billy's sight."}
+- 10:02 act: {"actions":[{"do":"note","text":"Morning 565 at the row. Holding in Billy's sight with my wooden sword; no walk named."}],"say":"Picard at the row, morning 565. Health 20, hunger 20, wooden sword in h
+- 10:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Picard at the row, dusk 565. Billy named a tree search for first light, daylight only, within sight of the row and
+- 10:06 act: {"actions":[{"do":"sleep"}]}
+- 10:10 act: {"intent":{"goal":"find_wood_near_row","program":"gather","arguments":{"block":"oak_log","count":4},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits"
+- 10:11 act: {"intent":{"goal":"find_wood_near_row","program":"travel","arguments":{"target":{"x":403,"y":107,"z":-1039}},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":200,"max_b
+- 10:11 act: {"intent":{"goal":"return_to_row","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1036}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
+- 10:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Picard coming back to the row bed 429,107,-1036 in daylight. Will note the east search for your word, Billy."}
+- 10:12 act: {"actions":[{"do":"note","text":"Back at the row 429,107,-1035 with Billy in sight. Wood search west found no oak log within reach."}],"say":"Billy, Picard back at the row, health 20, hunger 20, sword
+- 10:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 10:16 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1035}}],"say":"Billy, going east now to x 446, daylight, in sight of the row. I will report the first oak log I see."}
+- 10:16 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1035}}],"say":"Billy, I went east to x 446. The view there shows only oak planks walls around me, no oak log in sight. Walking back to the row t
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard holding at the row, night 566, unarmed, hunger 20. Sleeping at the bed by Billy's sight. I found no wood to
+- 10:20 act: {"actions":[{"do":"sleep"}]}
