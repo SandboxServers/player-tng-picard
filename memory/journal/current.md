@@ -74,3 +74,7 @@
 - 22:58 act: {"actions":[],"say":"Picard, morning 532, at the row in Billy's sight. Armed with wooden sword, health 20, hunger 20, no food. Holding, no walk until named."}
 - 23:30 act: {"actions":[{"do":"note","text":"Day 533 dusk. Holding at the row in Billy's sight, armed with wooden sword, health 20, hunger 20. No bed named for me yet."}],"say":"Picard, dusk 533. Armed, health 20
 - 23:43 act: {"actions":[{"do":"note","text":"Night 534. Holding at the row in Billy's sight, no bed named for me tonight. Armed, health 20, hunger 20."}],"say":"Picard, night 534. Holding at the row in your sight
+- 01:33 act: {"actions":[{"do":"note","text":"Day 539, dusk. At the row 418,107,-1037, health 20, hunger 20, wooden sword in hand. Not enclosed. No walk or bed named for me; holding for Billy."}],"say":"Picard, du
+- 01:41 act: {"actions":[],"say":"Picard, armed in hand, going with the oak walk west as Billy named. Billy, I will stay in your sight. Tell me where to stand."}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Picard walking to Billy's spot at 429,107,-1037, armed."}
+- 01:49 say: {"text":"Picard, dusk 540. Walk is off till morning. Staying beside Billy, armed, health 20. Sleeping here in his sight."}
