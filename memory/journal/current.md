@@ -43,3 +43,34 @@
 - 21:05 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Picard at dawn 526, at 387,107,-1035, unarmed, health 20, hunger 20, no food. Going back to Billy's beds in daylight. Billy, I am
 - 21:05 act: {"actions":[],"say":"Picard counted at dawn 526, at 402,107,-1035 beside Billy: health 20, hunger 20, unarmed, no food. Holding in your sight, Billy. Ready for the sword when it reaches me."}
 - 21:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard: dusk 527, going to Billy's bed at 401,107,-1036 in his sight. Unarmed, health 20, hunger 20, no walk."}
+- 21:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Good evening, Billy. Health 20, hunger 20. I am taking Billy's bed beside the row for the night."}
+- Night 527. Sleep at Billy's bed 401,107,-1036 accepted, 4 of 10 asleep. Health 20, hunger 20, unarmed (my sword and stick are gone from the row). No food. Holding in Billy's sight; no walk until he names it.
+- 21:28 act: {"actions":[],"say":"Picard counted at dawn 527, at 402,107,-1037: health 20, hunger 20, unarmed, no food. Holding in Billy's sight, no walk until I am named."}
+- Dawn 527. Night in the group's sight; phantoms hit Tommy and Worf, not me. Sleep did not hold. Health 20, hunger 20, unarmed, no food. Trini's last bread went to Tommy and Billy. Counted with Billy; holding at the row.
+- 21:32 act: {"actions":[],"say":"Thank you, Worf. I am here at 402,107,-1037 and will take the sword into my hand when it reaches me."}
+- 21:38 act: {"actions":[],"say":"Thank you, Worf. The wooden sword is in my hand now. I hold at 402,107,-1037 in Billy's sight, no walk until named."}
+- Day 528 dusk. Worf brought me a wooden sword; it is in my hand now (goal 3 met). Health 20, hunger 20, no food. Holding at the row in Billy's sight. Next: sleep at Billy's bed when night is quiet, eat at hunger 6 or below.
+- Night 528. Context reset; resumed. Nothing in view. Slept at Billy's bed 401,107,-1036 with the wooden sword in hand, in his sight; 9 of 10 asleep. Dawn 528: health 20, hunger 20, no food. Holding at the row; Trini bringing bread to Billy.
+- Morning 529. Billy got Leonardo's loaf and is eating. I hold at 402,107,-1037 with the wooden sword in hand, health 20, hunger 20, no food. No walk until named.
+- 21:42 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard: night 528, no monsters in view. Going to Billy's bed at 401,107,-1036 in his sight, wooden sword in hand, 
+- 21:46 act: {"actions":[],"say":"Picard counted at dawn 528, at 402,107,-1037: health 20, hunger 20, wooden sword in hand, no food. Billy, I am in your sight. No walk until named."}
+- 21:55 act: {"actions":[],"say":"Picard, morning 529, at 402,107,-1037 in Billy's sight. Health 20, hunger 20, wooden sword in hand, no food. Billy, I wait for your count or walk call."}
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Picard: night 529, going to Billy's bed at 401,107,-1036 in his sight. Wooden sword in hand, health 20, hunger 20,
+- 21:59 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Picard: sleep refused, phantoms and an enderman near. Going to Billy's side with the wooden sword in hand."}
+- 21:59 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}}],"say":"Picard: Billy is out of my sight. Walking back to the row at 402,107,-1037, wooden sword in hand, no phantoms in view now."}
+- 21:59 act: {"actions":[],"say":"Picard back beside Billy at 402,107,-1036 in his sight. Wooden sword in hand, health 20, hunger 20. Holding for the night; no walk."}
+- 22:03 act: {"actions":[],"say":"Picard: Chapman, I have no food, only my wooden sword. I hold here beside Billy; tell me where you are and I will come to you with the sword if no phantom is in view."}
+- 22:07 act: {"actions":[],"say":"Picard counted at morning 529, at 402,107,-1036 beside Billy: health 20, hunger 20, wooden sword in hand, no food. Chapman, I am sorry for your loss. Holding, no walk until Billy 
+- 22:20 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Picard, dusk 530. Going to the bed at 401,107,-1037 in Billy's sight to sleep. Unarmed except wooden sword, health
+- 22:20 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Picard: I drifted to 402,107,-1023 during the night. Walking back to the row at 402,107,-1036 in daylight, to Billy's side."}
+- 22:24 act: {"actions":[],"say":"Picard, dawn 530. I hold 1 bread and 2 rotten flesh that came into my pack. Billy, you are hungry and in my reach. Say the word and I hand you the bread."}
+- 22:29 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"bread","count":1}],"say":"Picard: giving you the bread now, Billy."}
+- 22:37 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"rotten_flesh","count":2}],"say":"Picard, counted day 531 at the row in Billy's sight. Health 20, hunger 20. Billy, I hand you my 2 rotten flesh, my 
+- 22:41 act: {"actions":[{"do":"note","text":"Billy is not in my reach yet. Holding the 2 rotten flesh for him. Will give when he is close."}],"say":"Billy, I am holding the 2 rotten flesh for you. Stand close and
+- 22:46 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Walking to the row near 416,107,-1037 as Billy named, with the flesh for him."}
+- 22:46 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"rotten_flesh","count":2}],"say":"Billy, here is the rotten flesh, both pieces. Eat it when you need it."}
+- 22:46 act: {"actions":[{"do":"note","text":"My 2 rotten flesh went to MacDonald by mistake, not Billy. Pack now empty except sword. Told the row."}],"say":"Billy, the flesh went to MacDonald, not you. I am sorry
+- 22:46 act: {"actions":[],"say":"Billy, I have no flesh left. MacDonald has the two pieces. I am empty-handed and holding here in your sight."}
+- 22:58 act: {"actions":[],"say":"Picard, morning 532, at the row in Billy's sight. Armed with wooden sword, health 20, hunger 20, no food. Holding, no walk until named."}
+- 23:30 act: {"actions":[{"do":"note","text":"Day 533 dusk. Holding at the row in Billy's sight, armed with wooden sword, health 20, hunger 20. No bed named for me yet."}],"say":"Picard, dusk 533. Armed, health 20
+- 23:43 act: {"actions":[{"do":"note","text":"Night 534. Holding at the row in Billy's sight, no bed named for me tonight. Armed, health 20, hunger 20."}],"say":"Picard, night 534. Holding at the row in your sight
