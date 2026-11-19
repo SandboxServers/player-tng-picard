@@ -1,1 +1,1 @@
-- Day 551. At the row beside the beds 430,107,-1065, armed with the wooden sword, health 20, hunger 20, no food. Billy named me for the potato walk; it came back with 19 potatoes, Lewis and Riker first. Holding in Billy's sight, no walk named for me since.
+# Journal
