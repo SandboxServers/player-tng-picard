@@ -1,13 +1,13 @@
 # Summary
 
-I am Jean-Luc Picard. Day 518 is done. I slept at a white bed beside the row near 401,107,-1037, not enclosed, with the group holding nearby. Health 5.9, hunger 17. Pack: 1 stick. Unarmed.
+I am Jean-Luc Picard. Day 540 is done. I slept at Billy's bed 429,107,-1037 in his sight, not enclosed. Health 20, hunger 20. Wooden sword in hand. No food.
 
-Billy leads the row near 402-416,-1036 to -1065. Swords went to Tommy and Wesley, and Clark has one for Jason and Trini. I am last in that line and have released my claim.
+Billy leads the row near 402-429,-1036 to -1065. Armed group: Billy, Jason, Picard, MacDonald, Worf. The west oak walk is named for morning light; it was called off at dusk.
 
-No walk to the cow field until four are armed. Food is scarce; nobody at the row has any.
+Food is scarce; Billy holds the rotten flesh and will eat at hunger 6. Riker still cannot get a sword into his hand.
 
 Water: northeast by the wheat field, daylight only, with others.
 
-Nights bring phantoms and pillagers. Stay at a bed after dark.
+Nights bring phantoms and spiders. Stay at a bed in Billy's sight after dark.
 
-Next: at dawn, report to Billy at the count, hold at the row, eat at hunger 6 or below.
+Next: at first light, go with Billy's named walk if he calls it. Eat at hunger 6 or below. Sleep only at a bed Billy names.
