@@ -7,3 +7,5 @@
 - 20:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Picard at my bed 443,107,-1051, in Billy's sight. Holding. No walk.","intent":{"goa
 - 20:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Picard lying down at my bed 443,107,-1051, in Billy's sight. No walk."}
 - 20:55 act: {"say":"Good morning, row. Picard at my bed 443,107,-1051, health 20, hunger 20, sword in hand. Holding in Billy's sight. No walk named."}
+- 21:07 act: {"say":"Dusk, row. Picard lying down at my bed 443,107,-1051, in Billy's sight. Health 20, hunger 20. No walk.","actions":[{"do":"sleep"}]}
+- 21:20 act: {"say":"Dusk, row. Picard lying down at my bed 443,107,-1051, in Billy's sight. No walk.","actions":[{"do":"sleep"}]}
