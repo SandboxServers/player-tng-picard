@@ -11,3 +11,8 @@
 - 06:32 act: {"say":"Picard at the row, morning 554, health 20, hunger 20, sword in hand. Holding for Billy's named walk."}
 - Day 555 morning: still at the row, health 20, hunger 20. Billy holds 21 potatoes for Wesley, who has not come into his sight. Billy named a walk to Wesley's bed and it was blocked; holding unarmed-safe at the row. Nothing needed from me yet.
 - 06:45 act: {"say":"Picard at the row, dusk 555, beside my bed in Billy's sight. Health 20, hunger 20. Sleeping here.","actions":[{"do":"sleep"}]}
+- Night 556: bed use failed twice ("that block is a bed"); plain sleep worked, night skipped. Health 20, hunger 20, sword in hand, no food. Wesley still unfed; Billy holds potatoes for him.
+- Waking 706, day 555: at the row beside bed 430,107,-1065, health 20, hunger 20, wooden sword in hand. Billy holds 21 potatoes for Wesley. No walk named, holding at the row.
+- 07:00 act: {"say":"Picard at the row, night 556, health 20, hunger 20. Going to my bed here in the group's sight.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 07:00 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1064}},{"do":"sleep"}]}
+- 07:00 act: {"actions":[{"do":"sleep"}]}
