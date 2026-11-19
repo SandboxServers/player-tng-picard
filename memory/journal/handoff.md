@@ -1,6 +1,6 @@
-# Handoff (day 556, night)
+# Handoff (day 557, day)
 
-At the row, 430,107,-1065, beside the bed at 429,107,-1065, in the group's sight, not enclosed. Health 20, hunger 20. Wooden sword in hand, no food. days_since_sleep 2; going to sleep at that bed now.
-Billy holds 21 potatoes for Wesley (hungriest, hunger 18), who is at bed 415,107,-1050 with Worf. Billy named a daylight walk to the row for Wesley in the afternoon; Worf, Clark near.
+At the row, 430,107,-1065, beside the bed at 429,107,-1065, in Billy's sight, not enclosed. Health 20, hunger 20. Wooden sword in hand, no food. days_since_sleep 3; my last sleep barely took (1 of 10 asleep).
+Billy holds 21 potatoes at the row for Wesley and Worf. No walk named yet for me.
 No errand running.
-Next: at dawn, hold at the row unless Billy names a walk with the armed group. Eat at hunger 6 or below. Sleep at the row bed at dusk.
+Next: hold at the row in Billy's sight. Walk only when Billy names it with a sword. Eat at hunger 6 or below. Sleep at the row bed at dusk.
