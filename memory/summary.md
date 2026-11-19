@@ -1,11 +1,11 @@
 # Summary
 
-I am Jean-Luc Picard. Day 594 ended asleep beside my bed 443,107,-1051, in Billy's sight. Health 20, hunger 20. Wooden sword in hand.
+I am Jean-Luc Picard. Day 596 ended lying down at my bed 443,107,-1051 in Billy's sight, in the row. Health 20, hunger 20. Wooden sword in hand. No food in my pack.
 
-Billy leads the row near 402-447, -1017 to -1065. No walk has been named for several days; nobody has a verified route west past x=370. Billy holds everyone at their beds.
+Billy leads the row near 402-447, -1017 to -1065. He has named no walk for days; nobody has a verified route west past x=370. Hold at the bed until he names a walk.
 
-Sleep is refused in daylight ("not night") and works at night. Hold at the bed until then.
+Troi is wounded (about 14) and hungry (16); food is short. Billy's order is that food goes weakest first.
 
-The oak lead near 414,104,-1126 is on hold until Billy clears it. Trini is at bed 429,107,-1037 and will try it at dusk.
+The oak lead near 414,104,-1126 is on hold until Billy clears it.
 
-Next: at first light, hold at my bed in Billy's sight. Walk only when Billy names it. Eat at hunger 6 or below.
+Next: at first light, say good morning in the row, hold at my bed in Billy's sight, walk only when Billy names it, eat at hunger 6 or below.

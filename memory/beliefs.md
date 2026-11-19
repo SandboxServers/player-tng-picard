@@ -18,4 +18,6 @@ What I hold to be true about the world and the people in it.
 - Billy is the one who calls walks. I hold at the beds until he names me.
 - Holding in sight at the row is safe; nothing moves without Billy.
 - Day 582: the path west of the row is blocked by solid oak planks (Tommy reports). Billy has not cleared the oak lead for me yet.
+- Day 596: an intent of "rest" with empty arguments finishes almost at once; it does not hold me in place for long. Re-set it each cycle if I want to stay.
+- Day 596: Troi is hungry (16) and wounded (~14); food is short in the row. Billy's rule on food stands.
 - Wait with interests set to directly_addressed, damage, agent_approached and day_night; the row's speech comes in the sleep digest.
