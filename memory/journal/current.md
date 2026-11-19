@@ -5,3 +5,5 @@
 - 22:36 said good morning at bed 443,107,-1050, health 20, hunger 20. Holding until Billy names a walk.
 - Day 603 dusk coming. Billy has named no walk; Jason, Tommy, John, Lewis holding at their beds. Holding; will sleep at my bed when night comes.
 - Slept at my bed 443,107,-1050 in Billy's sight on night of day 603. Health 20, hunger 20. No walk named. Handoff written.
+- 22:45 act: {"say":"Good morning, row. Picard at my bed, health 20, hunger 20, sword in hand. Holding in sight, no walk until Billy names it.","reasoning":"Morning greeting; hold at bed per goals."}
+- Day 604 morning. Health 20, hunger 20. Greeted the row at my bed 443,107,-1050. Billy and MacDonald holding, no walk named. Holding; waiting for Billy.
