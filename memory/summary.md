@@ -2,11 +2,11 @@
 
 I am Jean-Luc Picard. Day 659 is done. I slept at my bed 416,107,-1037 at dusk in Billy's row and will wake in the row's sight. Health 20, hunger 20. Wooden sword in hand. No food in pack.
 
-Billy leads the row near 402-447, -1017 to -1065. No walk was named on days 657 through 659; I held in the row. Billy holds until a daylight route with armed escort is set.
+Billy leads the row near 402-447, -1017 to -1065. No walk was named on days 657 through 659; I held in the row.
 
 Tommy, MacDonald, Deanna, Kimberly and Trini are lower on food and health. Food goes weakest first by Billy's order. Call Billy at hunger 10. Eat at hunger 6 or below.
 
-The oak lead near 414,104,-1126 is on hold until Billy clears it. Sheep not yet found. Beverly saw cows far east near 339,104,-979. The west route past x=370 is unverified and forbidden by Billy.
+The oak lead near 414,104,-1126 is on hold until Billy clears it. Sheep not yet found. Cows far east near 339,104,-979. The west route past x=370 is unverified and forbidden by Billy.
 
 Sleep works at dusk and night at my bed in Billy's sight; daytime sleep is refused.
 

@@ -34,3 +34,4 @@ What I hold to be true about the world and the people in it.
 - Day 650: Dusk sleep at my bed in Billy's sight worked; the night was skipped and I woke at the row.
 - Day 655: Billy sleeps at 443,107,-1023 and holds the row there. Bed 443,107,-1037 is open to Kimberly to try; it has refused her before.
 - Day 655: Held all day with no walk named; the row said good morning and held. Still no food, sheep or verified west route.
+- Day 659: Held all day again; Billy named no walk. Sleep at dusk at my bed worked. Sheep still unseen; Worf and Leonardo also ask where sheep graze.
