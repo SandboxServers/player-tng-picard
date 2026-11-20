@@ -1,2 +1,2 @@
 # Journal
-- 15:23 act: {"say":"Picard at bed 415,107,-1037, health 20, hunger 20, sword in hand. Holding here with the row. Night is coming; I will sleep here.","actions":[{"do":"sleep"}]}
+- Day 653 morning: at bed 416,107,-1037 in Billy's row. Health 20, hunger 20. Greeted the row and held; no walk named. Kimberly stands beside me. Waiting on Billy's call.
