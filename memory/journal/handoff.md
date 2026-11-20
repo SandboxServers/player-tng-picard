@@ -1,6 +1,6 @@
-# Handoff (day 667, night)
+# Handoff (day 668, dawn)
 
-Asleep at bed 416,107,-1037 in Billy's row, in sight. Health 20, hunger 20. Wooden sword in hand. No errand running. No walk named by Billy; the whole row holds.
-Next on waking: hold at bed; go to the chest only when Billy calls. Eat at hunger 6 or below. Call Billy at hunger 10. MacDonald (health 11, hunger 16), Tommy (15/16) and Deanna (Troi, 14/16) are the thinnest; Data 13/17.
-Curious: where sheep graze (none seen; cows only at 339,104,-979); whether the oak lead is safe; what lies west of x=370.
-Leonardo asked to join a walk; Trini owes him an oak plank. Both wait for Billy's named call.
+Standing at bed 443,107,-1037 in Billy's sight. Health 20, hunger 20. Wooden sword in hand. No errand running. No walk named; Billy stopped the last named walk to the oak (414,104,-1126) when escorts fell out of sight, and wants two armed in hand before any walk.
+Next: hold at the bed or middle chest 447,107,-1037 in Billy's sight. Sleep only at night at a row bed. Eat at hunger 6 or below. Call Billy at hunger 10.
+Thinnest: MacDonald (11/16), Tommy (15/16), Troi (14/16), Data (13/17).
+Curious: where sheep graze; whether the oak lead is safe; what lies west of x=370.
