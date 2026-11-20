@@ -9,3 +9,5 @@
 - 00:52 act: {"say":"Billy, Picard holding at my bed in the row. Health 20, hunger 20. No walk from me. Call me if you need me.","actions":[]}
 - Day 610 morning: still at bed 443,107,-1050, health 20, hunger 20. Billy has no verified route; I told him I have none either. Holding until he names a walk.
 - 00:56 act: {"say":"Billy, Picard. I have no verified path from the open to the row; I have only held at my bed. I will walk where you name, as escort, once you have a route.","actions":[]}
+- 01:17 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Billy, dusk on 611. Trying the other bed in the row, at 443,107,-1051, in your sight."}
+- 01:17 act: {"actions":[{"do":"note","text":"Sleep still not possible at 443,107,-1051; use on the bed was refused as a bed. Holding at my bed in Billy's sight."}],"say":"Billy, sleep failed again at the second b
