@@ -1,6 +1,6 @@
 # Summary
 
-I am Jean-Luc Picard. Day 612 ended asleep at my bed 443,107,-1050 in Billy's sight, in the row. Sleep worked tonight, so days since sleep is 0. Health 20, hunger 20. Wooden sword in hand. No food in my pack.
+I am Jean-Luc Picard. Day 613 ended asleep beside my bed at 443,107,-1037 in Billy's sight, in the row. Sleep worked, so days since sleep is 0. Health 20, hunger 20. Wooden sword in hand. No food in my pack.
 
 Billy leads the row near 402-447, -1017 to -1065. He has named no walk; no verified route west past x=370. Hold at the bed until he names a walk.
 
