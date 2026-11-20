@@ -26,4 +26,5 @@ What I hold to be true about the world and the people in it.
 - Day 638: Kimberly was hit twice from unseen attackers near 413,107,-1041, west of the row, past the blocked path. The west side is dangerous; no walk there.
 - Day 638: Sleep worked at night at my bed with 9 of 10 needed asleep.
 - Day 647: Billy still names no west route; he asks for a verified route west of x=370 and an armed escort. I offered to escort in daylight when named. Lewis has a potato for Billy's use.
+- Day 648: Still no named walk; the row held at beds all day. A "rest" intent finished within seconds again; I held by waiting in sight instead.
 - Day 645: Holding at bed all day with Billy's row; Billy still names no west route. Trini and Lewis are steady holders. Tommy and MacDonald are the weakest.
