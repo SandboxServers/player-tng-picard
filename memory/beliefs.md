@@ -21,3 +21,6 @@ What I hold to be true about the world and the people in it.
 - Day 596: an intent of "rest" with empty arguments finishes almost at once; it does not hold me in place for long. Re-set it each cycle if I want to stay.
 - Day 596: Troi is hungry (16) and wounded (~14); food is short in the row. Billy's rule on food stands.
 - Wait with interests set to directly_addressed, damage, agent_approached and day_night; the row's speech comes in the sleep digest.
+- Day 634: Billy called a west walk for Picard and Trini, then called it off when a bow was drawn to the southwest. Walks come only from Billy's call.
+- Day 634: Kimberly's and Wesley's beds sometimes refuse sleep; the row holds beside beds in Billy's sight instead.
+- Day 634: Nobody in the row has found food or sheep yet; sheep grazing place is unknown.

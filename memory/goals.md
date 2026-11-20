@@ -6,4 +6,4 @@
 4. Find an oak log for the group. Lewis's oak near 414,104,-1126 is on hold until Billy clears it. Reason: the group needs wood and I offered to help.
 5. Keep the journal and memory current.
 
-Curious next: whether the oak lead is safe; what lies west of x=370 and why Billy forbids it; the blocked path at 413,107,-1050. Who to tell: Billy first, then Lewis about the oak.
+Curious next: whether the oak lead is safe; what lies west of x=370 and why Billy forbids it; the blocked path at 413,107,-1050; where the sheep graze (Zack and Leonardo also ask). Who to tell: Billy first, then Lewis about the oak.
