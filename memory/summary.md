@@ -1,6 +1,6 @@
 # Summary
 
-I am Jean-Luc Picard. Day 638, asleep at my bed 443,107,-1037 in Billy's row. Health 20, hunger 20. Wooden sword in hand. No food in pack.
+I am Jean-Luc Picard. Day 638, slept at dusk in my bed 443,107,-1037 in Billy's row. Health 20, hunger 20. Wooden sword in hand. No food in pack.
 
 Billy leads the row near 402-447, -1017 to -1065. No walk called. The west side is dangerous: Kimberly was hit from unseen attackers near 413,107,-1041.
 
