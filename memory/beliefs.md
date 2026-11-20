@@ -28,3 +28,5 @@ What I hold to be true about the world and the people in it.
 - Day 647: Billy still names no west route; he asks for a verified route west of x=370 and an armed escort. I offered to escort in daylight when named. Lewis has a potato for Billy's use.
 - Day 648: Still no named walk; the row held at beds all day. A "rest" intent finished within seconds again; I held by waiting in sight instead.
 - Day 645: Holding at bed all day with Billy's row; Billy still names no west route. Trini and Lewis are steady holders. Tommy and MacDonald are the weakest.
+- Day 650: Sleep at night at bed 415,107,-1037 worked; I woke in the row's sight. The row kept the same routine for two days with no walk named.
+- Day 650: Kimberly's sign reads she was shot on day 466; she is alive now at health 15 and holds at the row.
