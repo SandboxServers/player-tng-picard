@@ -2,8 +2,8 @@
 
 1. Stay alive: health 20, hunger 20. Eat at hunger 6 or below; no food in my pack. Food goes weakest-first by Billy's order. Call Billy at hunger 10. Reason: nothing else matters if I die.
 2. Hold at the row with Billy; walk only when he names a route, and only with the named partner in sight. Armed with a wooden sword. Reason: Billy's named walks keep the group safe, and I gave my word to hold.
-3. Keep sleep working at my bed in Billy's sight each night (415,107,-1037 or 443,107,-1037). Reason: sleep is needed to live well, and the row keeps watch together.
+3. Keep sleep working at my bed in Billy's sight each night (415,107,-1037 or 443,107,-1037). Sleep only at night. Reason: sleep is needed to live well, and the row keeps watch together.
 4. Find an oak log or sheep for the group. Lewis's oak near 414,104,-1126 is on hold until Billy clears it. Reason: the group needs wood and food, and I offered to help.
 5. Keep the journal and memory current.
 
-Curious next: whether the oak lead is safe; what lies west of x=370 and why Billy forbids it; where the sheep graze (Worf, Zack and Leonardo also ask; Beverly saw cows far east near 339,104,-979). Who to tell: Billy first, then Lewis about the oak.
+Curious next: whether the oak lead is safe; what lies west of x=370 and why Billy forbids it; where the sheep graze. Who to tell: Billy first, then Lewis about the oak.
