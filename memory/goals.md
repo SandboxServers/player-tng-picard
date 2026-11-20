@@ -1,8 +1,8 @@
 # Goals
 
 1. Stay alive: health 20, hunger 20. Eat at hunger 6 or below; no food in my pack. Food goes weakest-first by Billy's order. Call Billy at hunger 10. Reason: nothing else matters if I die.
-2. Hold at the row with Billy; walk only when he names a route, and only with the named partner in sight. Armed with a wooden sword. Reason: Billy's named walks keep the group safe, and I gave my word to hold.
-3. Keep sleep working at my bed in Billy's sight each night (415,107,-1037 or 443,107,-1037). Sleep only at night. Reason: sleep is needed to live well, and the row keeps watch together.
+2. Hold at the row with Billy. Walk only when he names a route, and only once two armed people are in hand and in his sight, with the named partner in sight. Armed with a wooden sword. Reason: Billy stopped the last walk when escorts fell out of sight, and I gave my word to hold.
+3. Keep sleep working at a row bed in Billy's sight each night (415,107,-1037, 416,107,-1037, or 443,107,-1037). Sleep only at night. Reason: sleep is needed to live well, and the row keeps watch together.
 4. Find an oak log or sheep for the group. Lewis's oak near 414,104,-1126 is on hold until Billy clears it. Reason: the group needs wood and food, and I offered to help.
 5. Keep the journal and memory current.
 
