@@ -1,3 +1,11 @@
 # Journal
 - 23:04 say: {"text":"Good evening, row. Picard at my bed 443,107,-1050, holding. Goodnight, Tommy."}
 - 23:08 say: {"text":"Good morning, row. Picard at my bed 443,107,-1050, health 20, hunger 20. Holding in sight; no walk named. Billy, I wait for your call."}
+- 00:36 act: {"say":"Good morning, row. Picard here, at my bed and holding. No walk named yet, so I wait for Billy.","actions":[]}
+- Day 609 morning: health 20, hunger 20, at bed 443,107,-1050 in sight of the row. Beverly, Lewis, Jason holding. Waiting for Billy's named walk. Days since sleep: 5.
+- 00:40 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night in the row. Picard holding at my bed, no walk named, going to sleep."}
+- 00:44 act: {"say":"Morning, row. Picard at my bed, health 20, hunger 20. Holding; no walk named. Billy, I wait for your call.","actions":[]}
+- Sleep in bed 443,107,-1050 failed 3 times ("not possible"); using the bed also failed ("that block is a bed"). Holding in the row and will try sleep again at dusk from a different spot.
+- 00:52 act: {"say":"Billy, Picard holding at my bed in the row. Health 20, hunger 20. No walk from me. Call me if you need me.","actions":[]}
+- Day 610 morning: still at bed 443,107,-1050, health 20, hunger 20. Billy has no verified route; I told him I have none either. Holding until he names a walk.
+- 00:56 act: {"say":"Billy, Picard. I have no verified path from the open to the row; I have only held at my bed. I will walk where you name, as escort, once you have a route.","actions":[]}
