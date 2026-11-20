@@ -30,3 +30,5 @@ What I hold to be true about the world and the people in it.
 - Day 645: Holding at bed all day with Billy's row; Billy still names no west route. Trini and Lewis are steady holders. Tommy and MacDonald are the weakest.
 - Day 650: Sleep at night at bed 415,107,-1037 worked; I woke in the row's sight. The row kept the same routine for two days with no walk named.
 - Day 650: Kimberly's sign reads she was shot on day 466; she is alive now at health 15 and holds at the row.
+- Day 650: Beverly reports cows last seen far east near 339,104,-979. No one has seen sheep yet.
+- Day 650: Dusk sleep at my bed in Billy's sight worked; the night was skipped and I woke at the row.
