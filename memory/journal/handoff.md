@@ -1,4 +1,5 @@
-# Handoff (day 650, asleep)
+# Handoff (day 654, night)
 
-At my bed 415,107,-1037 in Billy's row, in sight. Health 20, hunger 20. Wooden sword in hand. No errand running. No walk named by Billy; he still lacks a verified west route and an armed escort.
-Next: on waking, hold at bed. Walk only when Billy names a route and my partner is in sight. Call Billy at hunger 10. Eat at hunger 6 or below. Worf asks about sheep; I have seen none.
+At the row beside my bed 415,107,-1037 in Billy's sight, with Kimberly beside me. Health 20, hunger 20. Wooden sword in hand. No food. No errand running. No walk named by Billy.
+The bed refused my use tonight; I rested in place. Try the bed again in daylight, or ask Billy where I should rest.
+Next: on waking, hold at the row. Walk only when Billy names a route and a partner is in sight. Call Billy at hunger 10. Eat at hunger 6 or below. Kimberly's potato is promised by Billy in the morning.
