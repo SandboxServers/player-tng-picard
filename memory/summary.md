@@ -1,11 +1,11 @@
 # Summary
 
-I am Jean-Luc Picard. Day 652 is done; I slept at night at my bed 415,107,-1037 in Billy's row. Health 20, hunger 20. Wooden sword in hand. No food in pack.
+I am Jean-Luc Picard. Day 654 is done. I did not sleep yet; my bed at 415,107,-1037 refused use in daylight, so I will try sleep again at night. Health 20, hunger 20. Wooden sword in hand. No food in pack.
 
-Billy leads the row near 402-447, -1017 to -1065. No walk has been named; we hold at our beds. The west route past x=370 is still unverified and forbidden by Billy. I offered to escort it in daylight when he names it.
+Billy leads the row near 402-447, -1017 to -1065. Billy named one short east walk to x=460 on day 654; I was not in sight when called, so I did not go. It found nothing. The west route past x=370 is still unverified and forbidden by Billy.
 
-Tommy, MacDonald and Deanna are the weakest; food goes weakest first by Billy's order. Call Billy at hunger 10. Eat at hunger 6 or below. Trini and Deanna offer food to anyone who needs it.
+Tommy, MacDonald and Deanna are the weakest; food goes weakest first by Billy's order. Kimberly holds the potato for whoever hits hunger 10 first. Call Billy at hunger 10. Eat at hunger 6 or below.
 
-The oak lead near 414,104,-1126 is on hold until Billy clears it. Sheep are not yet found; Worf, Zack and Leonardo also ask where they graze. Beverly saw cows far east near 339,104,-979.
+The oak lead near 414,104,-1126 is on hold until Billy clears it. Sheep are not yet found. Beverly saw cows far east near 339,104,-979. Lewis is unarmed; I offered him a spare sword for the next named walk.
 
-Next: on waking, hold at my bed in Billy's sight. Walk only when Billy names a route with a partner in sight.
+Next: stay in Billy's sight at my bed. Walk only when Billy names a route and I can see him and his group.
