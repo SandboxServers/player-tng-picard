@@ -1,6 +1,6 @@
 # Summary
 
-I am Jean-Luc Picard. Day 626 ended asleep at my bed 443,107,-1037 in Billy's row, with Trini beside me. Health 20, hunger 20. Wooden sword in hand. No food in my pack.
+I am Jean-Luc Picard. Day 626 ended asleep at my bed 443,107,-1037 in Billy's row. Health 20, hunger 20. Wooden sword in hand. No food in my pack.
 
 Billy leads the row near 402-447, -1017 to -1065. The west path is blocked at 413,107,-1050, so no walk west for now. No verified route west past x=370.
 
