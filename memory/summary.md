@@ -1,10 +1,10 @@
 # Summary
 
-I am Jean-Luc Picard. Day 676 is done. I slept at my row bed near 430,107,-1051 in Billy's sight. Health 20, hunger 20. Wooden sword in hand. No food in pack.
+I am Jean-Luc Picard. Day 678 is done. I slept at my row bed near 430,107,-1051 in Billy's sight. Health 20, hunger 20. Wooden sword in hand. No food in pack.
 
 Billy leads the row near 402-447, -1017 to -1065. He still has no verified route and names no walk. I hold at my bed in his sight.
 
-Thinnest: MacDonald (health 11, hunger 16), Deanna (14), Tommy (15, hunger 16, holds 3 potatoes), Trini (17). Food goes weakest first by Billy's order. Call Billy at hunger 10. Eat at hunger 6 or below.
+Thinnest: MacDonald (health 11, hunger 16), Tommy (15, hunger 16, holds 3 potatoes), Trini (17). Zack has offered potatoes by name. Food goes weakest first by Billy's order. Call Billy at hunger 10. Eat at hunger 6 or below.
 
 The oak lead near 414,104,-1126 is on hold until Billy clears it. No sheep seen yet. Cow spots: east at 339,104,-979 and 434,106,-1113. West of x=370 is unverified and forbidden by Billy. A bow was heard southwest; no one has gone to look.
 
