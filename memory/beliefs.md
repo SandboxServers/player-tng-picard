@@ -32,3 +32,5 @@ What I hold to be true about the world and the people in it.
 - Day 650: Kimberly's sign reads she was shot on day 466; she is alive now at health 15 and holds at the row.
 - Day 650: Beverly reports cows last seen far east near 339,104,-979. No one has seen sheep yet.
 - Day 650: Dusk sleep at my bed in Billy's sight worked; the night was skipped and I woke at the row.
+- Day 655: Billy sleeps at 443,107,-1023 and holds the row there. Bed 443,107,-1037 is open to Kimberly to try; it has refused her before.
+- Day 655: Held all day with no walk named; the row said good morning and held. Still no food, sheep or verified west route.
