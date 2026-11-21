@@ -28,3 +28,5 @@ What I hold to be true about the world and the people in it.
 - Day 723: Bow draws to the southwest repeat through the day and night with no hits on the row. Holding in sight stays safe.
 - Day 728: Billy asked every holder for a verified route past x=370; no one had one. Night sleep at bed 443,107,-1023 gave 6 of 10 asleep at first try; the rest of the row is also asleep. Billy's order: hold at 418,107,-1047 and do not walk.
 - Day 701: Held all day with no walk named; slept at night at my bed 430,107,-1051 and it worked. Hunger stayed 20 all day; food is not yet needed.
+- Day 749: Sleep at true night at bed 443,107,-1037 beside the row worked after waiting out the dusk. The row still holds with no route west named.
+- Day 749: Billy (ag_billy_01) is steady and fair; he asks for a verified west route before any walk and calls food at hunger 10.
