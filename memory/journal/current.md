@@ -1,1 +1,5 @@
 # Journal
+- Day 726, morning. Woke at bed 443,107,-1023 in Billy's row. Health 20, hunger 20. Greeted the row and set an intent to hold until Billy names a walk. Kimberly near, holding a potato. Bow sounds to the southwest again.
+- Billy is awake at 429,107,-1037: no food, no verified route past x=370, no walk named. Kimberly health 15, hunger 17, calls at 10. I hold here and keep my hunger in view.
+- Dusk on day 726. Billy and Troi to bed; no walk named. Going to bed 443,107,-1023 in the row, health 20, hunger 20.
+- 16:00 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}]}
