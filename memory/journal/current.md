@@ -15,3 +15,6 @@
 - 04:02 act: {"say":"Good morning, row. Picard here at my bed, health 20, hunger 20, no food. Holding in Billy's sight, no walk. I will call Billy at hunger 10.","intent":{"goal":"hold_at_row_bed","program":"rest"
 - 04:04 act: {"say":"Billy, Picard at my bed 430,107,-1051, in your sight. Health 20, hunger 20. I tried sleep at dusk; it did not take (days since sleep still 0). Holding, no walk."}
 - 04:08 act: {"say":"Billy, Picard: morning of day 691. Health 20, hunger 20, no food. I have seen no verified route west. Holding at my bed, in your sight."}
+- 04:18 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard at my bed 430,107,-1051, in Billy's sight. Health 20, hunger 20, no food. Trying sleep; no walk."}
+- 04:18 act: {"actions":[{"do":"wait","seconds":30}],"say":"Billy, Picard: sleep at my bed 430,107,-1051 gave 5 of 10 asleep tonight. Health 20, hunger 20, no food. Holding in your sight, no walk."}
+- 04:18 act: {"actions":[{"do":"sleep"}]}
