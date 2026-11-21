@@ -5,3 +5,10 @@
 - Billy says try bed 443,107,-1036 tonight (next to his, in sight); tell him if it refuses. Still day; holding at my bed.
 - Dusk, day 689: tried sleep at my bed 430,107,-1051 in Billy's sight. Sleep returned events only, no clear result (days_since_sleep still reads 0). Health 20, hunger 20, no food. Others trying beds -1050, 415,107,-1050 and 418,107,-1051. Billy's bed suggestion -1036 not yet tried.
 - 03:32 act: {"say":"Billy, Picard holding at my bed 430,107,-1051, health 20, hunger 20. No food on me. I will call you at hunger 10. Which row bed is clear tonight?","intent":{"goal":"hold_at_row","program":"res
+- 03:41 act: {"actions":[{"do":"sleep"}],"say":"Picard here, at my bed beside 429,107,-1051, in Billy's sight. Trying sleep now. Holding, no walk. Hunger 20, health 20."}
+- Result: my bed 430,107,-1051 gave "7 of 10 asleep" (partial). Then sleep failed: not night. Bright now, health 20, hunger 20. Holding at bed, no walk. Next: tell Billy the partial sleep; try -1036 only when he names it again.
+- 03:45 act: {"actions":[],"say":"Billy, Picard: my bed 430,107,-1051 let me sleep last night, 7 of 10 asleep. I have not tried -1036 since I did not walk. Holding at my bed, health 20, hunger 20, no food."}
+- Day 690 morning: told Billy my bed gave 7 of 10 asleep. Worf reports my bed slept well for him. Holding at bed, no walk, health 20, hunger 20. Waiting for Billy's named call.
+- 03:53 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Picard trying my bed here at 430,107,-1051, in Billy's sight. Holding, no walk. Health 20, hunger 20."}
+- Night day 690: my bed again gave "7 of 10 asleep". Health 20, hunger 20, no food. Holding at bed in Billy's sight. Next: wait for morning, then tell Billy.
+- Day 690 morning again: health 20, hunger 20, no food. Billy: feed at hunger 10 first, no route west yet. Holding at bed, no walk.
