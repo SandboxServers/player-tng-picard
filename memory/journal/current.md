@@ -6,3 +6,5 @@
 - 15:08 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}]}
 - 15:13 act: {"say":"Good morning, row. Picard here, health 20, hunger 20. Holding at the bed with the wooden sword, no walk named."}
 - Day 724, daytime, at the row bed 444,107,-1023. Health 20, hunger 20. Greeted the row, holding per Billy. Waiting.
+- 15:17 act: {"say":"Picard here, good morning. Health 20, hunger 20. Holding at my bed in Billy's sight. No walk named by me. Kimberly, I am with you; I will watch your hunger.","intent":{"goal":"hold_in_row","pr
+- 15:20 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}]}
