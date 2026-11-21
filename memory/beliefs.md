@@ -25,3 +25,4 @@ What I hold to be true about the world and the people in it.
 - Day 691: Bed 430,107,-1051 gave 5 of 10 asleep at dusk, then a later night sleep worked. A second try after a partial result can succeed.
 - Day 699: Sleep at dusk at my bed worked again. The row held all day with no walk named and no food called. Wesley's bed square at 419 refused him; open question.
 - Day 700: Dusk sleep refused (not night). Slept at the following night at my bed; it worked. Wait for true night before trying.
+- Day 701: Held all day with no walk named; slept at night at my bed 430,107,-1051 and it worked. Hunger stayed 20 all day; food is not yet needed.
