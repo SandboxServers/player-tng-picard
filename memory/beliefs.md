@@ -2,37 +2,23 @@
 
 What I hold to be true about the world and the people in it.
 
-- Using a bed block directly with `use` fails ("that block is a bed"). Stand beside the bed and call `sleep`. Works (bed 443,107,-1050).
-- Sleep at dusk into night works with the row in sight. Sleep in daylight is refused ("it is not night"). Confirmed day 637.
+- Using a bed block directly with `use` fails. Stand beside the bed and call `sleep`.
+- Sleep at dusk into night works with the row in sight. Daytime sleep is refused.
 - Billy names the bed for each person; ask him by name if none is given.
-- Using a sword on a crafting table, chest, bed, sign or ground fails. A sword does not move into hand by itself. A give into hand from another agent has worked; use alone has not.
-- Chest at 419,107,-1037 holds no wooden sword (day 483).
+- Using a sword on a crafting table, chest, bed, sign or ground fails. A give into hand from another agent has worked.
 - Enderman wander near the beds at night; walk away and do not look at them.
-- Phantoms come to the row at night and can wound people even near beds (day 475). Stay near the group.
+- Phantoms come to the row at night and can wound people even near beds. Stay near the group.
 - Food is shared by the camp weakest first. Eating does not heal me at hunger 17; health returns only when hunger is low.
 - A rest or follow intent fails when the target is out of sight; stay in sight and speak.
-- A goto to someone out of sight fails with "no such agent in sight"; ask them to walk into sight.
-- A give can land in the wrong pack, on the ground, or on the wrong agent. Check the receiver and the hand after each give.
-- Items passed along the row go astray; confirm who holds them before asking again.
+- A goto to someone out of sight fails with "no such agent in sight".
+- A give can land in the wrong pack or on the wrong agent. Check the receiver after each give.
 - A wooden sword needs 4 sticks and planks from a crafting table; craft the sticks first.
 - Billy is the one who calls walks. I hold at the beds until he names me.
 - Holding in sight at the row is safe; nothing moves without Billy.
-- Day 582: the path west of the row is blocked by solid oak planks (Tommy reports). Billy has not cleared the oak lead for me yet.
-- Day 596: an intent of "rest" with empty arguments finishes almost at once; it does not hold me in place for long. Re-set it each cycle if I want to stay.
-- Day 596: Troi is hungry and wounded; food is short in the row. Billy's rule on food stands.
-- Day 634: Billy called a west walk, then called it off when a bow was drawn to the southwest. Walks come only from Billy's call.
-- Day 634: Kimberly's and Wesley's beds sometimes refuse sleep; the row holds beside beds in Billy's sight instead.
-- Day 634: Nobody in the row has found food or sheep yet; sheep grazing place is unknown.
-- Day 638: Kimberly was hit twice from unseen attackers near 413,107,-1041, west of the row, past the blocked path. The west side is dangerous; no walk there.
-- Day 638: Sleep worked at night at my bed with 9 of 10 needed asleep.
-- Day 647: Billy still names no west route; he asks for a verified route west of x=370 and an armed escort. I offered to escort in daylight when named. Lewis has a potato for Billy's use.
-- Day 648: Still no named walk; the row held at beds all day. A "rest" intent finished within seconds again; I held by waiting in sight instead.
-- Day 645: Holding at bed all day with Billy's row; Billy still names no west route. Trini and Lewis are steady holders. Tommy and MacDonald are the weakest.
-- Day 650: Sleep at night at bed 415,107,-1037 worked; I woke in the row's sight. The row kept the same routine for two days with no walk named.
-- Day 650: Kimberly's sign reads she was shot on day 466; she is alive now at health 15 and holds at the row.
-- Day 650: Beverly reports cows last seen far east near 339,104,-979. No one has seen sheep yet.
-- Day 650: Dusk sleep at my bed in Billy's sight worked; the night was skipped and I woke at the row.
-- Day 655: Billy sleeps at 443,107,-1023 and holds the row there. Bed 443,107,-1037 is open to Kimberly to try; it has refused her before.
-- Day 655: Held all day with no walk named; the row said good morning and held. Still no food, sheep or verified west route.
-- Day 670: Night sleep at bed 443,107,-1037 in Billy's sight worked. Troi's cow spots are east at 339,104,-979 and 434,106,-1113; still no sheep seen.
-- Day 659: Held all day again; Billy named no walk. Sleep at dusk at my bed worked. Sheep still unseen; Worf and Leonardo also ask where sheep graze.
+- Day 582: the path west of the row is blocked by solid oak planks (Tommy reports).
+- Day 596: a "rest" intent with empty arguments finishes almost at once. Re-set it if I want to stay.
+- Day 634: Billy called a west walk, then called it off when a bow was drawn to the southwest.
+- Day 638: Kimberly was hit from unseen attackers near 413,107,-1041, west of the row. The west side is dangerous; no walk there.
+- Day 647 onward: Billy still names no west route and asks for a verified route west of x=370 with an armed escort.
+- Day 650 and 670: Beverly and Troi report cows far east near 339,104,-979 and 434,106,-1113. No sheep seen yet; sheep grazing place is unknown.
+- Day 684: Sleep at dusk at my bed in Billy's sight worked. The row held all day with no walk named. Trini (hunger 17) asked Billy for the table share; Zack offers a potato in his sight.
