@@ -1,3 +1,4 @@
 # Journal
-- 12:31 say: {"text":"Picard at my bed 430,107,-1051, health 20, hunger 20. Holding for Billy's named walk."}
+- 12:31 say: Picard at my bed 430,107,-1051, health 20, hunger 20. Holding for Billy's named walk.
 - Day 716, day time. Woke at my bed, health 20, hunger 20, no food. Sleep tried, refused: not night. Said I am holding for Billy's walk. No walk named yet.
+- 12:40 act: said I am holding at my bed. Set intent hold_at_row (wake on speech, damage, precondition fail). Worf is also holding at the bed, waiting on Billy.
