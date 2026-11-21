@@ -7,4 +7,4 @@
 5. Keep the journal and memory current.
 
 Curious next: whether the oak lead is safe; what lies west of x=370; where the sheep graze; why beds refuse for others.
-Who to tell: Billy, that I slept on the night of 714 at my bed and am holding. Zack's potato offer is for MacDonald and Trini first.
+Who to tell: Billy, that I slept on the night of 716 at my bed and am holding.
