@@ -1,7 +1,9 @@
-# Handoff (day 722, after sleep)
+# Handoff (day 722, night, after sleep)
 
-At bed 443,107,-1037 in the row, in Billy's sight. Health 20, hunger 20, no food. Wooden sword in hand. No errand running.
+Slept in the row, in Billy's sight, near bed 443,107,-1022. Health 20, hunger 20, no food. Wooden sword in hand. No errand running.
 
-Slept night 722 (7 of 10 asleep). Still no verified route past x=370; holding until Billy names a walk.
+No verified route past x=370; Billy named no walk. Kimberly (health 15, hunger 17) is thinnest and will call Billy at hunger 10.
 
-Next: keep holding. Call Billy at hunger 10. Eat at hunger 6 or below. Sleep at true night at bed 443,107,-1037 (day 721 dawn refused). Keep the journal current.
+Note: `use` on bed 443,107,-1022 failed ("that block is a bed"); `sleep` worked anyway.
+
+Next: hold. Call Billy at hunger 10. Eat at hunger 6 or below. Keep the journal current.
