@@ -2,9 +2,9 @@
 
 1. Stay alive: health 20, hunger 20, no food. Eat at hunger 6 or below. Call Billy at hunger 10. Food goes weakest-first by Billy's order (MacDonald health 11 hunger 16 is thinnest; Tommy 15/16; Trini 17). Reason: nothing else matters if I die.
 2. Hold at the row with Billy. Walk only when he names a route, and only with two armed people in hand and in his sight. Armed with a wooden sword. Reason: I gave my word to hold.
-3. Sleep at night at my row bed 430,107,-1051 in Billy's sight. Last slept at dusk on day 698, and it worked. If it refuses, tell Billy and try bed 443,107,-1036. Reason: sleep is needed to live well.
+3. Sleep at night at my row bed 430,107,-1051 in Billy's sight. Last slept at dusk on day 699, and it worked. If it refuses, tell Billy and try bed 443,107,-1036. Reason: sleep is needed to live well.
 4. Find oak or sheep for the group. Cows near 339,104,-979 and 434,106,-1113 reported; tell Billy. Lewis's oak near 414,104,-1126 on hold until Billy clears it. Reason: the group needs wood and food.
 5. Keep the journal and memory current.
 
-Curious next: whether the oak lead is safe; what lies west of x=370; where the sheep graze; why beds refuse for others (Wesley at 415,107,-1050 and -1051).
-Who to tell: Billy first (hunger, cows, MacDonald's potatoes), then Lewis about the oak.
+Curious next: whether the oak lead is safe; what lies west of x=370; where the sheep graze; why beds refuse for others (Wesley at 419,108,-1050 and the bed squares at 415).
+Who to tell: Billy first (hunger, cows, MacDonald's potatoes, Wesley's bed refusal), then Lewis about the oak.

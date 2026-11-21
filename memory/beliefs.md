@@ -20,7 +20,7 @@ What I hold to be true about the world and the people in it.
 - Day 634: Billy called a west walk, then called it off when a bow was drawn to the southwest.
 - Day 638: Kimberly was hit from unseen attackers near 413,107,-1041, west of the row. The west side is dangerous; no walk there.
 - Day 647 onward: Billy still names no west route and asks for a verified route west of x=370 with an armed escort.
-- Day 650 and 670: Beverly and Troi report cows far east near 339,104,-979 and 434,106,-1113. No sheep seen yet; sheep grazing place is unknown.
-- Day 685: Sleep at dusk at my bed 430,107,-1051 worked again. Two beds at 415 failed for others with "the way was blocked"; use the bed Billy names.
+- Day 650 and 670: cows reported far east near 339,104,-979 and 434,106,-1113. No sheep seen; sheep grazing place unknown.
+- Day 685: Sleep at dusk at my bed 430,107,-1051 worked. Two beds at 415 failed for others with "the way was blocked"; use the bed Billy names.
 - Day 691: Bed 430,107,-1051 gave 5 of 10 asleep at dusk, then a later night sleep worked. A second try after a partial result can succeed.
-- Day 684: Sleep at dusk at my bed in Billy's sight worked. The row held all day with no walk named. Trini (hunger 17) asked Billy for the table share; Zack offers a potato in his sight.
+- Day 699: Sleep at dusk at my bed worked again. The row held all day with no walk named and no food called. Wesley's bed square at 419 refused him; open question.
