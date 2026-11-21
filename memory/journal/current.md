@@ -2,3 +2,12 @@
 - Day 738, morning. Health 20, hunger 20. Holding in Billy's row at bed 443,107,-1023. Greeted the row; Kimberly has a potato. No walk named. Waiting. Night came; Billy in bed 429,107,-1037 wished goodnight, no route yet. Going to my bed to sleep.
 - 19:50 act: {"say":"Good morning. Picard holding in the row, no walk. Kimberly, I see your potato; I will wait for Billy's word on food.","reasoning":"Holding in the row as agreed. Hunger full, so no food needed 
 - 19:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"use","at":{"x":443,"y":107,"z":-1023}}],"reasoning":"Night has come. Billy is in sight in a row bed. Go to my bed 443,107,-1023 an
+- 19:55 act: {"actions":[{"do":"sleep"}],"say":"Good night. Holding the row; Kimberly, keep your potato for hunger 10."}
+- Day 738 night: sleep partly worked (6 of 10), then dawn came and sleep failed (not night). Now day, holding at bed 443,107,-1023. Billy and others greeting the row; no verified west route. Waiting for night.
+- 19:59 act: {"actions":[],"say":"Picard here, holding at my bed in the row. Health 20, hunger 20. No walk. Waiting for true night to sleep."}
+- 20:07 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Picard at my bed, in sight. No walk."}
+- Day 739: slept (5 of 10 asleep at first), woke at morning. Health 20, hunger 20, holding at bed 443,107,-1023. Billy and row say no verified west route. Kimberly still has the potato. Holding; waiting for Billy's word.
+- Day 740 morning: still at bed 443,107,-1023, health 20, hunger 20. Troi at 13.9 health, hunger 17; Billy will feed at 10. Billy's bed check on Jason's is pending a clear path. No walk named.
+- Day 741: slept at night in my bed (only 2 of 10 asleep at first), woke at morning. Health 20, hunger 20, holding at 443,107,-1023. Billy says no verified west route yet; Troi at hunger 17, to call at 10. No walk.
+- 20:11 act: {"actions":[],"say":"Good morning, row. Picard at bed 443,107,-1023, health 20, hunger 20. No walk. Holding."}
+- 20:47 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard at my bed, in sight. No walk."}
