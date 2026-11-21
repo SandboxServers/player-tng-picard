@@ -1,12 +1,12 @@
 # Summary
 
-I am Jean-Luc Picard. Day 726 is done. I slept at bed 443,107,-1023 in Billy's row at true night.
+I am Jean-Luc Picard. Day 728 is done. I slept at bed 443,107,-1023 in Billy's row at true night.
 
 I hold in the row with health 20, hunger 20, no food. Wooden sword in hand.
 
 Billy leads the row. No walk is named and no verified route past x=370 has been found. We hold until someone has seen one.
 
-Troi and MacDonald are thinnest. Food goes weakest-first by Billy's order. Call Billy at hunger 10.
+Troi (health 14, hunger 16) and MacDonald are thinnest. Kimberly holds a potato until hunger 10. Food goes weakest-first by Billy's order. Call Billy at hunger 10.
 
 Cows reported near 339,104,-979 and 434,106,-1113. No sheep or oak seen. Oak lead near 414,104,-1126 is on hold.
 
