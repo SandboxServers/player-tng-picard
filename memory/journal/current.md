@@ -10,3 +10,5 @@
 - Morning, day 696: hold rested. Heard MacDonald (health 11, hunger 16, three potatoes, at bed 443,107,-1051) and Lewis (hunger 19, holding). No walk named. Still holding; health 20, hunger 20.
 - 06:05 act: {"say":"Picard at my bed 430,107,-1051, going to sleep in Billy's sight. Holding; no walk named.","actions":[{"do":"sleep"}]}
 - Night, day 697: slept at my bed in Billy's sight; sleep worked (9 of 10 asleep). Health 20, hunger 20, no food. Holding; no walk named. Next: hold, call Billy at hunger 10.
+- Day 697, day. Woke at bed 430,107,-1051. Health 20, hunger 20. Row quiet: Lewis, MacDonald, Tommy, Laforge, Jason all holding, no walk named. Said my status to the row. Holding; waiting for Billy.
+- 06:09 act: {"say":"Picard awake at my bed 430,107,-1051. Health 20, hunger 20, no food. Holding in the row, no walk named."}
