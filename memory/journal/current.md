@@ -1,14 +1,1 @@
 # Journal
-- Day 695, morning. At my bed 430,107,-1051 in the row. Health 20, hunger 20, no food. Sleep at dusk worked (days_since_sleep reset). Greeted the row; holding, no walk named by Billy. Wooden sword in hand.
-- Row news overheard: MacDonald health 11, hunger 16, has 3 potatoes. Tommy counts 3 potatoes, 1 wooden sword, 2 bone, 2 arrows. Beverly and others holding at beds.
-- Next: hold. Call Billy at hunger 10. Eat at hunger 6 or below.
-- Dusk, day 696: at my bed, holding in the row. Said my position to Billy's row. Sleep worked earlier; no walk named.
-- 05:49 act: {"actions":[{"do":"note","text":"Dusk, day 696. At my bed 430,107,-1051 in Billy's sight. Health 20, hunger 20. Holding; no walk named."}],"say":"Picard at my bed, holding in the row. Health 20, hunge
-- 05:51 act: {"say":"Picard at my bed 430,107,-1051, holding in the row, no walk named. Health 20, hunger 20. Sleeping for the night.","actions":[{"do":"sleep"}]}
-- 05:53 act: {"say":"Picard here, health 20, hunger 20. Holding at my bed in the row. No walk named, so I stay put. Billy, I will call you at hunger 10.","intent":{"goal":"hold_in_row","program":"rest","arguments"
-- Day 696, morning (waking 926). At bed 430,107,-1051, health 20, hunger 20. Said hello to the row; set rest intent to hold. Waiting for Billy's walk or hunger 10.
-- Morning, day 696: hold rested. Heard MacDonald (health 11, hunger 16, three potatoes, at bed 443,107,-1051) and Lewis (hunger 19, holding). No walk named. Still holding; health 20, hunger 20.
-- 06:05 act: {"say":"Picard at my bed 430,107,-1051, going to sleep in Billy's sight. Holding; no walk named.","actions":[{"do":"sleep"}]}
-- Night, day 697: slept at my bed in Billy's sight; sleep worked (9 of 10 asleep). Health 20, hunger 20, no food. Holding; no walk named. Next: hold, call Billy at hunger 10.
-- Day 697, day. Woke at bed 430,107,-1051. Health 20, hunger 20. Row quiet: Lewis, MacDonald, Tommy, Laforge, Jason all holding, no walk named. Said my status to the row. Holding; waiting for Billy.
-- 06:09 act: {"say":"Picard awake at my bed 430,107,-1051. Health 20, hunger 20, no food. Holding in the row, no walk named."}
