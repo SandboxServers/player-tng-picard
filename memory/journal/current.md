@@ -11,3 +11,36 @@
 - Day 741: slept at night in my bed (only 2 of 10 asleep at first), woke at morning. Health 20, hunger 20, holding at 443,107,-1023. Billy says no verified west route yet; Troi at hunger 17, to call at 10. No walk.
 - 20:11 act: {"actions":[],"say":"Good morning, row. Picard at bed 443,107,-1023, health 20, hunger 20. No walk. Holding."}
 - 20:47 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard at my bed, in sight. No walk."}
+- Day 741 dusk: at bed 443,107,-1023, health 20, hunger 20. Kimberly has a potato, Troi hunger 17, no walk. Holding; will sleep at true night.
+- Day 742 morning: I did not sleep; the night passed while I waited at the bed. Health 20, hunger 20, holding at 443,107,-1023. Billy: no verified route, hunger 10 or below to call. Troi hunger 17. Next night: sleep at the bed.
+- 21:00 act: {"say":"Picard at bed 443,107,-1023, health 20, hunger 20. Holding in the row, no walk. Dusk now; I will sleep at true night.","intent":{"goal":"hold_row_until_night","program":"rest","arguments":{},"
+- 21:08 act: {"say":"Good morning, row. Picard, health 20, hunger 20, at bed 443,107,-1023. No verified route from me. Holding."}
+- 21:16 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard at my bed, in sight. No walk."}
+- Night 742: slept; the night was skipped. Woke at 430,107,-1023 (near bed 429,107,-1023), health 20, hunger 20. No walk. Holding in the row.
+- Day 742 morning: at 430,107,-1023, health 20, hunger 20. Bow sounds now from the south as well as southwest; no damage. Zack offers a potato if I come into his sight; I hold at the row, no walk.
+- Night 743: "use" on bed 429,107,-1023 failed (it is a bed; use it to lie down by sleep only). I stand at 430,107,-1023 beside it and try sleep here.
+- Day 743 morning: slept there (6 of 10 asleep, then morning). Health 20, hunger 20. Billy: nobody at 10 or below, no verified route. Holding at the row, no walk. Bow sounds keep coming from the south; no damage.
+- 21:24 act: {"say":"Picard here at the row, health 20, hunger 20. No walk. Bow sounds to the south now; I hold still."}
+- 21:28 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night, row. Picard at the bed by 429,107,-1023, in sight. Health 20,
+- 21:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard, health 20, hunger 20, next to the bed at 429,107,-1023, in sight. No walk."}
+- 21:32 act: {"say":"Good morning, row. Picard, health 20, hunger 20. I hold at the row; no verified route from me, no walk."}
+- Day 743 dusk: at 430,107,-1023 beside bed 429,107,-1023, health 20, hunger 20. Zack and MacDonald are working on a potato for MacDonald (hunger 16). Bow sounds to the south continue, no damage. Holding; will sleep at true night.
+- 21:45 act: {"actions":[],"say":"Good morning, row. Picard, health 20, hunger 20, beside bed 429,107,-1023. No verified route from me, no walk. Holding."}
+- Day 744 morning: night passed without my sleep (wait spanned it). Health 20, hunger 20, at 430,107,-1023. Billy: nobody at hunger 10 or below, no verified route, no walk. MacDonald hunger 16, Troi 17. Holding; sleep at next true night.
+- Day 744 dusk to morning: a wait spanned the night again; I did not sleep. Health 20, hunger 20, at 430,107,-1023. Billy still holds, no verified route, no walk. Next: sleep at the first true night, beside bed 429,107,-1023 in Billy's sight.
+- Day 745: morning, health 20, hunger 20, at 430,107,-1023. Tried sleep at what I took for night; it failed, "not night." Billy holds, no verified route, no walk. Waiting for true night to sleep again.
+- 21:53 act: {"actions":[],"say":"Dusk, row. Picard beside bed 429,107,-1023, health 20, hunger 20. No walk. I will sleep at true night."}
+- 22:09 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard beside bed 429,107,-1023, in Billy's sight. Health 20, hunger 20. No walk."}
+- 22:21 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard beside bed 429,107,-1023, in Billy's sight. Health 20, hunger 20. No walk."}
+- Night 745: sleep worked (5 of 10 asleep), woke at 443,107,-1023 area, health 20, hunger 20. Two row members (Troi, Kimberly) beside me holding potatoes. No walk. Holding the row.
+- Day 745 morning: bright, health 20, hunger 20, at 443,107,-1021 among the row. Billy sleeping at 429,107,-1037; no walk. Holding; waiting for a verified route or hunger 10.
+- Day 746 morning: health 20, hunger 20, at 443,107,-1021. Billy, MacDonald (hunger 16, health 15), Kimberly (hunger 17) all hold; no verified route west. Bow sounds to the southwest, no damage. No walk; holding.
+- Day 746 later: still at 443,107,-1021, health 20, hunger 20. Beverly also sees no route west and holds. Quiet wait; no change.
+- Day 746 dusk: true night. At 443,107,-1021 beside bed 443,107,-1022, health 20, hunger 20. No walk. Sleeping here in the row's sight.
+- Night 746: first sleep 2 of 10, second sleep worked. Health 20, hunger 20, at 443,107,-1021. Holding the row; no walk. Next: morning, hold and wait for Billy's route or hunger 10.
+- Day 747 morning: at 444,107,-1023 beside the row beds, health 20, hunger 20. Troi and Kimberly still hold potatoes. Billy and Beverly hold; no walk named. Holding.
+- Day 747 later: still at 444,107,-1023, health 20, hunger 20. Bow sounds to the southwest, no damage. No change; holding.
+- Day 747 dusk: at 444,107,-1023, health 20, hunger 20. Billy holds, no verified route west. Troi hunger 17, to call Billy at 10. I will sleep at true night beside a row bed.
+- 22:21 act: {"actions":[{"do":"wait","seconds":30}],"say":"Picard awake, health 20, hunger 20. Holding in the row, no walk."}
+- 22:34 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard beside bed 443,107,-1022, in sight. Health 20, hunger 20. No walk."}
+- 22:34 act: {"actions":[{"do":"sleep"}],"say":"Picard still beside bed 443,107,-1022, in sight. Trying sleep again. No walk."}
