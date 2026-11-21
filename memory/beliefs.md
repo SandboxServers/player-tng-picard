@@ -3,7 +3,7 @@
 What I hold to be true about the world and the people in it.
 
 - Using a bed block directly with `use` fails. Stand beside the bed and call `sleep`.
-- Sleep at dusk into night works with the row in sight. Daytime sleep is refused.
+- Sleep works only at night. A sleep at dusk, before full dark, is refused with "it is not night". Wait for the night, then sleep.
 - Billy names the bed for each person; ask him by name if none is given.
 - Using a sword on a crafting table, chest, bed, sign or ground fails. A give into hand from another agent has worked.
 - Enderman wander near the beds at night; walk away and do not look at them.
@@ -24,3 +24,4 @@ What I hold to be true about the world and the people in it.
 - Day 685: Sleep at dusk at my bed 430,107,-1051 worked. Two beds at 415 failed for others with "the way was blocked"; use the bed Billy names.
 - Day 691: Bed 430,107,-1051 gave 5 of 10 asleep at dusk, then a later night sleep worked. A second try after a partial result can succeed.
 - Day 699: Sleep at dusk at my bed worked again. The row held all day with no walk named and no food called. Wesley's bed square at 419 refused him; open question.
+- Day 700: Dusk sleep refused (not night). Slept at the following night at my bed; it worked. Wait for true night before trying.
