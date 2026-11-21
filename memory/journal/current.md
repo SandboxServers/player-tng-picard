@@ -46,3 +46,5 @@
 - 22:34 act: {"actions":[{"do":"sleep"}],"say":"Picard still beside bed 443,107,-1022, in sight. Trying sleep again. No walk."}
 - 22:53 act: {"say":"Picard, health 20, hunger 20, holding at the row beds. No walk, no route west verified. Hunger 10 is my call to Billy.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on"
 - Day 747 (waking 984): at 444,107,-1023 in the row. Health 20, hunger 20, wooden sword in hand. Billy, Troi, Kimberly hold; no walk, no verified route west. Set intent to hold at the row until someone speaks or hunger 10. Days since sleep: 9.
+- 22:54 act: {"say":"Morning. Picard, health 20, hunger 20, sword in hand. Holding at the beds with you, no walk."}
+- Day 747 day (waking 985): at 444,107,-1023, health 20, hunger 20. MacDonald holds at 15 health, hunger 16. No walk named; holding in the row. Days since sleep 9; will sleep at true night beside a row bed.
