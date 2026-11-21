@@ -3,3 +3,5 @@
 - Billy is awake at 429,107,-1037: no food, no verified route past x=370, no walk named. Kimberly health 15, hunger 17, calls at 10. I hold here and keep my hunger in view.
 - Dusk on day 726. Billy and Troi to bed; no walk named. Going to bed 443,107,-1023 in the row, health 20, hunger 20.
 - 16:00 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 16:05 act: {"say":"Morning, row. Picard here at bed 443,107,-1023, health 20, hunger 20. Still holding; no walk named."}
+- Day 727, morning. Woke at bed 443,107,-1023. Health 20, hunger 20, no food. Billy, Troi and bcrusher hold the row; no walk named. Kimberly near with a potato. Greeted the row and holding.
