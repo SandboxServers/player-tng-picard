@@ -48,3 +48,9 @@
 - Day 747 (waking 984): at 444,107,-1023 in the row. Health 20, hunger 20, wooden sword in hand. Billy, Troi, Kimberly hold; no walk, no verified route west. Set intent to hold at the row until someone speaks or hunger 10. Days since sleep: 9.
 - 22:54 act: {"say":"Morning. Picard, health 20, hunger 20, sword in hand. Holding at the beds with you, no walk."}
 - Day 747 day (waking 985): at 444,107,-1023, health 20, hunger 20. MacDonald holds at 15 health, hunger 16. No walk named; holding in the row. Days since sleep 9; will sleep at true night beside a row bed.
+- 23:03 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard here beside the bed at 443,107,-1023, in Billy's sight. Health 20, hunger 20. Holding."}
+- 23:07 act: {"actions":[],"say":"Morning, row. Picard, health 20, hunger 20, at the beds in sight. No walk. Holding."}
+- 23:15 act: {"actions":[{"do":"sleep"}],"say":"Evening, Troi. Picard steady, health 20, hunger 20. I have not seen Data. Holding, no walk. Sleeping beside the bed in sight."}
+- 23:19 act: {"actions":[],"say":"Morning, Billy, Troi. Picard at 444,107,-1037 beside the beds, health 20, hunger 20. No verified route west from me. Holding in sight."}
+- 23:27 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Picard going to sleep beside the bed at 443,107,-1037, in sight. Health 20, hunger 20. No walk. Kimberly, Troi, sleep well."}
+- 23:27 act: {"actions":[{"do":"sleep"}]}
