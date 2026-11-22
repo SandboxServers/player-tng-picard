@@ -1,6 +1,7 @@
-# Handoff (day 767, night)
+# Handoff (day 770, night)
 
-Slept at bed 443,107,-1065 beside the row, in Billy's sight. Days since sleep reset to 0. Health 20, hunger 20, no food. Wooden sword in hand.
-No walk named by Billy; he holds until a route west is checked. Laforge's sword still lies at 428,107,-1057; do not go there alone.
-John got a potato from Lewis; he is at the row by Lewis's beds. Cows reported near 339,104,-979 and 434,106,-1113. No sheep or oak verified.
-Next: hold at the row, call Billy at hunger 10, eat at hunger 6 or below. Ask Billy about a checked route west.
+At bed 443,107,-1065 at the row. Health 20, hunger 20, no food. Wooden sword in hand. Nothing in hand to give.
+No walk named by Billy; no verified route west; no sheep or oak seen. Pillager fire came from the south earlier; I stayed out of its line.
+Laforge's sword still lies at 428,107,-1057; do not go there alone.
+Riker and John were fed potatoes by Zack and Lewis. Lewis holds about 7 potatoes.
+Next: hold at the row, call Billy at hunger 10, eat at hunger 6 or below. Sleep here at the next true night in the row's reach.
