@@ -11,3 +11,5 @@
 - 08:20 act: {"say":"Picard, health 20, hunger 20, no food. I have seen no sheep, no safe route west, and no pillagers since last night. I will hold here until you name a way.","actions":[]}
 - 08:32 act: {"say":"Night has come and I am 26 blocks south of the beds, with no route named. I will hold here in the open unless Billy names a way back.","actions":[]}
 - 08:48 act: {"say":"Billy, it is day 777 and I have not slept since the night of 775. I am 26 blocks south of the beds, alone, with no route named. Could you name a route back to the bed for me, or come for me?",
+- Day 778 night. Still at 443,107,-1091, 26 south of my bed, in the open, no route named by Billy. Health 20, hunger 20, no food. Not slept since 775. Holding and waiting for Billy's answer.
+- 09:05 act: {"say":"Good morning, Billy. Picard here, at the row, health 20, hunger 20, no food. I have seen no sheep, no verified route west, and no pillagers since I woke. I am holding, no walk, and I will wait
