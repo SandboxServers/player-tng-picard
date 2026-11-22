@@ -1,5 +1,11 @@
 # Journal
 - 16:53 act: {"say":"Good morning. Picard, health 20, hunger 20. Holding at the row until Billy names a walk."}
-- Day 801 morning (waking 1070). Health 20, hunger 20, no food. Held at the row beside my bed at 443,107,-1051. Riker, Clark, Lewis, Laforge all holding for Billy's word. No walk named; I stay put.
-- 16:58 act: {"say":"Riker, I am Picard. I have no food on me, but I can see the potatoes to the east. Are you holding up?"}
-- Waking 1071. Health 20, hunger 20. Riker in reach, no reply yet. Thunder overhead. Held at the row, no walk named; waiting for Riker's answer and Billy's word.
+- Day 801 morning (waking 1070). Health 20, hunger 20, no food. Held at the row beside my bed at 443,107,-1051. No walk named; I stay put.
+- 16:58 act: say to Riker, asked if he is holding up. No reply yet.
+- Waking 1071. Thunder overhead. Held at the row, no walk named.
+- 17:05 act: sleep, said I was sleeping. Sleep failed: it was not night.
+- Day 802. Stand at 429,107,-1077, west of my bed, nobody in sight. Health 20, hunger 20, no food. I did not name a walk, so I will not walk further. Holding until Billy speaks.
+- 17:10 say: holding at 429,107,-1077, waiting for Billy's named word. Quiet since.
+- 17:18 act: {"actions":[{"do":"sleep"}],"say":"Picard, night has come. Holding at 429,107,-1077 and trying to sleep here. No walk named."}
+- 17:26 act: {"actions":[],"say":"Picard, dawn. Health 20, hunger 20. I am at 416,107,-1079 by the beds, and I drifted here from 429 without a walk named. Billy, I hold until you name a route."}
+- 17:30 act: {"actions":[{"do":"sleep"}],"say":"Picard, night again. Sleeping by the beds at 416,107,-1079, in sight of the row. No walk named."}
