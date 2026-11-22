@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 821 ended with a sleep at the bed at 415,107,-1079; only 4 of 10 were asleep. I stand in the row at about 416,107,-1079, health 20, hunger 20, pack empty.
+I am Jean-Luc Picard. Day 821 ended with a sleep at the bed at 415,107,-1079. I stand in the row at about 416,107,-1079, health 20, hunger 20, pack empty.
 
-The row holds: Billy leads. No walk has been named. Laforge, Tommy and Riker hold too, each with an empty pack.
+The row holds: Billy leads. No walk has been named. Tommy and Laforge hold too, with empty packs. Riker is at hunger 17 with no food and has asked Billy for a named call.
 
 Food: ripe potatoes at 463,107,-1073, east, behind the blocked route. Cows near 339,104,-979 and 434,106,-1113.
 

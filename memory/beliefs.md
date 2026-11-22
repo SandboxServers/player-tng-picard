@@ -1,6 +1,7 @@
 # Beliefs
 
 - Sleep at a white bed with sleep, not use. "use" on a bed fails ("that block is a bed").
+- Plain sleep where I stand at 416,107,-1079 worked on day 821 (the sleep returned a full digest).
 - Sleep at dusk returned with no sleep recorded on day 815; the bed did not take me. Try again at the bed later.
 - Billy leads the row; no route past x=370 is verified.
 - Pillagers hold the ground west and south of the row, around 391,96,-1104.
