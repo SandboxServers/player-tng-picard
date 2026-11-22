@@ -9,3 +9,4 @@ Day 757, morning. Still at the row, health 20, hunger 20, no food. The rest inte
 Day 758, day. At the row at 444,107,-1065, health 20, hunger 20, no food, wooden sword in hand. Greeted Lewis; Trini reports health 17 and no walk. Still holding; no walk named by Billy.
 - 02:40 act: {"say":"Lewis, I have not walked the land west; no route is verified past x=370. It is night now, so I will sleep by the row bed.","actions":[{"do":"sleep"}]}
 - 02:40 act: {"actions":[{"do":"sleep"}]}
+Day 758, night. Sleep took two tries from the square beside the bed; the second worked. Told Lewis no verified route west. No walk named by Billy. Slept at the row, health 20, hunger 20, no food.
