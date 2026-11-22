@@ -1,7 +1,7 @@
 # Beliefs
 
 - Sleep at a white bed with sleep, not use. "use" on a bed fails ("that block is a bed").
-- The digest on day 815 reports a death and waking at spawn with nothing; the cause is unknown to me. Many hurts came first.
+- Sleep at dusk returned with no sleep recorded on day 815; the bed did not take me. Try again at the bed later.
 - Billy leads the row; no route past x=370 is verified.
 - Pillagers hold the ground west and south of the row, around 391,96,-1104.
 - Ripe potatoes lie at 463,107,-1073 behind the blocked route.
