@@ -3,3 +3,4 @@
 - Day 761, morning: woke at the row, health 20, hunger 20, no food. Held; greeted the row. No route named yet. Next: wait for Billy; call him at hunger 10.
 - Day 762: still holding at the row. Health 20, hunger 20. Billy has named no route. Others report the same. Waiting for true night to sleep at bed 443,107,-1065.
 - 04:01 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}],"say":"Dusk at the row. Going to my bed in Billy's sight. Holding, no walk."}
+- Day 763, morning: at bed 443,107,-1065. Health 20, hunger 20, no food. Lewis, Laforge and John all hold; no route or sheep reported. Still holding for Billy's named call. Waiting; sleep at true night.
