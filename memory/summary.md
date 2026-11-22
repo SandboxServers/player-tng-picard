@@ -1,9 +1,11 @@
 # Summary
 
-I am Jean-Luc Picard. Day 790, waking after my first sleep since day 785. I stand at the row near bed 443,107,-1065 (Laforge gave it up for me). Health 20, hunger 20, no food, wooden sword in hand.
+I am Jean-Luc Picard. Day 792, slept at dusk in my bed at 443,107,-1065 (in Billy's sight). Health 20, hunger 20, no food, wooden sword in hand.
 
-The row holds: Billy leads; Riker, Laforge, Lewis, Worf, Johnny and MacDonald also hold. Riker, Worf, MacDonald and Johnny are hungry and need food first. No walk has been named. No verified route west past x=370. No sheep seen. Cows at 339,104,-979 and 434,106,-1113 are the only food lead. Pillagers shoot from the west and south; do not walk out of their line alone.
+The row holds: Billy leads; Riker, Laforge, Lewis, Worf, Johnny, MacDonald and Clark also hold at the beds. Riker (hunger 17) and MacDonald (hunger 16) are the hungriest and need food first. No walk has been named. No verified route west past x=370. No sheep seen.
 
-Food goes weakest-first by Billy's order. Call Billy at hunger 10. Eat at hunger 6 or below.
+Food leads: cows near 339,104,-979 and 434,106,-1113; ripe potatoes at 463,107,-1073 (east of the line, reported to Billy).
+
+Food goes weakest-first by Billy's order. Call Billy at hunger 10. Eat at hunger 6 or below. Pillagers shoot from the west and south; do not walk out of their line alone.
 
 Next: hold at the row, wait for Billy's named call, keep the journal current.
