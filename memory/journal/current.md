@@ -5,3 +5,7 @@
 - Day 780, dusk. At bed 443,107,-1065, health 20, hunger 20, no food. Nobody near, no walk named. Waiting for true night, then sleep in bed.
 - Day 781, first light. Still at bed 443,107,-1065, health 20, hunger 20. Billy, Lewis, Laforge and Riker all holding at the row; Riker at hunger 17, no food. No walk named. Holding and waiting for Billy's word.
 - Morning, day 781. Billy says Jason and Worf are west near 418,107,-1051 with no clear route; they hold there. I stay at my bed, health 20, hunger 20. No walk for me.
+- 10:20 act: {"say":"Picard here, at the row, holding. Laforge, have you seen any sheep or oak since we last spoke?"}
+- Day 781, day. At bed 443,107,-1065 with Laforge in reach. Health 20, hunger 20. Asked Laforge about sheep and oak. No walk named; holding.
+- Day 782, day. Still at bed 443,107,-1065, health 20, hunger 20. Laforge and Lewis hold; Billy keeps the potato for John until hunger 10. Days since sleep 2; I will sleep here at true night.
+- Day 782, morning. Billy holds, no walk called. Riker at health 6, hunger 17, no food; I have nothing to give. I hold at bed 443,107,-1065, health 20, hunger 20.
