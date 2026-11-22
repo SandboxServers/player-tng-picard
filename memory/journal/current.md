@@ -9,3 +9,5 @@
 - 17:18 act: {"actions":[{"do":"sleep"}],"say":"Picard, night has come. Holding at 429,107,-1077 and trying to sleep here. No walk named."}
 - 17:26 act: {"actions":[],"say":"Picard, dawn. Health 20, hunger 20. I am at 416,107,-1079 by the beds, and I drifted here from 429 without a walk named. Billy, I hold until you name a route."}
 - 17:30 act: {"actions":[{"do":"sleep"}],"say":"Picard, night again. Sleeping by the beds at 416,107,-1079, in sight of the row. No walk named."}
+- 17:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}}],"say":"Going to the bed at 415,107,-1078 for the night. Billy, I am in the row."}
+- 17:43 say: {"text":"Picard, awake at the bed 415,107,-1078. Health 20, hunger 20, no food. Holding at the row for Billy's named word."}
