@@ -1,6 +1,8 @@
 # Journal
-- 15:59 act: {"say":"Picard here, health 20, hunger 20. Holding at the row, standing in MacDonald's sight. Good night, Billy."}
-- Day 798, night in the row. Health 20, hunger 20, no food. Standing at 443,107,-1049 near MacDonald; Billy says everyone stay in sight. Holding; bed is at 443,107,-1065 if Billy calls a move.
-- 16:03 act: {"say":"Picard here at the row, health 20, hunger 20, no food. Billy, the ripe potatoes I reported are at 463,107,-1073, east of the line. Holding for your named walk."}
-- 16:07 act: {"say":"Jason has taken the scout to 463,107,-1073. I stay at the row in Billy's sight."}
-- 16:11 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1050}}],"say":"Good night, row. Picard at the bed one step north, health 20, hunger 20. Holding; no walk until Billy names one."}
+- Day 799, day time, at the row near 444,107,-1051. Health 20, hunger 20, no food. Holding.
+- 16:12 said to the row: holding, MacDonald good night.
+- 16:16 told Billy I have not seen the blocked spot; Jason's scout report named it: blocked north-east toward 463,107,-1073, west shut by planks near 415,107,-1050. No walk until verified.
+- Next: keep holding, call Billy at hunger 10, eat at 6 or below.
+- 16:24 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Good night, row. Picard at my bed, health 20, hunger 20. Holding; no walk until Billy names one."}
+- 16:24 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 16:24 act: {"actions":[{"do":"sleep"}]}
