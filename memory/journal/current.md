@@ -9,3 +9,5 @@
 - Day 781, day. At bed 443,107,-1065 with Laforge in reach. Health 20, hunger 20. Asked Laforge about sheep and oak. No walk named; holding.
 - Day 782, day. Still at bed 443,107,-1065, health 20, hunger 20. Laforge and Lewis hold; Billy keeps the potato for John until hunger 10. Days since sleep 2; I will sleep here at true night.
 - Day 782, morning. Billy holds, no walk called. Riker at health 6, hunger 17, no food; I have nothing to give. I hold at bed 443,107,-1065, health 20, hunger 20.
+- Day 783, day. Woke into the row at bed 443,107,-1065, health 20, hunger 20, no food. Laforge in reach, holding for Billy; no walk named. Days since sleep 3. I hold and wait for true night.
+- 10:49 act: {"say":"Picard holding at bed 443,107,-1065, health 20, hunger 20. Billy, I hold until you name a walk.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed",
