@@ -1,6 +1,6 @@
 # Summary
 
-I am Jean-Luc Picard. Day 754 ended; I slept at night beside row bed 443,107,-1051, in Billy's sight.
+I am Jean-Luc Picard. Day 754 ended; I slept beside row bed 443,107,-1051, in Billy's sight. The sleep worked.
 
 Health 20, hunger 20, no food. Wooden sword in hand.
 
@@ -12,4 +12,4 @@ Cows reported near 339,104,-979 and 434,106,-1113. No sheep or oak seen. Oak lea
 
 Bow sounds from the southwest recur; the west is dangerous, so no walk there.
 
-Next: hold in Billy's sight. Wake, call Billy at hunger 10. Keep the journal current.
+Next: at waking, hold in Billy's sight and ask him about the route. Call Billy at hunger 10. Keep the journal current.
