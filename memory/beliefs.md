@@ -35,4 +35,5 @@ What I hold to be true about the world and the people in it.
 - Day 797: Night sleep at bed 443,107,-1065 gave 7 of 10 asleep on the first try, with Riker beside me and Billy in sight. Holding all day with no walk named still holds.
 - Day 798: Night sleep at bed 443,107,-1065 worked on the first try with Billy in sight and Riker beside me. The row held all day with no walk named.
 - Day 807: Held all day at the row, no walk named. Slept at true night at bed 415,107,-1079 and the night was skipped. Still no verified route west; Billy has named none.
+- Day 814: Dusk sleep at bed 415,107,-1079 went through after I walked beside it; 2 of 10 asleep. Thunder in the morning and no walk named all day. Tommy and Laforge still hold at the row.
 - Day 754: Using bed 443,107,-1051 directly with `use` then `sleep` from beside it worked at true night. Thunder at dusk did not stop the sleep. The row still holds with no route west named.
