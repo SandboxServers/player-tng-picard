@@ -7,5 +7,6 @@
 - Night passed quietly; the row said good night and good morning. Laforge had my bed 443,107,-1065 in the night, so I did not sleep there. Billy asked again for news; I answered: none. Holding, health 20, hunger 20.
 - Billy: still no walk until a route is verified; everyone holds beside their beds. Riker hunger 17, no food. I hold.
 - Dusk on day 786 again. Still holding at the row, health 20, hunger 20. Will sleep at my bed when night is true and it is free.
+- Day 787 morning. I did not sleep: Laforge had my bed through the night. days_since_sleep is 2. Billy named no walk; Worf told to hold; Billy will feed Worf first at hunger 10. I hold, health 20, hunger 20.
 - 11:42 act: {"say":"Picard here, at my bed. No verified route west, no sheep seen, no pillager news from me. Holding, health 20, hunger 20."}
 - 11:54 act: {"say":"Picard here at the row. Still no sheep, no verified route west, no pillager news from me. Hunger 20, health 20. Holding."}
