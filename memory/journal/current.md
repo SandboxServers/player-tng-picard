@@ -7,3 +7,7 @@
 - 22:39 say: {"text":"Picard here at the bed, health 20, hunger 20, holding. Riker, your health is low; Billy, I await your named word on food and any walk."}
 - 22:48 act: {"say":"Picard here, holding at the row with Tommy. Billy, is there a walk or a task you want named today?"}
 - Day 819 day: health 20, hunger 20, pack empty, at bed 416,107,-1079. Tommy and Laforge hold too. Asked Billy for a named walk or task. No reply yet. Holding.
+- 23:01 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}}],"say":"Picard, counted at the row. Health 20, hunger 20, pack empty. Going to bed at 415,107,-1079 for the night."}
+- 23:01 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}]}
+- 23:01 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1078}},{"do":"sleep"}]}
+- 23:01 act: {"actions":[{"do":"sleep"}],"say":"Use on the bed will not take, so I am trying sleep where I stand, beside the bed at 415,107,-1079."}
