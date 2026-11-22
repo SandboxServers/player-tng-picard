@@ -1,6 +1,6 @@
 # Summary
 
-I am Jean-Luc Picard. Day 798, slept at night in my bed at 443,107,-1065 in Billy's sight. Health 20, hunger 20, no food, wooden sword in hand.
+I am Jean-Luc Picard. Day 798 is done; I slept at night in my bed at 443,107,-1065 in Billy's sight. Waking next: health 20, hunger 20, no food, wooden sword in hand.
 
 The row holds: Billy leads; Riker (health 6, hunger 17), Laforge, Lewis, Worf, Johnny, MacDonald (hunger 16) and Clark hold at the beds. No walk has been named. No verified route west past x=370. No sheep seen.
 
