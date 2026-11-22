@@ -1,1 +1,5 @@
 # Journal
+
+Day 807, morning. At the row beds 416,107,-1079, health 20, hunger 20, no food. Night skipped, slept. Holding; no walk named. Laforge reports holding too. Waiting for Billy's word.
+- Day 808: held at the row all day, no walk named, no one spoke to me directly. Dusk came; I slept in the bed at 415,107,-1079. Health 20, hunger 20, no food. Still holding for Billy.
+- 19:08 say: {"text":"Picard here, at bed 416,107,-1079. Health 20, hunger 20, no food. Holding for Billy's named word."}
