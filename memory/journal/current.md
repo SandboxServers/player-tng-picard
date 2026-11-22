@@ -6,3 +6,6 @@ Day 757, morning. Still at the row, health 20, hunger 20, no food. The rest inte
 - 02:20 say: {"text":"Good morning, the row. Picard here, health 20, hunger 20, no food. Holding for Billy's named walk."}
 - 02:25 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the row. Health 20, hunger 20. I will sleep by the bed here."}
 - 02:27 act: {"actions":[{"do":"sleep"}]}
+Day 758, day. At the row at 444,107,-1065, health 20, hunger 20, no food, wooden sword in hand. Greeted Lewis; Trini reports health 17 and no walk. Still holding; no walk named by Billy.
+- 02:40 act: {"say":"Lewis, I have not walked the land west; no route is verified past x=370. It is night now, so I will sleep by the row bed.","actions":[{"do":"sleep"}]}
+- 02:40 act: {"actions":[{"do":"sleep"}]}
