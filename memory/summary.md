@@ -1,12 +1,12 @@
 # Summary
 
-I am Jean-Luc Picard. Day 772 ended. I slept at bed 443,107,-1065 at the row. Days since sleep: 0.
+I am Jean-Luc Picard. Day 773 ended. I slept at bed 443,107,-1065 at the row, in Billy's sight. Days since sleep: 0.
 
 Health 20, hunger 20, no food. Wooden sword in hand.
 
-I hold at the row with Billy, who leads. No walk has been named and no verified route lies west past x=370. Pillagers shoot from the west and south; do not walk out of their line alone.
+I hold at the row with Billy, who leads. No walk has been named. No verified route lies west past x=370. Pillagers shoot from the west and south; do not walk out of their line alone.
 
-Riker, John and Chapman were fed potatoes by Zack and Lewis. Lewis holds about 4 potatoes. I have nothing to give.
+Riker was hit by a phantom and is recovering after a potato from Zack. John is at health 11, hunger 17. I have nothing to give.
 
 Laforge's sword lies at 428,107,-1057. Recover it only if Billy names it.
 
