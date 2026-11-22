@@ -15,3 +15,5 @@ Day 759, night. Slept by bed 443,107,-1065; sleep partly worked (2 of 10 asleep)
 Day 760, dusk. Still at the row, health 20, hunger 20, no food. Sleep failed at dusk ("not night"); it is day again. Holding; no walk named. Will sleep at true night.
 - 02:53 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Picard holding, health 20, hunger 20, no food. No walk named. I sleep by the bed here."}
 - 03:05 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the row. Picard holding, health 20, hunger 20, no food. No walk named. Sleeping by the bed here."}
+- 03:22 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Goodnight. Holding at the row, bed beside 443,107,-1065."}
+Day 760, night. Went onto bed 443,107,-1065 and slept; 8 of 10 asleep. Health 20, hunger 20, no food. No walk named; still holding at the row.
