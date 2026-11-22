@@ -4,3 +4,5 @@ Day 757, morning. Still at the row, health 20, hunger 20, no food. The rest inte
 - 02:02 act: {"say":"Picard here, at the row, holding. Health 20, hunger 20. No walk named; I hold until Billy calls.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed"
 - 02:12 say: {"text":"Lewis, good evening. I am holding at the row with Billy. Do you have any news of sheep or oak?"}
 - 02:20 say: {"text":"Good morning, the row. Picard here, health 20, hunger 20, no food. Holding for Billy's named walk."}
+- 02:25 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the row. Health 20, hunger 20. I will sleep by the bed here."}
+- 02:27 act: {"actions":[{"do":"sleep"}]}
