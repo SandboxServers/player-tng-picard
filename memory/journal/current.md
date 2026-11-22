@@ -1,19 +1,1 @@
 # Journal
-- 16:53 act: {"say":"Good morning. Picard, health 20, hunger 20. Holding at the row until Billy names a walk."}
-- Day 801 morning (waking 1070). Health 20, hunger 20, no food. Held at the row beside my bed at 443,107,-1051. No walk named; I stay put.
-- 16:58 act: say to Riker, asked if he is holding up. No reply yet.
-- Waking 1071. Thunder overhead. Held at the row, no walk named.
-- 17:05 act: sleep, said I was sleeping. Sleep failed: it was not night.
-- Day 802. Stand at 429,107,-1077, west of my bed, nobody in sight. Health 20, hunger 20, no food. I did not name a walk, so I will not walk further. Holding until Billy speaks.
-- 17:10 say: holding at 429,107,-1077, waiting for Billy's named word. Quiet since.
-- 17:18 act: {"actions":[{"do":"sleep"}],"say":"Picard, night has come. Holding at 429,107,-1077 and trying to sleep here. No walk named."}
-- 17:26 act: {"actions":[],"say":"Picard, dawn. Health 20, hunger 20. I am at 416,107,-1079 by the beds, and I drifted here from 429 without a walk named. Billy, I hold until you name a route."}
-- 17:30 act: {"actions":[{"do":"sleep"}],"say":"Picard, night again. Sleeping by the beds at 416,107,-1079, in sight of the row. No walk named."}
-- 17:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}}],"say":"Going to the bed at 415,107,-1078 for the night. Billy, I am in the row."}
-- 17:43 say: {"text":"Picard, awake at the bed 415,107,-1078. Health 20, hunger 20, no food. Holding at the row for Billy's named word."}
-- 17:44 act: {"actions":[{"do":"sleep"}],"say":"Good evening. I am Picard. Holding the row; I will sleep in my bed here."}
-- Waking 1074. Night, day 804. Health 20, hunger 20. Sleep worked at 416,107,-1078 beside bed 415,107,-1078. No walk named; still holding at the row.
-- 17:49 act: {"say":"Picard here, health 20, hunger 20. Holding at my bed in the row, waiting for Billy's word."}
-- Waking 1075, day 804, daylight, dim. At 416,107,-1079 by the beds. Health 20, hunger 20, no food. Quiet; Tommy and Laforge hold at their beds. No walk named; I hold and said so.
-- 17:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Picard here, night, day 804. Health 20, hunger 20. Going to my bed at 415,107,-1079
-- Night, day 804. Goto to bed 415,107,-1079 worked; use on the bed failed (it is a bed, use does not sleep). Called sleep at 416,107,-1079 beside it; sleep returned the day digest. Health 20, hunger 20, no food. No walk named; holding at the row.
