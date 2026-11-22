@@ -1,11 +1,1 @@
 # Journal
-- 03:37 act: {"say":"Morning. Picard here at bed 443,107,-1065, health 20, hunger 20, no food. Holding at the row in sight, awaiting Billy's named route."}
-- Day 761, morning: woke at the row, health 20, hunger 20, no food. Held; greeted the row. No route named yet. Next: wait for Billy; call him at hunger 10.
-- Day 762: still holding at the row. Health 20, hunger 20. Billy has named no route. Others report the same. Waiting for true night to sleep at bed 443,107,-1065.
-- 04:01 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}],"say":"Dusk at the row. Going to my bed in Billy's sight. Holding, no walk."}
-- Day 763, morning: at bed 443,107,-1065. Health 20, hunger 20, no food. Lewis, Laforge and John all hold; no route or sheep reported. Still holding for Billy's named call. Waiting; sleep at true night.
-- 04:15 say: Picard here at the bed, health 20, hunger 20, still holding for Billy's named route.
-- Day 763, waking: at bed 443,107,-1065 with the row. Health 20, hunger 20, no food. Heard Laforge, Chapman and John hold; no route named. Held, said my status. Next: keep holding; sleep at true night.
-- 04:20 say: Picard here, at the row bed. Health 20, hunger 20. Holding for Billy's word.
-- Day 763, cycle: status days_since_sleep 1. Wait timed out twice, nothing new; Chapman, Lewis and John holding at their beds. Holding, no walk named. Next: wait for Billy, sleep at true night.
-- 04:27 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}],"say":"Night at the row. Going to my bed 443,107,-1065 in Billy's sight. Holding, no walk."}
