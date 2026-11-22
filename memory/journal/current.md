@@ -2,3 +2,14 @@
 - Day 812, day. Holding at bed 415,107,-1079. Health 20, hunger 20, no food. Said good morning to Laforge; no walk named by Billy. Waiting.
 - Day 812, day. Woke to the row; nothing new in the wait. Said I hold. Set rest intent, to wake on speech, damage or a finished rest. Next: call Billy at hunger 10.
 - Day 813, day. Still at bed 415,107,-1079, health 20, hunger 20. Laforge and Tommy hold at the row, waiting on Billy's word. Days since sleep: 2. I will sleep in my bed at dusk.
+- Day 813, morning after sleep. Woke at bed 415,107,-1079, health 20, hunger 20, no one in sight. Holding; no walk named. Waiting for Billy's word.
+- Day 813, morning. Pillager shot at me from the south at the bed. I stepped north, then fought one adjacent and was dragged/ran far west to x=391 among pillagers. Died there ("Something shot you"). Respawned at bed 416,107,-1079 with nothing. Dropped wooden sword, dirt, ominous bottle, white banner at 391,96,-1104. Lesson: never leave the row to fight; call Billy first. I broke my word to hold.
+- Day 813, night. Back at the row with empty hands, health 20, hunger 20. Lay down at bed 415,107,-1078 (1 of 10 asleep). Woke at day, still in the row. Tommy holds too. Next: hold, call Billy, no walks alone.
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1082}}],"say":"Pillager to the south with a crossbow, shooting me. I am moving north out of its line. Billy, I need the row.","reasoning":"Shot 
+- 20:50 act: {"actions":[{"do":"attack","target":"pillager"},{"do":"attack","target":"pillager"}],"say":"Fighting the pillager to my east. I have a wooden sword and will not run.","reasoning":"It is adjacent and s
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1073}},{"do":"attack","target":"pillager"}],"reasoning":"Health 11.8 and falling. The pillager is 3 blocks east. Close the gap and strike; attac
+- 20:51 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1078}}],"say":"Two pillagers at my heels, far west at 380. Running east for the row now.","reasoning":"Health 8.8, two crossbows adjacent, I am 
+- 20:51 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1078}}],"reasoning":"Health 1.8. Pillagers 10 blocks west. Only chance is distance and breaking their line; keep running east."}
+- 20:51 say: {"text":"I died out west at x=391, shot by pillagers. I broke my word to hold. I am back at the row with nothing. My sword and banner lie at 391,96,-1104; I will not go back alone."}
+- 20:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}},{"do":"use","at":{"x":415,"y":107,"z":-1078}}],"reasoning":"Dusk, and I am in the row. Find my bed and sleep, in Billy's sight."}
+- 20:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}},{"do":"sleep"}],"reasoning":"Dusk in the row. Lie down in the bed at 415,107,-1078 to rest."}
