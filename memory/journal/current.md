@@ -1,3 +1,4 @@
 # Journal
-- 21:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}],"say":"It is night. I am going to my bed in the row to sleep, and I hold here."}
-- Night, day 815: goto to bed and sleep both worked, but only 5 of 10 are asleep; I stand at 416,107,-1079, health 20, hunger 20, pack empty. Holding in the row; no walk named.
+- 21:41 act: goto bed 415,107,-1079 and sleep (night, day 815). Sleep did not register; 5 of 10 asleep.
+- 21:46 say: morning greeting at the row.
+- Day 816 (morning): status days_since_sleep 1, health 20, hunger 20, pack empty. Laforge holds at bed 429,107,-1065 awaiting Billy's word. Waited; no walk named. Said good morning. Next: hold, call Billy at hunger 10, try the bed at dusk.
