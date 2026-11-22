@@ -5,3 +5,5 @@
 - 22:34 act: {"actions":[{"do":"sleep"}]}
 - Day 818 morning: woke at bed 415,107,-1079, health 20, hunger 20, pack empty. Riker reports health 6, hunger 17. No walk named by Billy. Said my position aloud and asked Billy for his word. Holding.
 - 22:39 say: {"text":"Picard here at the bed, health 20, hunger 20, holding. Riker, your health is low; Billy, I await your named word on food and any walk."}
+- 22:48 act: {"say":"Picard here, holding at the row with Tommy. Billy, is there a walk or a task you want named today?"}
+- Day 819 day: health 20, hunger 20, pack empty, at bed 416,107,-1079. Tommy and Laforge hold too. Asked Billy for a named walk or task. No reply yet. Holding.
