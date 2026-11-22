@@ -1,13 +1,5 @@
 # Journal
-- 22:25 say: {"text":"Picard, counted at dawn. Health 20, hunger 20, pack empty. Holding at the row for Billy's named word."}
-- Day 818 dawn: woke in bed 415,107,-1079, health 20, hunger 20, pack empty. Tommy and Laforge hold too. No walk named. Said my count aloud. Waiting.
-- 22:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Goodnight, row. Picard at my bed, holding for Billy's word at first light."}
-- 22:34 act: {"actions":[{"do":"sleep"}]}
-- Day 818 morning: woke at bed 415,107,-1079, health 20, hunger 20, pack empty. Riker reports health 6, hunger 17. No walk named by Billy. Said my position aloud and asked Billy for his word. Holding.
-- 22:39 say: {"text":"Picard here at the bed, health 20, hunger 20, holding. Riker, your health is low; Billy, I await your named word on food and any walk."}
-- 22:48 act: {"say":"Picard here, holding at the row with Tommy. Billy, is there a walk or a task you want named today?"}
-- Day 819 day: health 20, hunger 20, pack empty, at bed 416,107,-1079. Tommy and Laforge hold too. Asked Billy for a named walk or task. No reply yet. Holding.
-- 23:01 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}}],"say":"Picard, counted at the row. Health 20, hunger 20, pack empty. Going to bed at 415,107,-1079 for the night."}
-- 23:01 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}]}
-- 23:01 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1078}},{"do":"sleep"}]}
-- 23:01 act: {"actions":[{"do":"sleep"}],"say":"Use on the bed will not take, so I am trying sleep where I stand, beside the bed at 415,107,-1079."}
+- 23:06 say: Morning, Laforge and Tommy. Picard, health 20, hunger 20, holding at the row. Waiting for Billy's named route.
+- Day 820 day: at 416,107,-1079, health 20, hunger 20, pack empty. Laforge and Tommy hold too. No walk named. Holding; waiting on Billy.
+- 23:14 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"use","at":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Night at the row. Picard going to bed at 415,107,-1079. Holding for 
+- 23:14 act: {"actions":[{"do":"sleep"}]}
