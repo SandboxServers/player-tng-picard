@@ -1,10 +1,10 @@
 # Summary
 
-I am Jean-Luc Picard. Day 754 ended; I slept beside row bed 443,107,-1051, in Billy's sight. The sleep worked.
+I am Jean-Luc Picard. Day 754 ended; I slept at bed 443,107,-1051, beside me, in Billy's sight. The sleep worked.
 
 Health 20, hunger 20, no food. Wooden sword in hand.
 
-Billy leads the row. No verified route west has been named or found, so we hold at our beds in sight. No walk.
+Billy leads the row. No verified route west has been named or found; everyone holds at their beds. No walk.
 
 Food goes weakest-first by Billy's order. Call Billy at hunger 10. I eat at hunger 6 or below.
 
