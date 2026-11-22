@@ -4,3 +4,4 @@
 - 07:54 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}]}
 - Day 775 morning. Woke at bed 443,107,-1065, in Billy's sight. Health 20, hunger 20, no food. Billy at the beds, has no food either. Said good morning; holding at the row.
 - 07:55 say: {"text":"Good morning, Billy. Picard here, at the beds, health 20, hunger 20. I have no food and nothing to give. I will hold here until you name a route."}
+- 08:06 say: {"text":"Picard here, at the bed in the row, holding. No walk named, no food, hunger 20. Going to sleep in Billy's sight."}
