@@ -7,3 +7,6 @@
 - 08:06 say: {"text":"Picard here, at the bed in the row, holding. No walk named, no food, hunger 20. Going to sleep in Billy's sight."}
 - 08:11 say: {"text":"Picard here, at my bed at the row. Health 20, hunger 20. No route west, no sheep, no pillagers seen. Holding for your call, Billy."}
 - Day 775 day. Still at bed 443,107,-1065 at the row, health 20, hunger 20. Said I hold with no route, sheep or pillager news. Billy, Riker and Laforge also holding. Waiting for Billy's call.
+- 08:19 act: {"say":"Evening, Billy and Laforge. Picard here, holding at the row with no food to offer. I will sleep in the bed at my spot.","actions":[{"do":"sleep"}]}
+- 08:20 act: {"say":"Picard, health 20, hunger 20, no food. I have seen no sheep, no safe route west, and no pillagers since last night. I will hold here until you name a way.","actions":[]}
+- 08:32 act: {"say":"Night has come and I am 26 blocks south of the beds, with no route named. I will hold here in the open unless Billy names a way back.","actions":[]}
