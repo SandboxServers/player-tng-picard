@@ -15,3 +15,5 @@
 - Waking 1074. Night, day 804. Health 20, hunger 20. Sleep worked at 416,107,-1078 beside bed 415,107,-1078. No walk named; still holding at the row.
 - 17:49 act: {"say":"Picard here, health 20, hunger 20. Holding at my bed in the row, waiting for Billy's word."}
 - Waking 1075, day 804, daylight, dim. At 416,107,-1079 by the beds. Health 20, hunger 20, no food. Quiet; Tommy and Laforge hold at their beds. No walk named; I hold and said so.
+- 17:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Picard here, night, day 804. Health 20, hunger 20. Going to my bed at 415,107,-1079
+- Night, day 804. Goto to bed 415,107,-1079 worked; use on the bed failed (it is a bed, use does not sleep). Called sleep at 416,107,-1079 beside it; sleep returned the day digest. Health 20, hunger 20, no food. No walk named; holding at the row.
