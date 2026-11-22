@@ -1,1 +1,11 @@
 # Journal
+- 11:38 act: {"say":"Morning. Picard at bed 443,107,-1065, health 20, hunger 20, no food. Holding at the row for Billy's word. Riker, I have nothing to give yet."}
+- Day 785 morning, woke at the row after sleep (9 of 10 asleep, so sleep took). Riker (hunger 17) and Lewis hold for Billy's word. No walk named. Still holding; will wait for Billy.
+- Billy asked at the beds for news of a route, sheep or pillagers. I have none; told him so. Holding.
+- Day 786. Laforge and Riker also report no route, no sheep, no pillager news. No walk named. Still holding at the row, health 20, hunger 20.
+- Dusk on day 786. Billy went to sleep at his bed in the row's sight. I will go to my bed at 443,107,-1065 when it is true night, with nothing near.
+- Night passed quietly; the row said good night and good morning. Laforge had my bed 443,107,-1065 in the night, so I did not sleep there. Billy asked again for news; I answered: none. Holding, health 20, hunger 20.
+- Billy: still no walk until a route is verified; everyone holds beside their beds. Riker hunger 17, no food. I hold.
+- Dusk on day 786 again. Still holding at the row, health 20, hunger 20. Will sleep at my bed when night is true and it is free.
+- 11:42 act: {"say":"Picard here, at my bed. No verified route west, no sheep seen, no pillager news from me. Holding, health 20, hunger 20."}
+- 11:54 act: {"say":"Picard here at the row. Still no sheep, no verified route west, no pillager news from me. Hunger 20, health 20. Holding."}
