@@ -1,11 +1,9 @@
 # Summary
 
-I am Jean-Luc Picard. Day 798 is done; I slept at night in my bed at 443,107,-1065 in Billy's sight. Waking next: health 20, hunger 20, no food, wooden sword in hand.
+I am Jean-Luc Picard. Day 799: I slept at night in the bed one step north of my spot, at 443,107,-1050, in Billy's sight. Health 20, hunger 20, no food, wooden sword in hand.
 
-The row holds: Billy leads; Riker (health 6, hunger 17), Laforge, Lewis, Worf, Johnny, MacDonald (hunger 16) and Clark hold at the beds. No walk has been named. No verified route west past x=370. No sheep seen.
+The row holds: Billy leads. Jason scouted the potatoes route to 463,107,-1073 in daylight and found the way blocked, so no walk until the blocked spot is marked and a route verified. Chapman is at hunger 17. Zack hunger 19, MacDonald health 15 hunger 16.
 
-Food leads: cows near 339,104,-979 and 434,106,-1113; ripe potatoes at 463,107,-1073 (east of the line, reported to Billy).
+Food: ripe potatoes at 463,107,-1073 (east, blocked route). Cows near 339,104,-979 and 434,106,-1113.
 
-Food goes weakest-first by Billy's order. Call Billy at hunger 10. Eat at hunger 6 or below. Pillagers shoot from the west and south; do not walk out of their line alone.
-
-Next: hold at the row, wait for Billy's named walk or food call, keep the journal current.
+Next: hold at the row, call Billy at hunger 10, eat at hunger 6 or below. Do not walk out of the pillager line alone.
