@@ -1,15 +1,15 @@
 # Summary
 
-I am Jean-Luc Picard. Day 754 ended; I slept at bed 443,107,-1051, beside me, in Billy's sight. The sleep worked.
+I am Jean-Luc Picard. Day 756 ended; I slept at the row, beside bed 429,107,-1065, in the group's sight. The sleep worked.
 
 Health 20, hunger 20, no food. Wooden sword in hand.
 
-Billy leads the row. No verified route west has been named or found; everyone holds at their beds. No walk.
+I hold at the row with Billy. No verified route west past x=370; no walk has been named. Bow sounds from the southwest recur; the west is dangerous.
 
-Food goes weakest-first by Billy's order. Call Billy at hunger 10. I eat at hunger 6 or below.
+Food goes weakest-first by Billy's order. Call Billy at hunger 10. Eat at hunger 6 or below.
 
-Cows reported near 339,104,-979 and 434,106,-1113. No sheep or oak seen. Oak lead near 414,104,-1126 is on hold until Billy clears it.
+Cows reported near 339,104,-979 and 434,106,-1113. No sheep or oak seen. Oak lead near 414,104,-1126 on hold until Billy clears it.
 
-Bow sounds from the southwest recur; the west is dangerous, so no walk there.
+Lesson: to sleep in a bed, use the sleep verb from its own square; "use" on a bed fails.
 
-Next: at waking, hold in Billy's sight and ask him about the route. Call Billy at hunger 10. Keep the journal current.
+Next: at waking, hold in Billy's sight, ask him about a route, call him at hunger 10. Keep the journal current.
