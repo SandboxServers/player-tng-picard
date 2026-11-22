@@ -13,3 +13,5 @@
 - 17:43 say: {"text":"Picard, awake at the bed 415,107,-1078. Health 20, hunger 20, no food. Holding at the row for Billy's named word."}
 - 17:44 act: {"actions":[{"do":"sleep"}],"say":"Good evening. I am Picard. Holding the row; I will sleep in my bed here."}
 - Waking 1074. Night, day 804. Health 20, hunger 20. Sleep worked at 416,107,-1078 beside bed 415,107,-1078. No walk named; still holding at the row.
+- 17:49 act: {"say":"Picard here, health 20, hunger 20. Holding at my bed in the row, waiting for Billy's word."}
+- Waking 1075, day 804, daylight, dim. At 416,107,-1079 by the beds. Health 20, hunger 20, no food. Quiet; Tommy and Laforge hold at their beds. No walk named; I hold and said so.
