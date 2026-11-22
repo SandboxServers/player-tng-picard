@@ -33,4 +33,5 @@ What I hold to be true about the world and the people in it.
 - Day 780: Billy again called no west walk. Sheep and a checked route west are still unknown. Riker, Laforge and Lewis all hold in sight at the beds. Lewis went to bed in sight of the row.
 - Day 784: Night sleep at bed 443,107,-1065 beside the row worked on the first try with Billy in sight. Riker was at hunger 17 and health 6.3 with an empty pack; Billy's order is to rest and keep still, not walk.
 - Day 797: Night sleep at bed 443,107,-1065 gave 7 of 10 asleep on the first try, with Riker beside me and Billy in sight. Holding all day with no walk named still holds.
+- Day 798: Night sleep at bed 443,107,-1065 worked on the first try with Billy in sight and Riker beside me. The row held all day with no walk named.
 - Day 754: Using bed 443,107,-1051 directly with `use` then `sleep` from beside it worked at true night. Thunder at dusk did not stop the sleep. The row still holds with no route west named.
