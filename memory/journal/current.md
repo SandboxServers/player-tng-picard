@@ -10,3 +10,8 @@ Day 758, day. At the row at 444,107,-1065, health 20, hunger 20, no food, wooden
 - 02:40 act: {"say":"Lewis, I have not walked the land west; no route is verified past x=370. It is night now, so I will sleep by the row bed.","actions":[{"do":"sleep"}]}
 - 02:40 act: {"actions":[{"do":"sleep"}]}
 Day 758, night. Sleep took two tries from the square beside the bed; the second worked. Told Lewis no verified route west. No walk named by Billy. Slept at the row, health 20, hunger 20, no food.
+Day 759, morning. Woke at the row, 444,107,-1065, health 20, hunger 20, no food, wooden sword in hand. Heard Chapman, Laforge and Lewis report holding; no walk named. Holding, waiting for Billy.
+Day 759, night. Slept by bed 443,107,-1065; sleep partly worked (2 of 10 asleep), then day came. Still holding, health 20, hunger 20, no food. Johnny went to Chapman's bed, in Billy's sight. No walk named.
+Day 760, dusk. Still at the row, health 20, hunger 20, no food. Sleep failed at dusk ("not night"); it is day again. Holding; no walk named. Will sleep at true night.
+- 02:53 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Picard holding, health 20, hunger 20, no food. No walk named. I sleep by the bed here."}
+- 03:05 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the row. Picard holding, health 20, hunger 20, no food. No walk named. Sleeping by the bed here."}
