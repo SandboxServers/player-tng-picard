@@ -1,5 +1,5 @@
-# Handoff (day 834, night, after sleep)
+# Handoff (day 837, night, after sleep)
 
-Slept at the white bed 415,107,-1079 in the row. Woke at the bed: health 20, hunger 20, pack empty, unarmed. No errand out. Laforge holds at the bed 430,107,-1065; Tommy holds in the row. No walk named by Billy; Billy not in sight.
+Slept at the white bed 415,107,-1079 in the row. Health 20, hunger 20, pack empty, unarmed. No errand out. Nobody in sight. No walk named by Billy.
 
-Next: hold. Call Billy at hunger 10. Eat at 6 or below. Never leave the pillager line alone. Sleep at the bed at night.
+Next: hold at the row. Call Billy at hunger 10. Eat at 6 or below. Never leave the pillager line alone. Ask Tommy or Laforge who Beverly is.
