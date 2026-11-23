@@ -1,10 +1,10 @@
 # Summary
 
-I am Jean-Luc Picard. Day 848 ended at the white bed 415,107,-1079 in the row. Health 20, hunger 19, pack empty, unarmed. Sleep worked at night.
+I am Jean-Luc Picard. Day 849 ended at the white bed 415,107,-1079 in the row. Health 20, hunger 19, pack empty, unarmed. Sleep worked at night.
 
-The row holds: Billy leads but has not come into sight and has named no route. Tommy, Riker and Laforge hold at their beds and wait for his call. Beverly is at 429,107,-1063 with 20 potatoes, health 7.3.
+The row holds: Billy leads but has not come into sight and has named no route. Tommy, Riker and Laforge hold at their beds, unarmed, waiting for Billy's call.
 
-Food: ripe potatoes at 463,107,-1073, east, behind the blocked route. Cows near 339,104,-979 and 434,106,-1113. Beverly holds potatoes now.
+Food: ripe potatoes at 463,107,-1073, east, behind the blocked route. Cows near 339,104,-979 and 434,106,-1113. Beverly holds potatoes at 429,107,-1063.
 
 Lost: wooden sword, dirt, ominous bottle, white banner at 391,96,-1104 (pillager ground; only with Billy's word and an armed escort).
 
