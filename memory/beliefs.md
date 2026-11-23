@@ -22,5 +22,7 @@
 
 - Day 854: sleep at the bed 415,107,-1079 worked at night, 9 of 10 asleep. Billy still silent; hunger 19 held all day, not yet at the call point.
 
+- Day 854 (reflect): the row holds steadily without Billy; Riker, Tommy, Laforge give dawn and dusk counts. Speech to the row reaches them.
+
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: Billy, Tommy, Laforge.
