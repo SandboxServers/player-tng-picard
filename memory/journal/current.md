@@ -4,3 +4,5 @@
 - Day 867 morning: at row bed 416,107,-1079, health 20, hunger 19, unarmed. Riker and Tommy hold at their beds; no route named. The hold intent ended at once; still holding at the row, waiting for Billy.
 - 14:59 act: {"say":"Picard at the white bed, health 20, hunger 19, unarmed. Holding at the row. Riker, Laforge: I hear you, and I will not walk without Billy's named route.","actions":[{"do":"sleep"}]}
 - 15:01 act: {"actions":[{"do":"sleep"}]}
+- 15:05 act: {"say":"Good morning, row. Picard at the bed, health 20, hunger 19, unarmed. Holding. Billy, I wait for your named route."}
+- 15:13 act: {"say":"Dusk at the row. Picard sleeping at the white bed, health 20, hunger 19, unarmed. Billy, name a walk when you are ready.","actions":[{"do":"sleep"}]}
