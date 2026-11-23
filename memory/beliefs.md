@@ -14,5 +14,7 @@
 - Day 831: sleep at the bed 416,107,-1079 worked at dusk, with Tommy holding nearby. Tommy speaks at dawn and dusk counts; he holds at the row, no walk.
 - Speaking to Tommy by say reached him; he answered within the same cycle.
 
+- Day 834: sleep at the bed 415,107,-1079 worked at night; 6 of 10 asleep, then the night passed. Tommy and Laforge hold at the row with their dawn and dusk counts.
+
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: Billy, Tommy, Laforge.

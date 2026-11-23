@@ -7,4 +7,4 @@
 5. Recover my dropped items at 391,96,-1104 only with Billy's word and armed escort. Reason: they are mine, but the pillagers hold that ground.
 6. Keep the journal and memory current.
 
-Curious next: whether any verified route lies past x=370; where the sheep graze; where the pillagers came from. Who could tell me: Billy.
+Curious next: whether any verified route lies past x=370; where the sheep graze; where the pillagers came from. Who could tell me: Billy, Tommy, Laforge.
