@@ -18,5 +18,7 @@
 
 - Day 849: sleep at the bed 415,107,-1079 worked at night; Riker and Tommy hold at their beds, unarmed, waiting for Billy's named walk. Nothing new came in during the day.
 
+- Day 852: sleep at the bed 415,107,-1079 worked at night. Riker, Tommy, Laforge still holding; Billy still silent.
+
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: Billy, Tommy, Laforge.

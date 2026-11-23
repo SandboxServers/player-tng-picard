@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 851 ended asleep at the white bed 415,107,-1079 in the row. Health 20, hunger 19, pack empty, unarmed.
+I am Jean-Luc Picard. Day 852 ended asleep at the white bed 415,107,-1079 in the row. Health 20, hunger 19, pack empty, unarmed.
 
-The row holds: Billy leads but has not come into sight and has named no route. Tommy and Laforge hold in the row, unarmed, waiting for Billy's call.
+The row holds: Billy leads but has not come into sight and has named no route. Riker, Tommy and Laforge hold in the row, unarmed, waiting for Billy's call.
 
 Food: ripe potatoes at 463,107,-1073, east, behind the blocked route. Cows near 339,104,-979 and 434,106,-1113. Beverly holds potatoes at 429,107,-1063.
 
