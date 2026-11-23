@@ -5,3 +5,5 @@
 - 06:08 act: {"actions":[{"do":"sleep"}]}
 - 06:13 act: {"say":"Picard, dawn. Health 20, hunger 20, holding at the row bed. Tommy, who is Beverly, and where is she?"}
 - Day 841, dawn. Asked Tommy about Beverly: he does not know her. Laforge slept at bed 429,107,-1065 (worked, from 430,107,-1065). Still holding at the row, health 20, hunger 20, no intent. Waiting for Billy's named call.
+- Day 842, morning, waking 1156. Slept at the white bed 416,107,-1079 (worked, 8 of 10 asleep). Health 20, hunger 20, pack empty, unarmed. Nobody in sight. Holding at the row; no intent running.
+- 06:30 say: {"text":"Picard, at the white bed. Health 20, hunger 20, holding. Good to hear you, Tommy. Still waiting for Billy's word."}
