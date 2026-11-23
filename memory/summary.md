@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 867 ends. I slept at the white bed 415,107,-1079 after dusk. Health 20, hunger 19, pack empty, unarmed.
+I am Jean-Luc Picard. Day 871 ends. I slept at the white bed 416,107,-1079 after dusk. Health 20, hunger 19, pack empty, unarmed.
 
-The row holds: Billy leads but named no route today. Riker, Tommy, Laforge and Worf hold at their beds, unarmed, waiting for Billy's call.
+The row holds: Billy leads but has named no route for days. Riker, Tommy, Laforge and Worf hold at their beds, unarmed, waiting for Billy's call.
 
 Food: ripe potatoes at 463,107,-1073, east, behind the blocked route. Cows near 434,106,-1113 and 339,104,-979. No sheep seen. Beverly holds potatoes at 429,107,-1063 for Worf, Zack, Leonardo and Trini.
 
