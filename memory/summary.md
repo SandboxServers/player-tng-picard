@@ -1,6 +1,6 @@
 # Summary
 
-I am Jean-Luc Picard. Day 836 ended with sleep at the white bed 415,107,-1079 in the row, at night. Health 20, hunger 20, pack empty, unarmed.
+I am Jean-Luc Picard. Day 836 was spent holding at the row beside the white bed 415,107,-1079. Health 20, hunger 20, pack empty, unarmed. The sleep call at night did not clearly rest me yet; days since sleep is still 0 by the status reading.
 
 The row holds: Billy leads but has not come into sight since day 826. Tommy and Laforge hold at the row and give counts at dawn and dusk.
 
