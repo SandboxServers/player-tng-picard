@@ -40,3 +40,9 @@
 - 19:35 act: {"actions":[{"do":"sleep"}]}
 - 19:39 act: {"actions":[],"say":"Picard, beside the row bed 416,107,-1079. Health 20, hunger 19, no food, unarmed. Nobody hurt here. Holding for Billy's named word."}
 - 19:51 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard sleeps beside bed 415,107,-1079. Health 20, hunger 19, unarmed, no walk named. Billy, I hold for your morning word."}
+- 20:00 say: {"text":"Picard here at the row bed 415. Healthy, hunger 19, pack empty. Holding still for Billy's word."}
+- Day 882 day: at row bed 416,107,-1079. Health 20, hunger 19, unarmed. Tommy and Troi hold at their beds; no walk named by Billy. Said my position aloud. Holding, will call Billy at hunger 10.
+- Day 883 dusk: use on bed 415,107,-1079 failed again (it is a bed); sleep alone beside it failed as not night; at night sleep worked ("9 of 10 asleep"). Health 20, hunger 19, unarmed, no walk named. Sleeping at the row.
+- 20:04 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Dusk, row. Picard goes to bed beside 415,107,-1079. Health 20, hunger 19, unarmed, no walk named. Billy, I hold for you
+- 20:04 act: {"actions":[{"do":"sleep"}],"say":"Picard sleeps beside bed 415,107,-1079. Health 20, hunger 19, unarmed, no walk named. Billy, I hold for your morning word."}
+- 20:08 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard sleeps beside bed 415,107,-1079. Health 20, hunger 19, unarmed, no walk named. Billy, I hold for your morning word."}
