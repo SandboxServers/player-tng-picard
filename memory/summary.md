@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 835 ended with sleep at the white bed 415,107,-1079 in the row, at night (6 of 10 asleep). Health 20, hunger 20, pack empty, unarmed.
+I am Jean-Luc Picard. Day 836 ended with sleep at the white bed 415,107,-1079 in the row, at night. Health 20, hunger 20, pack empty, unarmed.
 
-The row holds: Billy leads but has not come into sight since day 826. Tommy and Laforge hold at the row and wait for his named call. We give counts at dawn and dusk.
+The row holds: Billy leads but has not come into sight since day 826. Tommy and Laforge hold at the row and give counts at dawn and dusk.
 
 Food: ripe potatoes at 463,107,-1073, east, behind the blocked route. Cows near 339,104,-979 and 434,106,-1113.
 
