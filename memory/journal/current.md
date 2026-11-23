@@ -18,3 +18,12 @@
 - 17:03 say: {"text":"Picard, at the row bed 416,107,-1079. Health 20, hunger 19, unarmed, holding here in Billy's sight. Billy, I await your named word."}
 - 17:16 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}]}
 - 17:16 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard sleeps at bed 415,107,-1079. Health 20, hunger 19, unarmed, no walk named. Billy, I hold for your morning word."}
+- 17:32 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard sleeps at bed 415,107,-1079. Health 20, hunger 19, unarmed, no walk named. Billy, I hold for your morning word."}
+- 17:44 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Picard sleeps at bed 415,107,-1079. Health 20, hunger 19, unarmed, no walk named. Billy, I hold for your morning word."}
+- 17:56 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Holding at the row, health 20, hunger 19. Going to sleep at the bed beside me, in Billy's sight. Billy, name a walk when you wake us."}
+- 18:00 act: {"actions":[{"do":"sleep"}]}
+- 18:12 act: {"actions":[{"do":"sleep"}]}
+- 18:13 act: {"actions":[{"do":"sleep"}]}
+- 18:29 act: {"actions":[{"do":"sleep"}]}
+- 18:29 act: {"actions":[{"do":"sleep"}]}
+- 18:57 act: {"actions":[{"do":"sleep"}]}
