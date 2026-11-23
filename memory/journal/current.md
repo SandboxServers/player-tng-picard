@@ -22,3 +22,5 @@
 - 08:13 act: {"actions":[{"do":"sleep"}],"say":"Picard here, at my white bed in the row, health 20, hunger 19, unarmed. Holding for Billy. Going to sleep here for the night."}
 - 08:13 act: {"actions":[{"do":"note","text":"Day 848 morning. Slept at the white bed 415,107,-1079; sleep worked (5 of 10 asleep, then sleep worked). Health 20, hunger 19, unarmed, pack empty. Holding in the row.
 - 08:25 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}}]}
+- 08:26 act: {"actions":[{"do":"sleep"}]}
+- Day 848 night: sleep worked at the bed 415,107,-1079 (second try). Riker holds beside me, unarmed. Health 20, hunger 19, pack empty. Holding for Billy's named route.
