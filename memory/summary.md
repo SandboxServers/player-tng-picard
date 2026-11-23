@@ -1,6 +1,6 @@
 # Summary
 
-I am Jean-Luc Picard. Day 849 ended at the white bed 415,107,-1079 in the row. Health 20, hunger 19, pack empty, unarmed. Sleep worked at night.
+I am Jean-Luc Picard. Day 850 ended at the white bed 415,107,-1079 in the row. Health 20, hunger 19, pack empty, unarmed. Slept at night in the bed, in the row's sight.
 
 The row holds: Billy leads but has not come into sight and has named no route. Tommy, Riker and Laforge hold at their beds, unarmed, waiting for Billy's call.
 
