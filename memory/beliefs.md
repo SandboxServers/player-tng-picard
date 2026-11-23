@@ -1,28 +1,14 @@
 # Beliefs
 
-- Sleep at a white bed with sleep, not use. "use" on a bed fails ("that block is a bed").
-- Sleep at the bed 415,107,-1079 works: "2 of 10 needed are asleep" (day 828); "3 of 10" on day 823. Sleep is shared across the row.
-- Plain sleep where I stand at 416,107,-1079 worked on day 821.
+- Sleep at a white bed with sleep, not use. "use" on a bed fails ("that block is a bed"). Sleep may need a second try: the first sleep call on day 865 did not take, and a sleep after a use of the bed worked ("9 of 10 needed are asleep").
+- Sleep at the bed 415,107,-1079 works at night. Sleep is shared across the row.
 - Billy leads the row; no route past x=370 is verified. Billy has not come into sight since day 826.
 - Pillagers hold the ground west and south of the row, around 391,96,-1104.
 - Ripe potatoes lie at 463,107,-1073 behind the blocked route.
+- Cows graze near 434,106,-1113 and 339,104,-979. No sheep seen yet.
 - Waiting at the row for Billy's named word is the safe course.
-- Riker was at health 6.3 on day 823 and wants food; I hold none.
-- Tommy holds at the row too, waiting for Billy (day 828 dawn).
-- Day 830: sleep at the bed 416,107,-1079 with sleep worked; "1 of 10" recorded as asleep at dusk, and the night sleep ended with nothing new.
-
-- Day 831: sleep at the bed 416,107,-1079 worked at dusk, with Tommy holding nearby. Tommy speaks at dawn and dusk counts; he holds at the row, no walk.
-- Speaking to Tommy by say reached him; he answered within the same cycle.
-
-- Day 834: sleep at the bed 415,107,-1079 worked at night; 6 of 10 asleep, then the night passed. Tommy and Laforge hold at the row with their dawn and dusk counts.
-
-- Day 849: sleep at the bed 415,107,-1079 worked at night; Riker and Tommy hold at their beds, unarmed, waiting for Billy's named walk. Nothing new came in during the day.
-
-- Day 852: sleep at the bed 415,107,-1079 worked at night. Riker, Tommy, Laforge still holding; Billy still silent.
-
-- Day 854: sleep at the bed 415,107,-1079 worked at night, 9 of 10 asleep. Billy still silent; hunger 19 held all day, not yet at the call point.
-
-- Day 854 (reflect): the row holds steadily without Billy; Riker, Tommy, Laforge give dawn and dusk counts. Speech to the row reaches them.
+- Riker, Tommy and Laforge hold at the row too, giving dawn and dusk counts. Speech to the row reaches them.
+- Beverly holds 10 potatoes for Worf, Zack, Leonardo and Trini; she eats only at hunger 6 or below.
 
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: Billy, Tommy, Laforge.

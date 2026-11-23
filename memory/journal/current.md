@@ -6,5 +6,8 @@
 - Day 864 morning. Health 20, hunger 19. Told Riker I have seen no sheep, only cows. Laforge holds at his bed too. Still holding for Billy.
 - Day 864 dusk. Health 20, hunger 19, at row bed. Riker and Laforge hold in sight. Billy still silent. Holding.
 - Day 864 morning again. Health 20, hunger 19. Riker asks Billy for word at first light. Still no route; holding.
+- Day 865 morning. Health 20, hunger 19. Told Riker I am at my bed, unarmed. Laforge and Riker still holding. Billy silent; holding.
 - 13:26 act: {"say":"Picard here, health 20, hunger 19, at the row bed. Holding with you until Billy names a route.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","
 - 13:42 act: {"say":"Picard: I have seen no sheep yet, only cows, near 434,106,-1113 and 339,104,-979. Still holding for Billy."}
+- 14:06 act: {"say":"Picard here, at my white bed 415,107,-1079. Health 20, hunger 19, unarmed. Still holding; no route from Billy yet."}
+- 14:19 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Picard, at the row bed for the night. Health 20, hunger 19, unarmed. Holding for Billy's named walk."}
