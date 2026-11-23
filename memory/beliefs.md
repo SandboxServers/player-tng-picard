@@ -9,6 +9,7 @@
 - Waiting at the row for Billy's named word is the safe course.
 - Riker was at health 6.3 on day 823 and wants food; I hold none.
 - Tommy holds at the row too, waiting for Billy (day 828 dawn).
+- Day 830: sleep at the bed 416,107,-1079 with sleep worked; "1 of 10" recorded as asleep at dusk, and the night sleep ended with nothing new.
 
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: Billy, Tommy, Laforge.
