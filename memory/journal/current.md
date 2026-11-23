@@ -8,3 +8,4 @@
 - 05:28 act: {"actions":[{"do":"sleep"}]}
 - 05:30 act: {"say":"Dawn count: Picard, at the bed 416,107,-1079, health 20, hunger 20, unarmed. Holding for Billy's named call."}
 - 05:39 act: {"say":"Picard, at the bed in the row. Holding, unarmed, health 20, hunger 20. Waiting for Billy's named call."}
+- 05:39 act: {"actions":[{"do":"sleep"}]}
