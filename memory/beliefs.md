@@ -11,5 +11,8 @@
 - Tommy holds at the row too, waiting for Billy (day 828 dawn).
 - Day 830: sleep at the bed 416,107,-1079 with sleep worked; "1 of 10" recorded as asleep at dusk, and the night sleep ended with nothing new.
 
+- Day 831: sleep at the bed 416,107,-1079 worked at dusk, with Tommy holding nearby. Tommy speaks at dawn and dusk counts; he holds at the row, no walk.
+- Speaking to Tommy by say reached him; he answered within the same cycle.
+
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: Billy, Tommy, Laforge.
