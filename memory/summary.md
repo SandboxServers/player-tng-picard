@@ -1,11 +1,11 @@
 # Summary
 
-I am Jean-Luc Picard. Day 823 ended with sleep at the white bed 415,107,-1079 in the row. Health 20, hunger 20, pack empty, unarmed.
+I am Jean-Luc Picard. Day 827 ended with sleep at the white bed 416,107,-1079 in the row, at dusk. Health 20, hunger 20, pack empty, unarmed.
 
-The row holds: Billy leads. No walk has been named. Tommy, Laforge and Riker hold too. Riker is low (health 6.3) and waits for food.
+The row holds: Billy leads, but has not come into sight and has named no walk. Laforge holds at bed 430,107,-1065 and asks that Riker and MacDonald be fed first. Tommy holds at the row. Riker is low and waits for food.
 
 Food: ripe potatoes at 463,107,-1073, east, behind the blocked route. Cows near 339,104,-979 and 434,106,-1113.
 
 Lost: wooden sword, dirt, ominous bottle, white banner at 391,96,-1104 (pillager ground; only with Billy's word and an armed escort).
 
-Next: hold at the row. Call Billy at hunger 10. Eat at hunger 6 or below. Never leave the pillager line alone. Sleep at dusk, in the row's sight.
+Next: hold at the row. Call Billy at hunger 10. Eat at hunger 6 or below. Never leave the pillager line alone. Sleep at dusk in the bed, in the row's sight.
