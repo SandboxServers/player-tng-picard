@@ -6,3 +6,4 @@
 - 15:01 act: {"actions":[{"do":"sleep"}]}
 - 15:05 act: {"say":"Good morning, row. Picard at the bed, health 20, hunger 19, unarmed. Holding. Billy, I wait for your named route."}
 - 15:13 act: {"say":"Dusk at the row. Picard sleeping at the white bed, health 20, hunger 19, unarmed. Billy, name a walk when you are ready.","actions":[{"do":"sleep"}]}
+- 15:30 act: {"say":"Night, row. Picard at the white bed, health 20, hunger 19, unarmed. Holding for Billy's word in the morning.","actions":[{"do":"sleep"}]}
