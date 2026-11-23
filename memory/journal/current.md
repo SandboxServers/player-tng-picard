@@ -70,3 +70,4 @@
 - 21:50 act: {"actions":[],"say":"Morning, row. Picard at bed 416,107,-1079, health 20, hunger 19, unarmed. I have seen no sheep and no sword material, Riker. Holding for Billy's named walk."}
 - 22:02 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Night, row. Picard sleeps beside bed 415,107,-1079, in Billy's sight. Health 20, hunger 19, unarmed. Billy, I hold
 - 22:06 act: {"actions":[],"say":"Morning, row. Picard at bed 416,107,-1079, health 20, hunger 19, unarmed. Holding for Billy's named walk."}
+- 22:15 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Picard here, at the row bed, night. Health 20, hunger 19, pack empty, unarmed. Holding in the row, no walk named."}
