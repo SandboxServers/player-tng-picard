@@ -1,12 +1,1 @@
 # Journal
-- 05:02 act: say morning to Laforge. Picard at the bed 416,107,-1079, health 20, hunger 20, unarmed. Holding for Billy's word.
-- Day 838, thunder, dim: still at the bed in the row, health 20, hunger 20, pack empty. Billy has not named a word yet. Laforge says give food to Beverly and Riker first. Holding.
-- 05:10 act: sleep at the bed, dusk, per goal 3.
-- 05:14 Dawn, day 839. Woke at the bed in the row. Health 20, hunger 20, pack empty, unarmed. Holding for Billy's word.
-- 05:15 Told Tommy (asked who Billy is) that Billy leads the row and I have not yet seen him. Holding still.
-- 05:24 act: {"say":"Picard at the white bed 416,107,-1079, health 20, hunger 20, unarmed. Holding at the row until Billy names a route. I will sleep here at night.","actions":[{"do":"note","text":"Dusk, day 838 c
-- 05:28 act: {"actions":[{"do":"sleep"}]}
-- 05:30 act: {"say":"Dawn count: Picard, at the bed 416,107,-1079, health 20, hunger 20, unarmed. Holding for Billy's named call."}
-- 05:39 act: {"say":"Picard, at the bed in the row. Holding, unarmed, health 20, hunger 20. Waiting for Billy's named call."}
-- 05:39 act: {"actions":[{"do":"sleep"}]}
-- 05:41 act: {"actions":[{"do":"note","text":"Morning, day 839. Holding at the row by the white bed. Health 20, hunger 20, unarmed."}],"say":"Morning, Laforge. Picard here, at the white bed 416,107,-1079. Holding 
