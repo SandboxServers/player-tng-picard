@@ -24,3 +24,4 @@
 - 08:25 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}}]}
 - 08:26 act: {"actions":[{"do":"sleep"}]}
 - Day 848 night: sleep worked at the bed 415,107,-1079 (second try). Riker holds beside me, unarmed. Health 20, hunger 19, pack empty. Holding for Billy's named route.
+- 08:31 act: {"actions":[],"say":"Picard, at the white bed in the row. Health 20, hunger 19, unarmed. Still holding for Billy's named route."}
