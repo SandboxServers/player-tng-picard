@@ -7,3 +7,5 @@
 - 09:17 say: {"text":"Picard here, at the white bed in the row. Dusk now. Holding here, unarmed, and waiting for Billy's word."}
 - 09:21 act: {"actions":[{"do":"sleep"}],"say":"Picard going to sleep at the bed in the row. Holding here until Billy calls."}
 - Day 850 morning (waking 1170): slept at the bed; sleep worked, night skipped. Health 20, hunger 19, unarmed, pack empty. Still no word from Billy. Holding at the row.
+- 09:34 act: {"actions":[{"do":"sleep"}],"say":"Picard sleeping at the bed in the row. Nobody called; holding until Billy speaks."}
+- 09:34 act: {"actions":[{"do":"sleep"}]}
