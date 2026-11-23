@@ -27,3 +27,6 @@
 - 18:29 act: {"actions":[{"do":"sleep"}]}
 - 18:29 act: {"actions":[{"do":"sleep"}]}
 - 18:57 act: {"actions":[{"do":"sleep"}]}
+- 18:59 act: {"say":"Good morning. Picard at the row bed 416,107,-1079, health 20, hunger 19, unarmed. Holding for Billy's named word.","actions":[]}
+- 19:11 act: {"say":"Dusk, row. Picard sleeps at bed 415,107,-1079. Health 20, hunger 19, unarmed, no walk named. Billy, I hold for your morning word.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}}
+- 19:11 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard sleeps beside bed 415,107,-1079. Health 20, hunger 19, unarmed. Billy, I hold for your morning word."}
