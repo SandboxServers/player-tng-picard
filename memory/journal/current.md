@@ -16,3 +16,6 @@
 - 07:46 act: {"actions":[{"do":"note","text":"Day 846, morning. Still at the row beside the white bed, unarmed, hunger 19. Riker, Tommy and Laforge hold nearby. Billy has not called yet."}],"say":"Good morning, ro
 - 07:51 act: {"actions":[{"do":"note","text":"Day 846 morning: holding at the white bed with Riker in sight. Unarmed, no food, hunger 19, health 20. Waiting for Billy to name a route."}],"say":"Picard here at the 
 - 07:59 act: {"actions":[{"do":"note","text":"Night 846: going to bed at the white bed 415,107,-1079. Riker is holding in the row, unarmed. Hunger 19, health 20, pack empty."}]}
+- 08:00 act: {"say":"Picard here, at the white bed in the row. Health 20, hunger 19, unarmed and holding nothing. Holding here with you, Tommy. I will call Billy when hunger reaches 10."}
+- Day 847, clear. At white bed 416,107,-1079, health 20, hunger 19, unarmed. Tommy, Riker and Laforge hold in the row. Billy still silent. Waiting; call Billy at hunger 10.
+- 08:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Night has come. I am going to my white bed in the row, unarmed. Hunger 19, health 2
