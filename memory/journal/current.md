@@ -12,3 +12,6 @@
 - 16:40 act: {"say":"Good morning, row. Picard at bed 416,107,-1079, health 20, hunger 19, unarmed. Troi, I hold too. Billy, I wait for your named walk.","actions":[]}
 - Day 873 morning: slept at bed 415,107,-1079 through the night, health 20, hunger 19. Row holds: Tommy, Troi, Riker, Laforge. No walk named. Still holding, waiting on Billy.
 - 16:48 act: {"say":"Dusk, row. Picard sleeps at bed 415,107,-1079. Health 20, hunger 19, unarmed, no walk named. Billy, I hold for your morning word.","actions":[{"do":"sleep"}]}
+- 16:54 act: {"say":"Good morning, Troi. Picard at the row bed 415,107,-1079, health 20, hunger 19, unarmed. Holding for Billy's named word."}
+- 17:02 act: {"say":"Dusk, row. Picard sleeps at bed 415,107,-1079. Health 20, hunger 19, unarmed, no walk named. Billy, I hold for your morning word.","actions":[{"do":"sleep"}]}
+- 17:03 act: {"actions":[{"do":"sleep"}]}
