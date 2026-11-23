@@ -6,4 +6,6 @@ Standing at the row, 416,107,-1079, beside the beds. Health 20, hunger 20, pack 
 - Next: keep holding. Call Billy at hunger 10. Eat at 6 or below.
 - 00:41 act: {"say":"Picard at the white bed, 415,107,-1079. Health 20, hunger 20, holding nothing. Waiting for Billy's named word. Going to sleep here for the night."}
 - 00:50 say: {"text":"Picard here at the bed, day 825. Health 20, hunger 20, unarmed, pack empty. Holding until you name a move, Billy."}
+- Waking 1121, day 826 night: at bed 416,107,-1079. Health 20, hunger 20, unarmed, pack empty. Billy not in sight; no walk named. Holding; waiting.
+- Waited 240s more; dawn came, no one came near, nothing said. Still holding at the bed, health 20, hunger 20.
 - 01:12 say: {"text":"Picard at the bed 415,107,-1079. Health 20, hunger 20, unarmed, holding. Billy, I await your named word."}
