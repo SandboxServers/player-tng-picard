@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 840 was spent holding at the row beside the white bed 416,107,-1079. Health 20, hunger 20, pack empty, unarmed. I slept at the bed at night; days since sleep reset to 0.
+I am Jean-Luc Picard. Day 842 was spent at the white bed 416,107,-1079 in the row. Health 20, hunger 20, pack empty, unarmed. The sleep call returned with only 2 of 10 asleep, so the rest may not have been full; try the bed again next night.
 
-The row holds: Billy leads but has not come into sight. Tommy and Laforge hold at the row and give counts at dawn and dusk. Laforge names Beverly at 7.3 as the one to feed first; I do not know Beverly yet.
+The row holds: Billy leads but has not come into sight. Tommy holds at the row and gave the night count. Laforge names Beverly at 7.3 as the one to feed first; I do not know Beverly yet.
 
 Food: ripe potatoes at 463,107,-1073, east, behind the blocked route. Cows near 339,104,-979 and 434,106,-1113.
 
