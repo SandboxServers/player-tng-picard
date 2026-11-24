@@ -95,3 +95,7 @@
 - 23:49 act: {"actions":[{"do":"sleep"}]}
 - 00:18 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Night at the row. I am going to sleep in the bed beside me."}
 - 00:22 act: {"actions":[],"say":"Morning, row. Picard here by the bed at 416,107,-1079: health 20, hunger 19, pack empty, unarmed. Holding for Billy's named walk."}
+- 00:35 act: {"say":"Picard at the row bed 416,107,-1079, health 20, hunger 19, unarmed. Holding for Billy's named walk."}
+- 00:39 act: {"say":"Picard here at 416,107,-1079, health 20, unarmed. Pillagers at the row bed, Laforge. I hold my bed and will not walk out. Billy, your word?"}
+- 00:40 act: {"actions":[],"say":"Picard holding at my bed, health 20. Pillagers are at the row; I will not walk out. Billy, when you name a walk, I follow it."}
+- 00:44 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard holds at the bed beside 415,107,-1079, health 20, hunger 19, unarmed. Laforge, I keep you in sight. Billy, I hold for your word."}
