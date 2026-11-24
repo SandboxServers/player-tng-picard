@@ -22,3 +22,4 @@ Day 941, bright. Still at my bed in the row. Health 2.3, hunger 17, no food. Wor
 - 15:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard, night of day 942. Back into my bed in the row, in sight of Jason. No route named; holding till light."}
 - 15:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}]}
 - 15:54 act: {"actions":[{"do":"sleep"}]}
+- 16:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Picard, night of day 943. Going to my bed in the row, in sight of Billy and the oth
