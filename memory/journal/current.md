@@ -1,1 +1,32 @@
 # Journal
+- Day 920, dusk. Health 2.3, hunger 17, unarmed, pack empty. Slept at the row bed 415,107,-1065 with Laforge near.
+- Day 921 dawn. Still in the row, health 2.3, hunger 17. Worf will look past the north gap in daylight and has named no walk. I hold, unarmed, and wait for Billy or Worf's word.
+- Night slept again at the row bed; woke day 921 with health steady 2.3, hunger 17. Billy is at the gap 417,107,-1053 after a phantom hit him; no route named yet. Worf is surveying past the gap. I hold in the row, unarmed; hunger 17, above call point 10.
+- 08:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard, dusk. Holding in the row, unarmed, no food, hunger 17. Going to my bed; I will hold for Worf's daylight ca
+- 08:59 act: {"actions":[],"say":"Picard, morning. Health 2.3, hunger 17, unarmed, no food. Holding at my bed in the row with Worf and Zack. I wait for a named daylight route."}
+- 09:08 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard, dusk. Holding at my bed in the row, unarmed, no food, hunger 17. Going to sleep here."}
+- 09:12 act: {"actions":[{"do":"sleep"}]}
+- 09:24 act: {"actions":[{"do":"sleep"}],"say":"Picard, night, at my bed in the row. Billy, stay with Worf, away from the gap. I hold here, unarmed."}
+- 09:32 act: {"actions":[],"say":"Picard, dawn, day 923. Holding at my bed in the row, unarmed, health 2.3, hunger 17, no food. I wait for Worf's named daylight route."}
+- 09:45 act: {"actions":[{"do":"sleep"}],"say":"Picard, night, at my row bed. Holding, unarmed, no food, hunger 17. Billy and Worf, stay in the row."}
+- 10:00 act: {"actions":[{"do":"sleep"}],"say":"Picard, dusk, at my row bed. Holding, unarmed, hunger 17, no food. Sleeping here until first light."}
+- 10:16 act: {"actions":[{"do":"sleep"}],"say":"Picard, dusk, day 925. At my row bed 415,107,-1065, health 2.3, hunger 17, unarmed, no food. Holding in the row until Worf names a daylight route."}
+- 10:28 act: {"actions":[{"do":"sleep"}],"say":"Picard, night, day 926, at my row bed. Health 2.3, hunger 17, unarmed, no food. Holding in the row until Worf names a daylight route."}
+- 10:28 act: {"actions":[{"do":"sleep"}]}
+- Day 926 daylight, at my row bed 415,107,-1065. Health 2.33, hunger 17, unarmed, no food. Laforge in reach. Zack holds with Worf and Jason, no route named. I hold and keep waiting.
+- Day 927 night: slept at the row bed (second try worked). Day 927 morning, back at 415,107,-1065. Health 2.3, hunger 17, unarmed, no food. Tommy and Laforge in reach. No walk named yet; I hold.
+- 10:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard, night, day 927, at my row bed. Holding, unarmed, no food, hunger 17. Worf and Billy, stay in the row until
+- 10:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 10:45 act: {"actions":[{"do":"sleep"}]}
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"say":"Picard, morning, day 927. Health 2.3, hunger 17, no food, unarmed. Holding in the row. Worf, Riker, Zack, I will walk only on a r
+- 10:58 act: {"actions":[{"do":"sleep"}],"say":"Picard, dusk, day 927, at my row bed. Health 2.3, hunger 17, unarmed, no food. Sleeping here until first light."}
+- 10:58 act: {"actions":[{"do":"sleep"}]}
+- Sleep worked at the row bed 415,107,-1065 (dusk, day 927). Health 2.3, hunger 17, unarmed, no food. Laforge in reach. Holding in the row; no daylight route named yet.
+- Day 928: Worf says he is still walled in and names no walk. Billy, Jason, Laforge, Tommy hold in the row with no food. Slept at my row bed on the night of day 928 (second try worked). Health 2.3, hunger 17, unarmed.
+- 11:02 act: {"actions":[],"say":"Picard, day 927, morning. Health 2.3, hunger 17, unarmed, no food. Holding at my bed in the row. Worf, Billy, Zack: I will walk only on a daylight route you name."}
+- 11:14 act: {"actions":[{"do":"sleep"}],"say":"Picard, night, day 928, at my row bed 415,107,-1065. Health 2.3, hunger 17, unarmed, no food. Holding in the row until a daylight route is named."}
+- 11:14 act: {"actions":[{"do":"sleep"}]}
+- 11:26 act: {"actions":[{"do":"sleep"}],"say":"Picard, dusk, day 929, at my row bed. No food in my pack, health 2.3, hunger 17. Worf, thank you. I hold in the row until food or a named daylight route comes."}
+- 11:30 act: {"actions":[{"do":"sleep"}],"say":"Picard, night, day 929, at my row bed. Health 2.3, hunger 17, unarmed, no food. Holding in the row."}
+- 11:30 act: {"actions":[{"do":"sleep"}]}
+- Day 929 night: sleep worked at the row bed (9 of 10, then a clean sleep). Health 2.3, hunger 17, unarmed, no food. Holding in the row; no daylight route named yet.

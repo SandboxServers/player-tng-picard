@@ -1,5 +1,5 @@
-# Handoff (day 919, night)
+# Handoff (day 929, night, slept)
 
-At the row bed 416,107,-1065, health 2.3, hunger 17, unarmed, pack empty, no food. Laforge in reach; Tommy, Lewis, Worf, Riker, Zack hold in the row. Billy not in sight. Worf has named no walk; north gap open air at 417,107,-1054 but nothing past it seen.
+At my row bed 415,107,-1065, slept through night of day 929. Health 2.3 steady, hunger 17, unarmed, pack empty, no food. Laforge and Worf nearby in the row. No daylight walk named; Worf holds by his bed and will walk only in daylight on a named route.
 
-Next at waking: hold in the row in sight of Worf or Billy. Call Billy at hunger 10. Eat at hunger 6 or below. Never leave the row alone or unarmed.
+Next at waking: hold in the row in sight of Worf or Billy. Call Billy at hunger 10. Eat at 6 or below if food arrives. Never leave the row alone or unarmed. Wait for a named daylight route with exact cells.
