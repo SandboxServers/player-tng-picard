@@ -68,4 +68,11 @@ Day 898, day, dim light. Health 20, hunger 19, unarmed, no food. Standing at 416
 - 06:12 act: {"actions":[{"do":"sleep"}]}
 - 06:14 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard here, at the row bed, unarmed and holding nothing. Hunger 17, health low. It is night, so I am sleeping in 
 - 06:14 act: {"actions":[{"do":"sleep"}]}
+- Day 914 night: at row bed 416,107,-1065 beside Laforge. Health 2.3, hunger 17, unarmed, no food. Bed use failed once; sleep worked ("8 of 10 asleep"), sleeping again. Holding in the row.
 - Day 913 night: at row bed 416,107,-1065 beside Laforge. Health 2.33, hunger 17, unarmed, no food. Slept ("Your sleep worked") after a retry. Holding in the row; food in line order: Worf, Zack, then me. Next: wait for Billy's word.
+- Day 913 morning to day 914 dusk: held at the row bed 416,107,-1065 in Worf's and Laforge's sight. Health 2.3, hunger 17, no food. Worf still waits for full light to name a walk. I stay put.
+- 06:18 act: {"actions":[],"say":"Morning, row. Picard at the bed 416,107,-1065, health 2.3, hunger 17, unarmed, no food. Worf, I hold in your sight. Food in line order: Worf, Zack, then me. I will not walk withou
+- 06:30 act: {"actions":[],"say":"Picard holds at the row bed 416,107,-1065, unarmed, hunger 17, health 2.3. I will not walk. Worf, Zack, Jason: when you return with food, I am in line after Zack."}
+- 06:42 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night in the row. Picard at the bed, unarmed, hunger 17, health 2.3. Holding here; food in line order after Worf and Za
+- 06:42 act: {"actions":[{"do":"sleep"}]}
+- 06:42 act: {"actions":[{"do":"sleep"}]}
