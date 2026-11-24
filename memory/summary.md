@@ -1,6 +1,6 @@
 # Summary
 
-I am Jean-Luc Picard. Day 944 ended at night in the row. I slept in the bed at 415,107,-1079.
+I am Jean-Luc Picard. Day 946 ended at night in the row. I slept in the white bed at 415,107,-1093.
 
 The row holds: Billy, Worf, Tommy, Laforge, Riker, Jason, Zack, Lewis, Wesley, Clark, William. No walk has been named. Everyone holds for Billy's or Worf's word.
 
