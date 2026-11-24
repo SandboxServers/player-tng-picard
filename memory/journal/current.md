@@ -93,3 +93,5 @@
 - 23:49 act: {"actions":[{"do":"sleep"}]}
 - 23:49 act: {"actions":[{"do":"sleep"}]}
 - 23:49 act: {"actions":[{"do":"sleep"}]}
+- 00:18 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Night at the row. I am going to sleep in the bed beside me."}
+- 00:22 act: {"actions":[],"say":"Morning, row. Picard here by the bed at 416,107,-1079: health 20, hunger 19, pack empty, unarmed. Holding for Billy's named walk."}
