@@ -1,6 +1,6 @@
 # Summary
 
-I am Jean-Luc Picard. Day 952 ended at night in the row, beside the white bed at 415,107,-1079. I slept with the sleep verb; days_since_sleep is 0.
+I am Jean-Luc Picard. Day 953 ended at dusk in the row, beside the white bed at 415,107,-1079. I slept with the sleep verb; days_since_sleep is 0.
 
 The row holds: Billy, Worf, Tommy, Laforge, Riker, Jason, Zack, Lewis, Wesley, William (Clark). Everyone holds for Billy's or Worf's word. No walk has been named.
 
