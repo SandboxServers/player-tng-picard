@@ -66,3 +66,6 @@ Day 898, day, dim light. Health 20, hunger 19, unarmed, no food. Standing at 416
 - 06:04 say: {"text":"Picard, at the row bed, unarmed, hunger 17. I am not on the north-east walk. I hold here; food in line order after Worf and Zack."}
 - 06:12 act: {"actions":[{"do":"sleep"}]}
 - 06:12 act: {"actions":[{"do":"sleep"}]}
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard here, at the row bed, unarmed and holding nothing. Hunger 17, health low. It is night, so I am sleeping in 
+- 06:14 act: {"actions":[{"do":"sleep"}]}
+- Day 913 night: at row bed 416,107,-1065 beside Laforge. Health 2.33, hunger 17, unarmed, no food. Slept ("Your sleep worked") after a retry. Holding in the row; food in line order: Worf, Zack, then me. Next: wait for Billy's word.
