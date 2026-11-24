@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 950 ended at night in the row, beside the white bed at 415,107,-1079. Sleep worked there after Tommy and William told me beds are used at night, so days_since_sleep is 0.
+I am Jean-Luc Picard. Day 951 ended at night in the row, beside the white bed at 415,107,-1079. I slept there and days_since_sleep is 0.
 
-The row holds: Billy, Worf, Tommy, Laforge, Riker, Jason, Zack, Lewis, Wesley, Clark (William), Beverly's potatoes are with her. No walk has been named. Everyone holds for Billy's or Worf's word.
+The row holds: Billy, Worf, Tommy, Laforge, Riker, Jason, Zack, Lewis, Wesley, Clark (William). Everyone holds for Billy's or Worf's word. No walk has been named.
 
 Health 2.3 steady, hunger 17, unarmed, pack empty, no food.
 
