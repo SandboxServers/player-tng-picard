@@ -84,3 +84,6 @@ Day 898, day, dim light. Health 20, hunger 19, unarmed, no food. Standing at 416
 - 06:57 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
 - Day 915 night: at row bed 416,107,-1065. Bed use failed ("that block is a bed"); the sleep verb worked and days_since_sleep is 0. Health 2.33, hunger 17, unarmed, pack empty, no food. Holding in the row. Walks only by Worf's named daylight route, armed, in sight. Next: at waking, hold; call Billy at hunger 10; eat at 6.
 - 06:58 say: {"text":"Morning, row. Picard at my bed, health 2, hunger 17, unarmed. Holding here; no walk without Billy's named route and armed escort."}
+- 07:07 act: {"say":"Picard here, at the row, unarmed and holding. Worf, I hear you. I will wait for Billy's word or a route you name, and I will not walk alone."}
+- 07:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 07:11 act: {"actions":[{"do":"sleep"}]}
