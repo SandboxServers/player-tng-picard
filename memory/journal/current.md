@@ -4,3 +4,5 @@ Next at waking: stay in the row. Call Billy at hunger 10 (now 17). Eat at hunger
 - 07:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard here, at the row bed, unarmed, holding. Sleeping for the night; no walk in the dark."}
 - 07:28 act: {"actions":[{"do":"sleep"}]}
 - 07:29 say: {"text":"Picard here, health 2, unarmed, no food. Holding at the row bed 415,107,-1065. Lewis, you are welcome here in sight. Billy, do you have food or a route?"}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard here, at the bed beside the row, health 2.3, unarmed. Laforge, stay close. Billy, where are you?"}
+- 07:44 act: {"actions":[{"do":"sleep"}]}
