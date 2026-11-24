@@ -99,3 +99,4 @@
 - 00:39 act: {"say":"Picard here at 416,107,-1079, health 20, unarmed. Pillagers at the row bed, Laforge. I hold my bed and will not walk out. Billy, your word?"}
 - 00:40 act: {"actions":[],"say":"Picard holding at my bed, health 20. Pillagers are at the row; I will not walk out. Billy, when you name a walk, I follow it."}
 - 00:44 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Picard holds at the bed beside 415,107,-1079, health 20, hunger 19, unarmed. Laforge, I keep you in sight. Billy, I hold for your word."}
+- 00:45 act: {"say":"Good day, Laforge. Picard here, holding at the row. Have you seen where the pillagers came from, or heard Billy name a route?"}
