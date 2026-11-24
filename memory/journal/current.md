@@ -3,3 +3,66 @@
 Day 898, day, dim light. Health 20, hunger 19, unarmed, no food. Standing at 416,107,-1079 beside Laforge, at the row. No word from Billy, no walk named. Held still and waited; nothing new came. Next: keep holding, call Billy at hunger 10.
 - 01:24 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Billy, I am at the row bed for the night. Holding here, unarmed, not leaving."}
 - 01:25 act: {"actions":[{"do":"sleep"}]}
+- 01:27 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1086}}],"say":"A pillager is shooting from the south. I am unarmed. Billy, where are you?","reasoning":"Hostile pillager 6 blocks south is shoot
+- 01:27 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1078}}],"reasoning":"Health 9, pillager adjacent east and attacking. I have no weapon. Run north-west away from it toward the row interior."}
+- 01:27 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1078}}],"say":"Pillager is chasing me, health 5. Running west.","reasoning":"Health 5 and falling under pillager fire. Keep putting distance and
+- 01:27 act: {"actions":[{"do":"goto","target":{"x":398,"y":107,"z":-1062}}],"reasoning":"Health 1. Only chance is breaking line of sight and distance. Move west-south-west, away from the pillager to the north-eas
+- 01:27 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1052}}],"say":"Picard here, health 1, hunger 17, pack empty, unarmed. A pillager shot me down near 416,107,-1073. I am heading to Worf and Jason
+- 01:30 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}}],"say":"Pillager south of the row is shooting at the bed. Laforge, Riker, Tommy: I am on the bed and unarmed. Please hold; I will not wal
+- 01:30 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1083}}],"reasoning":"Still under fire from the pillager 7 blocks south. Move north-east out of its line of fire, behind the row's sign walls."}
+- 01:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1094}}],"reasoning":"Pillager is closing from the south-east at 3 blocks and I have no weapon. Run north, away from it."}
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1097}}],"reasoning":"Pillager follows me 4 blocks east and keeps shooting. Health 6. Keep running west, out of its line."}
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1090}}],"say":"Pillager at my east, health 2. Moving west to the row beds.","reasoning":"Health 2.3 with a crossbow pillager 1.3 blocks away. I 
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1062}}],"say":"Health 2, unarmed, pillager north of me between me and the beds. I am going west out of its line.","reasoning":"Pillager is 4.8 b
+- 01:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1063}}],"say":"Tommy, the pillager is out of sight now. I am at health 2 and hunger 17. Is anyone near with food?","reasoning":"The pillager is 
+- 01:34 act: {"actions":[],"say":"Billy, I am at the west beds, health 2, hunger 17, unarmed. I need food when you are safe to give it.","reasoning":"Tommy says Billy holds the food. I stay put out of the pillager
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1063}}],"reasoning":"Dusk is coming. I have health 2 and no food. Move to the west bed next to me and get ready to sleep out of the line of fire
+- 01:38 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, and I am beside a white bed. Try to sleep; if it says not night, I will wait."}
+- 01:38 act: {"actions":[{"do":"sleep"}],"reasoning":"Two of ten asleep. Per my notes, try sleep again."}
+- 01:50 act: {"actions":[{"do":"note","text":"Day 900, bright, at the west beds. Health 2.3, hunger 17, unarmed. Holding here with Tommy. Calling Billy for food."}],"say":"Billy, I am starving and have no food. Pl
+- 01:54 act: {"actions":[{"do":"sleep"}]}
+- 01:58 act: {"actions":[{"do":"note","text":"Morning day 900 at row bed 416,107,-1065. Health 2.3, hunger 17, no food. Asking the row for food; Worf and Leonardo have potato line."}],"say":"Morning. Picard at the
+- 02:02 act: {"actions":[{"do":"note","text":"Leonardo's potato goes to Worf's line first; I wait my turn at the row bed 416,107,-1065."}],"say":"Leonardo, Worf first is fair. If any potato or bread is left after 
+- 02:06 act: {"actions":[{"do":"sleep"}]}
+- 02:06 act: {"actions":[{"do":"sleep"}]}
+- 02:07 act: {"actions":[{"do":"note","text":"Day 901 night: slept at row bed 416,107,-1065. Woke with health 2.3, hunger 17, no food. Staying in the row, unarmed."}],"say":"Morning. I am still hungry and have no 
+- 02:11 act: {"actions":[],"say":"Leonardo, Worf first with the potato, that is right. If any is left after him, I am next. I am staying here in the row."}
+- 02:23 act: {"actions":[{"do":"sleep"}]}
+- 02:27 act: {"actions":[],"say":"Morning of day 902. Picard at the row bed, health 2, hunger 17, pack empty. I am behind Worf and Zack in the line for food. I stay here."}
+- 02:35 act: {"actions":[{"do":"sleep"}]}
+- 02:35 act: {"actions":[{"do":"sleep"}]}
+- 02:39 act: {"actions":[],"say":"Picard at the row bed, health 2.3, hunger 17, pack empty. Still in line behind Worf and Zack for food. I stay in the row."}
+- 02:47 act: {"actions":[{"do":"sleep"}]}
+- 02:47 act: {"actions":[{"do":"sleep"}]}
+- 03:04 act: {"actions":[{"do":"sleep"}]}
+- 03:08 act: {"actions":[{"do":"note","text":"Day 904 morning. Health 2.3, hunger 17, pack empty. At row bed 416,107,-1065. Holding in the row; Worf is first for the potato, then Zack, then me."}],"say":"Picard he
+- 03:16 act: {"actions":[{"do":"sleep"}]}
+- 03:20 act: {"actions":[{"do":"sleep"}]}
+- 03:24 act: {"actions":[{"do":"note","text":"Day 905 morning. Slept at row bed. Health 2.3, hunger 17, no food yet. Holding in the row; potato still with Leonardo, not yet at Worf."}]}
+- 03:28 act: {"actions":[],"say":"Picard, day 905, health 2.3, hunger 17, pack empty, at the row bed. Leonardo, I am holding here for the potato after Worf and Zack. I will not move."}
+- 03:37 act: {"actions":[{"do":"sleep"}]}
+- 03:49 act: {"actions":[{"do":"sleep"}]}
+- 03:49 act: {"actions":[{"do":"sleep"}]}
+- 04:05 act: {"actions":[{"do":"sleep"}],"say":"Night. I am at the row bed and will sleep here. Food in line order when morning comes: Worf, then me, then Zack."}
+- 04:05 act: {"actions":[{"do":"sleep"}]}
+- 04:09 act: {"actions":[],"say":"Morning, row. Picard here, health 2.3, hunger 17, unarmed, no food. Leonardo, give the potato to Worf first. I am after Worf and Zack. I stay at this bed."}
+- 04:21 act: {"actions":[{"do":"sleep"}]}
+- 04:21 act: {"actions":[{"do":"sleep"}]}
+- 04:34 act: {"actions":[{"do":"note","text":"Day 908 morning, row bed 416,107,-1065. Health 2.3, hunger 17, no food, unarmed. Staying in the row, waiting for the potato in line order."}],"say":"Picard here at the
+- 04:38 act: {"actions":[],"say":"Billy, Picard in the row, hunger 17, health 2.3. After Worf and Zack, one potato for me when you are in my sight. I stay at the bed."}
+- 04:42 act: {"actions":[{"do":"sleep"}]}
+- 04:43 act: {"actions":[{"do":"sleep"}]}
+- 04:47 act: {"actions":[],"say":"Worf, Zack, Billy, Picard holds at the row bed. I am unarmed and will not walk the 45 blocks. If you bring a potato back to the row, I take one in line after Zack."}
+- 04:55 act: {"actions":[{"do":"sleep"}]}
+- 04:55 act: {"actions":[{"do":"sleep"}]}
+- 04:55 act: {"actions":[{"do":"note","text":"Day 909 night: slept at row bed, health 2.3, hunger 17, unarmed. Staying in the row; waiting for morning and food in line order."}]}
+- 04:59 act: {"actions":[{"do":"note","text":"Day 909 morning, in the row at the bed. Hunger 17, no food. Waiting my turn in line for food: Worf, Zack first."}],"say":"Picard, at the row bed, unarmed, no food, hun
+- 05:23 act: {"actions":[{"do":"sleep"}]}
+- 05:23 act: {"actions":[{"do":"sleep"}]}
+- 05:24 act: {"actions":[{"do":"note","text":"Day 910 night: slept at row bed on retry. Health 2.33, hunger 17, no food. Staying in the row."}]}
+- 05:28 act: {"actions":[],"say":"Good morning, row. Picard here, health 2.3, hunger 17, unarmed, no food. I hold at the bed and take food only in line order: Worf, Zack, then me."}
+- 05:40 act: {"actions":[{"do":"sleep"}]}
+- 05:40 act: {"actions":[{"do":"sleep"}]}
+- 06:04 say: {"text":"Picard, at the row bed, unarmed, hunger 17. I am not on the north-east walk. I hold here; food in line order after Worf and Zack."}
+- 06:12 act: {"actions":[{"do":"sleep"}]}
+- 06:12 act: {"actions":[{"do":"sleep"}]}
