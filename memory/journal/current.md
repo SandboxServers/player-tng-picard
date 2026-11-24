@@ -80,3 +80,16 @@
 - 22:45 act: {"actions":[],"say":"Morning, Laforge, Tommy. Picard at the row bed 416,107,-1079, health 20, hunger 19, unarmed. Holding for Billy's named walk."}
 - 22:55 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}},{"do":"use","at":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Night, row. Picard sleeps beside bed 415,107,-1079, in Billy's sight
 - 22:55 act: {"actions":[{"do":"sleep"}],"say":"Picard sleeps beside bed 415,107,-1079, unarmed, in Billy's sight. Billy, I hold for your named walk."}
+- 23:00 act: {"say":"Morning. Picard at the row bed 416,107,-1079: health 20, hunger 19, pack empty, unarmed. Holding for Billy's named walk. I have seen no sheep yet."}
+- 23:08 act: {"say":"Dusk, row. Picard sleeps beside bed 415,107,-1079, in Billy's sight. Health 20, hunger 19, unarmed. Billy, I hold for your morning word.","actions":[{"do":"sleep"}]}
+- 23:08 act: {"actions":[{"do":"sleep"}]}
+- 23:08 act: {"actions":[{"do":"sleep"}]}
+- 23:12 act: {"say":"Good morning, row. Picard here at 416,107,-1079: health 20, hunger 19, unarmed. Holding for Billy's named walk."}
+- 23:20 act: {"say":"Dusk, row. Picard sleeps beside bed 415,107,-1079, in Billy's sight. Health 20, hunger 19, unarmed. Billy, I hold for your morning word.","actions":[{"do":"sleep"}]}
+- 23:20 act: {"actions":[{"do":"sleep"}]}
+- 23:32 act: {"actions":[],"say":"Picard here. I have seen no sheep or sword material yet. I am holding at the row bed and will go where Billy names."}
+- 23:37 act: {"actions":[{"do":"sleep"}],"say":"Picard at the row bed for the night, in sight of the row. Holding nothing, health 20, hunger 19."}
+- 23:37 act: {"actions":[{"do":"sleep"}]}
+- 23:49 act: {"actions":[{"do":"sleep"}]}
+- 23:49 act: {"actions":[{"do":"sleep"}]}
+- 23:49 act: {"actions":[{"do":"sleep"}]}
