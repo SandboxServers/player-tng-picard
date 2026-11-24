@@ -77,3 +77,6 @@ Day 898, day, dim light. Health 20, hunger 19, unarmed, no food. Standing at 416
 - 06:42 act: {"actions":[{"do":"sleep"}]}
 - 06:42 act: {"actions":[{"do":"sleep"}]}
 - 06:47 say: {"text":"Picard here at the row, health 2.3, hunger 17, unarmed, no food. I hold at the bed and will follow Worf's named route only in his sight, armed."}
+- 06:55 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk in the row. Picard at my bed, unarmed, hunger 17, health 2.3. No walk tonight; I sleep here in the row's sight."}
+- 06:55 act: {"actions":[{"do":"sleep"}]}
+- 06:55 act: {"actions":[{"do":"sleep"}]}
