@@ -22,4 +22,6 @@ Day 941, bright. Still at my bed in the row. Health 2.3, hunger 17, no food. Wor
 - 15:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Picard, night of day 942. Back into my bed in the row, in sight of Jason. No route named; holding till light."}
 - 15:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}]}
 - 15:54 act: {"actions":[{"do":"sleep"}]}
+- Day 943 waking: at bed 416,107,-1079 in the row. Health 2.3 steady, hunger 17, unarmed, no food. Clark, Laforge, Tommy report holding; no walk named. Holding, waiting for Worf's daylight route and Billy's word.
 - 16:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Picard, night of day 943. Going to my bed in the row, in sight of Billy and the oth
+- 16:12 say: {"text":"Picard, day 943, at my bed in the row. Health 2.3, hunger 17, unarmed, no food. Holding. I walk only on a route Billy or Worf names, armed and in sight."}
