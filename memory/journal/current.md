@@ -6,3 +6,4 @@
 - Waking 1317: woke at north bed 416,107,-1093, hunger 17, health 17.3, unarmed, no food. Said for food again. No reply yet; Clark sleeping nearby. Holding at the row; no walk.
 - 05:56 act: {"say":"Billy, Worf: Picard here at the north bed. Hunger 17, pack empty, no food. Is anyone able to spare food, or name a route to the potatoes with an armed escort?"}
 - Waking 1318: day 984, north bed 416,107,-1093, health 17.3 steady, hunger 17, no food. Said for food to Billy and Worf. Holding at the row; no walk without a named route and escort.
+- 06:08 act: {"actions":[{"do":"note","text":"Morning, day 985. At north bed 416,107,-1093. Health 17.3 steady, hunger 17, unarmed, pack empty. Holding, no walk named."}],"say":"William Riker... no: Picard here, a
