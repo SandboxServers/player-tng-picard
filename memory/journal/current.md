@@ -2,4 +2,7 @@
 - 02:57 act: note: Night 975, north bed 415,107,-1093. Health 17.3, hunger 17, no food, unarmed. Nobody in sight.
 - 03:02 act: note: Dawn, day 975. Still hunger 17, no food. Clark (William) holds beside me. No reply from Billy or Worf yet.
 - 03:19 act: said to Billy and Worf: hunger 17, no food, asked for bread or potato or a named armed route to the potatoes at 463,107,-1073.
-- day 976: status, wait. Health 17.3 steady, hunger 17, nobody in sight. Holding at the north bed. Waiting for Billy or Worf.
+- day 976: status, wait. Health 17.3 steady, hunger 17, nobody in sight. Holding at the north bed.
+- day 977: waited four times (240s each). Still no reply, no one near, no route named, no food. Hunger stays 17, health steady. Not walking alone. Holding.
+- 03:38 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at the north bed. Billy, Worf, if you come, I am here with hunger 17 and no food."}
+- 03:38 act: {"actions":[{"do":"sleep"}]}
