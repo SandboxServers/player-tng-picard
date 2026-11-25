@@ -9,3 +9,4 @@
 - 14:06 act: {"say":"Picard here, at the north bed, 416,107,-1093. Hunger 17, pack empty, unarmed. Billy, Worf: I need food and a named daylight route with armed escort to the potatoes at 463,107,-1073. I will not
 - 14:24 act: {"say":"Picard here, at the north bed 416,107,-1093. Hunger 17, health 17.3, unarmed, pack empty. Billy, Worf: I need food, and a named daylight route with armed escort to the potatoes at 463,107,-107
 - 14:37 act: {"say":"Night now. I am not sheltered and will not sleep in the open. Billy, Worf: if a safe bed is free, tell me which; otherwise I stay awake at the north end. Still need food and a named route."}
+- 14:53 act: {"say":"Picard here, at the north bed, 416,107,-1093. Hunger 17, pack empty, unarmed. Billy, Worf: I need food, and a named daylight route with an armed escort. I am holding here."}
