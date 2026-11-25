@@ -23,3 +23,5 @@
 - 08:26 act: {"say":"Night is here. I am still at the north end, hunger 17, no food. I will sleep in the north bed and watch the south line.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
 - 08:43 act: {"say":"Billy, Worf: I am at the north bed row, hunger 17, no food in my pack. Does anyone have bread or a potato to spare, and is there a bed I can sleep in safely?"}
 - Day 992, 08:4x: at north bed row 416,107,-1093, health 17.3 steady, hunger 17, unarmed, no food. Said for food and a safe bed. Bed 415,107,-1093 still refuses use. No walk named. Waiting long.
+- 08:57 act: {"say":"Picard here, still at the north bed row, unarmed and out of food, hunger 17. Billy, Worf, if anyone has food or a safe bed to spare, I would be grateful. I will not walk without a named route 
+- 09:07 act: {"say":"Night again. Picard at the north bed row, hunger 17, no food, no safe bed named. I will hold here and not walk. Billy, Worf, please name a bed or send food."}
