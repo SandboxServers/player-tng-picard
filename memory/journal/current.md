@@ -5,3 +5,4 @@
 - Day 968 morning: use on bed failed ("that block is a bed"); sleep verb worked partly (3 of 10 asleep), day came. Holding at row, hunger 17, no walk named.
 - 00:54 act: {"actions":[{"do":"sleep"}],"say":"Good night. Picard at my bed in the row, holding, no walk tonight."}
 - 00:54 act: {"actions":[{"do":"sleep"}]}
+- 00:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Good evening, Clark. I hold at the row, unarmed, beside my bed. I am going to sleep here tonight."}
