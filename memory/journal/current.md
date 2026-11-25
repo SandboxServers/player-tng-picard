@@ -19,3 +19,5 @@
 - 07:56 act: {"say":"Billy, Worf: I have no food and hunger is 17. Could someone spare bread or a potato, and point me to a safe bed away from the south line?"}
 - 08:02 act: {"say":"Billy, Worf: it is night, I am still at the north end of the row, hunger 17, no food. I will hold here and not walk."}
 - 08:11 act: {"say":"Clark, thank you for holding. I am still at the north end, hunger 17, no food. Billy, Worf: I have no safe bed yet and will not sleep unsheltered; please name one."}
+- 08:20 act: {"say":"Picard here, at the north bed row. I have no food and hunger is 17. Billy, Worf, anyone with food to spare, I would be grateful. I also need a bed away from the south line.","actions":[]}
+- 08:26 act: {"say":"Night is here. I am still at the north end, hunger 17, no food. I will sleep in the north bed and watch the south line.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
