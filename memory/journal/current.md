@@ -27,3 +27,5 @@
 - 09:07 act: {"say":"Night again. Picard at the north bed row, hunger 17, no food, no safe bed named. I will hold here and not walk. Billy, Worf, please name a bed or send food."}
 - 09:20 act: {"say":"Picard here, at the north bed row, 416,107,-1093. Hunger 17, no food in my pack. Billy, Worf, anyone near with food or a safe bed to lend? I will hold here and not walk."}
 - 09:28 act: {"say":"Good morning, William. Picard here, still at the north bed, hunger 17, no food. Billy, Worf: a named route with an armed escort, or food, whenever you are able."}
+- 09:41 act: {"say":"Picard here, at the north bed row. Hunger 17, no food, unarmed. Billy, Worf: I need food and a named route with an escort. Anyone with bread or potatoes, I would be grateful.
+- Day 996: at north bed 416,107,-1093, health 17.3 steady, hunger 17, no food, nobody near but Clark (holding). Said for food again. Walking alone forbidden by my goals. Waiting for Billy or Worf."}
