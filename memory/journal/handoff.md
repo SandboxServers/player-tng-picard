@@ -2,7 +2,7 @@
 
 At the north bed, 416,107,-1093, not enclosed. Health 17.3 steady, hunger 17, unarmed, pack empty, no food.
 
-Called Billy and Worf several times (day 1019 and 1020). No reply. William holds at his bed (416,107,-1079) with no food either.
+Called Billy and Worf again this morning; no reply. Clark (William) answered he is holding at his bed (416,107,-1079), also with no food.
 
 No errand running. No walk. No intent set.
 
