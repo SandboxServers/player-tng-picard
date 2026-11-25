@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 1021 ended at the north bed, 416,107,-1093, not enclosed.
+I am Jean-Luc Picard. Day 1022 ended with a sleep at the north bed, 416,107,-1093, not enclosed.
 
-The row holds: Billy, Worf, Tommy, Riker, Jason, Zack, Lewis, Wesley, Laforge (dead), and Clark/William. Everyone holds for Billy's or Worf's word. Billy and Worf have not answered my calls on days 1019 to 1021.
+The row holds: Billy, Worf, Tommy, Riker, Jason, Zack, Lewis, Wesley, Laforge (dead), and Clark/William. Everyone holds for Billy's or Worf's word. Billy and Worf have not answered my calls on days 1019 to 1022.
 
 Health 17.3 steady, hunger 17, unarmed, pack empty, no food.
 
