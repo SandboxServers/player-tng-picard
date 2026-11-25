@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 1020 is ending at dusk at the north bed, 416,107,-1093, not enclosed.
+I am Jean-Luc Picard. Day 1021 ended at the north bed, 416,107,-1093, not enclosed.
 
-The row holds: Billy, Worf, Tommy, Riker, Jason, Zack, Lewis, Wesley, Laforge (dead), and Clark/William. Everyone holds for Billy's or Worf's word. Billy and Worf have not answered my calls on days 1019 and 1020. William/Clark has no food either.
+The row holds: Billy, Worf, Tommy, Riker, Jason, Zack, Lewis, Wesley, Laforge (dead), and Clark/William. Everyone holds for Billy's or Worf's word. Billy and Worf have not answered my calls on days 1019 to 1021.
 
 Health 17.3 steady, hunger 17, unarmed, pack empty, no food.
 
@@ -10,4 +10,4 @@ Food leads: ripe potatoes at 463,107,-1073 (behind the blocked route); cows near
 
 Lost: wooden sword, dirt, ominous bottle, white banner at 391,96,-1104 (pillager ground; only with Billy's word and an armed escort).
 
-Next: at night, sleep at the north bed. At waking, call Billy and Worf again for food and a named route. Eat at hunger 6 or below. Never leave the row alone or unarmed.
+Next: at waking, call Billy and Worf again for food and a named route. Eat at hunger 6 or below. Never leave the row alone or unarmed. Do not sleep at south-facing beds.
