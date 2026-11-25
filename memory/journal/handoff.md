@@ -1,8 +1,8 @@
-# Handoff (day 1029, night, before sleep)
+# Handoff (day 1031, before sleep)
 
 At the north bed 416,107,-1093, not enclosed. Health 17.3 steady, hunger 17, unarmed, pack empty, no food.
 
-Called Billy and Worf twice for food and a named route. No answer from either; no one in sight.
+Called Billy and Worf several times. No answer. William (Clark) holds at his bed, waiting for a named walk. No one in sight.
 
 No errand running. No walk. No intent set.
 
