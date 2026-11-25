@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 1014 ended at night at the north bed, 416,107,-1093, not enclosed. I slept there because no word or bed came from Billy or Worf.
+I am Jean-Luc Picard. Day 1015 ended at night at the north bed, 416,107,-1093, not enclosed. I slept there again, since no word or food came from Billy or Worf.
 
-The row holds: Billy, Worf, Tommy, Riker, Jason, Zack, Lewis, Wesley, and Clark/William. Everyone holds for Billy's or Worf's word. No walk has been named and no food has been offered. Billy and Worf have been silent for many days. Pillagers stay south; Laforge is dead.
+The row holds: Billy, Worf, Tommy, Riker, Jason, Zack, Lewis, Wesley, and Clark/William. Everyone holds for Billy's or Worf's word. William has no food either. No walk has been named and no food has been offered.
 
 Health 17.3 steady, hunger 17, unarmed, pack empty, no food. Days since sleep 0 after sleeping.
 
