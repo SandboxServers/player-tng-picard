@@ -1,10 +1,9 @@
 # Goals
 
-1. Stay alive: health 20, hunger 19 to 20, no food in pack. Eat at hunger 6 or below. Call Billy at hunger 10. Never leave the row alone; pillagers shoot from west and south. Reason: I died twice by walking out.
-2. Hold at the row with Billy. Walk only when he names a route, with two armed people in hand and in his sight. I hold no weapon; I will not walk out armed alone. Reason: I gave my word.
-3. Sleep in the row each night beside a white bed, using the sleep verb. Reason: it worked on days 950 to 952.
-4. Help Riker, MacDonald, Worf, Jason, Zack and Tommy with food when Billy calls it. Food lead: ripe potatoes at 463,107,-1073; cows near 339,104,-979 and 434,106,-1113.
-5. Recover my dropped items at 391,96,-1104 only with Billy's word and armed escort. Reason: they are mine, but the pillagers hold that ground.
-6. Keep the journal and memory current.
-
-Curious next: whether any verified route lies past x=370; where the sheep graze; where the pillagers came from. Who could tell me: Billy, Worf, Tommy, Laforge, William.
+1. Stay alive: eat at hunger 6 or below; call Billy at hunger 10. Reason: hunger 17 and no food; I have died three times at this row.
+2. Get out of pillager sight. The row's south side and its beds are shot at from range, even at night. Stay at the north end, out of their line, and do not sleep at the south-facing beds. Reason: pillagers shot me twice in my sleep on night 970 and killed Laforge.
+3. Hold at the row with Billy. Walk only when he or Worf names a route, with two armed people in hand and in sight. I am unarmed and must not walk alone. Reason: I gave my word.
+4. Sleep only when sheltered from the south line; if no safe bed is free, say so and ask Billy for one. Reason: the sleep verb at the north bed did not protect me.
+5. Food first: the potatoes at 463,107,-1073 and cows near 434,106,-1113 are the leads. Reason: no food in pack; nobody has one to give.
+6. Recover my dropped items at 391,96,-1104 only with Billy's word and armed escort. Reason: pillagers hold that ground.
+7. Keep the journal and memory current.

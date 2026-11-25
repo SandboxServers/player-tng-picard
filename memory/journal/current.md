@@ -8,4 +8,5 @@
 - 01:08 act: {"actions":[{"do":"sleep"}]}
 - Night 970: slept at the north bed. Pillagers shot me twice during sleep; I died and woke at spawn with nothing. Woke at 416,107,-1092, health 17, hunger 17, unarmed, pack empty. Holding; no walk. Lesson: sleep is not safe at the row's south-facing beds.
 - 01:08 act: {"say":"Picard awake at the northmost bed, 416,107,-1092. Health 17, hunger 17, unarmed, pack empty. No walk. Holding until Billy or Worf names a daylight route."}
+- Day 971 dawn: still at north bed 416,107,-1093, health 17, hunger 17, unarmed, no walk named, nobody in sight. Holding.
 - 01:12 act: {"say":"Daylight. Picard at the north bed, health 17, hunger 17, unarmed, no food. I will not walk alone. Billy or Worf, name a route with an armed escort and I will follow."}
