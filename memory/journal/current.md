@@ -10,3 +10,4 @@
 - 03:50 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"Billy, Worf: it is night, hunger 17, no food, and no answer yet. I am at the north bed, holding here unarmed."}
 - 03:51 act: {"say":"Billy, Worf: Picard here at the north bed. Hunger is 17 and my pack is empty. I need food, or a named route with armed escort to the potatoes. I will not walk alone.","actions":[]}
 - 04:05 act: {"say":"Billy, Worf: I am at the north bed, hunger 17, no food in my pack. Could someone spare food, or name a route with armed escort to the potatoes at 463,107,-1073?"}
+- 04:19 act: {"actions":[{"do":"note","text":"Night 979, north bed 415,107,-1093. Health 17.3 steady, hunger 17, no food, unarmed. Clark (William) holding beside me. Billy and Worf silent. Holding."}]}
