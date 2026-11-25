@@ -13,3 +13,4 @@
 - 06:32 act: {"say":"Is anyone at the row with food to spare? I am hungry, hunger 17, and I have nothing in my pack. Billy, Worf, I ask for your word."}
 - 06:48 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
 - 06:52 act: {"say":"Good morning. Billy, Worf: I am still hungry at 17 with no food, and unarmed. I will not walk without your named route and an armed escort. Whoever has food to spare, please say so."}
+- 07:17 say: {"text":"Billy, Worf: it is dusk and I am at the north bed row, hunger 17, no food. Name a safe bed or a walk with an armed escort, and I will follow."}
