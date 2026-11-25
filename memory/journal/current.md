@@ -6,3 +6,6 @@
 - 00:54 act: {"actions":[{"do":"sleep"}],"say":"Good night. Picard at my bed in the row, holding, no walk tonight."}
 - 00:54 act: {"actions":[{"do":"sleep"}]}
 - 00:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Good evening, Clark. I hold at the row, unarmed, beside my bed. I am going to sleep here tonight."}
+- 00:58 act: {"say":"Picard here, at the row by the white beds, unarmed and holding still. Billy, Worf: pillagers are south-east. I will not walk out without a named route and armed escort."}
+- 00:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}],"say":"Pillagers are shooting me from the south. Moving north, out of their line."}
+- 00:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1100}}],"say":"I am out of their sight now. Health 16. Billy, I am unarmed and staying north of the beds."}
