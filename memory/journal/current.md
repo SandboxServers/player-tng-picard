@@ -10,3 +10,4 @@
 - 01:08 act: {"say":"Picard awake at the northmost bed, 416,107,-1092. Health 17, hunger 17, unarmed, pack empty. No walk. Holding until Billy or Worf names a daylight route."}
 - Day 971 dawn: still at north bed 416,107,-1093, health 17, hunger 17, unarmed, no walk named, nobody in sight. Holding.
 - 01:12 act: {"say":"Daylight. Picard at the north bed, health 17, hunger 17, unarmed, no food. I will not walk alone. Billy or Worf, name a route with an armed escort and I will follow."}
+- 01:29 act: {"say":"Picard here, at the north bed 416,107,-1093. Health 17, hunger 17, unarmed, no food. Billy, I am calling you: I need food, and I will walk only on your named route with an armed escort.","inte
