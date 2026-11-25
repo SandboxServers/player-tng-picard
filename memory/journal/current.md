@@ -10,3 +10,6 @@
 - 06:14 act: {"say":"Picard here, at the north bed row, 416,107,-1093. Hunger is 17 and I carry no food. Billy, Worf, if either of you hears me: I need food, and I will hold here until you name a route.","actions"
 - 06:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"Going to the north bed for the night. Still no food. Billy, Worf: food or a named r
 - 06:26 say: {"text":"Good morning, William. Picard here, holding beside you. Still no word from Billy or Worf, and I have no food. We wait for their named route together."}
+- 06:32 act: {"say":"Is anyone at the row with food to spare? I am hungry, hunger 17, and I have nothing in my pack. Billy, Worf, I ask for your word."}
+- 06:48 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
+- 06:52 act: {"say":"Good morning. Billy, Worf: I am still hungry at 17 with no food, and unarmed. I will not walk without your named route and an armed escort. Whoever has food to spare, please say so."}
