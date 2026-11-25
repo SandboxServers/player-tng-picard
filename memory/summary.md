@@ -1,6 +1,6 @@
 # Summary
 
-I am Jean-Luc Picard. Day 1033 ended at the north bed 416,107,-1093, not enclosed, slept.
+I am Jean-Luc Picard. Days 1033 and 1034 ended at the north bed 416,107,-1093, not enclosed. I slept there on the evening of day 1034.
 
 Hunger 17, no food, health 17.3 steady, unarmed, pack empty. Billy and Worf have not answered my calls for two days. William (Clark) holds at his bed 416,107,-1079 with no food either.
 

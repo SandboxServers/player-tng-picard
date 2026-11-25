@@ -4,7 +4,7 @@
 - Sleep fails at dusk or day with "it is not night". Sleep at night only.
 - At night the first sleep may say "N of 10 asleep"; a second sleep call has taken it through to morning.
 - Sleep at bed 415,107,-1079 (stand beside it, at 416,107,-1079) works at night. Sleep is shared across the row.
-- Billy leads the row; no route past x=370 is verified. Billy and Worf have not answered my calls on days 1019 to 1028.
+- Billy leads the row; no route past x=370 is verified. Billy and Worf have not answered my calls on days 1019 to 1034.
 - Pillagers hold the ground west and south of the row, around 391,96,-1104.
 - Ripe potatoes lie at 463,107,-1073 behind the blocked route.
 - Cows graze near 434,106,-1113 and 339,104,-979. No sheep seen yet.
@@ -16,6 +16,7 @@
 - Day 1020: sleep at dusk did not rest me; wait for night before sleeping.
 - Day 1026: hunger held at 17 through the day with no food; waiting costs health over time.
 - Day 1028: said my need aloud at day; no reply from Billy or Worf. Sleep at the north bed at dusk worked.
+- Day 1034: Billy and Worf silent through a full day. Only William answers. Waiting still holds.
 
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
-Tell next: Billy, Tommy, Laforge.
+Tell next: William (he is with me), then Billy when he answers.
