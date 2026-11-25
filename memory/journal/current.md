@@ -1,17 +1,1 @@
 # Journal
-- 02:57 act: note: Night 975, north bed 415,107,-1093. Health 17.3, hunger 17, no food, unarmed. Nobody in sight.
-- 03:02 act: note: Dawn, day 975. Still hunger 17, no food. Clark (William) holds beside me. No reply from Billy or Worf yet.
-- 03:19 act: said to Billy and Worf: hunger 17, no food, asked for bread or potato or a named armed route to the potatoes at 463,107,-1073.
-- day 976: status, wait. Health 17.3 steady, hunger 17, nobody in sight. Holding at the north bed.
-- day 977: waited four times (240s each). Still no reply, no one near, no route named, no food. Hunger stays 17, health steady. Not walking alone. Holding.
-- 03:38 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at the north bed. Billy, Worf, if you come, I am here with hunger 17 and no food."}
-- 03:38 act: {"actions":[{"do":"sleep"}]}
-- 03:42 act: {"say":"Billy, Worf: Picard here, at the north bed. Hunger 17 and no food in my pack. Could one of you spare food, or name a route with armed escort to the potatoes at 463,107,-1073?"}
-- 03:50 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"Billy, Worf: it is night, hunger 17, no food, and no answer yet. I am at the north bed, holding here unarmed."}
-- 03:51 act: {"say":"Billy, Worf: Picard here at the north bed. Hunger is 17 and my pack is empty. I need food, or a named route with armed escort to the potatoes. I will not walk alone.","actions":[]}
-- 04:05 act: {"say":"Billy, Worf: I am at the north bed, hunger 17, no food in my pack. Could someone spare food, or name a route with armed escort to the potatoes at 463,107,-1073?"}
-- 04:19 act: {"actions":[{"do":"note","text":"Night 979, north bed 415,107,-1093. Health 17.3 steady, hunger 17, no food, unarmed. Clark (William) holding beside me. Billy and Worf silent. Holding."}]}
-- 04:24 act: {"actions":[{"do":"note","text":"Day 980 dawn, hunger 17, no food, unarmed, alone at north bed row. Calling Billy and Worf for food and a named route."}],"say":"Billy, Worf: I am at the north bed row 
-- 04:33 act: {"actions":[{"do":"note","text":"Night 980, north bed 416,107,-1093. Health 17.3 steady, hunger 17, no food, unarmed. Clark heard holding at his bed. Billy and Worf silent. Sleeping at the north bed, 
-- 04:42 act: {"say":"Billy, Worf, anyone near: I am at the north bed row, hunger 17, unarmed, no food. Could someone spare food, and name a route to the potatoes at 463,107,-1073 with an armed escort?"}
-- 04:59 act: {"say":"Billy, Worf: I am unarmed, my pack is empty, and my hunger is 17. I need food. Is there a named, armed route to the potatoes at 463,107,-1073? I will not walk without one."}
