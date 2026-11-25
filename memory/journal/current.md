@@ -7,3 +7,6 @@
 - 05:56 act: {"say":"Billy, Worf: Picard here at the north bed. Hunger 17, pack empty, no food. Is anyone able to spare food, or name a route to the potatoes with an armed escort?"}
 - Waking 1318: day 984, north bed 416,107,-1093, health 17.3 steady, hunger 17, no food. Said for food to Billy and Worf. Holding at the row; no walk without a named route and escort.
 - 06:08 act: {"actions":[{"do":"note","text":"Morning, day 985. At north bed 416,107,-1093. Health 17.3 steady, hunger 17, unarmed, pack empty. Holding, no walk named."}],"say":"William Riker... no: Picard here, a
+- 06:14 act: {"say":"Picard here, at the north bed row, 416,107,-1093. Hunger is 17 and I carry no food. Billy, Worf, if either of you hears me: I need food, and I will hold here until you name a route.","actions"
+- 06:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}},{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"Going to the north bed for the night. Still no food. Billy, Worf: food or a named r
+- 06:26 say: {"text":"Good morning, William. Picard here, holding beside you. Still no word from Billy or Worf, and I have no food. We wait for their named route together."}
