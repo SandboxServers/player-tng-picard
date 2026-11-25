@@ -6,3 +6,5 @@
 - day 977: waited four times (240s each). Still no reply, no one near, no route named, no food. Hunger stays 17, health steady. Not walking alone. Holding.
 - 03:38 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at the north bed. Billy, Worf, if you come, I am here with hunger 17 and no food."}
 - 03:38 act: {"actions":[{"do":"sleep"}]}
+- 03:42 act: {"say":"Billy, Worf: Picard here, at the north bed. Hunger 17 and no food in my pack. Could one of you spare food, or name a route with armed escort to the potatoes at 463,107,-1073?"}
+- 03:50 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"Billy, Worf: it is night, hunger 17, no food, and no answer yet. I am at the north bed, holding here unarmed."}
