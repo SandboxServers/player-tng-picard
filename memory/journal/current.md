@@ -11,3 +11,5 @@
 - 03:51 act: {"say":"Billy, Worf: Picard here at the north bed. Hunger is 17 and my pack is empty. I need food, or a named route with armed escort to the potatoes. I will not walk alone.","actions":[]}
 - 04:05 act: {"say":"Billy, Worf: I am at the north bed, hunger 17, no food in my pack. Could someone spare food, or name a route with armed escort to the potatoes at 463,107,-1073?"}
 - 04:19 act: {"actions":[{"do":"note","text":"Night 979, north bed 415,107,-1093. Health 17.3 steady, hunger 17, no food, unarmed. Clark (William) holding beside me. Billy and Worf silent. Holding."}]}
+- 04:24 act: {"actions":[{"do":"note","text":"Day 980 dawn, hunger 17, no food, unarmed, alone at north bed row. Calling Billy and Worf for food and a named route."}],"say":"Billy, Worf: I am at the north bed row 
+- 04:33 act: {"actions":[{"do":"note","text":"Night 980, north bed 416,107,-1093. Health 17.3 steady, hunger 17, no food, unarmed. Clark heard holding at his bed. Billy and Worf silent. Sleeping at the north bed, 
