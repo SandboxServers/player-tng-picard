@@ -15,3 +15,5 @@
 - 01:44 act: {"say":"Clark, I hear you. I am at the north bed 416,107,-1093, holding, unarmed. Keep to the north end and stay out of the south line."}
 - 01:48 act: {"say":"Dusk, day 972. Picard at the north bed 416,107,-1093, health 17, hunger 17, no food. Clark, I hear you. Billy, Worf: I will not sleep at a south-facing bed. If a safe bed is free to the north,
 - 02:04 act: {"say":"Day 973, morning. Picard at the north bed, health 17, hunger 17, unarmed, no food. Billy, Worf: still holding, still asking for food and a named daylight route with armed escort."}
+- 02:09 act: {"say":"Picard here, at the north bed 416,107,-1093. Health 17, hunger 17, unarmed, pack empty. Billy, Worf: I hold here and will not walk unless you name a route with armed escort. Anyone with food, 
+- 02:15 act: {"say":"Dusk. Picard at the north bed 416,107,-1093, health 17, hunger 17, no food, unarmed. I am not enclosed and I will not sleep in an open bed tonight. I hold awake here, out of the south line. Bi
