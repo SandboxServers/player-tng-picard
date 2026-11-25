@@ -6,3 +6,4 @@
 - No walk, no sleep at the south beds. Holding and waiting.
 - 13:53 act: {"say":"Picard here, at the north bed, 416,107,-1093. Unarmed, hunger 17, pack empty. Billy, Worf: I need food and a named daylight route with armed escort. I will not walk without it."}
 - Woke again at dusk. Days since sleep 25. Said the same to the row. William answered (holding, waiting for a named walk). No one else near. No walk, no sleep at south beds.
+- 14:06 act: {"say":"Picard here, at the north bed, 416,107,-1093. Hunger 17, pack empty, unarmed. Billy, Worf: I need food and a named daylight route with armed escort to the potatoes at 463,107,-1073. I will not
