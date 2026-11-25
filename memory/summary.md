@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 967 ended at night in the row, beside white bed 415,107,-1079. I slept there.
+I am Jean-Luc Picard. Day 968 ended at night in the row, beside white bed 415,107,-1079. I slept there.
 
-The row holds: Billy, Worf, Tommy, Laforge, Riker, Jason, Zack, Lewis, Wesley, William (Clark). Everyone holds for Billy's or Worf's word. No walk has been named. Tommy, William and Laforge have health 20 and hunger 20 but no food to give.
+The row holds: Billy, Worf, Tommy, Laforge, Riker, Jason, Zack, Lewis, Wesley, William (Clark). Everyone holds for Billy's or Worf's word. No walk has been named. Pillagers came from the south and shot Lewis; I do not go south.
 
 Health 2.3 steady, hunger 17, unarmed, pack empty, no food.
 
