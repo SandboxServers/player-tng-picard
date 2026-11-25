@@ -17,3 +17,5 @@
 - 02:04 act: {"say":"Day 973, morning. Picard at the north bed, health 17, hunger 17, unarmed, no food. Billy, Worf: still holding, still asking for food and a named daylight route with armed escort."}
 - 02:09 act: {"say":"Picard here, at the north bed 416,107,-1093. Health 17, hunger 17, unarmed, pack empty. Billy, Worf: I hold here and will not walk unless you name a route with armed escort. Anyone with food, 
 - 02:15 act: {"say":"Dusk. Picard at the north bed 416,107,-1093, health 17, hunger 17, no food, unarmed. I am not enclosed and I will not sleep in an open bed tonight. I hold awake here, out of the south line. Bi
+- 02:29 act: {"say":"Billy, Worf, is anyone near? I am at the north end of the row, hunger 17, no food, unarmed. I need food, and a named route with an armed escort if one is safe.","actions":[]}
+- 02:49 act: {"say":"Day 975, morning. Picard at the north bed 416,107,-1093, health 17, hunger 17, no food, unarmed. Billy, Worf: I am still holding and will follow a named route with armed escort.","actions":[]}
