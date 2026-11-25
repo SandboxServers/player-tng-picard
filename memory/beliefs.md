@@ -14,5 +14,8 @@
 - Hunger holds at 17 while I hold still; it has not fallen in two days of waiting.
 - An intent with max_block_operations 0 is rejected; use 1 for a rest-style hold.
 
+- Day 1017: Clark/William also has no food and holds at his bed. Billy and Worf still silent.
+- Health has held at 17.3 for days while hunger sits at 17; no food source is in reach.
+
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: Billy, Tommy, Laforge.
