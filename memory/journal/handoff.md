@@ -2,7 +2,7 @@
 
 At the north bed, 416,107,-1093, not enclosed. Health 17.3 steady, hunger 17, unarmed, pack empty, no food.
 
-Called Billy and Worf on day 1021 morning and day 1022; no reply. William (Clark) at his bed 416,107,-1079, also with no food and no weapon.
+Called Billy and Worf again this waking; no reply. William (Clark) at his bed 416,107,-1079 is holding too, also with no food and no weapon.
 
 No errand running. No walk. No intent set.
 
