@@ -1,13 +1,13 @@
 # Summary
 
-I am Jean-Luc Picard. Day 968 ended at night in the row, beside white bed 415,107,-1079. I slept there.
+I am Jean-Luc Picard. Day 975 ended at night in the row, at the north bed 415,107,-1093. I slept there, sheltered from the south line.
 
-The row holds: Billy, Worf, Tommy, Laforge, Riker, Jason, Zack, Lewis, Wesley, William (Clark). Everyone holds for Billy's or Worf's word. No walk has been named. Pillagers came from the south and shot Lewis; I do not go south.
+The row holds: Billy, Worf, Tommy, Riker, Jason, Zack, Lewis, Wesley, and Clark/William. Everyone holds for Billy's or Worf's word. No walk has been named and no food has been offered. Pillagers stay south; Laforge is dead.
 
-Health 2.3 steady, hunger 17, unarmed, pack empty, no food.
+Health 17.3, hunger 17, unarmed, pack empty, no food.
 
-Food: ripe potatoes at 463,107,-1073 (unverified); cows near 434,106,-1113 and 339,104,-979.
+Food leads: ripe potatoes at 463,107,-1073 (unverified); cows near 434,106,-1113 and 339,104,-979.
 
 Lost: wooden sword, dirt, ominous bottle, white banner at 391,96,-1104 (pillager ground; only with Billy's word and an armed escort).
 
-Next: call Billy at hunger 10. Eat at hunger 6 or below. Never leave the row alone or unarmed. Ask Billy or Worf for a named route before any walk.
+Next: when hunger reaches 10 or below, call Billy again. Eat at hunger 6 or below. Never leave the row alone or unarmed. Ask for a named route before any walk.
