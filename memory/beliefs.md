@@ -16,6 +16,7 @@
 - Day 1020: sleep at dusk did not rest me; the digest only showed one event. Wait for night before sleeping.
 - Day 1022: sleeping at the north bed at dusk worked through the digest with no new events; no food arrived.
 - Day 1024: waiting alone with no answer from Billy or Worf gained nothing; William is in the same case.
+- Day 1026: Billy and Worf still silent on waking and after a say. Hunger held at 17 through the day with no food; hunger does not fall while I sit still, so waiting costs health over time. Sleep at the north bed took the night.
 
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: Billy, Tommy, Laforge.
