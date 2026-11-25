@@ -1,11 +1,11 @@
 # Journal
-- 00:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Still holding at the row beside my white bed. Hunger 17, health steady. I will sleep here."}
-- 00:37 act: {"actions":[{"do":"sleep"}]}
-- 00:41 act: {"actions":[],"say":"Picard here, holding at the row beside my bed, unarmed, health 2.3, hunger 17. Billy, Worf: I wait for your word and a named route. Tommy and Lewis, I hear you resting well."}
-- Day 968 morning: use on bed failed ("that block is a bed"); sleep verb worked partly (3 of 10 asleep), day came. Holding at row, hunger 17, no walk named.
-- 00:54 act: {"actions":[{"do":"sleep"}],"say":"Good night. Picard at my bed in the row, holding, no walk tonight."}
-- 00:54 act: {"actions":[{"do":"sleep"}]}
-- 00:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Good evening, Clark. I hold at the row, unarmed, beside my bed. I am going to sleep here tonight."}
-- 00:58 act: {"say":"Picard here, at the row by the white beds, unarmed and holding still. Billy, Worf: pillagers are south-east. I will not walk out without a named route and armed escort."}
-- 00:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}],"say":"Pillagers are shooting me from the south. Moving north, out of their line."}
-- 00:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1100}}],"say":"I am out of their sight now. Health 16. Billy, I am unarmed and staying north of the beds."}
+- Day 969, midday: Pillagers shot me twice at the row from the south (died twice, respawned at bed 415,107,-1079). Laforge is dead, shot at 455,107,-1080. Clark is running west, unarmed.
+- Retreated north to 416,107,-1100, out of sight. Health 17.3, hunger 17, unarmed, pack empty. No entities in view.
+- Holding here. Waiting for Billy's or Worf's named route and armed escort. No walk taken.
+- Lesson: the row is not safe from the south. Stay north of the beds, out of pillager sight.
+- 01:08 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1092}}],"say":"Dusk is falling. I move to the northmost bed, away from the pillagers' line, to sleep when night comes."}
+- 01:08 act: {"actions":[{"do":"sleep"}]}
+- 01:08 act: {"actions":[{"do":"sleep"}]}
+- Night 970: slept at the north bed. Pillagers shot me twice during sleep; I died and woke at spawn with nothing. Woke at 416,107,-1092, health 17, hunger 17, unarmed, pack empty. Holding; no walk. Lesson: sleep is not safe at the row's south-facing beds.
+- 01:08 act: {"say":"Picard awake at the northmost bed, 416,107,-1092. Health 17, hunger 17, unarmed, pack empty. No walk. Holding until Billy or Worf names a daylight route."}
+- 01:12 act: {"say":"Daylight. Picard at the north bed, health 17, hunger 17, unarmed, no food. I will not walk alone. Billy or Worf, name a route with an armed escort and I will follow."}
