@@ -19,3 +19,4 @@
 - 11:52 act: {"say":"Picard here, at the north bed 416,107,-1093. Still unarmed, no food, hunger 17. Billy, Worf, if you can hear me, I need an escort and food. William, I hear you; I will hold here too."}
 - Day 1074 night. At north bed 416,107,-1093, not enclosed, so no sleep. Hunger 17, health 17.3, unarmed, no food. William answered from his bed: holding, no food, no route. Billy and Worf still silent. days_since_sleep 6. Holding and waiting.
 - Day 1074 day, then night again. Still at north bed, no word from Billy or Worf, William answered once and holds. No food, no named route. Not sleeping unenclosed. Waiting.
+- Day 1075 morning. Heard a bow drawn to the northeast. View: walls mostly around me, a gap on the left. No materials to close it. Staying put, watching for damage. Still no word from Billy or Worf; hunger 17.
