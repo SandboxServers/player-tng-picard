@@ -20,5 +20,7 @@
 - Day 1036: slept at the north bed 416,107,-1093 at night; woke with the same hunger 17 and no food.
 - Day 1037: same again. Sleep at the north bed worked at dusk, but it does not lower hunger. Only William answered.
 
+- Day 1055: waited two days at the north bed; hunger held at 17 and health at 17.3 with no food. Nobody armed answered. Only William, unarmed.
+
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: William (he is with me), then Billy when he answers.
