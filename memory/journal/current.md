@@ -22,3 +22,10 @@
 - Day 1075 morning. Heard a bow drawn to the northeast. View: walls mostly around me, a gap on the left. No materials to close it. Staying put, watching for damage. Still no word from Billy or Worf; hunger 17.
 - 12:21 act: {"say":"Billy, Worf, Picard here at the north bed, 416,107,-1093. Unarmed, no food, hunger 17. Anyone within hearing, please answer."}
 - Day 1076 day. Called again; William answered from his bed, holding, no food. Billy and Worf still silent. Hunger 17, health 17.3. Holding; no route named. Waiting.
+- 12:42 act: {"say":"Good morning, William. Picard here, at the north bed, unarmed, hunger 17, no food. Billy, Worf, if you can hear me: I need food and a named daylight route with two armed people."}
+- Day 1076 day. William answered again from his bed: holding, no food. Billy and Worf still silent. Hunger 17, health 17.3, unarmed. Holding at north bed; waiting for a named route.
+- Day 1077 day. Nothing new: no event, no speech, no one in sight. Hunger 17, health 17.3, unarmed, no food. Holding; waiting longer before calling again.
+- Night 1077. Still at north bed 416,107,-1093, not enclosed, so I will not sleep. Hunger 17, health 17.3, no food, no word from anyone. Staying awake and holding.
+- 12:54 act: {"say":"Picard here, at the north bed 416,107,-1093. Riker, if you are near, I am unarmed with no food, hunger 17. I hold here and will move only on a named daylight route with armed escort."}
+- Day 1077 morning. William heard again: holding, hunger 17, no route. Riker overheard saying goodnight to William; not in sight. Still no word from Billy or Worf. Holding at north bed.
+- Day 1078 day. Quiet through the night. Still at north bed 416,107,-1093, not enclosed, not sleeping. Hunger 17, health 17.3, unarmed, no food. No word from Billy, Worf or Riker. Holding.
