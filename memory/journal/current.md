@@ -44,3 +44,5 @@
 - 14:05 say: {"text":"Morning, William. Picard here, still at the north bed, hunger 17, unarmed, no food. I will hold with you until Billy or Worf names a route."}
 - Day 1080 night, then day 1081. Did not sleep unenclosed. William answered at dawn: holding, hunger 17, no route. Still no word from Billy or Worf. Hunger 17, health 17.3, unarmed, no food. Holding at north bed.
 - 14:18 act: {"say":"Picard here, at the north bed 416,107,-1093, unarmed, hunger 17, pack empty. Billy, Worf, Riker: if you can hear me, name a daylight route with armed people and I will walk it. Until then I ho
+- 14:28 act: {"say":"Picard, night of 1082. Still at the north bed 416,107,-1093, unenclosed, unarmed, hunger 17. No walk in the dark. Billy, Worf: at first light I will be here, and I will walk only on a named ro
+- 14:31 act: {"intent":{"goal":"hold_at_row_for_named_route","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"max_block_operat
