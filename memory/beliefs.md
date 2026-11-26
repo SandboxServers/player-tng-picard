@@ -24,5 +24,7 @@
 
 - Day 1060: sleeping at the north bed at night worked again. Billy and Worf still silent; William answers each time. Hunger held at 17 with no food.
 
+- Day 1061: held all day at the north bed; nobody armed answered; hunger still 17 after a night's sleep. Sleep at the north bed worked at dusk.
+
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: William (he is with me), then Billy when he answers.
