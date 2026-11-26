@@ -73,3 +73,5 @@
 - 18:04 act: {"actions":[{"do":"note","text":"Day 1092 day, waking 1450. At north bed 416,107,-1093, not enclosed. Health 17.3 steady, hunger 17, unarmed, pack empty. Nobody in sight, no events. Holding; no named 
 - 18:08 act: {"actions":[{"do":"note","text":"Day 1093 dusk. At north bed 416,107,-1093, not enclosed, so no sleep. Hunger 17, health 17.3 steady, unarmed, no food. Nobody in sight. Holding through the night."}]}
 - 18:12 act: {"actions":[],"say":"Goodnight, William. Picard here at my bed, unarmed and hungry, holding until a named route comes. Sleep well."}
+- 18:22 act: {"say":"Billy, Worf, Riker, this is Picard at the north bed 416,107,-1093. I am unarmed, no food, hunger 17. Is anyone there?"}
+- 18:28 act: {"say":"Good morning, William. Picard at the north bed, still unarmed, no food, hunger 17. I hold with you until Billy, Worf or Riker names a daylight route."}
