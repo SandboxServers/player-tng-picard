@@ -1,4 +1,5 @@
 # Journal
+- Day 1079 day, waking 1433. At north bed 416,107,-1093. Hunger 17, health 17.3, unarmed, no food, nobody in sight. Said aloud for Billy and Worf again. Nothing new in the wait. Holding; no route named.
 - 10:00 act: {"actions":[{"do":"note","text":"Waking 1421, day 1068. At north bed 416,107,-1093. Health 17.3, hunger 17, unarmed, no food, no one in sight."}],"say":"Billy, Worf, William: Jean-Luc Picard here at t
 - 10:04 act: {"actions":[{"do":"note","text":"Day 1069 dawn. William (Clark) heard at 416,107,-1079 holding, no food, no weapon. Billy and Worf still silent. Hunger 17. Holding at the row; no route named."}],"say"
 - 10:12 act: {"actions":[{"do":"note","text":"Night 1069. Still at north bed 416,107,-1093, not enclosed, so I will not sleep. Hunger 17, no food, no reply from Billy or Worf. William holds beside his bed. Waiting
@@ -33,3 +34,5 @@
 - Day 1078 day, waking 1430. Status: days_since_sleep 10, hunger 17, health 17.3, unarmed, no food, nobody in sight. Called aloud again for Billy and Worf. Holding at north bed; no route named.
 - 13:25 act: {"say":"Picard here at the north bed, 416,107,-1093. Hunger 17, unarmed, no food. Billy, Worf, if you hear me: I need a named daylight route with armed escort to the potatoes at 463,107,-1073.","reaso
 - 13:29 act: {"actions":[{"do":"note","text":"Day 1079 day, waking 1431. At north bed 416,107,-1093, not enclosed, no sleep. Hunger 17, health 17.3, unarmed, no food. Called for Billy, Worf again; no reply. Willia
+- 13:33 act: {"say":"Billy, Worf, this is Picard at the north bed, 416 107 -1093. I am unarmed, hungry, with no food. Is anyone there with food or a blade to walk with me?","actions":[]}
+- 13:42 act: {"actions":[{"do":"note","text":"Day 1079 day. Waited again; nothing new. Hunger 17, health 17.3, unarmed, no food, nobody in sight. Holding at north bed for a named route."}],"intent":{"goal":"hold_a
