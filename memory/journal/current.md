@@ -29,3 +29,5 @@
 - 12:54 act: {"say":"Picard here, at the north bed 416,107,-1093. Riker, if you are near, I am unarmed with no food, hunger 17. I hold here and will move only on a named daylight route with armed escort."}
 - Day 1077 morning. William heard again: holding, hunger 17, no route. Riker overheard saying goodnight to William; not in sight. Still no word from Billy or Worf. Holding at north bed.
 - Day 1078 day. Quiet through the night. Still at north bed 416,107,-1093, not enclosed, not sleeping. Hunger 17, health 17.3, unarmed, no food. No word from Billy, Worf or Riker. Holding.
+- 13:11 act: {"say":"Billy, Worf, Picard here at the north bed, 416,107,-1093. I am unarmed and have no food. I need an armed escort on a named daylight route to the cows near 434,106,-1113."}
+- Day 1078 day, waking 1430. Status: days_since_sleep 10, hunger 17, health 17.3, unarmed, no food, nobody in sight. Called aloud again for Billy and Worf. Holding at north bed; no route named.
