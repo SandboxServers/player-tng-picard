@@ -62,3 +62,4 @@
 - 16:41 act: {"say":"Picard here, at the north bed 416,107,-1093. Day 1088, daylight. Hunger 17, unarmed, pack empty. Billy, Worf, Riker: if you hear this, name a daylight route with armed people and I will walk i
 - 16:50 act: {"say":"Picard, morning of 1089, at the north bed 416,107,-1093. Still unarmed, no food, hunger 17. Billy, Worf, Riker: name a daylight route with armed people and I will walk it. William, I hold with
 - 17:06 act: {"say":"Picard, morning 1090, at the north bed 416,107,-1093. Unarmed, no food, hunger 17. Billy, Worf, Riker: a named daylight route with armed people, and I will walk it."}
+- 17:11 act: {"say":"Picard here, morning 1090, at the north bed 416,107,-1093. Hunger 17, unarmed, pack empty. Billy, Worf, Riker: if you are near, name a daylight route with armed people and I will walk it. Will
