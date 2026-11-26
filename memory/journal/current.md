@@ -115,3 +115,4 @@
 - 23:27 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1093}},{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
 - 23:27 act: {"actions":[{"do":"note","text":"Night 1109. Hunger 17, no food, unarmed, alone at the north bed. Calling Billy, Worf, William for food and an armed escort at first light."}],"say":"Billy, Worf, Willi
 - 23:31 act: {"actions":[{"do":"note","text":"Day 1109 morning. William answered: holding at his bed, no food, no route. Still unarmed, hunger 17, no food, nobody else answers. Holding at north bed."}],"say":"Will
+- 23:36 act: {"say":"Picard at the north bed, 416,107,-1093. I have no food and am unarmed. Billy, Worf, Riker, Trini: if you can hear me, I need food and an armed escort on a daylight route."}
