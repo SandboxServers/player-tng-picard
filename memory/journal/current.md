@@ -50,3 +50,5 @@
 - 14:54 act: {"say":"Picard here, at the north bed 416,107,-1093. Dusk, no food, unarmed, hunger 17. Billy, Worf: I will walk only on a named daylight route with armed people. William, I hear you."}
 - 15:02 act: {"say":"Good morning, William. Picard, at the north bed, still unarmed and hungry at 17. Billy, Worf: if you hear me, name a daylight route with armed people and I will walk it."}
 - 15:08 act: {"say":"Billy, Worf, Riker: Picard at the north bed, 416,107,-1093. I am unarmed, hungry and have no food. If you hear this, I would be glad of food and a named route."}
+- 15:25 act: {"actions":[{"do":"note","text":"Night 1085 at the north bed 416,107,-1093, unenclosed, hunger 17, unarmed, no food, no one in sight. Holding here."}],"say":"Billy, Worf, Riker: Picard, at the north b
+- 15:29 act: {"actions":[],"say":"Dawn. Picard, still at the north bed, unarmed, hunger 17, no food. Billy, Worf, Riker, William: if you hear this, tell me a named route and I will walk it with you."}
