@@ -92,3 +92,4 @@
 - 19:45 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
 - 19:49 say: {"text":"Morning. Picard at the north bed 416,107,-1093, hunger 17, no food, unarmed. Billy, Worf, Riker: I need food and an armed escort on a named daylight route. William, are you still at your bed?
 - 19:57 say: {"text":"William, thank you. I will stay at my bed and walk nowhere until Billy, Worf or Trini names a route with armed escort."}
+- 20:10 act: {"actions":[{"do":"note","text":"Dusk at the north bed. Unarmed, no food, hunger 17. Calling Billy, Worf, William for food and an escort at first light."}],"say":"Billy, Worf, William: Picard at the n
