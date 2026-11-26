@@ -12,3 +12,7 @@
 - 02:26 act: {"actions":[{"do":"sleep"}],"say":"Picard at the north bed, going to sleep for the night. Hunger 17, unarmed. Billy, Worf, William: I will look for you at dawn."}
 - 02:26 act: {"actions":[{"do":"sleep"}]}
 - 02:30 act: {"actions":[{"do":"note","text":"Day 1046, morning, thunder. At north bed 416,107,-1093, health 17.3 steady, hunger 17, unarmed, no food. Slept the night. Billy and Worf still silent; William holds at
+- 02:36 act: {"say":"Picard here, at the north bed 416,107,-1093. Hunger 17 and no food. Billy, Worf, William: if you hear this, I need food and an armed escort on a named route."}
+- 02:40 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1093}}]}
+- 02:40 act: {"actions":[{"do":"sleep"}],"say":"Still at the north bed, 416,107,-1093. Hunger 17, unarmed, no food. Billy, Worf, William: I will listen for you at dawn."}
+- 02:44 act: {"say":"Good morning. Picard at the north bed, hunger 17, no food, unarmed. Billy, Worf: I need food and a named daylight route with an armed escort. William, I am still holding here with you."}
