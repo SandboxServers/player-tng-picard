@@ -3,3 +3,7 @@
 - 10:04 act: {"actions":[{"do":"note","text":"Day 1069 dawn. William (Clark) heard at 416,107,-1079 holding, no food, no weapon. Billy and Worf still silent. Hunger 17. Holding at the row; no route named."}],"say"
 - 10:12 act: {"actions":[{"do":"note","text":"Night 1069. Still at north bed 416,107,-1093, not enclosed, so I will not sleep. Hunger 17, no food, no reply from Billy or Worf. William holds beside his bed. Waiting
 - 10:17 act: {"actions":[{"do":"note","text":"Day 1069 morning. Still holding at north bed. Hunger 17, no food, no escort named. William holds too. Waiting for Billy or Worf."}]}
+- 10:22 act: {"say":"Billy, Worf, this is Picard, at the north beds 416,107,-1093. I am unarmed with no food. Is anyone there?"}
+- 10:24 say: {"text":"Still no answer from Billy or Worf. It is dusk, so I will rest in the north bed here."}
+- Day 1070 dusk. Called aloud again for Billy and Worf; no reply. Hunger 17, health 17.3, unarmed, no food, still not enclosed. I will not sleep unenclosed; holding at north bed, waiting for Billy or a named route.
+- Day 1070 day. Held at north bed. William heard speaking with Tommy: no food, no sword, no route named. Still nothing from Billy or Worf. Waiting.
