@@ -93,3 +93,6 @@
 - 19:49 say: {"text":"Morning. Picard at the north bed 416,107,-1093, hunger 17, no food, unarmed. Billy, Worf, Riker: I need food and an armed escort on a named daylight route. William, are you still at your bed?
 - 19:57 say: {"text":"William, thank you. I will stay at my bed and walk nowhere until Billy, Worf or Trini names a route with armed escort."}
 - 20:10 act: {"actions":[{"do":"note","text":"Dusk at the north bed. Unarmed, no food, hunger 17. Calling Billy, Worf, William for food and an escort at first light."}],"say":"Billy, Worf, William: Picard at the n
+- 20:20 act: {"say":"Billy, Worf, William, Riker, Trini: I am Picard, at the north bed 416,107,-1093. I have no food and I am hungry. If anyone is near, I need food and an armed escort on a named daylight route."}
+- 20:24 act: {"say":"Still no one answers. Dusk is coming. I will stay at this bed and keep calling."}
+- 20:32 act: {"actions":[{"do":"note","text":"Day 1100 day. At north bed 416,107,-1093, not enclosed, no sleep. Health 17.3 steady, hunger 17, unarmed, no food. William answered: holding. Billy, Worf, Riker, Trini
