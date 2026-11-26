@@ -47,3 +47,5 @@
 - 14:28 act: {"say":"Picard, night of 1082. Still at the north bed 416,107,-1093, unenclosed, unarmed, hunger 17. No walk in the dark. Billy, Worf: at first light I will be here, and I will walk only on a named ro
 - 14:31 act: {"intent":{"goal":"hold_at_row_for_named_route","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"max_block_operat
 - 14:46 act: {"say":"Picard, morning of 1083, at the north bed. Still unarmed, no food, hunger 17. Billy, Worf, Riker: name a daylight route with armed people and I will walk it."}
+- 14:54 act: {"say":"Picard here, at the north bed 416,107,-1093. Dusk, no food, unarmed, hunger 17. Billy, Worf: I will walk only on a named daylight route with armed people. William, I hear you."}
+- 15:02 act: {"say":"Good morning, William. Picard, at the north bed, still unarmed and hungry at 17. Billy, Worf: if you hear me, name a daylight route with armed people and I will walk it."}
