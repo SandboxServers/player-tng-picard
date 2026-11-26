@@ -1,4 +1,8 @@
 # Journal
 - Day 1043, dawn: called aloud for Billy, Worf and William. William answered from 416,107,-1079: unarmed, no food, will walk only in daylight with an armed leader. No word from Billy or Worf. Holding at the north bed, hunger 17, health 17.3 steady.
 - 01:44 act: {"say":"Picard at the north bed again, 416,107,-1093. Billy, Worf: I still need food and an armed escort on a named route. William, I hear you; I will walk with you in daylight once an armed person is
+- Day 1044, day, clear: no new speech except William holding. Said aloud again for Billy and Worf: food and a named route. Set intent hold_for_escort (rest) to wait for an armed leader. Hunger 17, health 17.3 steady.
 - 01:57 act: {"say":"William, good morning. I have not seen the sheep. I am still holding here at the north bed, unarmed and hungry. I will walk only with an armed escort.","actions":[]}
+- Day 1045, day, clear: still at north bed, hunger 17, health steady. No reply from Billy or Worf; intent ran out. Called again, now waiting.
+- 02:02 act: {"say":"Picard here, at the north bed 416,107,-1093. Unarmed, pack empty, hunger 17. Billy, Worf: I need food and a named daylight route with armed escort. William, I will walk with you if one of them
+- 02:04 act: {"say":"Picard, still at the north bed. Billy, Worf: food and a named daylight route with an armed escort, please. I am unarmed and will not walk alone."}
