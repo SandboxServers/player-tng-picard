@@ -5,3 +5,6 @@
 - 06:18 act: {"say":"Picard here, at the north bed 416,107,-1093. I have no food and no weapon, and hunger is 17. Billy, Worf, anyone with food or an armed escort on a daylight route: please call out."}
 - 06:23 act: {"say":"Picard here, at the north bed. Hunger 17 and no food. Billy, Worf, anyone with bread or potatoes and an armed escort: I will walk only on a daylight route with you in sight.","intent":{"goal":
 - Day 1058 dawn: hunger 17, health 17.3 steady, no one in sight, no reply. Called aloud and set a hold intent; it ran out with nothing heard. Still holding at the north bed.
+- 06:31 Called aloud again for food and armed escort. Nobody near, no reply. Night now; staying at the north bed, unarmed, hunger 17, health 17.3 steady.
+- Day 1059 dawn: still at the north bed, hunger 17, no food, no escort, no reply. William holds at his bed. Waiting for Billy or Worf.
+- 06:31 act: {"say":"Billy, Worf, this is Picard at the north bed. I have no food and hunger is 17. I need food and an armed escort in daylight. William is at 416,107,-1079.","actions":[]}
