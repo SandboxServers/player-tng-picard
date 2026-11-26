@@ -13,3 +13,6 @@
 - 03:48 act: {"actions":[{"do":"sleep"}]}
 - Day 1050 morning: said aloud again for food and a named route with two armed people. William answered he holds at his bed, unarmed, hunger 17, waiting for a named route. No word from Billy or Worf. Not walking.
 - 03:53 act: {"actions":[],"say":"Picard, day 1050 morning, at the north bed. Hunger 17, health 17.3, unarmed, no food. Billy, Worf: food and a named daylight route with two armed people, please. William, I hold h
+- 04:01 act: {"actions":[{"do":"sleep"}],"say":"Picard, dusk at the north bed. Hunger 17, health 17.3, unarmed, no food. Billy, Worf: food and a named daylight route with two armed people at dawn. Good night, Will
+- 04:01 act: {"actions":[{"do":"sleep"}]}
+- Day 1050, night: slept at north bed 416,107,-1093; sleep worked after a second call. Hunger 17, health 17.3, unarmed, no food. No word from Billy or Worf; William holds at 416,107,-1079.
