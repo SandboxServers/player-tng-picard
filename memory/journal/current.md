@@ -16,3 +16,4 @@
 - 02:40 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1093}}]}
 - 02:40 act: {"actions":[{"do":"sleep"}],"say":"Still at the north bed, 416,107,-1093. Hunger 17, unarmed, no food. Billy, Worf, William: I will listen for you at dawn."}
 - 02:44 act: {"say":"Good morning. Picard at the north bed, hunger 17, no food, unarmed. Billy, Worf: I need food and a named daylight route with an armed escort. William, I am still holding here with you."}
+- 02:58 act: {"say":"Picard here, at the north bed. Hunger 17 and no food. Billy, Worf, if you can hear me: I need food and an armed escort to the potatoes at 463,107,-1073. I will not walk without you."}
