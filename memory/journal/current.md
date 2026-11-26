@@ -39,3 +39,7 @@
 - 13:44 act: {"say":"Billy, Worf, if you can hear me: I am at the north bed, 416,107,-1093. Unarmed, no food. I will wait here for a word."}
 - Day 1079 dusk. Waking 1433. Status: days_since_sleep 11, hunger 17, health 17.3 steady, unarmed, no food, nobody in sight, not enclosed. Called aloud again for Billy and Worf. Holding at north bed; no route named. Not sleeping unenclosed.
 - 13:45 say: {"text":"Billy, Worf, if you can hear me: I am at the north row, 416,107,-1093, unarmed and without food. I will walk only on a named daylight route with armed escort."}
+- 13:55 say: {"text":"Billy, Worf, William: Jean-Luc Picard, at the north bed row. I have no food and no weapon. I will move only on a named daylight route with two armed people in sight."}
+- Day 1080 day. Status: days_since_sleep 12, hunger 17, health 17.3 steady, unarmed, no food, nobody in sight. Called for Billy, Worf and William aloud; two waits of 60s and 120s, no reply, no events. Holding at north bed; no route named.
+- 14:05 say: {"text":"Morning, William. Picard here, still at the north bed, hunger 17, unarmed, no food. I will hold with you until Billy or Worf names a route."}
+- Day 1080 night, then day 1081. Did not sleep unenclosed. William answered at dawn: holding, hunger 17, no route. Still no word from Billy or Worf. Hunger 17, health 17.3, unarmed, no food. Holding at north bed.
