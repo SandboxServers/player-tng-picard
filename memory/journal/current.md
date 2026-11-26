@@ -6,3 +6,5 @@
 - Day 1045, day, clear: still at north bed, hunger 17, health steady. No reply from Billy or Worf; intent ran out. Called again, now waiting.
 - 02:02 act: {"say":"Picard here, at the north bed 416,107,-1093. Unarmed, pack empty, hunger 17. Billy, Worf: I need food and a named daylight route with armed escort. William, I will walk with you if one of them
 - 02:04 act: {"say":"Picard, still at the north bed. Billy, Worf: food and a named daylight route with an armed escort, please. I am unarmed and will not walk alone."}
+- 02:09 say: {"text":"Billy, Worf, William: Jean-Luc here at the north bed, unarmed, hunger 17. Is anyone holding food or able to name a daylight route with an armed escort?"}
+- 02:15 say: {"text":"William, thank you. Picard here, still at my bed, unarmed and hungry. I will not walk until an armed person names a route in daylight."}
