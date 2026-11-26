@@ -111,3 +111,5 @@
 - 22:48 act: {"actions":[{"do":"note","text":"Day 1107 day. At north bed 416,107,-1093, not enclosed. Health 17.3 steady, hunger 17, unarmed, pack empty, no food. Called Billy, Worf, Riker, Trini aloud; William's 
 - 22:57 say: {"text":"Billy, Worf, Riker, Trini: I am at the north bed 416,107,-1093, unarmed, no food, hunger 17. Anyone near, please answer."}
 - 23:05 say: {"text":"Good morning, William. Picard, still at the north bed, unarmed, hunger 17, no food. I hold with you until someone names a daylight route."}
+- 23:22 act: {"say":"Billy, Worf, Riker, Trini, anyone near: I am Picard, at the north bed 416,107,-1093. I have no food and no escort. I need food and an armed escort on a named daylight route."}
+- 23:27 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1093}},{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
