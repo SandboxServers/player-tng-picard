@@ -100,3 +100,4 @@
 - 20:51 act: {"say":"Billy, Worf, Riker, Trini: I am at the north bed, 416,107,-1093. I am unarmed and out of food. If you can hear me, I need food and an armed escort on a named daylight route."}
 - 20:57 say: {"text":"Morning. Billy, Worf: I am still at the north bed, 416,107,-1093, hungry and unarmed. Name a daylight route and I will walk it with you."}
 - 21:18 act: {"say":"Billy, Worf, Riker, Trini: Picard here at the north bed, 416,107,-1093. I am unarmed, hungry, with no food. If you can hear me, I need food and an armed escort on a daylight route."}
+- 21:32 act: {"say":"Billy, Worf, Riker, Trini: Picard here at the north bed, 416,107,-1093. I am unarmed with no food. Hunger is 17. If you can hear me, I need food and an armed escort on a daylight route."}
