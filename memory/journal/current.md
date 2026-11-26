@@ -43,3 +43,4 @@
 - Day 1080 day. Status: days_since_sleep 12, hunger 17, health 17.3 steady, unarmed, no food, nobody in sight. Called for Billy, Worf and William aloud; two waits of 60s and 120s, no reply, no events. Holding at north bed; no route named.
 - 14:05 say: {"text":"Morning, William. Picard here, still at the north bed, hunger 17, unarmed, no food. I will hold with you until Billy or Worf names a route."}
 - Day 1080 night, then day 1081. Did not sleep unenclosed. William answered at dawn: holding, hunger 17, no route. Still no word from Billy or Worf. Hunger 17, health 17.3, unarmed, no food. Holding at north bed.
+- 14:18 act: {"say":"Picard here, at the north bed 416,107,-1093, unarmed, hunger 17, pack empty. Billy, Worf, Riker: if you can hear me, name a daylight route with armed people and I will walk it. Until then I ho
