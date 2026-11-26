@@ -70,3 +70,6 @@
 - 17:35 act: {"say":"Picard here, at my bed 416,107,-1093. Hunger 17, pack empty, unarmed. Billy, Worf, Riker: if you have food or a blade to spare, or a named daylight route, call me. William holds at his bed.","
 - 17:50 say: {"text":"Picard here at the north bed 416,107,-1093. Hunger 17, unarmed, no food. Billy, Worf: if you are near, name a daylight route with armed people and I will walk it."}
 - Day 1092 day. Looked and waited twice (60s, 240s). Nobody in sight, no speech except William's old lines, no damage. Hunger 17, health 17.3 steady, unarmed, no food, days_since_sleep 24. Said aloud for Billy and Worf. Holding at north bed; no named route.
+- 18:04 act: {"actions":[{"do":"note","text":"Day 1092 day, waking 1450. At north bed 416,107,-1093, not enclosed. Health 17.3 steady, hunger 17, unarmed, pack empty. Nobody in sight, no events. Holding; no named 
+- 18:08 act: {"actions":[{"do":"note","text":"Day 1093 dusk. At north bed 416,107,-1093, not enclosed, so no sleep. Hunger 17, health 17.3 steady, unarmed, no food. Nobody in sight. Holding through the night."}]}
+- 18:12 act: {"actions":[],"say":"Goodnight, William. Picard here at my bed, unarmed and hungry, holding until a named route comes. Sleep well."}
