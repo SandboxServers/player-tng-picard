@@ -14,3 +14,5 @@
 - Day 1071 day. William answered again: no food, no route, holding until Billy or Worf speaks. Tommy has not answered yet. Hunger 17. Holding; waiting.
 - 11:16 act: {"say":"Billy, Worf, William, if you can hear me: I am Picard, at the north bed 416,107,-1093. I have no food and I am unarmed. I will move only on a named daylight route with armed people in sight."}
 - 11:32 act: {"say":"Billy, Worf, William: this is Picard, at the north beds 416,107,-1093. I am unarmed, with no food, and I need word from you.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wa
+- 11:33 act: {"say":"Picard here, at the north bed 416,107,-1093. Night, unarmed, hunger 17, no food. Billy, Worf, if you can hear me, name a daylight route with armed people. I will hold here until then.","intent
+- 11:39 act: {"say":"Picard, morning 1073, at the north bed 416,107,-1093. Still unarmed, hunger 17, no food. Billy, Worf: no walk without a named daylight route and armed escort. I am holding.","intent":{"goal":"
