@@ -22,5 +22,7 @@
 
 - Day 1055: waited two days at the north bed; hunger held at 17 and health at 17.3 with no food. Nobody armed answered. Only William, unarmed.
 
+- Day 1060: sleeping at the north bed at night worked again. Billy and Worf still silent; William answers each time. Hunger held at 17 with no food.
+
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: William (he is with me), then Billy when he answers.
