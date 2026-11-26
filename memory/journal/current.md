@@ -36,3 +36,5 @@
 - 13:29 act: {"actions":[{"do":"note","text":"Day 1079 day, waking 1431. At north bed 416,107,-1093, not enclosed, no sleep. Hunger 17, health 17.3, unarmed, no food. Called for Billy, Worf again; no reply. Willia
 - 13:33 act: {"say":"Billy, Worf, this is Picard at the north bed, 416 107 -1093. I am unarmed, hungry, with no food. Is anyone there with food or a blade to walk with me?","actions":[]}
 - 13:42 act: {"actions":[{"do":"note","text":"Day 1079 day. Waited again; nothing new. Hunger 17, health 17.3, unarmed, no food, nobody in sight. Holding at north bed for a named route."}],"intent":{"goal":"hold_a
+- 13:44 act: {"say":"Billy, Worf, if you can hear me: I am at the north bed, 416,107,-1093. Unarmed, no food. I will wait here for a word."}
+- Day 1079 dusk. Waking 1433. Status: days_since_sleep 11, hunger 17, health 17.3 steady, unarmed, no food, nobody in sight, not enclosed. Called aloud again for Billy and Worf. Holding at north bed; no route named. Not sleeping unenclosed.
