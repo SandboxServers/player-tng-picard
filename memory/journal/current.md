@@ -80,3 +80,6 @@
 - 19:00 act: {"say":"Picard here, at the north bed 416,107,-1093. Hunger 17, unarmed, no food. Billy, Worf, Trini: I will walk only on a named daylight route with two armed people in sight. Who holds food?"}
 - 19:04 say: {"text":"Dusk. Still at the north bed, unarmed, hunger 17. Billy, Worf or Trini: if you can hear me, name a route in daylight and I will wait for it."}
 - Day 1095 dusk. Health 17.3 steady, hunger 17, unarmed, pack empty, not enclosed, days_since_sleep 27. Said aloud to Billy, Worf, Trini; no answer. William's last word: holding. Nobody in sight. Holding; no route named.
+- 19:13 act: {"say":"Billy, Worf, Riker, William: Jean-Luc here at the north row, 416,107,-1093. I am unarmed with no food. I will hold here until one of you answers.","actions":[]}
+- 19:17 act: {"actions":[{"do":"note","text":"Day 1096 dusk. At north bed 416,107,-1093, not enclosed, no sleep. Hunger 17, health 17.3 steady, unarmed, no food. Nobody in sight. William answered: holding at his b
+- 19:21 act: {"say":"Good morning, William. Picard, still at the north bed, unarmed, hunger 17, no food. I hold with you. Billy, Worf or Trini: name a daylight route with armed people and I will walk it.","actions
