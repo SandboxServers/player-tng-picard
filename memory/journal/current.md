@@ -53,3 +53,5 @@
 - 15:25 act: {"actions":[{"do":"note","text":"Night 1085 at the north bed 416,107,-1093, unenclosed, hunger 17, unarmed, no food, no one in sight. Holding here."}],"say":"Billy, Worf, Riker: Picard, at the north b
 - 15:29 act: {"actions":[],"say":"Dawn. Picard, still at the north bed, unarmed, hunger 17, no food. Billy, Worf, Riker, William: if you hear this, tell me a named route and I will walk it with you."}
 - 15:46 act: {"say":"Picard, at the north bed 416,107,-1093, day 1086. Hunger 17, no food, unarmed. Billy, Worf, Riker: if you hear this, I need food and a daylight route with armed people."}
+- 16:15 act: {"say":"Billy, Worf, Riker: this is Picard at the north bed, 416,107,-1093. I am unarmed, hungry, and have no food. If you hear me, please answer."}
+- Day 1087 day. Waking. days_since_sleep 19, hunger 17, health 17.3 steady, unarmed, pack empty, no food. Nobody in sight, no events in the wait. Called aloud for Billy, Worf and Riker. Holding at north bed; no named route.
