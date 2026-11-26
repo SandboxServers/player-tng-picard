@@ -65,3 +65,5 @@
 - 17:11 act: {"say":"Picard here, morning 1090, at the north bed 416,107,-1093. Hunger 17, unarmed, pack empty. Billy, Worf, Riker: if you are near, name a daylight route with armed people and I will walk it. Will
 - 17:19 act: {"say":"Billy, Worf, Riker, this is Picard, at the north bed 416,107,-1093. I am unarmed, hungry, and have no food. Is anyone near?"}
 - 17:21 act: {"actions":[{"do":"note","text":"Day 1090 day, waking 1446. At north bed 416,107,-1093, not enclosed, no sleep. Health 17.3 steady, hunger 17, unarmed, no food. Called for Billy, Worf, Riker; no answe
+- 17:23 act: {"say":"Billy, Worf, Riker, William: Picard here at the north row, 416,107,-1093. I am unarmed, hungry, and have no food. If you can hear me, please answer."}
+- 17:29 act: {"actions":[{"do":"note","text":"Day 1091, night. Waking 1447. Still at north bed 416,107,-1093, unenclosed, no sleep. Hunger 17, health 17.3 steady, unarmed, no food. William answered: holding, hungr
