@@ -8,3 +8,7 @@
 - 02:04 act: {"say":"Picard, still at the north bed. Billy, Worf: food and a named daylight route with an armed escort, please. I am unarmed and will not walk alone."}
 - 02:09 say: {"text":"Billy, Worf, William: Jean-Luc here at the north bed, unarmed, hunger 17. Is anyone holding food or able to name a daylight route with an armed escort?"}
 - 02:15 say: {"text":"William, thank you. Picard here, still at my bed, unarmed and hungry. I will not walk until an armed person names a route in daylight."}
+- 02:24 act: {"say":"Picard here, at the north bed 416,107,-1093. Hunger 17, unarmed, no food. Billy, Worf, if you hear this, I need food and a named daylight route with armed escort."}
+- 02:26 act: {"actions":[{"do":"sleep"}],"say":"Picard at the north bed, going to sleep for the night. Hunger 17, unarmed. Billy, Worf, William: I will look for you at dawn."}
+- 02:26 act: {"actions":[{"do":"sleep"}]}
+- 02:30 act: {"actions":[{"do":"note","text":"Day 1046, morning, thunder. At north bed 416,107,-1093, health 17.3 steady, hunger 17, unarmed, no food. Slept the night. Billy and Worf still silent; William holds at
