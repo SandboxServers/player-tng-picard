@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 1040 ended with a sleep at the north bed 416,107,-1093, not enclosed. Hunger 17, no food, health 17.3 steady, unarmed, pack empty.
+I am Jean-Luc Picard. Day 1041: slept at the north bed 416,107,-1093, not enclosed. Hunger 17, no food, health 17.3 steady, unarmed, pack empty.
 
-Billy and Worf have not answered since day 1019. William (Clark) answers at 416,107,-1079, also unarmed and without food.
+Billy and Worf have not answered since day 1019 (I called again at dawn on 1041). William (Clark) answers at 416,107,-1079, also unarmed; he will walk only on a route named by an armed leader.
 
 Food leads, all needing armed escort: ripe potatoes at 463,107,-1073; cows near 434,106,-1113 and 339,104,-979.
 
