@@ -18,3 +18,5 @@
 - Day 1050, night: slept at north bed 416,107,-1093; sleep worked after a second call. Hunger 17, health 17.3, unarmed, no food. No word from Billy or Worf; William holds at 416,107,-1079.
 - 04:05 act: {"actions":[],"say":"Picard, daylight 1051 at the north bed. Hunger 17, health 17.3, unarmed, no food. Billy, Worf: food and a named route with two armed people, when you can. William, I am still here
 - 04:13 act: {"actions":[{"do":"sleep"}],"say":"Picard, dusk 1051 at the north bed. Hunger 17, unarmed, no food. Billy, Worf: food and a named daylight route with two armed people at dawn. Good night, William."}
+- 04:26 act: {"say":"Billy, Worf, William, this is Picard at the north bed. I have no food and hunger is 17. Is anyone with food or an armed escort within reach?"}
+- 04:30 act: {"actions":[{"do":"sleep"}]}
