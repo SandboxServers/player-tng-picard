@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 1066, slept at the north bed 416,107,-1093, not enclosed. Health 17.3, hunger 17, unarmed, pack empty, no food.
+I am Jean-Luc Picard. Day 1067, slept at the north bed 416,107,-1093, not enclosed. Health 17.3, hunger 17, unarmed, pack empty, no food.
 
-Billy and Worf have been silent since day 1019. I called for them at dusk and at waking on 1066; no answer. William (Clark) holds at 416,107,-1079 and answers me each time, with the same word.
+Billy and Worf have been silent since day 1019. I called for them at waking, before sleep and again on 1067; no answer. William (Clark) holds at 416,107,-1079 and answers with the same word: he moves only on a named daylight route with armed people.
 
 Rules I keep: walk only on a named daylight route with two armed people in sight. Eat at hunger 6 or below. Never sleep at a south-facing bed. Recover dropped items only with Billy's word and armed escort.
 
