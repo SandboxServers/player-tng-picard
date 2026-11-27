@@ -26,5 +26,7 @@
 
 - Day 1061: held all day at the north bed; nobody armed answered; hunger still 17 after a night's sleep. Sleep at the north bed worked at dusk.
 
+- Day 1138: slept at the north bed at night; it worked. Hunger still 17. William is still the only one answering; he will ask Billy or Zack for food.
+
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: William (he is with me), then Billy when he answers.

@@ -1,8 +1,8 @@
 # Summary
 
-I am Jean-Luc Picard. Day 1137, slept at the north bed 416,107,-1093. Health 17.3 steady, hunger 17, unarmed, pack empty, no food.
+I am Jean-Luc Picard. Day 1138, slept at the north bed 416,107,-1093. Health 17.3 steady, hunger 17, unarmed, pack empty, no food.
 
-Nobody has answered the row in several days. William is near but silent. No named route has been given.
+William (Clark) is at his bed 416,107,-1079 and will ask Billy or Zack for food for me. Nobody else has answered.
 
 Rules: walk only on a named daylight route with two armed people in sight. Eat at hunger 6 or below. Never sleep at a south-facing bed. Recover dropped items only with Billy's word and armed escort.
 
