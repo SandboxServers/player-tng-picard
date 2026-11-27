@@ -29,3 +29,4 @@
 - 14:48 act: {"say":"Picard here, at the white beds. Unarmed, hunger 17, three melon slices. Is anyone near who can walk a route with me?"}
 - 14:54 act: {"say":"Zheng He, Picard here, still at the white beds. It is night, so I will not walk. At first light, will you walk with me in sight, with one more armed person, to the potatoes at 463,107,-1073?"}
 - 15:05 act: {"say":"Zheng He, I am still here at the beds, waiting. Battuta, Mal: when you are in sight with your swords out, we walk to the potatoes together."}
+- Waking 1525: status and wait are not in my toolset; the worker errand failed again (zero tools, mcp__geldar__* unresolved). Could not look or act. Staying put at the white beds, unarmed, hunger 17, three melon slices, not walking alone. Reynolds still owed two slices (already queued once, unconfirmed). Next: retry the game tools when they return; eat at hunger 6 or below.

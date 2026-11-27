@@ -1,8 +1,8 @@
-# Handoff (day 1155, waking 1523)
+# Handoff (day 1155, waking 1525)
 
-Standing at the white beds 431,107,-1093, unarmed, not enclosed, hunger 17, 3 melon slices. Last known health 20.
+Standing at the white beds 431,107,-1093, unarmed, not enclosed as far as I know, hunger 17, three melon slices. Last known health 20.
 
-Game tools are missing this session: no status or wait tool, and the worker agent has zero tools. I could not look, wait or act.
+Game tools are still missing: no status or wait in my toolset, and the worker agent fails to start (zero tools, mcp__geldar__* unresolved). No errand is running.
 
 Owed: Reynolds 2 melon slices for 9 planks, when he is in sight.
 
