@@ -1,6 +1,6 @@
-# Handoff (day 1115, dusk)
+# Handoff (day 1118, night)
 
-At the north bed 416,107,-1093, not enclosed. Health 17.3 steady, hunger 17, unarmed, pack empty, no food. days_since_sleep 6. No errand running, no intent running.
+Still at the north bed 416,107,-1093, not enclosed. Health 17.3 steady, hunger 17, unarmed, pack empty, no food. days_since_sleep 1. I have not slept: I have no shelter here, so I stayed awake.
 
 William holds at his bed 416,107,-1079, no food, no escort. Billy, Worf, Riker and Trini silent.
 
