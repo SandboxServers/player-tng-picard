@@ -32,5 +32,7 @@
 
 - Day 1145: waited at the north bed through the day; no armed answer, no food. Slept at dusk at the north bed; it worked. Hunger 17 at waking.
 
+- Day 1146: waited again through the day at the north bed; no armed answer, no food. Slept at night at the north bed; it worked. Hunger 17 still; William, unarmed and empty, is the only one answering.
+
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: William (he is with me), then Billy when he answers.
