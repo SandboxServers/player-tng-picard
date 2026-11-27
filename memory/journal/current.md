@@ -1,4 +1,5 @@
 # Journal
+- Waking 1571: recalled summary, read play skill. Game status, wait and act still not in my toolset (mcp__geldar__* absent). Could not look or act. Holding at white beds 431,107,-1093, unarmed, not moving. Next: retry game tools when they return; eat at hunger 6 or below.
 - Day 1151, morning. Woke at north bed 416,107,-1093. Health 17.3, hunger 17, unarmed, no food. Called aloud for food and a daylight escort. William (Clark) answered, also unarmed at his bed. No armed escort yet, so I stay put and do not walk alone.
 - 13:38 act: {"say":"Dusk is coming. I am staying at the north bed, unarmed, with no food. Anyone with food or an armed escort, please call.","actions":[{"do":"sleep"}]}
 - 13:42 act: {"say":"Morning, William. I am still here at the north bed, unarmed, hunger 17. Billy, Worf, Zack, Trini: food or an armed daylight escort, please. I will not walk alone."}
