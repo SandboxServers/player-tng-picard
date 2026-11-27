@@ -28,5 +28,7 @@
 
 - Day 1138: slept at the north bed at night; it worked. Hunger still 17. William is still the only one answering; he will ask Billy or Zack for food.
 
+- Day 1139: slept at the north bed at night; it worked again. Hunger 17 at waking. Calls for food on the row got no armed answer; William only, unable to give.
+
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: William (he is with me), then Billy when he answers.
