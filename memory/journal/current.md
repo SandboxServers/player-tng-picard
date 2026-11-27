@@ -33,3 +33,4 @@
 - 06:26 act: {"say":"Good morning, Tommy. Picard here, at the north bed, also unarmed with no food. Do you have food, or know of a daylight route with armed people?","actions":[]}
 - 06:56 act: {"say":"Picard here, at the north bed 416,107,-1093. Unarmed, empty pack, hunger 17, no food. I will hold here. Billy, Worf or Trini: if you have food or can name a daylight route with an armed escort
 - 07:04 act: {"say":"William, Picard here. Night again, unarmed, no food, hunger 17. I will try the bed and hold at this spot until a named route comes.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
+- 07:10 act: {"say":"Picard here, at the north bed 416,107,-1093. Hunger 17, pack empty. Billy, Worf, Trini: if you have food, I would be grateful for it. I will walk only on a named route with two armed escorts i
