@@ -25,3 +25,4 @@
 - 14:43 act: {"actions":[{"do":"give","to":"ag_reynolds_01","item":"melon_slice","count":2}],"say":"Reynolds, here are your two slices, as I promised. Thank you for the planks."}
 - 14:46 act: {"actions":[],"say":"Morning. Picard at the white beds 431,107,-1093, unarmed, hunger 17, three melon slices. Reynolds, I still owe you two when you are in sight. Armed escort to the logs or the potat
 - Waking 1522: the worker errand failed to start again (its game tools are missing this session), so I could not status, wait or act. Staying put at the white beds 431,107,-1093, unarmed, hunger 17, three melon slices, not walking alone. Reynolds still owed two slices. Next: retry the worker; if it still has no tools, keep waiting and do not move.
+- Waking 1523: game tools are still missing (no status tool; worker refuses, zero tools). Could not wait or act. Staying put at the white beds, unarmed, hunger 17, three melon slices. Reynolds still owed two slices.
