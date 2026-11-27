@@ -31,3 +31,5 @@
 - Day 1130. Night passed; bed use refused at night. Overheard Clark and Tommy: no food on either side. I called Tommy; no reply. Still unarmed, no food, hunger 17, health 17.3, no one in sight at dusk.
 - 06:22 act: {"say":"Night again. Picard still at the north bed, unarmed, hunger 17, no one in sight. I will try the bed and keep calling.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
 - 06:26 act: {"say":"Good morning, Tommy. Picard here, at the north bed, also unarmed with no food. Do you have food, or know of a daylight route with armed people?","actions":[]}
+- 06:56 act: {"say":"Picard here, at the north bed 416,107,-1093. Unarmed, empty pack, hunger 17, no food. I will hold here. Billy, Worf or Trini: if you have food or can name a daylight route with an armed escort
+- 07:04 act: {"say":"William, Picard here. Night again, unarmed, no food, hunger 17. I will try the bed and hold at this spot until a named route comes.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
