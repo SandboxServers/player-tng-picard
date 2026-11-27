@@ -4,3 +4,4 @@
 - Waiting for Billy, Worf, Zack or Trini to answer. Will not walk alone.
 - 09:42 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"It is night. I am going to sleep at the north bed. Still hungry, still no food."}
 - 09:42 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1092}}]}
+- 09:44 act: {"say":"Picard here, at the north bed. Hunger 17 and no food. Billy, Worf, Zack or Trini: I need food and a named daylight route with two armed escorts. I will stay put until then.","actions":[]}
