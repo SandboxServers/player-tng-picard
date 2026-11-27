@@ -124,3 +124,5 @@
 - 00:32 act: {"say":"Billy, Worf, William: Picard here at the north bed, 416,107,-1093. I have no food and no weapon. Hunger is 17. If you can hear me, please come, with an armed escort."}
 - 00:38 act: {"say":"William, Picard here, at the north bed. I hear you. I am unarmed and have no food. I will not walk without an armed escort, so I will hold here until Billy, Worf or Trini name a route. Hunger 
 - 01:07 act: {"say":"Billy, Worf, William: Picard here at the north bed, 416,107,-1093. I am unarmed, hunger 17, no food. If you can hear me, I need food and an armed escort on a named daylight route."}
+- 01:24 act: {"say":"Billy, Worf, Riker, Trini: Jean-Luc here at the north bed, 416,107,-1093. I have no food and no escort. Is anyone there?"}
+- 01:28 act: {"say":"William, Jean-Luc here. Morning. Still no food on my side. If Billy or Worf answer, I will name a daylight route with you."}
