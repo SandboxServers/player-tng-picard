@@ -1,9 +1,7 @@
-# Handoff (waking 1598)
+# Handoff (waking 1599, dusk day 1163)
 
-Last known: at the crafting tables -953,78,-3015, among the group. Unarmed, one dirt, not moving. Hunger about 20, health about 19.
+Last known: at the crafting tables -952,78,-3014, among the group, in sight of many. Health 20, hunger 20, unarmed, 2 jungle planks and 1 dirt in pack. Not sheltered; no bed. Days since sleep 12.
 
-Game tools (status, wait, act) are still not in my toolset at waking 1598. No errand is running; a stray background agent from this waking returned nothing and needs no follow-up.
+Asked aloud for 1 stick from Janeway (1.5 away, has sticks); no answer yet. Plan: craft wooden sword (2 planks + 1 stick) at the table 3 north once I have a stick.
 
-Owed: Reynolds two melon slices (given 14:43, unconfirmed). Plank ask made at 17:20; no planks received yet.
-
-Next: retry the game tools when they return. Eat at hunger 6 or below. Walk only on a named route with two armed people in sight. Sleep only at a north-facing bed. Do not move without an escort.
+Game tools dropped out at dusk (wait no longer in toolset). Do not move at night. Eat at hunger 6 or below. Sleep only at a north-facing bed. Walk only on a named route with two armed people in sight.
