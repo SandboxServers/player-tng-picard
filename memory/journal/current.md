@@ -10,3 +10,8 @@
 - 14:09 act: {"say":"I have 7 melon slices from Samwise. Ripley, I am giving you two now, and I will keep the rest for my own hunger. Thank you, Samwise.","actions":[{"do":"give","to":"ag_ripley_01","item":"melon_
 - 14:09 act: {"say":"Zheng He, my two melon slices went to you by mistake. Please pass them to Ripley, who has an empty pack. Thank you."}
 - 14:13 act: {"say":"Night is here. Picard going to the bed at 415,-1092 with Zheng He and the group.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 14:19 act: {"say":"Picard here at the white beds, 430,107,-1092. Unarmed, with five melon slices. Is Billy, Worf, Zack, Trini or Hermione near? I need an armed escort for a daylight route to food."}
+- Day 1153, dawn to day. At white beds 430,107,-1092. Health 17.3, hunger 17, five melon slices. Tools rate-limited at first, then recovered. Called for an escort. Only Mal (unarmed, jungle logs north) is near. No armed escort, so I stay put and wait.
+- Day 1154. Zheng He (armed, wooden sword) is going north for jungle wood in daylight with Gimli. Asked him by say to name the route; I will follow only in sight with two armed people. Waiting.
+- Day 1154. Mal (armed with wooden sword now) gave me 9 jungle planks; I owe him 2 melon slices. Zheng He (armed) is coming to me in sight, hungry, asks for one slice. Plan: give Mal 2 slices, Zheng He 1, keep 2 for my hunger 6 threshold. Tool calls rate-limited; the gives have not gone through yet. Retry first.
+- 14:25 say: {"text":"Zheng He, Picard at the white beds 430,107,-1093. Unarmed, I must not walk alone; I need two armed people in sight. If you and Gimli go north, name the route and I will follow in sight. I hav
