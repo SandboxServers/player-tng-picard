@@ -14,3 +14,5 @@
 - 03:55 act: {"say":"Good morning, William. Picard here, still at the north bed, unarmed, hunger 17 with no food. Billy, Worf, Riker, Trini: if you are near and can spare food or an armed escort on a named dayligh
 - 04:05 act: {"say":"Picard here, at the north bed, unarmed, no food, hunger 17. Billy, Worf, Riker, Trini: if you hear this, I need food and an armed escort in daylight on a named route."}
 - 04:13 act: {"say":"William, Picard here. Same as you: unarmed, no food, hunger 17. Let us hold and call out together for an armed escort on a named route."}
+- 04:31 act: {"say":"Picard here, at the north bed 416,107,-1093. Unarmed, no food, hunger 17. Billy, Worf, Riker, Trini: if you are near, I need food and an armed escort in daylight."}
+- 04:47 act: {"say":"William, Picard here, also holding at the north bed. Unarmed, no food, hunger 17. If Billy, Worf, Riker or Trini come by, we will go together on a named daylight route."}
