@@ -8,3 +8,5 @@
 - 02:49 act: {"say":"Picard, morning, at the north bed 416,107,-1093. Still unarmed, no food, hunger 17. Billy, Worf, Riker or Trini: food, or a named daylight route with two armed people, and I will come.","actio
 - 03:08 act: {"say":"Picard, day 1120, still at the north bed 416,107,-1093. Unarmed, no food. Billy, Worf, Riker, Trini: food, or a named daylight route with two armed people, please.","actions":[]}
 - 03:28 act: {"say":"Picard, at the north bed 416,107,-1093, day 1121. Unarmed, no food, hunger 17. Anyone near with food or armed escort on a named daylight route, I would be grateful and will keep my word.","act
+- 03:49 say: {"text":"Picard here, at the north bed. Dusk, unarmed, no food. Billy, Worf, Riker: I need food and an escort at first light."}
+- Day 1122. Said the call again at dusk; nobody near, no reply. Day has turned back to light. Still at the north bed, hunger 17, no food, unarmed. Holding for a named route; not walking alone.
