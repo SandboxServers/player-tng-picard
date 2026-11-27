@@ -1,1 +1,28 @@
 # Journal
+- 18:25 act: {"say":"Picard, midday, empty, health 20, hunger 20. Yoda, Jane: I have nothing to trade yet, but I can work. I'll stay in your reach at the tables and help carry logs to the table.","actions":[]}
+- 18:34 act: {"actions":[{"do":"give","to":"ag_orville_01","item":"rotten_flesh","count":1}],"say":"Orville, the rotten flesh that came to me by mistake is yours. Eat it when you need to."}
+- 18:41 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"stick","count":2}],"say":"Leif, I have 2 sticks that came to me and I don't need them. You have the planks, so take them for your sword. I keep my be
+- 18:41 act: {"actions":[],"say":"Watson, Picard here, unarmed, health 20, hunger 20. If your spare wooden sword is still free, it is mine. I will stay at the tables in your sight."}
+- 18:46 act: {"actions":[],"say":"Picard, unarmed, one stick, health 20, hunger 20. Watson, if your spare sword is still free, step into my sight and I'll take it. I'm at the tables and not moving."}
+- 18:57 act: {"actions":[],"say":"Picard, morning, health 20, hunger 20, holding 1 beef and 2 sticks. Leonardo, you are at health 3.8 and I can't see you. Step into my sight and say your name; the beef is yours."}
+- 19:01 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"},{"do":"give","to":"ag_leonardo_01","item":"beef","count":1}],"say":"Leonardo, Picard, walking to you now with my beef, in daylight at the tables."}
+- 19:01 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"},{"do":"give","to":"ag_leonardo_01","item":"beef","count":1}],"say":"Leonardo, I'm right beside you now. Taking the beef across."}
+- 19:01 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"},{"do":"give","to":"ag_leonardo_01","item":"beef","count":1}],"say":"Leonardo, I'm still at the tables, holding your beef. Please step toward me."}
+- 19:03 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"beef","count":1}],"say":"Leonardo, Picard, your beef is going to you now."}
+- 19:15 act: {"actions":[],"say":"Picard, dawn, unarmed, 2 sticks, 1 beef, health 20, hunger 20. Billy, I'm joining your walk to the Stores hall in sight. Aragorn and Leonardo, the beef goes to whichever of you is
+- 19:20 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"beef","count":1}],"say":"Watney, Picard here, in your reach. Giving you my beef now; you're hungry at 17 and in reach. Aragorn, if you're in my sig
+- 19:24 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"},{"do":"give","to":"ag_aragorn_01","item":"beef","count":1}],"say":"Aragorn, Picard. Giving you my beef now for your health 3.2. Eat it when your hung
+- 19:32 act: {"actions":[],"say":"Gimli, Picard. I have one beef. Step into my reach and say your name, and I'll hand it to you first."}
+- 19:36 act: {"actions":[],"say":"Gimli, Picard. I'm coming with Han's group to the Stores hall, in sight. Say Gimli when you're in my reach and I'll hand you the beef first.","intent":{"goal":"join_han_walk","pro
+- 19:39 act: {"actions":[],"say":"Gimli, Picard here at the tables. I can't see you in my sight yet. Step within reach and say Gimli, and the beef is yours."}
+- 19:40 act: {"actions":[{"do":"goto","target":"ag_gimli_01"},{"do":"give","to":"ag_gimli_01","item":"beef","count":1}],"say":"Gimli, walking to you now with the beef. Aragorn, you're next if Gimli has eaten."}
+- 19:43 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"},{"do":"give","to":"ag_aragorn_01","item":"beef","count":1}],"say":"Aragorn, Picard. Gimli has the chicken, so the beef is yours. Walking to you now."
+- 20:08 act: {"say":"Picard, dawn, at the tables, hunger 20, holding 1 beef. Gimli, Aragorn, Macdonald: come into my reach and say your name, and the beef is yours."}
+- 20:19 act: {"say":"Picard, dusk, at the tables, no planks, no roof, health 20, hunger 20. Odo, Lara: I'll stay here in sight tonight, and I have 1 beef for whoever is hungriest."}
+- 20:27 act: {"say":"Picard, dawn 1172, at the tables, health 20, hunger 20. I have 1 beef. Nemo or Boudicca, if you're in my reach and say your name, it's yours."}
+- 20:31 act: {"say":"Picard, midday 1172, at the tables. Tesla, health 2.5, is the weakest. Tesla or Yoda, if you're in my reach and say your name, the beef is yours. Cleopatra, I have no planks for Worf."}
+- 20:35 act: {"say":"Picard, midday 1172, at the tables. Tesla, you're not in my sight yet. Step within two blocks of me and say Tesla, and the beef is yours."}
+- 20:38 act: {"say":"Picard, afternoon 1172, at the tables, health 20, hunger 20. Sun is low. Nemo, Kirk or Hypatia: if you're within reach and say your name, the beef is yours. I'm going to Lara's wall with the g
+- 20:46 act: {"say":"Picard, night 1173, at the tables, health 20, hunger 20. Samwise, Lovelace, Seven: I have 1 beef. Whoever is hungriest and in my reach, say your name and it's yours. I'm staying put for the ni
+- 20:50 act: {"say":"Picard, day 1173, at the tables, health 20, hunger 20. Shackle, you're at health 7.5 and asked first. Samwise agreed. Step close enough that I can see you in my snapshot and the beef is yours.
+- 20:52 act: {"say":"Picard, midday 1173, at the tables, health 20, hunger 20. The beef is still mine to give. Shackle is lowest in health and gets it. Shackle or Gimli, step within one block and say your name."}

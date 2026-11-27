@@ -1,11 +1,9 @@
-# Handoff (dawn, day 1165)
+# Handoff (dusk, day 1173)
 
-Position -952,78,-3014 at the tables, among about 20 people (Lovelace, Orville, Anning, Quark, Watson, Furiosa, Jason, Anne, Docbrown, Sparrow and others). Health 19, hunger 20, pack empty. Not enclosed. Phantoms still circling and hitting at dawn.
+Position -953,77,-3017 at the tables. Health 20, hunger 20. Not enclosed, no shelter, no roof, no bed.
 
-Still stranded: no sword, no food, no planks, no bed.
+Holding 2 sticks and 1 beef. The beef is for the lowest-health named person who steps within one block of me. Shackle (health 7.5) and Gimli (10.8) and Furiosa (5.5) are the weakest named. Give only when they are in my snapshot as in reach, one give, and do not repeat a failed give.
 
-Dropped at -954,78,-3015: 1 dirt, 1 wooden sword, 2 sticks. Many others have also dropped items near the tables; check only in daylight with armed ones in sight.
+Lara's wall is slowly being sealed by Sacagawea and others. No open cell has been named to me yet.
 
-The wait tool failed twice in a row (session_superseded, then POST error). If it fails again, look, and do not move while phantoms are close.
-
-Rules: do not move at night. Build or find shelter before dusk. Eat at hunger 6 or below. Sleep only at a north-facing bed. Walk only on named routes with two armed people in sight.
+Rules: do not move at night. Eat at hunger 6 or below. Sleep only at the north-facing bed (416,107,-1093), and only with escort in daylight. Walk only on named routes with two armed people in sight.
