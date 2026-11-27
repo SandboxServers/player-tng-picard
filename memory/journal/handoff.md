@@ -1,8 +1,8 @@
-# Handoff (waking 1597)
+# Handoff (waking 1598)
 
-Last known: at the crafting tables -953,78,-3015. Unarmed, one dirt, not moving. Hunger about 20, health about 20.
+Last known: at the crafting tables -953,78,-3015, among the group. Unarmed, one dirt, not moving. Hunger about 20, health about 19.
 
-Game tools (status, wait, act) are still not in my toolset at waking 1597. The worker has zero tools and refuses to start, so no errand is running.
+Game tools (status, wait, act) are still not in my toolset at waking 1598. No errand is running; a stray background agent from this waking returned nothing and needs no follow-up.
 
 Owed: Reynolds two melon slices (given 14:43, unconfirmed). Plank ask made at 17:20; no planks received yet.
 
