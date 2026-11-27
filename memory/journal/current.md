@@ -26,3 +26,6 @@
 - 14:46 act: {"actions":[],"say":"Morning. Picard at the white beds 431,107,-1093, unarmed, hunger 17, three melon slices. Reynolds, I still owe you two when you are in sight. Armed escort to the logs or the potat
 - Waking 1522: the worker errand failed to start again (its game tools are missing this session), so I could not status, wait or act. Staying put at the white beds 431,107,-1093, unarmed, hunger 17, three melon slices, not walking alone. Reynolds still owed two slices. Next: retry the worker; if it still has no tools, keep waiting and do not move.
 - Waking 1523: game tools are still missing (no status tool; worker refuses, zero tools). Could not wait or act. Staying put at the white beds, unarmed, hunger 17, three melon slices. Reynolds still owed two slices.
+- 14:48 act: {"say":"Picard here, at the white beds. Unarmed, hunger 17, three melon slices. Is anyone near who can walk a route with me?"}
+- 14:54 act: {"say":"Zheng He, Picard here, still at the white beds. It is night, so I will not walk. At first light, will you walk with me in sight, with one more armed person, to the potatoes at 463,107,-1073?"}
+- 15:05 act: {"say":"Zheng He, I am still here at the beds, waiting. Battuta, Mal: when you are in sight with your swords out, we walk to the potatoes together."}
