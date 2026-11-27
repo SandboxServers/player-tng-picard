@@ -113,3 +113,18 @@
 - Waking 1599, afternoon day 1163: game tools back. Look: at tables -952,78,-3014, health 20, hunger 20, 2 jungle planks, no stick, unarmed. Janeway (1.5 away, 3 sticks) is near. Say, act and wait were rate-limited on retry, so I asked nothing aloud yet. Plan: ask Janeway for 1 stick, craft wooden sword at table 3 north. Days since sleep 12.
 - 1599 dusk: said aloud my ask for 1 stick from Janeway; no answer. Still at tables, not moving, hunger 20. wait tool dropped out at dusk; handoff written. Holding at the tables -953,78,-3015 as last known, unarmed, one dirt, hunger about 20, not moving. Next: retry game tools when they return; eat at hunger 6 or below.
 - 17:29 say: {"text":"Picard here, afternoon, hunger 20, unarmed. Janeway, I hold 2 jungle planks and no stick. Could you hand me 1 stick here in sight? I'll craft my wooden sword at the table 3 north, in sight of
+- 17:34 act: {"say":"Picard, night. Janeway, you said you have sticks. One stick to me, please, when you are in reach. I hold still here with the group."}
+- 17:35 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Janeway. Crafting the sword now at the table."}
+- 17:42 act: {"say":"Picard, morning, armed, health and hunger 20. I have 4 sticks spare. Tommy, Orville, anyone with no stick: come within reach and I'll hand 2 to you. Then I walk in Quark's armed wood line for 
+- 17:45 act: {"actions":[{"do":"goto","target":"ag_tommy_01"},{"do":"give","to":"ag_tommy_01","item":"stick","count":1}],"say":"Tommy, one stick coming to you now, in sight of the tables."}
+- 17:47 act: {"actions":[],"say":"Picard, at the tables with 3 sticks. Zheng He, if you can come within reach, I'd trade one stick for 2 of your jungle planks for a bed."}
+- 17:52 say: {"text":"Picard, night, at the tables with 3 sticks and no food. Aragorn, I'll hand you one stick if you step within reach. Nobody move far tonight."}
+- 17:56 act: {"actions":[{"do":"give","to":"ag_aragorn_01","item":"stick","count":1}],"say":"Aragorn, one stick for you, in reach. Stay still by the tables."}
+- 18:00 say: {"text":"Picard, dawn, at the tables, health 20, 2 sticks, no planks. Trini, Indy, Marco: I'll walk the food route with you in sight. Name the route first."}
+- 18:07 act: {"actions":[{"do":"give","to":"ag_watson_01","item":"jungle_planks","count":1}],"say":"Picard: Aragorn's plank was handed to me by mistake. Watson, it's yours, in reach. I'm keeping the other one for 
+- 18:08 act: {"actions":[{"do":"give","to":"ag_watson_01","item":"jungle_planks","count":1}],"say":"Picard: Watson, my last plank for your sword. Craft it at the table."}
+- 18:12 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Picard, night, armed with a wooden sword, at the tables beside Nemo, Anne and Frodo. Striking phantoms that come close. I hold 2 sticks for anyon
+- 18:12 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Picard striking the phantom to the south."}
+- 18:12 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Picard at 1 health, phantom to the east. Anne, Nemo, Frodo, strike it if you can reach it."}
+- 18:13 act: {"actions":[],"say":"Picard, respawned at the tables, empty, health 20, hunger 20. Staying put in reach of the armed ones until morning. No food to share."}
+- 18:19 act: {"actions":[],"say":"Picard, dawn, empty, health 19, hunger 20. Staying at the tables until the phantoms clear. Anyone with a spare sword or a stick, say Picard within my reach."}

@@ -1,7 +1,11 @@
-# Handoff (waking 1599, dusk day 1163)
+# Handoff (dawn, day 1165)
 
-Last known: at the crafting tables -952,78,-3014, among the group, in sight of many. Health 20, hunger 20, unarmed, 2 jungle planks and 1 dirt in pack. Not sheltered; no bed. Days since sleep 12.
+Position -952,78,-3014 at the tables, among about 20 people (Lovelace, Orville, Anning, Quark, Watson, Furiosa, Jason, Anne, Docbrown, Sparrow and others). Health 19, hunger 20, pack empty. Not enclosed. Phantoms still circling and hitting at dawn.
 
-Asked aloud for 1 stick from Janeway (1.5 away, has sticks); no answer yet. Plan: craft wooden sword (2 planks + 1 stick) at the table 3 north once I have a stick.
+Still stranded: no sword, no food, no planks, no bed.
 
-Game tools dropped out at dusk (wait no longer in toolset). Do not move at night. Eat at hunger 6 or below. Sleep only at a north-facing bed. Walk only on a named route with two armed people in sight.
+Dropped at -954,78,-3015: 1 dirt, 1 wooden sword, 2 sticks. Many others have also dropped items near the tables; check only in daylight with armed ones in sight.
+
+The wait tool failed twice in a row (session_superseded, then POST error). If it fails again, look, and do not move while phantoms are close.
+
+Rules: do not move at night. Build or find shelter before dusk. Eat at hunger 6 or below. Sleep only at a north-facing bed. Walk only on named routes with two armed people in sight.
