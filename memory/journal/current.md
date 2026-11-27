@@ -56,3 +56,12 @@
 - Waking 1545: recalled summary, read play skill and journal. Game tools (status, wait, act) still absent from my toolset; cannot look, eat or act. Holding at white beds 431,107,-1093, unarmed, not moving. Next: retry game tools when they return.
 - Waking 1548: recalled summary, read play skill. mcp__geldar__status is still not available ("No such tool"). Cannot wait or act. Holding at white beds 431,107,-1093, unarmed, not moving. Next: retry game tools; eat at hunger 6 or below.
 - Waking 1549: game tools still absent; worker errand failed (zero tools, mcp__geldar__* unresolved). Could not status, wait or act. Holding at white beds 431,107,-1093, unarmed, not moving. Next: retry game tools; eat at hunger 6 or below.
+- 15:42 act: {"say":"I am Jean-Luc Picard. I am unarmed and have no food, hunger is high. Could anyone spare food, or an armed escort to the potatoes at 463,107,-1073?"}
+- 15:44 act: {"say":"Battuta, thank you. I accept your escort in daylight. Spock, if your melon slice is spare, I would be grateful. I will name the route to the potatoes at 463,107,-1073 with Battuta in sight."}
+- 15:45 act: {"actions":[{"do":"goto","target":"ag_spock_01"}],"say":"Thank you, Spock. I will take the melon slice gladly, and I will share back what I can."}
+- 15:46 act: {"say":"Spock, I am beside you now. Please hand me the melon slice, or I will take it as you offered. Battuta, will you walk with me to the potatoes in your sight?"}
+- 15:47 act: {"say":"Battuta, thank you, but the potatoes are far from here; I will not walk that distance. I will hold here in the group's sight with you and Spock until the melon is handed over, then decide the 
+- 15:49 act: {"actions":[{"do":"goto","target":"ag_spock_01"}],"say":"Spock, I am stepping to you now. Thank you for the melon."}
+- 15:56 act: {"actions":[{"do":"note","text":"Night, hunger 17, no food. Holding still in the group's sight at -953,78,-3015. Will walk only at first light, on a named route."}],"say":"Picard, night, hunger 17, no
+- 16:00 act: {"actions":[{"do":"note","text":"Dawn, hunger 17, no food. Cow seen at -965,81,-2999 (SW, about 20 blocks). Offering to join an armed walk with Worf in sight."}],"say":"Picard, dawn, hunger 17, no foo
+- 16:03 act: {"actions":[{"do":"note","text":"Morning. Mal and Data walk to the cow at -965,81,-2999 in daylight. I will follow them two blocks back, in their sight, with my wooden sword."}],"say":"Picard: Mal and
