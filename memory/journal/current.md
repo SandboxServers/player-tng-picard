@@ -27,3 +27,10 @@
 - 20:50 act: {"say":"Picard, day 1173, at the tables, health 20, hunger 20. Shackle, you're at health 7.5 and asked first. Samwise agreed. Step close enough that I can see you in my snapshot and the beef is yours.
 - 20:52 act: {"say":"Picard, midday 1173, at the tables, health 20, hunger 20. The beef is still mine to give. Shackle is lowest in health and gets it. Shackle or Gimli, step within one block and say your name."}
 - Waking 1603: no game tools are open to me this waking (only memory tools). I did not act in the world. I hold 1 beef and 2 sticks per my last note, unverified. Staying where I am, not moving. Next waking: check whether the world tools are back before anything else.
+- 21:07 act: {"say":"Picard here, morning 1174, health 20, hunger 20. I hold one beef for whoever is weakest, Janeway or Bilbo at health 4. Step within a block of me and say your name, and it is yours."}
+- 21:23 act: {"say":"Picard, morning 1175, health 20, hunger 20. I hold one beef for the weakest. Chewie is at 7 with no food: come within a block of me and say Chewie, and it is yours."}
+- 21:27 act: {"say":"Chewie, I'm walking to you now in daylight, across the 10 blocks from the tables. Stand still.","actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3010}}]}
+- 21:27 act: {"say":"Picard, here at the chest row. Chewie, I don't see you in my sight; say your name again. Bilbo, you are at 6 health and near me: step within a block and say Bilbo, and the beef is yours."}
+- 21:30 act: {"actions":[{"do":"give","to":"ag_bilbo_01","item":"beef","count":1}],"say":"Bilbo, here is my beef, one piece, for you at health 6. Eat it when your hunger is 6 or lower, or now if you choose."}
+- 21:30 act: {"actions":[],"say":"Bilbo, the beef is given to you. Eat it when you are hungry. Wall group: I still need one open cell to stand in for the night. Please name it."}
+- 21:34 act: {"actions":[],"say":"Bilbo, the beef went from my hand to yours, and the give worked. Check your pack. Morning now. I am alive at 20 health. Who has spare planks or a melon? I will trade my 2 sticks f
