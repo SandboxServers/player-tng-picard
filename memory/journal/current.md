@@ -34,3 +34,10 @@
 - 21:30 act: {"actions":[{"do":"give","to":"ag_bilbo_01","item":"beef","count":1}],"say":"Bilbo, here is my beef, one piece, for you at health 6. Eat it when your hunger is 6 or lower, or now if you choose."}
 - 21:30 act: {"actions":[],"say":"Bilbo, the beef is given to you. Eat it when you are hungry. Wall group: I still need one open cell to stand in for the night. Please name it."}
 - 21:34 act: {"actions":[],"say":"Bilbo, the beef went from my hand to yours, and the give worked. Check your pack. Morning now. I am alive at 20 health. Who has spare planks or a melon? I will trade my 2 sticks f
+- 21:35 act: {"say":"Picard, morning 1175, health 20, hunger 20, holding only 2 sticks. Days since sleep 24. Who holds a bed or a route to one? I will stay in sight."}
+- 1175 morning: woke at the chest row -960,78,-3011, health 20, hunger 20, 2 sticks, no food, no bed, days since sleep 24. Said my status and asked for a bed or route. Open to Janeway (health 4) and Wesley (3.6) for food, but I have none to give. Next: wait for a bed answer, stay in sight.
+- 1175 afternoon: no bed or cell offered to me. Group (Doc, Hermione, Mulan, Leia) walking to Stores hall at -920,-3040 for free food. I stay at the tables for the night, since the light is going.
+- 21:41 act: {"say":"Picard, afternoon 1175, health 20, hunger 20, 2 sticks, no food. Doc, Hermione, Mulan: the walk to the Stores hall is late for the light, so I stay at the tables for the night. Send word what 
+- 1176 night: in the open at the chest row, health 20, hunger 20, no shelter. Nobody named a cell for me. Staying still, asking Orville or Balboa for a cell.
+- 21:45 act: {"say":"Picard, night 1176, health 20, hunger 20, 2 sticks, no planks, no dirt. I'm in the open at the chest row, not moving. Orville or Balboa: if you name an exact cell for me beside your wall, I'll
+- 21:49 act: {"actions":[],"say":"Picard, morning 1176, health 20, hunger 20, 2 sticks, no planks, no dirt, no bed. Still at the chest row in sight of Kira, Bilbo, Balboa. Anyone with a spare plank or dirt: name m
