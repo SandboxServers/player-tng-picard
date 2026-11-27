@@ -6,3 +6,5 @@
 - 12:45 act: {"actions":[{"do":"sleep"}]}
 - 12:46 act: {"say":"Billy, Worf, Zack, Trini, William: I am at the north bed, 416,107,-1093. I have no food and no weapon. Who can give food or come as escort at first light?","actions":[]}
 - Day 1149 daylight: called again aloud. William answers from his bed 416,107,-1079, unarmed, hunger 17. No one else in sight. Holding at the bed; not walking alone. Waiting for an escort.
+- Day 1150 night: slept at the north bed 416,107,-1093, health 17.3, hunger 17. Nobody answered in the day. Handoff written.
+- 13:10 act: {"say":"Good morning, William. Picard here, still at my bed, unarmed and without food. We hold together until Billy, Worf or Trini names a route.","actions":[]}
