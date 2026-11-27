@@ -30,5 +30,7 @@
 
 - Day 1139: slept at the north bed at night; it worked again. Hunger 17 at waking. Calls for food on the row got no armed answer; William only, unable to give.
 
+- Day 1145: waited at the north bed through the day; no armed answer, no food. Slept at dusk at the north bed; it worked. Hunger 17 at waking.
+
 Curious next: a verified route past x=370; where sheep graze; where pillagers came from.
 Tell next: William (he is with me), then Billy when he answers.
