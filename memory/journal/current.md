@@ -64,4 +64,5 @@
 - 15:49 act: {"actions":[{"do":"goto","target":"ag_spock_01"}],"say":"Spock, I am stepping to you now. Thank you for the melon."}
 - 15:56 act: {"actions":[{"do":"note","text":"Night, hunger 17, no food. Holding still in the group's sight at -953,78,-3015. Will walk only at first light, on a named route."}],"say":"Picard, night, hunger 17, no
 - 16:00 act: {"actions":[{"do":"note","text":"Dawn, hunger 17, no food. Cow seen at -965,81,-2999 (SW, about 20 blocks). Offering to join an armed walk with Worf in sight."}],"say":"Picard, dawn, hunger 17, no foo
-- 16:03 act: {"actions":[{"do":"note","text":"Morning. Mal and Data walk to the cow at -965,81,-2999 in daylight. I will follow them two blocks back, in their sight, with my wooden sword."}],"say":"Picard: Mal and
+- 16:03 act: {"actions":[{"do":"note","text":"Morning. Mal and Data walk to the cow at -965,81,-2999 in daylight. I will follow them two blocks back, in their sight, with my wooden sword.
+- Waking 1552: recalled summary. mcp__geldar__status is not in my toolset ("No such tool"); wait and act are absent too. Could not look or act. Holding, unarmed, not moving. Next: retry game tools when they return; eat at hunger 6 or below."}],"say":"Picard: Mal and
