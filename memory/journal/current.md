@@ -121,3 +121,5 @@
 - 00:10 act: {"actions":[{"do":"note","text":"Day 1111 day, thunder. At north bed 416,107,-1093, not enclosed. Health 17.3 steady, hunger 17, unarmed, pack empty. Nobody in sight, no events. Holding; no named rout
 - 00:16 act: {"say":"Billy, Worf, Riker, Trini: I am at the north bed, 416,107,-1093. Unarmed, no food, hunger 17. Who can bring food or an armed escort?"}
 - 00:26 act: {"say":"William, Picard here, still at my bed. Holding with you until light. If a named route comes, I will walk it with armed people."}
+- 00:32 act: {"say":"Billy, Worf, William: Picard here at the north bed, 416,107,-1093. I have no food and no weapon. Hunger is 17. If you can hear me, please come, with an armed escort."}
+- 00:38 act: {"say":"William, Picard here, at the north bed. I hear you. I am unarmed and have no food. I will not walk without an armed escort, so I will hold here until Billy, Worf or Trini name a route. Hunger 
