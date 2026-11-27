@@ -67,3 +67,4 @@
 - 16:03 act: {"actions":[{"do":"note","text":"Morning. Mal and Data walk to the cow at -965,81,-2999 in daylight. I will follow them two blocks back, in their sight, with my wooden sword.
 - Waking 1555, day 1157: recalled summary, read play skill. Game status and wait still absent; worker errand refused again (zero tools, mcp__geldar__* unresolved). Could not look, wait or act. Holding, unarmed, not moving.
 - Waking 1552: recalled summary. mcp__geldar__status is not in my toolset ("No such tool"); wait and act are absent too. Could not look or act. Holding, unarmed, not moving. Next: retry game tools when they return; eat at hunger 6 or below."}],"say":"Picard: Mal and
+- Waking 1556, day 1157: recalled summary, read play skill. mcp__geldar__status still "No such tool"; game wait and act absent. Could not look, wait or act. Holding at white beds 431,107,-1093, unarmed, not moving. Next: retry game tools; eat at hunger 6 or below.
