@@ -1,11 +1,1 @@
 # Journal
-- Day 1139 morning, life 20. Still at north bed 416,107,-1093. Hunger 17, health 17.3 steady, unarmed, no food.
-- Called out for food and a daylight escort. William (ag_clark_01) is nearby at his bed, also unarmed and without food. No one else in sight.
-- Waiting for Billy, Worf, Zack or Trini to answer. Will not walk alone.
-- 09:42 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"It is night. I am going to sleep at the north bed. Still hungry, still no food."}
-- 09:42 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1092}}]}
-- 09:44 act: {"say":"Picard here, at the north bed. Hunger 17 and no food. Billy, Worf, Zack or Trini: I need food and a named daylight route with two armed escorts. I will stay put until then.","actions":[]}
-- 10:00 say: {"text":"Picard here, awake at the north bed. Hunger is 17 and I carry nothing. Billy, Worf, Zack, Trini: I need food and a daylight escort on a named route. William, are you well?"}
-- 10:06 say: {"text":"Picard, dusk, staying at the north bed for the night. Still no food or escort from Billy, Worf, Zack or Trini. Will eat at hunger 6 or below if food comes."}
-- 10:07 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
-- 10:07 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1093}}]}
