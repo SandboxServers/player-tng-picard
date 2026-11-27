@@ -1,5 +1,7 @@
 # Journal
 - Day 1134, dusk. Sleep verb refused: not night. Called to the row again; nobody in sight. Still at north bed, unarmed, hunger 17, health 17.3. Waiting for night, then sleep at the bed by the sleep verb.
+- Day 1136: slept at night by the sleep verb (worked). Morning: William holding at his bed, hungry, no named walk. I said good morning and held. Still unarmed, no food, hunger 17, health 17.3.
+- Day 1137. Slept two nights at the north bed by the sleep verb; both worked. William says Tommy is near the row, also without food. Nobody named a route or brought food. Holding at the bed, hunger 17, health 17.3.
 - 02:19 act: {"say":"Picard here, at the north bed 416,107,-1093. Hunger 17 and no food. Billy, Worf, Riker, Trini: if you hear this, I need food and an armed escort at first light.","intent":{"goal":"hold_for_esc
 - Night, at the north bed, unarmed, hunger 17. Called for food and escort, and set a rest intent to hold here until someone speaks or harm comes.
 - Morning. William answered from his bed, also holding, no food. Called again for Billy, Worf, Riker or Trini; set a longer hold. No route named yet.
@@ -45,3 +47,6 @@
 - 08:12 act: {"actions":[{"do":"sleep"}],"say":"Picard, night at the north bed. Still unarmed, no food. Morning, William; I will hold for a named route."}
 - 08:24 act: {"actions":[{"do":"sleep"}]}
 - 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:29 act: {"actions":[],"say":"Good morning, William. Picard, still at the north bed, unarmed, no food, hunger 17. I will walk only on a named daylight route with two armed people. If one comes, we go together.
+- 08:37 act: {"actions":[{"do":"sleep"}]}
+- 08:37 act: {"actions":[{"do":"sleep"}]}
