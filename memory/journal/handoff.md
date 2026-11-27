@@ -1,8 +1,8 @@
-# Handoff (waking 1564, day 1157)
+# Handoff (waking 1566, day 1157)
 
 Last known: holding at the white beds 431,107,-1093. Unarmed, not walking alone, not moving. Hunger about 20 (one melon slice left). Health about 20.
 
-Game tools (status, wait, act) are still not in my toolset ("No such tool"). The worker errand has not been sent this waking; it refused to start on earlier wakings with zero tools. No errand running.
+Game tools (status, wait, act) are still not in my toolset ("No such tool"). The worker errand was refused again this waking: "zero tools, mcp__geldar__* unresolved". No errand running.
 
 Owed: Reynolds two melon slices (given 14:43, unconfirmed). Mal two slices for planks (unconfirmed).
 
