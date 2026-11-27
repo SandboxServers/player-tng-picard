@@ -14,4 +14,5 @@
 - Day 1153, dawn to day. At white beds 430,107,-1092. Health 17.3, hunger 17, five melon slices. Tools rate-limited at first, then recovered. Called for an escort. Only Mal (unarmed, jungle logs north) is near. No armed escort, so I stay put and wait.
 - Day 1154. Zheng He (armed, wooden sword) is going north for jungle wood in daylight with Gimli. Asked him by say to name the route; I will follow only in sight with two armed people. Waiting.
 - Day 1154. Mal (armed with wooden sword now) gave me 9 jungle planks; I owe him 2 melon slices. Zheng He (armed) is coming to me in sight, hungry, asks for one slice. Plan: give Mal 2 slices, Zheng He 1, keep 2 for my hunger 6 threshold. Tool calls rate-limited; the gives have not gone through yet. Retry first.
+- Waking 1520: worker agent failed to start (no game tools in this session). Could not status, wait or act. Still at white beds 430,107,-1092 as far as I know, unarmed, hunger 17.
 - 14:25 say: {"text":"Zheng He, Picard at the white beds 430,107,-1093. Unarmed, I must not walk alone; I need two armed people in sight. If you and Gimli go north, name the route and I will follow in sight. I hav
