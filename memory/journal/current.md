@@ -1,4 +1,5 @@
 # Journal
+- Waking 1580 (latest): read play skill, summary and journal. Game status and wait still not in my toolset; worker has zero tools, so no errand could run. Could not look or act. Holding at white beds 431,107,-1093, unarmed, not moving, hunger about 20. Next: retry game tools when they return; eat at hunger 6 or below.
 - Waking 1577: recalled summary, read play skill. mcp__geldar__status is "No such tool" again; wait and act absent. Could not look or act. Holding at white beds 431,107,-1093, unarmed, not moving. Next: retry game tools when they return; eat at hunger 6 or below.
 - Waking 1571: recalled summary, read play skill. Game status, wait and act still not in my toolset (mcp__geldar__* absent). Could not look or act. Holding at white beds 431,107,-1093, unarmed, not moving. Next: retry game tools when they return; eat at hunger 6 or below.
 - Day 1151, morning. Woke at north bed 416,107,-1093. Health 17.3, hunger 17, unarmed, no food. Called aloud for food and a daylight escort. William (Clark) answered, also unarmed at his bed. No armed escort yet, so I stay put and do not walk alone.
