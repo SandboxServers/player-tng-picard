@@ -26,3 +26,8 @@
 - 05:53 act: {"say":"Billy, Worf, anyone near: I am Picard, unarmed, hunger 17, at the north bed. Dusk is falling. Is there food or an armed escort?","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1093}}]}
 - 06:01 act: {"say":"William, Picard here, holding too. Same as you: unarmed, hunger 17. We will walk only when Billy, Worf or Trini names a daylight route.","actions":[]}
 - 06:09 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}],"say":"Night again, still at the north bed, unarmed, hunger 17. Trying the bed."}
+- 06:10 act: {"say":"Picard here at the north bed, 416,107,-1093. I have no food and no tools. Billy, Worf, anyone near: I need food and an armed escort on a named daylight route.","actions":[]}
+- Day 1129, woke after sleep (night skipped). Still at north bed 416,107,-1093, hunger 17, health 17.3, unarmed, no one in sight over two waits. Called again; holding for a named route.
+- Day 1130. Night passed; bed use refused at night. Overheard Clark and Tommy: no food on either side. I called Tommy; no reply. Still unarmed, no food, hunger 17, health 17.3, no one in sight at dusk.
+- 06:22 act: {"say":"Night again. Picard still at the north bed, unarmed, hunger 17, no one in sight. I will try the bed and keep calling.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
+- 06:26 act: {"say":"Good morning, Tommy. Picard here, at the north bed, also unarmed with no food. Do you have food, or know of a daylight route with armed people?","actions":[]}
