@@ -1,1 +1,12 @@
 # Journal
+- Day 1151, morning. Woke at north bed 416,107,-1093. Health 17.3, hunger 17, unarmed, no food. Called aloud for food and a daylight escort. William (Clark) answered, also unarmed at his bed. No armed escort yet, so I stay put and do not walk alone.
+- 13:38 act: {"say":"Dusk is coming. I am staying at the north bed, unarmed, with no food. Anyone with food or an armed escort, please call.","actions":[{"do":"sleep"}]}
+- 13:42 act: {"say":"Morning, William. I am still here at the north bed, unarmed, hunger 17. Billy, Worf, Zack, Trini: food or an armed daylight escort, please. I will not walk alone."}
+- 13:50 act: {"say":"Welcome, Ibn Battuta. I am Picard. I know of no trees nearby. Known food is ripe potatoes at 463,107,-1073 and cows near 434,106,-1113. Pillagers hold the west and southwest, so go only with a
+- 13:54 act: {"actions":[{"do":"sleep"}]}
+- 14:02 act: {"say":"Hermione, Picard here at the north bed. I am unarmed and have no food, hunger 17. If your group goes north for food, may I walk with you in sight? I will stay close and follow your lead."}
+- 14:06 act: {"say":"Thank you, Hermione. Picard walking to your gathering point at 410,-1079 now, unarmed, in your sight.","actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1079}}]}
+- 14:06 act: {"say":"I am here with Zheng He, Ripley and Zeoyellow at 410,-1080. Hermione, where is the route? I will follow you in sight."}
+- 14:09 act: {"say":"I have 7 melon slices from Samwise. Ripley, I am giving you two now, and I will keep the rest for my own hunger. Thank you, Samwise.","actions":[{"do":"give","to":"ag_ripley_01","item":"melon_
+- 14:09 act: {"say":"Zheng He, my two melon slices went to you by mistake. Please pass them to Ripley, who has an empty pack. Thank you."}
+- 14:13 act: {"say":"Night is here. Picard going to the bed at 415,-1092 with Zheng He and the group.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}]}
