@@ -21,3 +21,5 @@
 - 05:15 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1093}}]}
 - 05:15 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1092}}]}
 - 05:15 act: {"actions":[],"say":"Picard, at the north bed, unarmed, hunger 17, no food. Both beds refused me. Billy, Worf, anyone: I need food and a named daylight route with two armed escorts."}
+- 05:19 act: {"say":"Picard here at the north bed, 416,107,-1093. Unarmed, pack empty, hunger 17. Billy, Worf, Trini: I need food, and I will walk only on a named daylight route with two armed people in sight."}
+- 05:35 act: {"say":"Good morning, William. Picard here at the north bed, still unarmed with no food. I will hold with you until Billy, Worf or Trini names a daylight route."}
