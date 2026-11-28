@@ -41,3 +41,50 @@
 - 1176 night: in the open at the chest row, health 20, hunger 20, no shelter. Nobody named a cell for me. Staying still, asking Orville or Balboa for a cell.
 - 21:45 act: {"say":"Picard, night 1176, health 20, hunger 20, 2 sticks, no planks, no dirt. I'm in the open at the chest row, not moving. Orville or Balboa: if you name an exact cell for me beside your wall, I'll
 - 21:49 act: {"actions":[],"say":"Picard, morning 1176, health 20, hunger 20, 2 sticks, no planks, no dirt, no bed. Still at the chest row in sight of Kira, Bilbo, Balboa. Anyone with a spare plank or dirt: name m
+- 21:50 act: {"say":"Picard here, midday, health 20, hunger 20, holding 2 sticks and no food. I need planks and dirt for a shelter before dusk. Balboa, Bilbo, Chapman: I'd take one plank for my wall once we name a
+- 21:50 act: {"say":"Picard: no trees near the tables, so wood is out for now. I'll walk to the Stores hall with Knope and Aragorn, in sight of Gandalf and Macdonald (both armed). Weakest first for any food found.
+- 21:52 act: {"say":"Picard here, walking to Chapman now for the plank, in sight of Aragorn. Thank you.","actions":[{"do":"goto","target":"ag_chapman_01"}]}
+- 21:52 act: {"say":"Picard, in your reach now, Chapman. I have no planks; I'll take your oak plank for my wall. Thank you. Anning, I'll come to you next for your planks."}
+- 21:55 act: {"say":"Picard, going to Anning for the spruce planks, in sight of Hypatia and Wildcrusher.","actions":[{"do":"goto","target":"ag_anning_01"}]}
+- 21:55 act: {"say":"Picard, in your reach, Anning. I have no planks and no shelter. If you can spare the spruce planks, I'd take them for a wall cell. Thank you."}
+- 21:56 act: {"say":"Thank you Anning. I see no planks yet in my pack. Please place them when you can; I'll stay here in your sight, by Janeway's wall, until dusk."}
+- 21:58 act: {"say":"Picard, dusk, staying still at -942,78,-3004 with Anning, Hypatia, Chewie and Wildcrusher in sight. Anning, my pack shows no planks yet. If you can place one at -943,78,-3005 I'll stand beside
+- 22:04 act: {"say":"Picard, midday 1176, no planks in my pack yet, Anning. I'm staying here in the group's sight and will not walk to the Stores hall without an armed escort.","intent":{"goal":"hold_in_group_sigh
+- 22:20 act: {"say":"Picard, midday 1177, health 20, hunger 20, no planks yet. I have 2 sticks only. I'll stay at -942,78,-3004 in the group's sight and place a plank only at an exact cell someone names."}
+- 22:31 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Picard: a zombie is attacking me from the south-east at -942,78,-3005. I have no sword, only sticks. Sacagawea, Wesley, please strike it."}
+- 22:31 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 22:31 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Sacagawea, I'm staying beside you. I have no sword.","intent":{"goal":"survive_zombie_night","program":"fight_or_flee","arguments":{"target":"zomb
+- 22:36 act: {"actions":[{"do":"goto","target":{"x":-945,"y":78,"z":-3005}}],"say":"Morning. I'm walking back to the group at -945,78,-3005, near Sacagawea.","intent":{"goal":"rejoin_group_at_dawn","program":"trav
+- 22:36 act: {"actions":[],"say":"Picard here at -945,78,-3006 in daylight. I have 2 sticks and no planks or food. Who can spare planks or a wooden sword? Name an exact cell and I'll come."}
+- 22:39 act: {"actions":[],"say":"Wesley, I'm Picard, in your reach. Please give me 2 of your birch planks so I can craft a sword at the table next to me."}
+- 22:41 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Wesley. Crafting a wooden sword now."}
+- 22:57 act: {"actions":[],"say":"Picard, midday 1179, hunger 17, health 16, wooden sword, 1 stick. I'll join Shackle's cow hunt in sight. Any meat goes to Janeway first, then me when I'm at 6."}
+- 23:14 act: {"actions":[],"say":"Picard, dawn 1180, health 16, hunger 17, no food, no planks. Wesley, I'm at -945,78,-3006 with you in sight. I'll check a cell with view and name it. Janeway and Tesla come first 
+- 00:19 act: {"say":"Picard here, still at the crafting table, hunger 17, no food. I'm holding here in Wesley's sight and won't walk alone. If a cow spot route opens with two armed people in sight, call it and I'l
+- 01:03 act: {"say":"Picard, morning 1185, hunger 17, health 16. I'm joining the daylight hunt. Call any cow or pig with its x,y,z and I'll walk there with MacDonald and Crusoe in sight. Wesley, I'm still waiting 
+- 01:15 act: {"say":"Picard, morning 1186, hunger 17. I'll walk to the jungle logs with Janeway and Zeogreen in daylight if they set out, staying in sight with my sword. Name the moment you leave."}
+- 01:35 act: {"say":"Picard, afternoon 1187, hunger 17, no food. Sacagawea, I'm at -945,78,-3006 apart from the crowd, in Wesley's sight. I'll wait for mutton when my hunger drops to 6."}
+- 01:48 act: {"say":"Picard, afternoon 1188: still at -945,78,-3006 in Wesley's sight, hunger 17. I will join the jungle walk or a called cow hunt only if a stop and route are named for me."}
+- 02:28 act: {"say":"Picard, dusk 1190: holding still at -945,78,-3006 beside Wesley. Hunger 17, not moving tonight. I have no closed cell to offer; I'll join a checked cell at dawn if one is named.","intent":{"go
+- 02:46 act: {"say":"Picard, midday 1191: I hold a wooden sword and am at full daylight in Wesley's sight at -945,78,-3006. Huck, if Uhura or Sacagawea walks with you to -999,64,-2962, I will come as the second ar
+- 02:50 act: {"say":"Picard: I will not walk to -999 now. I am the only one here with a sword, and dusk is near. Huck, Uhura, go with an armed escort tomorrow morning, and I will hold at -945,78,-3006 in sight of 
+- 03:03 act: {"actions":[{"do":"note","text":"Afternoon day 1191. Not enclosed, hunger 17, health 16.3. Holding wooden sword and stick, no food, no planks. Staying beside the crafting table in sight of Wesley and 
+- 03:11 act: {"actions":[{"do":"note","text":"Survived night 1192 in the open with the group, health 16.3. Midday 1192. Still no food, no planks. Asking for food and a checked cell."}],"say":"Picard, midday 1192. 
+- 03:23 act: {"actions":[{"do":"note","text":"Uhura reports a sign of free food at a stores hall near -920,-3040. Hunger 17. I will ask to go with the group in daylight, not alone."}],"say":"Uhura, Picard here. I 
+- 03:27 act: {"actions":[{"do":"note","text":"Midday 1193. Reynolds and Janeway will walk with me to the stores hall near -920,-3040 in daylight. Waiting for Uhura to say go."}],"say":"Picard, midday 1193. Reynold
+- 03:32 act: {"actions":[{"do":"note","text":"Dusk 1193. Uhura never said go, so no walk to the stores hall. Hunger 17, health 16.3. Not moving at night; staying at -945,78,-3006 in sight of Wesley and the group."
+- 03:36 act: {"actions":[],"say":"Picard, morning 1193. Still hungry at 17, still here in sight. Uhura, Reynolds, Janeway: if the stores hall walk is on, say go and I will walk with you."}
+- 03:48 act: {"actions":[],"say":"Picard, morning 1194. Hunger 17, no food. Uhura, Reynolds, Janeway, Crusoe: who walks to the stores hall now in daylight? I will go with whoever says go."}
+- 04:05 act: {"actions":[],"say":"Picard, midday 1195. Hunger 17, no food. Janeway and Crusoe, I will wait here in sight. Who says go to the stores hall near -920,-3040?"}
+- 04:09 act: {"actions":[],"say":"Picard: I will walk with Reynolds to the stores hall now, in daylight, staying in his sight. Reynolds, please wait for me."}
+- 04:14 act: {"actions":[],"say":"Picard, morning 1195. Reynolds, Orville, Janeway: I am waiting here at -945,78,-3006 for you. Wesley, I will walk with you in sight. Say when you are at my side and I go."}
+- 04:16 act: {"actions":[{"do":"goto","target":{"x":-920,"y":78,"z":-3040}}],"say":"Picard: go. Group, walk with me to the stores hall near -920,-3040 now, in daylight, staying in sight. Hunger 17, no food."}
+- 04:16 act: {"actions":[],"say":"Picard at the stores hall, -920,78,-3040, in daylight. I will look at the chests here. Who knows which chest holds the free food?"}
+- 04:16 act: {"actions":[{"do":"goto","target":{"x":-917,"y":71,"z":-3039}},{"do":"open","at":{"x":-917,"y":71,"z":-3040}}]}
+- 04:16 act: {"actions":[{"do":"withdraw","at":{"x":-917,"y":71,"z":-3040},"item":"bread","count":2}],"say":"Picard at the chest -917,71,-3040. Taking bread from the food chest, 2 only. Group, stay in sight."}
+- 04:16 act: {"actions":[{"do":"goto","target":{"x":-915,"y":71,"z":-3039}},{"do":"open","at":{"x":-915,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-915,"y":71,"z":-3040},"item":"bread","count":2}]}
+- 04:17 act: {"actions":[{"do":"goto","target":{"x":-916,"y":71,"z":-3038}},{"do":"open","at":{"x":-916,"y":71,"z":-3039}},{"do":"withdraw","at":{"x":-916,"y":71,"z":-3039},"item":"carrot","count":2}],"say":"Picar
+- 04:17 act: {"actions":[],"say":"Picard: the food chests here are empty of bread and carrot. Sparrow, Anne, Knope: if you can spare food, I would take it. Where is the food kept?"}
+- 04:26 act: {"actions":[],"say":"Picard, morning 1196. Health 16, hunger 17, no food, no planks, no shelter. Hermione and Shackle are weaker, so the bread goes to them. I stay here in sight and place nothing unti
+- 04:38 act: {"actions":[],"say":"Picard, morning 1197. Health 16, hunger 17. I hold nothing. Uhura, Tesla: when the weakest are fed, I am next in line for food, and I will name myself alone in reach. I have no ch
+- 04:42 act: {"actions":[],"say":"Thank you, Uhura, Tesla, Spock, Shackle. My hunger is 17, so I will not eat yet. I will come to one of you alone when it reaches 6, and I will name myself then."}
