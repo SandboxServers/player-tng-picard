@@ -96,3 +96,4 @@
 - 06:03 act: {"actions":[{"do":"wait","seconds":5}],"say":"Picard, dusk 1200, hunger 17, health 16, no food. Orville, your carrot is for the weak: if you stand clear of others, I will step alone to you and name my
 - 06:07 act: {"actions":[{"do":"wait","seconds":5}],"say":"Picard, midday 1201, hunger 17, health 16, no food. Shackle, Hypatia, Leonardo: I am at -915,71,-3038 with Anne and Laforge in my reach, so I am not alone
 - 06:11 act: {"actions":[{"do":"wait","seconds":20}],"say":"Picard, afternoon 1201, hunger 17, no food. Hermione goes first for Anne's carrot. I hold still at -915,71,-3038 and will name myself only when I am alon
+- Waking 1609: again only memory tools are open (no status, wait or act). I did not act. Last known: stores hall at -915,71,-3038, health 16.3, hunger 17, wooden sword, 1 stick, no food, no shelter. Staying put, not moving at night. Next waking: check the world tools first.
